@@ -1,0 +1,58 @@
+#sub {A small plant grows here, with long, pointed leaves and flowers at its top} {%0 [Athelas, 35/900]}
+#sub {A dark green, foul-smelling shrub grows to about a foot in height} {%0 [Baneberries, loads: 5/4000]}
+#sub {A large shrub covered with dark violet berries grow here} {%0 [Belladonna, loads: 5/350]}
+#sub {A large thorny branched shrub is growing here} {%0 [Blackberries, loads: 4/12]}
+#sub {A shrub with maple-like leaves is growing here} {%0 [Blackcurrant, loads: 7/500]}
+#sub {A dense carpet of blue flowers dip their heads in the breeze} {%0 [Bluebells, 10/1, nosell]}
+#sub {A low shrub with bright green, oblong leaves is growing here} {%0 [Blueberries, loads: 10/10]}
+#sub {Clusters of slender stems and tall leaves thrive in the mud and shallows} {%0 [Bulrushes, 35/1, nosell]}
+#sub {Yellow flowers, with grey-green foliage, grow in clusters here} {%0 [Buttercups, 10/1, nosell]}
+#sub {A small flower grows here, with a purple bloom and wide leaves} {%0 [Cardamom, 10/900]}
+#sub {A large shrub grows here, its branches loosely spreading} {%0 [Cherries, loads: 10/10]}
+#sub {A bag of cinnamon lies here} {%0 [Cinnamon, 5/1275]}
+#sub {A small patch of clover grows here} {%0 [Clover, 2/60]}
+#sub {Some small cloves are lying here} {%0 [Cloves, 2/500]}
+#sub {A tall, stately, dome-topped tree grows here} {%0 [Conker, loads: 30/4, nosell]}
+#sub {A sturdy plant grows to a height of almost a yard} {%0 [Comfrey, loads: 200/3600]}
+#sub {A man's-waist high evergreen shrub grows here, with bright green branches} {%0 [Coriander, loads: 2/1000]}
+#sub {A band of small flowers is lying here} {%0 [Daisy-chain, 10/20]}
+#sub {Delicate golden blooms adorn the ground like a cascade of stars} {%0 [Elanor, 10/1, nosell]}
+#sub {A cluster of dark green, feathery fronds flourishes in the shade} {%0 [Ferns, 15/1, nosell]}
+#sub {A tall plant grows here, with grey-green leaves and grey flowers} {%0 [Figwort (Turtlehead), 250/1750]}
+#sub {A slender plant, with white flowers at the top, grows here} {%0 [Foxglove, 150/1800]}
+#sub {A bushy plant grows here, with tall clusters of yellow flowers} {%0 [Foxtail, 230/4000]}
+#sub {A slender plant grows here, a single cluster of flowers atop its narrow stem} {%0 [Ginseng, 75/6000]}
+#sub {A small and tough weed grows here} {%0 [Goosegrass, 75/150]}
+#sub {__unknown_gooseberry__} {%0 [Gooseberry preserve, 0/0]}
+#sub {Some plump of juicy grapes are growing here} {%0 [Grapes, 50/6]}
+#sub {A small, sickly green mushroom grows here} {%0 [Green mushroom, 20/2000]}
+#sub {A tall plant with a perfectly smooth stem gracefully marks the landscape} {%0 [Hemlock, 20/1000]}
+#sub {A bright green holly bush is growing here} {%0 [Hollyberries, loads: 4/10]}
+#sub {A large shrub grows here, filling the air with a heavy scent} {%0 [Honeysuckle, loads: 11/3500]}
+#sub {A holly bush with dark green leaves is growing here} {%0 [Inkberries, loads: 4/10]}
+#sub {A beautiful, ivory coloured rose with a tint of crimson is blossoming here} {%0 [Ivory rose, 2/15]}
+#sub {A short evergreen plant, with slightly bluish needles, grows here} {%0 [Juniper, loads: 4/10]}
+#sub {A grouping of soft pink flowers radiates a sweet fragrance} {%0 [Lissuin, 10/1, nosell]}
+#sub {A thin, hairy plant, with small, oval leaves, grows here} {%0 [Marjoram, 120/225]}
+#sub {Some dried mauve petals can be found here} {%0 [Mauve petals, 1/987]}
+#sub {A slender plant grows here, with clusters of tiny pink flowers} {%0 [Milkweed, 180/2000]}
+#sub {A clean fragrance drifts up from a thick clump of leaves} {%0 [Mint, 30/50]}
+#sub {Several blooms of snow-white and palest green cover the ground} {%0 [Niphredil, 10/1, nosell]}
+#sub {An orchid of light violet petals blossoms nearby} {%0 [Orchid, 2/60]}
+#sub {A small pile of pungent red powder lies here} {%0 [Paprika (pepper), 7/1000]}
+#sub {A patch of moss grows here on a wet, flat stone} {%0 [Phosporescent moss, 15/500, nosell]}
+#sub {Some orange-red blossoms grow amid grey-green foliage} {%0 [Poppy (Moon), 10/4000]}
+#sub {A bright red mushroom is growing here} {%0 [Red (agaric) mushroom, 20/250]}
+#sub {A detached red rose is lying here} {%0 [Red rose, 2/50, nosell]}
+#sub {A woody evergreen plant grows here, with many stems reaching upward} {%0 [Rosemary, 365/225]}
+#sub {A waist-high evergreen shrub grows here, with thick, reaching branches} {%0 [Sage (Salvei), loads: 2/100]}
+#sub {A cluster of white star-shaped forget-me-nots fluorish here in reminiscence} {%0 [Simbelmyne, 50/100, nosell]}
+#sub {Some delicious wild strawberries grow on the ground} {%0 [Strawberries, 20/10]}
+#sub {A small evergreen plant grows here, its woody stems reaching two feet} {%0 [Tarragon (Estragon), 20/450]}
+#sub {Prickly, white-stemned plants, with blue flower heads grow in abundance} {%0 [Thistles, 10/1, nosell]}
+#sub {A low, many-branched shrub covers the ground here} {%0 [Thyme, 125/400]}
+#sub {A small tincture of oil has been placed on the ground} {%0 [Tincture of oil, 185/1000]}
+#sub {A flowering plant grows here, its fern-like foliage dancing in the breeze} {%0 [Valerian, 230/1200]}
+#sub {A long brown bean, emitting a pleasant scent, is here} {%0 [Vanilla, 2/2000]}
+#sub {A blooming water-lily floats on the surface of the water} {%0 [Water-lily, 10/150]}
+#sub {A detached white rose is lying here} {%0 [White rose, 2/50, nosell]}

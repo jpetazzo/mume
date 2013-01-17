@@ -1,0 +1,1191 @@
+The Magic Users guildmaster is the Black Sorcerer. He either walks btw orc
+cave and DT (Dark Tower) or s.w./s of AT (Abandoned Tower).
+
+The cleric master a Dark Robed Man use to walk on Path to Angmar. On map it
+is east of R and all zones north.
+
+Thief master Grey Cloaked Man does not teach pierce, attack, missile or
+envenom. He patrols the Hills two zones east or R or the path at Lit Cave
+three zones south of R (Rocky Path south of open thornbushes, follow path
+all south, east, all north). He is the only BN master who is aggressive to
+orc players.
+
+The ranger master a Brown Robed Man use to patrol Eregion north zone of
+MM on map or the zones n.w/w/ww of MM. You find him if you have good track.
+He hides most of the time so you need sense life to follow him. He mends eq.
+But you cant give him a receipt back if you dont have sense life. There are
+two differnt Brown Robed Man so if you have an old receipt from the wrong
+one (only one man load at time) then he does not accept it. The recipts look
+a little different one of the masters write the room name on it the other
+write Shards of Numenor.
+
+
+
+
+[0m#LOG: LOGGING OUTPUT TO 'bn.txt' FILESIZE: 0[0m
+[0;35ml board[0m
+[1mNumenoreans' board - 12 messages (out of 17)[0m
+2500#: Re: A BN newbie guide II (Spined)
+- 2502#: Extra Newbie Info (not for diehards) (*Lost*)
+2781#: Gondolin's BN newbie tips (*Lost*)
+3405#: Let me out of here! (Prist)
+3451#: Time to say goodbye (Prist)
+3460#: The blood shall flow once again... (Prist)
+3466#: How to stay alive as a bn (Prist)
+3633#: Memories... (Prist)
+4181#: An ancient diary (Vardamir)
+4198#: The insolence of the false gods! (*Lost*)
+4203#: Gear here now, but gone tomorrow! WARNING! (Kimono)
+4204#: Stables of the East (Kimono)
+
+[0;35mread 2500[0m
+Message [32m2500[0m : Re: A BN newbie guide II ([32mSpined[0m)
+Written on Sat Dec  6 18:21:31 1997
+
+I will uppdate the Guide when mume7 is implemented. There are some errors
+and changes (posted in news by the Gods).
+
+- dont try to enter Orc Cave, alot of orc mobs are agg to BN now, i almost
+  died when i went down from Slag Pit and officer hit me, fleeing btw
+  slave master and him
+- Eoghha teach envenom
+- Tortyre master in Redhorn Cave and the beast down from him are BN agg
+ ...orc slave agg to
+- we can learn silence
+
+-Spined
+
+
+You are thirsty.
+
+[0;35mread 2501[0m
+Bad value.
+
+[0;35mread 2502[0m
+Message [32m2502[0m : Extra Newbie Info (not for diehards) ([32m*Lost*[0m)
+Written on Mon Dec  8 19:40:35 1997
+
+I have given auxiliary info to newbie bn's that some prefer to learn
+on their own.  So if you're a diehard bn who wants to suffer even more,
+don't read this.
+
+   MAPPING
+
+Some people insist that they need play a bn before they have another
+character high level.  This is problematic primarily because the hardest
+part of playing a bn is learning how to get somewhere "safe" after
+they pray to a random location.  There is no recipe for getting "safe",
+as mentioned in other posts, sometimes even legend bn's have trouble
+getting "safe" after a pray.  It *IS* possible to learn the geography
+as a bn.  It is very difficult, since one can only make small maps
+until they die, and then hope after enough deaths they can start fitting
+the pieces together (I did this).  Learning invisibility helps alot
+when trying to piece maps together, primarily because of wargs.
+
+A tid-bit for those who haven't had much experience at mume, one
+MUST understand the "map" command.  Try "help map".  If you have any
+trouble with it, playing bn is not for you.  Most grids on the map
+consist of areas approximately 10x10 rooms (with small variations).
+
+   GUILDMASTERS
+
+There are four guildmasters, cleric/thief/sorcerer/ranger.  The
+difficulty in finding each is in the order I mentioned them, cleric
+being easiest and ranger being hardest.  The cleric guildmaster
+always loads on the "Path to Angmar" (not to be confused with
+"Angmarian Trail").  He never wanders far, so is easy to find.  The
+"Path to Angmar" is north of loudwater plains if you follow a trail
+northwest (not buinen heath).  The thief guildmaster doesn't wander
+far from where he loads, but can load in one of two places: a forest
+east of wild forest (2 zones east of R on the map) (be careful of
+wolves and bears), or on the trail winding upwards east of abr
+(abr = ancient broken road).  Sorcerer guildmaster will wander far
+and wide, but generally loads in one of two places: either near
+wolfgate by NOC (usually in the mountains just west and south of
+wolfgate) (1 zone south and 1 zone west of the O on the map), or
+south of ABR in green hills.  The ranger guildmaster used to be
+the hardest to find because he sneaks and hides, so lowbie bn's
+wont even be able to see him unless they are in the same room.
+I think the recent changes to sneak has made it so that he reveals
+himself, but it's still a task to find him.  Like the sorcerer he
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (66%) *** [0;35m[0m
+will also wander far and wide, but since he regens either near khuzur
+or near woodhall (sw of khuzur), it's not too hard to find him if
+you xp/map in eregion.
+
+If you see me logged in, and I'm not too busy, you can often get
+me to locate the exact zone the sorcerer or ranger is in at the time.
+Dont bother me for cleric or thief, I figure that with the above
+information, you should learn to find them on your own.
+
+There is no warrior guildmaster, and you cannot learn pierce from
+the thief guildmaster.  So if you're a warrior bn, you may wish to
+quit now.  People still seem to like playing thief bn's, but they
+don't generally go very far.  BN's are primarily mages and some
+clerics (you can't learn heal either, and cure serious only to about
+50 percent).  Of course, if you want to break the mold... good luck.
+
+   XPING
+
+It's relatively easy to xp a bn to level 4.  Recover a bow and
+some arrows (along with other basics), and you'll find that with a
+bow, most small animals will fall with just a few shots.  If you
+try to take on larger animals you may find all your arrows will
+break.  Getting 5th level takes a little more patience, but if you
+are playing your first bn, 4th is good enough to get invisability
+which will help you learn your way around immensely.
+
+[0;35m[0m
+[0;35ml board[0m
+[1mNumenoreans' board - 10 messages (out of 17)[0m
+2781#: Gondolin's BN newbie tips (*Lost*)
+3405#: Let me out of here! (Prist)
+3451#: Time to say goodbye (Prist)
+3460#: The blood shall flow once again... (Prist)
+3466#: How to stay alive as a bn (Prist)
+3633#: Memories... (Prist)
+4181#: An ancient diary (Vardamir)
+4198#: The insolence of the false gods! (*Lost*)
+4203#: Gear here now, but gone tomorrow! WARNING! (Kimono)
+4204#: Stables of the East (Kimono)
+
+[0;35ml all board[0m
+[1mNumenoreans' board - 17 messages (out of 17)[0m
+67#: Black Numenoreans (Manwë)
+371#: Guide to Surviving (*Lost*)
+475#: Let's Stop Griping and Face the Harsh Reality (*Lost*)
+2385#: A BN newbie guide I (Spined)
+2386#: A BN newbie guide II (Spined)
+- 2500#: Re: A BN newbie guide II (Spined)
+- 2502#: Extra Newbie Info (not for diehards) (*Lost*)
+2781#: Gondolin's BN newbie tips (*Lost*)
+3405#: Let me out of here! (Prist)
+3451#: Time to say goodbye (Prist)
+3460#: The blood shall flow once again... (Prist)
+3466#: How to stay alive as a bn (Prist)
+3633#: Memories... (Prist)
+4181#: An ancient diary (Vardamir)
+4198#: The insolence of the false gods! (*Lost*)
+4203#: Gear here now, but gone tomorrow! WARNING! (Kimono)
+4204#: Stables of the East (Kimono)
+
+[0;35ml 2385[0m
+You don't see a 2385.
+
+[0;35mread 2385[0m
+Message [32m2385[0m : A BN newbie guide I ([32mSpined[0m)
+Written on Sun Jun 22 01:11:20 1997
+
+SUMMARY
+A- START AND RENT
+B- SUPPORTING OTHER RACES
+C- NEWBIE AREAS
+D- EQUIPMENT
+E- PRACTICE AND MEND
+
+- SUMMARY ----------
+Learn darkie life as an ORC scout or warrior. Level your orc to 10-12 and
+then you have a good MAPPER. As BN the best equipment sorcers are CONTAINERS
+like bushes and chests. Don't play a BN who don't have wisdom enough to 
+practice BOB. First spells and skills to learn are in order of priority
+invisibility, ride, swim, climb, create food and create light. Later you 
+decay what you don't need.
+
+A- START AND RENT ----------
+Just take what you need from the room east of this board. You will die alot
+and if you grab more than you need soon all equipment will be spread over
+Arda in your corpses.
+
+Nothing loads in this room. All equipment and food that might bee here are
+brought from next room by other players so it can load again in The Crypt.
+Food and sacks load visible. You can reveal shortsword, shield, blanket,
+dagger, knife, torch, cup, bow, quiver and arrows. It loads in 15 minutes
+periods. Newbie kit from Gods (just one) are some silver, food, bow, quiver
+and arrows.
+
+When you PRAY just type 'pray'. If you type 'pray east' you are speaking
+to the Gods and they hear Yourname prays east. Before you pray hold a torch
+no matter time. You might pray into a dark room. If any higher level player
+is here ask her/him to invis you. If you pray to a place where the only exits
+are swim you use pray to speak to the Gods who will help you out.
+
+RENT is free. You only need money to mend. You can only camp rent in a room
+which is not rocky, road, water, indoor or city. When you rent remove torch
+and type 'camp rent'.
+
+B- SUPPORTING OTHER RACES ----------
+If we support other races they support us. Narrate (troll does not hear orc
+player who is not grouped), group orc and trolls, enchant, summon wargs, bob,
+strength, cure critic and darkness are some examples.
+
+We are the only race who dont't a troll player as *a Troll* and orc as
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (37%) *** [0;35m[0m
+*an Orc*. When we group orc and trolls they see each other normally and
+they can be heard to all darkie players when they narrate. 
+
+If a player tells you to narrate a message just do it, do not question or
+ask why. Then tell the player 'done' so he/she knows his/her message to you
+was not lost in some spam. 
+
+C- NEWBIE AREAS ----------
+You will find them if you some mapping. Map wherever you pray but first learn
+darkie life as an orc player. Make maps/memorize dont depend on other players
+to lead you to tp or kills. When your orc warrior/scout is about level 11 you
+have a good mapper. 
+
+Remember game save of your carachter is only a few days as level 1-5. From
+level 6 game save is about 5 times your level rl (real life) days. If you
+run for tp after you got stats, die alot, lose some levels, then you can not
+wait to long to log in next time.
+
+We are not welcome in ORC CAVE. Entrance to Mines and rooms south of it is
+not orc cave. Three elite guards blocks your way in the room north of
+Entrance to Mines. An orc assassin sometimes sneak and kill you in one 
+backstab in this area.
+
+REDHORN CAVE welcomes us except the rent dude and some creatures who are
+aggressive to all players.
+
+E- EQUIPMENT ----------
+The main sorces are containers, whitie players, mobs, tall orc players and
+some rooms in Warrens where players use to hide eq.
+
+Containers are bush, corpse, table, rocks, stone, fireplace, alcove and
+chest. When you pass one examine it, not just the first time you pass, 
+someone else might have lootet it already. Some eq loads on ground and
+are picked up by mobs. So if examine corpse if its first kill.
+
+Eq that load in a container is UNISIZE. It will fit the first player who
+use it e.g. you or a troll player you might give boots to. 
+
+Mobs whos eq we can use, not all times, are hunter, elven hunter, Eoghha
+and brigand.
+
+
+E- PRACTICE AND MEND ----------
+The masters are wandering around. There are no warrior master which is good.
+We are supposed to have penalties and this one gives us more pracs to spend
+on spells. 
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (73%) *** [0;35m[0m
+
+The Magic Users guildmaster is the Black Sorcerer. He either walks btw orc
+cave and DT (Dark Tower) or s.w./s of AT (Abandoned Tower).
+
+The cleric master a Dark Robed Man use to walk on Path to Angmar. On map it
+is east of R and all zones north.
+
+Thief master Grey Cloaked Man does not teach pierce, attack, missile or
+envenom. He patrols the Hills two zones east or R or the path at Lit Cave
+three zones south of R (Rocky Path south of open thornbushes, follow path
+all south, east, all north). He is the only BN master who is aggressive to
+orc players.
+
+The ranger master a Brown Robed Man use to patrol Eregion north zone of
+MM on map or the zones n.w/w/ww of MM. You find him if you have good track.
+He hides most of the time so you need sense life to follow him. He mends eq.
+But you cant give him a receipt back if you dont have sense life. There are
+two differnt Brown Robed Man so if you have an old receipt from the wrong
+one (only one man load at time) then he does not accept it. The recipts look
+a little different one of the masters write the room name on it the other
+write Shards of Numenor.
+
+All masters have KEYWORD man and they all have a ring. Sorcerer and cleric
+master sometimes walk in and out of rooms where trollmobs are, invis does not
+help. Thief master passes alot of aggressive mobs when he is east of 
+Rivendell. Ranger master uses a longspear and a raccoon fur hat, not a brown
+robe. He also has keyword brown.
+
+----------
+
+[0;35mread 2386[0m
+Message [32m2386[0m : A BN newbie guide II ([32mSpined[0m)
+Written on Sun Jun 22 02:09:11 1997
+
+F- CLASSES
+G- USE OF SPELLS
+H- SPELLS AND LIMITS
+I- HISTORY
+
+F- CLASSES ----------
+Dont play a BN who dont have wisdom enough to practice BOB, wis 13
+newbiestat as MU, wis 12 newbiestat as thief or warrior. A MU can
+practice bob at level 12, a warrior at level 15 and a thief at level
+20. 
+
+Dont play a cleric who cant fireball, int 19 as newbie if you dont
+have extremly good stats. If you as cleric want two offensive spells
+and store you will not afford dodge, track and sneak.
+
+A magicuser need wis 16 newbie for sanct. I dont have it. You can
+live without it but its very nice to have not only when pkilling. 
+Some supermobs need a sancted buffer. 
+
+G- USE OF SPELLS ----------
+First spells to learn are invisibility, create food, create light and
+armour. Later you decay what you dont need. 
+
+When you learned about backfire and DEPRESSION you might think its a
+good idea to learn 5-15 mana spells to at least 31% and 20-100 mana spells
+to at least 51%. You get depressed when you die and when you backfire. Your
+maxmana is lowered and your wilpower. Type 'help backfire'.
+
+TELEPORT only works in evil zone and in the zones where Saurons darkness
+prevail. Type 'map darkness' and you see darkness and evil zones, '-' on map.
+
+SUMMON is nice to have to 71% and summon a horse or a fellow BN who just
+have prayed. Its alot of fun to summon and kill/charm warhorses.
+
+DARKNESS can really save other player, tport to a troll out in nowhere just
+before day, cast darkness at a trap if orcs/trolls are around. This spell is
+very hard to afford to prac though.
+
+You can only learn CURE SERIOUS to about 55%. You will backfire alot.
+
+When you TELEPORT you make the one who tracks you lose the track. 
+
+PORTAL is extremly handy if you support a group.
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (46%) *** [0;35m[0m
+
+If you dont like when whities use CALL LIGHTNING then learn it yourself.
+They will start to spam 'better weather'.
+
+H- SPELLS AND LIMITS ----------
+This changes all the time.
+
+Cleric master do NOT teach:
+heal, harm, hold, break door, fear, black breath, word of recall, cure light,
+detect evil, bless, protection from evil, curse, divination, dispel evil, 
+transfer, raise dead.
+
+MU master do NOT teach:
+colour spray, silence, find the path, control weather (orc can practice
+control weather and we can practice call lightning).
+
+Max % on some spells:
+bob 91, sanct 91, blid 97, summon 77, cure serious 56 (my cleric).
+enchant 80, charm 80, id/store/offensive damage spells 102.
+
+H- HISTORY ----------
+We had permanent nightvision, 200+ mp and we could buy food at Bree grocer.
+Despite this life sucked real hard as no legend. We was hunted down like
+dogs with old locate life, find the path and teleport with no jetlag. Later
+we could do about the same except for ftp. Many newbies got stuck s.w. of
+Bree when they prayd to Path around a hill. Butcher corpse was not 
+implemeted. Return after crash was not Hidden Island but your last save. Alot
+of levels was lost because of unlucky saves.
+
+The orc cave that time at Abandonded Tower was not a good xp area. BNs had
+to follow an orc and drop link to get inside, not considered as abuse. The
+Golden days to xp was when orc cave northeast of Rivendell was opened. You 
+had to learn that cave trolls and demon wolfs are citizens there and where
+the orc assassin wanders. Blasted Furnace accepted receipts from BNs and
+troll players, orc mended and gave us receipt. But life should not be to 
+easy so now we are not welcome there any more.
+
+Hardened rangers was created to whack those of us who picked on low and
+midlevels on Road to Fornost down to Tharbad.
+
+The very first orc cave, before we was created, was at Nen-in-sul. To hear
+a narrate 'elf at old orc cave' is rather confusing, Nen-in-sul cave/AT cave/
+orc cave east of Rivendell (built before Rehorn Cave)/Redhorn Cave (can be
+considered as a moved AT cave), which one is it?
+
+Good luck!
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (99%) *** [0;35m[0m
+
+-Spined
+
+[0;35ml board[0m
+[1mNumenoreans' board - 10 messages (out of 17)[0m
+2781#: Gondolin's BN newbie tips (*Lost*)
+3405#: Let me out of here! (Prist)
+3451#: Time to say goodbye (Prist)
+3460#: The blood shall flow once again... (Prist)
+3466#: How to stay alive as a bn (Prist)
+3633#: Memories... (Prist)
+4181#: An ancient diary (Vardamir)
+4198#: The insolence of the false gods! (*Lost*)
+4203#: Gear here now, but gone tomorrow! WARNING! (Kimono)
+4204#: Stables of the East (Kimono)
+
+[0;35ml all board[0m
+[1mNumenoreans' board - 17 messages (out of 17)[0m
+67#: Black Numenoreans (Manwë)
+371#: Guide to Surviving (*Lost*)
+475#: Let's Stop Griping and Face the Harsh Reality (*Lost*)
+2385#: A BN newbie guide I (Spined)
+2386#: A BN newbie guide II (Spined)
+- 2500#: Re: A BN newbie guide II (Spined)
+- 2502#: Extra Newbie Info (not for diehards) (*Lost*)
+2781#: Gondolin's BN newbie tips (*Lost*)
+3405#: Let me out of here! (Prist)
+3451#: Time to say goodbye (Prist)
+3460#: The blood shall flow once again... (Prist)
+3466#: How to stay alive as a bn (Prist)
+3633#: Memories... (Prist)
+4181#: An ancient diary (Vardamir)
+4198#: The insolence of the false gods! (*Lost*)
+4203#: Gear here now, but gone tomorrow! WARNING! (Kimono)
+4204#: Stables of the East (Kimono)
+
+[0;35mread 2500[0m
+Message [32m2500[0m : Re: A BN newbie guide II ([32mSpined[0m)
+Written on Sat Dec  6 18:21:31 1997
+
+I will uppdate the Guide when mume7 is implemented. There are some errors
+and changes (posted in news by the Gods).
+
+- dont try to enter Orc Cave, alot of orc mobs are agg to BN now, i almost
+  died when i went down from Slag Pit and officer hit me, fleeing btw
+  slave master and him
+- Eoghha teach envenom
+- Tortyre master in Redhorn Cave and the beast down from him are BN agg
+ ...orc slave agg to
+- we can learn silence
+
+-Spined
+
+[0;35mread 2502[0m
+Message [32m2502[0m : Extra Newbie Info (not for diehards) ([32m*Lost*[0m)
+Written on Mon Dec  8 19:40:35 1997
+
+I have given auxiliary info to newbie bn's that some prefer to learn
+on their own.  So if you're a diehard bn who wants to suffer even more,
+don't read this.
+
+   MAPPING
+
+Some people insist that they need play a bn before they have another
+character high level.  This is problematic primarily because the hardest
+part of playing a bn is learning how to get somewhere "safe" after
+they pray to a random location.  There is no recipe for getting "safe",
+as mentioned in other posts, sometimes even legend bn's have trouble
+getting "safe" after a pray.  It *IS* possible to learn the geography
+as a bn.  It is very difficult, since one can only make small maps
+until they die, and then hope after enough deaths they can start fitting
+the pieces together (I did this).  Learning invisibility helps alot
+when trying to piece maps together, primarily because of wargs.
+
+A tid-bit for those who haven't had much experience at mume, one
+MUST understand the "map" command.  Try "help map".  If you have any
+trouble with it, playing bn is not for you.  Most grids on the map
+consist of areas approximately 10x10 rooms (with small variations).
+
+   GUILDMASTERS
+
+There are four guildmasters, cleric/thief/sorcerer/ranger.  The
+difficulty in finding each is in the order I mentioned them, cleric
+being easiest and ranger being hardest.  The cleric guildmaster
+always loads on the "Path to Angmar" (not to be confused with
+"Angmarian Trail").  He never wanders far, so is easy to find.  The
+"Path to Angmar" is north of loudwater plains if you follow a trail
+northwest (not buinen heath).  The thief guildmaster doesn't wander
+far from where he loads, but can load in one of two places: a forest
+east of wild forest (2 zones east of R on the map) (be careful of
+wolves and bears), or on the trail winding upwards east of abr
+(abr = ancient broken road).  Sorcerer guildmaster will wander far
+and wide, but generally loads in one of two places: either near
+wolfgate by NOC (usually in the mountains just west and south of
+wolfgate) (1 zone south and 1 zone west of the O on the map), or
+south of ABR in green hills.  The ranger guildmaster used to be
+the hardest to find because he sneaks and hides, so lowbie bn's
+wont even be able to see him unless they are in the same room.
+I think the recent changes to sneak has made it so that he reveals
+himself, but it's still a task to find him.  Like the sorcerer he
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (66%) *** 
+You are thirsty.
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (66%) *** [0;35m[0m
+will also wander far and wide, but since he regens either near khuzur
+or near woodhall (sw of khuzur), it's not too hard to find him if
+you xp/map in eregion.
+
+If you see me logged in, and I'm not too busy, you can often get
+me to locate the exact zone the sorcerer or ranger is in at the time.
+Dont bother me for cleric or thief, I figure that with the above
+information, you should learn to find them on your own.
+
+There is no warrior guildmaster, and you cannot learn pierce from
+the thief guildmaster.  So if you're a warrior bn, you may wish to
+quit now.  People still seem to like playing thief bn's, but they
+don't generally go very far.  BN's are primarily mages and some
+clerics (you can't learn heal either, and cure serious only to about
+50 percent).  Of course, if you want to break the mold... good luck.
+
+   XPING
+
+It's relatively easy to xp a bn to level 4.  Recover a bow and
+some arrows (along with other basics), and you'll find that with a
+bow, most small animals will fall with just a few shots.  If you
+try to take on larger animals you may find all your arrows will
+break.  Getting 5th level takes a little more patience, but if you
+are playing your first bn, 4th is good enough to get invisability
+which will help you learn your way around immensely.
+
+[0;35ml all board[0m
+[1mNumenoreans' board - 17 messages (out of 17)[0m
+67#: Black Numenoreans (Manwë)
+371#: Guide to Surviving (*Lost*)
+475#: Let's Stop Griping and Face the Harsh Reality (*Lost*)
+2385#: A BN newbie guide I (Spined)
+2386#: A BN newbie guide II (Spined)
+- 2500#: Re: A BN newbie guide II (Spined)
+- 2502#: Extra Newbie Info (not for diehards) (*Lost*)
+2781#: Gondolin's BN newbie tips (*Lost*)
+3405#: Let me out of here! (Prist)
+3451#: Time to say goodbye (Prist)
+3460#: The blood shall flow once again... (Prist)
+3466#: How to stay alive as a bn (Prist)
+3633#: Memories... (Prist)
+4181#: An ancient diary (Vardamir)
+4198#: The insolence of the false gods! (*Lost*)
+4203#: Gear here now, but gone tomorrow! WARNING! (Kimono)
+4204#: Stables of the East (Kimono)
+
+[0;35mrn[0m
+read next
+Message [32m2781[0m : Gondolin's BN newbie tips ([32m*Lost*[0m)
+Written on Tue Jan 12 05:55:04 1999
+
+With MUME VII not coming until some indefinite time in the future, I've
+decided to write up some information in addition to Spined's material to help
+players start out playing Black Numenoreans. Most of this is just recommend-
+ations, and not The Way to Level BNS, but hopefully it will help ease some of
+the frustration experienced by players just starting out with the bn race. I've
+avoided giving away secret eq loading places, actual directions, secret exits,
+and the like. Most of this is advice I give to newbie bns all the time anyways.
+In any event, I think most of it should still apply when MUME 7 does come.
+
+
+Gondolin's BN newbie tips
+
+Spamming:
+
+The most important thing to learn for leveling newbie bns is spam directions.
+For some places, just making a map is fine, but there are certain places that
+you will need to run very fast through, because of the presence of aggressive,
+tracking mobs. You should memorise the directions for these routes. Here are
+the main ones, in order of importance, with some of the mobs that you need to
+look out for:
+
+1) down Ancient Broken Road (abr) to Khuzur - ferocious wargs, assassin,
+   boars (+ trolls if you type the wrong directions)
+2) Khuzur to beaver pond area in Eregion - huge wargs, ravens, oxen
+3) ford area to Dark Tower (dt) - elven hunters, a few wargs and rabid wolves
+4) anywhere on Old East Road (oer) to to ford area - lots of pukes, a few
+   wargs and rabid wolves
+5) ford area to new orc caves (noc) and dt to noc - elven hunters, wargs, hill
+   giants
+
+You should also learn the entire forest area east of rivendell where grey-
+cloaked man sometimes loads, so that you can find him and practise before
+getting hit by one of the mobs (wargs and black bears) there.
+
+You may want to have sneak turned on when you're walking around, even if you
+haven't practised it. Mobs and pukes can still miss you sometimes if you're
+fast.
+
+Statting: These are the steps I follow when statting newbie bns.
+
+Step 1 - Practising and travel points
+- Bring one torch and maybe a loaf of bread when you pray.
+- Look for grey-cloaked man (gcm). When you find him, use all your pracs on
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (45%) *** [0;35m[0m
+  dodge, no matter which of the four classes you are.
+- Proceed to look for travel points, enough for level 5. Don't start exping
+  yet, just look for tps until you get them or die.
+- When you get enough tps for level 5, suicide on a mob or puke, then proceed
+  to Step 2.
+
+Step 2 - Experience
+- Bring a belt, a lantern, and a butcher knife (all essential) and a shield, a
+  dagger, bread/biscuits, and cups (not as important).
+- Get some real eq (i.e. a sword or something, dodge or absorb eq, and a better
+  shield if possible) to make your exping faster. Exping with crypt eq is
+  painfully slow.
+- Some of the obvious places for basic eq are dt, Khuzur, and Redhorn caves,
+  and any corpses you may happen to find, but there are other places (where you
+  don't have to kill anything).
+- Go kill mobs.
+- Best areas for exping are in Eregion, where there are places with no
+  aggressive mobs of any consequence and lots of deer, foxes, birds, etc.
+  However, there are places in the north that are good for at least a couple
+  levels if you want to stay up there.
+
+Step 3 - When you get to level 2 or 3
+- If you are near gcm, go max dodge. If you have pracs leftover, get some
+  sneak.
+- If you are near ranger guild master ('A Man'), practise ride and find a
+  mount. Don't bother if he doesn't load near beaver pond, unless you're very
+  confident of your knowledge of the area just south and west of Khuzur.
+- Continue exping until you're level 5.
+- If you die, you won't lose much experience, so get some more eq and start
+  again.
+
+
+On the bow that loads in the crypt: I've found it to be almost completely
+useless. The arrows break as often as not, and it's just a waste of time
+running around looking for more, or asking orcs for some (while you're still a
+newbie).
+
+
+On having a friend stat you: This is not something that is normally done, so
+don't bother other by people asking them if they can help you level. But if you
+do have a good friend who is willing to spend time helping you, or someone asks
+you if you want help, then by all means take advantage of the opportunity.
+Some players who know what they're doing can help a friend stat in as little
+as two or three minutes, if he already has his tps.
+
+
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (91%) *** [0;35m[0m
+Higher levels: Once you stat, get invisibility as soon as possible. Everything
+else is up to your discretion. However, sneak + missile (+ blind when you can
+get it) can speed up exping a good bit. It's not uncommon for bns to go to noc
+and ask orcs to buy them an orkish shortbow and war arrows, though it's by no
+means required of them (the orcs). At even higher levels, charm + command is
+also very useful.
+
+
+- Gondolin
+
+[0;35mrn[0m
+read next
+Message [32m3405[0m : Let me out of here! ([32mPrist[0m)
+Written on Tue Feb 20 22:11:29 2001
+
+Cant stand it... every day same room, same steward, same windows...
+Been imprisoned here for a long time and gods won't let me out...
+No idea why, i'm harmless creature, just want to feel the fresh
+wind on my face once again, listen birds singing and walk happily
+under the warm sun in vaste Eregion... but gods won't end my 
+imprisonment here, even tho i told them that i'm tired of war, 
+I just want to return to Umbar to my parents whom I haven't visited
+in many-many long years while I was fighting with the enemies of my
+Master... aye, once I was a great sorcerer, i could magically trans-
+port many minions of the Dark lord to many different parts of Arda, 
+I threw mighty fireballs at my enemies and laughed, seeing them
+suffer, before delivering the last blow, aye, those are the happy
+memories... I was feared during the night, many cowardly slaves hid
+behind their city walls when the darkness covered the land and stayed
+there, until the Sun once again shined over the forests of Fornost...
+Aye, then they came out in hoards but i had already left and only
+few bodies of the slaves of Eru marked my bloody path... Oh, those
+were the happy days... but the success I had made me proud and my
+Master turned away his face from me and luck left me and i hid in 
+darkness for sone time... once again i tried to reclaim my former 
+place and insert mortal fear in the hearts of my enemies...
+I failed...
+My Master didn't want me to serve him any more, he had more useful
+warriors, he didn't need me... i begged for mercy but his orcish
+guards threw me out of Barad-Dur and i left, ashamed...
+Many days did I wander alone, even the Sun seemed to darken...
+The strength of my Master was slowly growing, he was making the last
+preparations before launching massive attack agains the West...
+I heard about that on my journeys and my heart was sad, for he had
+forgotten me, even tho I had been fine leader for his minions...
+The Shadow of my Master was growing... I didn't care any more...
+I had been caught by some Elves and Men while i was travelling 
+near the city of Tharbad, seeking a place to stay for a night...
+They captured my soul, I was not able to do anything and using
+magic far darker than I had seen in my darkest dreams and calling
+to the might of Manwe, they imprisoned me forever as they hoped...
+Hah... little did they know about the strength my seemingly fragile 
+body held inside...
+I only need time to gather my strength and break the chains that 
+keep me imprisoned here in this cursed place... this day is getting
+closer and closer, I can feel it...
+Yesterday I saw a Fell Beast flying over my head and i called it...
+He saw me and came to me to deliver me the message from my Master...
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (89%) *** [0;35m[0m
+Finally! The Dark Lord has not forgotten me! He wants me to break
+free and return once again to Mordor to recieve my orders...
+HAH! Just a few more days and I shall be back, stronger than ever, 
+and my enemies will once again feel my wrath, when i burn their 
+steaming corpses... and they shall die in pain!
+
+ For the Glory of Numenor!
+
+
+[0;35mrn[0m
+read next
+Message [32m3451[0m : Time to say goodbye ([32mPrist[0m)
+Written on Thu Apr 26 17:56:05 2001
+
+Winter again. As I sat in a small hut near Tharbad I felt 
+the cold wind chilling my bones, even despite the small 
+fire I had lit in the middle of a hut. Winter. A dark sad 
+season for me... 
+
+I heard news of orcs and trolls gathering to pillage the 
+last fortresses of the West... If I was younger I would 
+have joined them myself... there were the times when I
+rejoiced among the trolls when darkness and snow covered 
+the land but that was long time ago... I'm not young any 
+more, I'm older than most other generals of Sauron... 
+
+I feel that it might be the time to retire... I have achieved
+high status among the armies of the Dark Lord, I was 
+one of his greatest warlords, sun darkened and elves fled 
+in fear when they heard my name... I've fought for Sauron 
+for many-many years but just now I've beginning to under-
+stand why this fight between the West and the East has
+taken so long... We will never win... Never...
+
+It's sad but true... West is stronger, far stronger than 
+Sauron thinks, I know that now... And I think it's finally 
+time to leave the battle... I spoke with one the Ring-
+wraiths today, he delivered the message from the Dark
+Lord himself - 'You may retire my trusted servant,' he
+says, 'but don't forget, that perhaps one day I will need
+your services once again.' 
+
+Tomorrow I will start my journey towards Umbar... I've
+been away from there for a long time, far too long
+I really do want to see the yellow sand and sunny beaches
+again, walk in forests without the fear of getting ambushe...
+
+But first, i need to bury this damn elf's corpse, otherwise
+I can't sleep at all tonight... Elf corpses stink more
+than ill trolls... 
+
+ -Prist
+
+Take care my loved ones, I will miss you, honestly :)
+
+
+[0;35mrn[0m
+read next
+Message [32m3460[0m : The blood shall flow once again... ([32mPrist[0m)
+Written on Fri May 11 10:52:33 2001
+
+I was hoping for a permanent vacation when I left Western areas and went back
+to Umbar... I was hoping that I will never see any stinking child of Eru, I was
+hoping for a peaceful life from now on after fighting many years...
+Sunny and beautiful was the day I once again saw the beaches of Umbar, heard
+the many-couloured birds singing happily, saw again the endless blue sea... My 
+heart was glad for I felt that I was finally back home... 
+
+I built a small house near the sea, not far from the last city of the true 
+Numenoreans, earned my living by fishing and my life was peaceful and happy... 
+I even found the love of my life, beautiful Eharil and we married... She did 
+not know who I had been and I never told her...never did I think of Sauron or 
+the Great War that still raged furiously, nor did I miss the western lands...
+
+One day I we went off to sea as usually even tho Eharil told me not to...
+Dark clouds were seen far away but I've never been afraid of nature... 
+She was standing on the beach until I could not see her any more, waving to me, 
+her hair flowing in the wind... It was the last time I saw her alive....
+The storm caught me before I could check my fishnets and forced me to land on a
+small island where I sat by a small fire and listened the wind howling... far 
+away a faint light was seen, the great lighthouse of Umbar... 
+
+Next day I set sail towards Umbar. It wasn't far away but the wind was still 
+Strong and it took me several hours to reach it... the first thing I saw was 
+smoke,  black columns of smoke rising from the great city... And ships, large 
+warships of the Western people, many of them, all anchored in the port of 
+Umbar... I anchored my boat nearby and sneaked to the city walls... 
+I heard screams and sounds of weapons... Screams... Screams of my friends and 
+relatives, screams of women and children...
+Using my magic I saw hordes of Men and Elves pillaging the city, looting the 
+dead, burning the houses and hanging bodies to the branches of trees...
+I knew there was nothing to do and I decided to hurry back home to get Eharil 
+somewhere safe...
+
+Not far from my house I found tracks... tracks of a Man and an Elf and a Dwarf, 
+leading straight towards my home... fear froze my heart and I hurried even 
+more... Alas! I was too late...
+
+Where my home used to be there was just a pile of ash, black smoke still 
+rising towards the sun... the body of Eharil was chopped to pieces, lying in 
+a pool of blood in what used to be a garden filled with flowers... 
+Her hand was still helding my old sword of which blade was covered with blood, 
+and signs of fierce battle were found everywhere... not far from her i found 
+a corpse of an Elf, body covered with wounds...
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (76%) *** [0;35m[0m
+Kissing Eharils cold and dead lips I swore to avenge her death...
+
+I tracked down the surviving two raiders and found them nearby... they were 
+sitting around a small fire, cooking food and laughing... great was their 
+surprise when they saw me and drew their weapons... 
+I took my time and killed them slowly, laughing, enjoying every second of it... 
+Revenge was sweet, even tho I knew that it will not bring my loved Eharil 
+back...
+
+The fleet is leaving Umbar and so am I... the journey back to the Western 
+lands will be a long and hazardous one but I don't care... I feel myself 
+young again, I need revenge... no Elf nor Dwarf nor Man nor Hobbit will be 
+protected from my wrath and their blood shall flow until Sauron has conquered 
+the Grey Havens and the last screaming Elf on Middle-Earth has drawn his last 
+breath... 
+
+ Blood for Sauron!
+
+ -Prist
+
+
+[0;35mrn[0m
+read next
+Message [32m3466[0m : How to stay alive as a bn ([32mPrist[0m)
+Written on Tue May 22 19:17:15 2001
+
+
+It's impossible. All bns die, no matter how good you are, it's a part
+of divine plan or something as they say... ohwell... so basically you
+have to get used to dying/reequipping or choose another race to play.
+
+Don't whine how underpowered bns are. We aren't underpowered at all.
+Other players think that we are tho, that is what makes them careless
+and possible to kill... they will often enter after you in traps, 
+hoping for an easy kill, and are surprised if they find themselves in
+mandos afterwards... that goes only for players that haven't played bns
+themselves - clueful 'old' players know exactly the strengths and weak-
+nesses of bns, therefore losing the element of surprise and leading 
+(probably) to your own death... it is advisable that you stay away of
+such players, unless you are extremely good yourself or have some 
+excellent plan you want to try out...
+
+Mostly there are 2 sorts of bns: portalwhores and solohunters. Which
+one you want to be is up to you... Portalling bns tend to spend half
+of their playing time in Cave, locating mounts and players, preparing
+traps etc... such players are hated by the opposite races, called trap-
+whores, overkillers etc, on the other hand playertrolls will love you
+for you can provide them with a lot of action... it is quite dangerous
+tho for after locate/portal you rarely have enough mana to cure yourself
+or rearmour or port out or anything like that if things go ugly, probably
+resulting in your death... there are a few hints though you can follow
+to make your life easier and safer:
+1) Use a lot of caps to get ppl for portalling, it works better
+2) Don't scout portal - let some orc scout it, otherwise you might end
+ up buffing 10+ in closed room and instadying.
+3) Do not stand still or try to do damage to pukes. Your only purpose
+ is to group orcs/trolls and get them to trap, they do not expect you
+ to spam around and nuke... just _try_ to stay alive (it's hard enough
+ and keeps you occupied)
+4) Get another bn with block with you. You won't have mana to block
+ exits when needed, therefore the trap will fail.
+5) Do NOT buff any pukes - you got other groupmembers for that.
+6) When things go bad, try to regen enough mana and portal your group
+ out to safety. Do not port unless you are really dying - you should
+ not abandon your group. The worst kind of ppl are those that portal
+ several trolls in closable area, then proting somewhere else and
+ leaving trolls behind suntrapped, therefore getting them killed.
+7) Stay alive.
+
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (70%) *** [0;35m[0m
+The life of a solohunter is much more interesting and dangerous tho.
+Your main hunting ground will be Morthan/eregion/abr horseshoe, last
+changes to powerrangers have made it almost impossible for bns to solo-
+hunt near bree/fnost so there is no point in going there to kill lvl 3
+sleeping *elves*, therefore u should carefully learn the southern areas...
+Tharbad is OUR city and it is your holy duty to slay every puke who is
+careless or stupid enough to visit it. But don't get too excited tho - 
+sometimes you meet unnamed legends there who can annihilate your sorry
+ass back to the Island...
+As usually there are some hints to help you when you try to hunt solo:
+1) Try to avoid powerrangers.
+2) Kill all pukes you meet.
+3) Stay alive.
+
+Simple, isn't it? This whole post is 100% useless though, written only
+because it is awfully boring to wait for some friendly V+ that would
+let me out of retirement for the 348275482th time... but if you had
+enough time and patience to read it then perhaps my time wasn't completely
+wasted either :)
+
+Take care my little ones! 
+
+ -Prist
+
+
+
+You are thirsty.
+
+[0;35mrn[0m
+read next
+Message [32m3633[0m : Memories... ([32mPrist[0m)
+Written on Sun Mar  3 23:00:41 2002
+
+Days grow longer and nights shorter... soon it's summer again, hot, long summer
+of Middle-Earth... but still i'm resting in my small hut near the great city of
+Tharbad and it's cold, horribly cold, even despite a small campfire that is lit
+in my room... no fire can warm my bones, no sunshine makes me happy. I'm getting
+
+old... I'm already older than most of the great race of Numenoreans, i'm old and
+
+I feel my death nearing me... I do not fear the death, but i'm afraid our
+mission 
+will not be complete once i'm gone...
+
+It was a fair world when i was a child, playing happily on the shore of the
+Great 
+Sea, I remember how beautiful was the city of Umbar long ago... I remember
+watching 
+suntset from the roof of our small house with Eharil, I remember waiting my
+father 
+back from the sea and the smile on his tired face when he finally returned in
+his 
+small boat... it was a beautiful world when I was young, and this world only
+lives 
+now in my memories... it was so long ago... and how I wish I had never left
+Umbar
+in my search for adventures...
+
+I remember the day I started my journey, with some trusty friends, armed with 
+shortbows and longswords, laughing and joking for the world seemed friendly and 
+kind... but with each travelling day the shadow grew in our minds and our small 
+party scattered... Thler got killed and Alor badly injured by a wild lion who 
+charged our night camp, Foren went hunting one day and never returned... My last
+
+companion, Bader, was gone one morning when i woke up and I do not know to this 
+day, what happened to him... 
+
+I continued my journey alone through dreadful landscape, exhausted, hungry, 
+thirsty... I was chased by beasts and the enemies of the great Numenorean race- 
+elves and dwarves... They teached me what the word 'hate' means, and i swore to 
+repay them for all I had suffered...
+
+It was a cold and chilly day when I travelled in area nowadays known as Eregion 
+when I saw a camplight... I sneaked towards it and found a strange man, all 
+dressed in black, sitting there... he saw my coming and when I prepared to run 
+or fight until death, he smiled at me and greeted me in our own ancient
+language... 
+He said that his name is Misery and that he has just returned from a journey to 
+Tharbad... seeing that I was new to those dreadful lands, he offered me his help
+
+and for many days we travelled together... I learnt a lot and I met several of 
+our kinsman, walking around those lands... I learnt that our numbers were many 
+and even more were coming from far south... 
+
+Misery didn't like the thought of leaving Eregion, but I desired to see wide 
+lands in the North, so one daywhen i felt I was ready, we left our separate 
+ways... I met orcs and trolls far north and had many friends among them, we 
+often travelled together, me with my good friends Swhat and Zerg... I was a 
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (40%) *** [0;35m[0m
+fast learner and I will never forget the day I first saw Tharbad... Oh, the 
+great walls and shops and people from faraway countries, thieves and assassins 
+and great mages and priests... I remember a day when 3-4 of us, Black
+Numenoreans 
+as our enemies call us, were sitting in an inn, drinking beer and resting from 
+our journeys, when a hobbit stepped in and seeing us, tried to flee in panic...
+he didn't run far tho, we followed him fast and our leader, Soron, was kind 
+enough to slay him with his own hand and thus ended the life of Smooth the
+Hobbit... 
+
+All of this was long ago, so long ago... there's no more joy in my heart, I slay
+
+my enemies without any pity, yet it brings me no happiness any more... The Dark 
+Lord's armies are weakening, orctribes are fighting among themselves and against
+
+us, once great hordes of Black Numenoreans are no more... there remain only a
+few 
+of those that were here when I reached those lands, there are even less of those
+
+who were here before me... they are legends, we speak of their great dees when
+we 
+meet, yet those meetings are rare nowadays... Often have I thought, will the
+younger 
+ones speak stories of me when i'm gone? Will anyone remember me at all?  Will
+there
+ever be as great horde of us as there once was? 
+
+A few days ago I returned from a long yourney to the East. I visited many weird 
+countries, saw many strange animals... I saw calm brown waters of the Sea of
+Nurnen 
+and I watchedMumaks fighting among themselves on the great plains of Harad... I
+saw 
+people with yellow skin and red tongue, I met creatures that have dwelled in the
+
+deep caves since the Beginning. It is a strange world, yet, nowhere did I find
+rest 
+nor peace... all of those creatures i met, they still have home, their campfire
+they 
+return to... while we, the last great race of Men do not have anything... we're 
+renegades, hated by many and loved by none, we kill to live and we kill, because
+
+that's the only thing we're good at... we're among the greatest of mages ever
+walked 
+on Middle-Earth, we're feared and despised, we are called legends if we're
+successful 
+and we will die if we're not... I want back those times back, times, when all
+whitepukes 
+were sitting in their fortified cities when sun went down because leaving those
+walls 
+meant death... the world has changed while i have not... I'm still the same, old
+and 
+grim, despised among my enemies, and I will not change... 
+
+Yet, all of this fighting leads us nowhere...
+It does not matter how famous you are or how great you are, ultimately your
+bones 
+will lie under the burning sun and decay, we die in wastelands and our names
+will 
+fade into history of the War of the Ring... our race is dying and legends will
+be 
+forgotten... There is no hope for us and our future looks darker than the
+night... 
+we can never return to our homes for they do not exist anymore... we have no
+place 
+to go, no hope, nothing...
+
+I'm cold, and the fire is burning low... I draw my blankets closer to my skin
+and 
+shiver... Wind is howling outside, cold, biting wind that sounds like a tortured
+
+animal... Nothing is as it once was, all that was once strong, is now weak... 
+
+I want to see the Great Sea again, run in blue waters and watch silvery fish
+nimbly 
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (86%) *** [0;35m[0m
+swimming around my feet... I want to feel the warmth of sun once again on my
+face, 
+sit on top of the walls of Umbar and watch the huge black sails of our
+warships... 
+memories, only memories are what is left of my childhood world... Memories... 
+
+It is dark.. all is dark and i cannot see... I don't even know if my eyes are
+closed 
+or open and it doesn't matter... will there ever be anyoneto remember me? Does
+our 
+great race of Men have any hope or do we diminish and become just another page
+in the 
+history of Arda? Too many questions and no answers at all... the Sea, the great
+blue 
+sea... Oh how I desire to look upon it once again before I die and face whatever
+
+happens with me after death...
+
+I better get some sleep... night is almost over and a fellow Numenorean told me 
+that there are some elves heading towards Tharbad and they should be there
+soon... 
+of course, once in, they will never leave... i'm still pretty good at killing
+elves... 
+ :/
+
+ For the Glory of Numenor!
+
+ -Prist
+
+[0;35mrn[0m
+read next
+Message [32m4181[0m : An ancient diary ([32mVardamir[0m)
+Written on Sat Nov 10 19:53:07 2007
+
+
+It appears to be an ancient diary written by Vardamir Nólimon.
+It's a book of leather with pages made of what seems like human skin.
+The words are blood-stained and at places you notice tiny nails attached
+in the dry skin. You're questioning the very movements of your eyes
+as you open the book and begin to scroll down...
+
+'...Nólimon, a name meaning 'most learned'. Given as a surname to me
+by Elros, my father, because of my former great love of ancient lore
+and knowledge, which I collected from many sources. As the eldest
+of Elros' four children, the Sceptre of Númenor fell to me on
+my father's death. The extraordinary length of his life meant that
+I was 381 years old at that time - old even for a Númenórean of royal blood
+- so I passed the Sceptre on immediately to the eldest of my own
+children, who became King Tar-Amandil.
+
+This is what Amandil told me they were going to write in the history books.
+Sometimes when the nights are quiet I can still feel that grin on his face
+behind my back, sending me shivers down my spine. I am the Uncrowned
+King of Númenor, and years have passed since they put me on this Island.
+I only managed to get a slight grasp of the Sceptre before the guards came
+and broke down the door. There was nothing I could do - Amandil had planned the
+betrayal for a long time and paid his informers well. He knew exactly when
+to ambush - the night before the ceremony when the Sceptre was delivered.
+This is the truth and I hope you, whoever finds this, will avenge me...'
+
+You try to turn another page, but the pages has dried together. Using some
+of your strength, you manage to rip the pages apart. The text is blurry but
+looking close you're still able to read most of it...
+
+' The foreign tongue grows stronger within me now. I can not sleep.
+I haven't eaten for days and there's no more weed to ease my pain.
+The eye stares at me, and I see him even though he took my eyes away.
+It's so cold. The black cape surrounding me seem to annihilate the
+very colour of my skin. I fear what he will do to me. I fear what
+I am about to become. A beast has been flying in circles above me for
+days now. The past minute he's been approaching but I don't have the
+strength to flee. This will be my last entry...
+
+...Ohh Sauron, my Lord...'
+
+
+[0;35mrn[0m
+read next
+Message [32m4198[0m : The insolence of the false gods! ([32m*Lost*[0m)
+Written on Fri Aug  6 17:33:41 2010
+
+pray False gods! I demand you grant me basic equipment for penance of the
+wrongs you inflicted on mighty Númenór!
+You send your prayer to the Ainur.
+Someone smiles upon you as you receive some basic equipment.
+The Ainulindalë whispers to you 'But you only get it because we find it
+entertaining how you will lose even this. This is not a gift of mercy, the
+unavoidable loss will only increase your suffering!'
+pray I spit upon you! May Melkor and Sauron rise and smite you!
+You send your prayer to the Ainur.
+The Ainulindalë whispers to you 'We are not concerned about an ant's wrath!'
+
+[0;35mrn[0m
+read next
+Message [32m4203[0m : Gear here now, but gone tomorrow! WARNING! ([32mKimono[0m)
+Written on Tue Mar  1 17:50:53 2011
+
+The Dark Lord graces us with the ability to camp rent
+almost anywhere, but as always there is a price that
+we pay. When you climb into your tent for rest, keep
+in mind that we have no innkeeper to pay our dues. We
+handle our own storage of precious gear and have no
+way to pay an innkeeper to recover lost gear. Do not
+go handing gold to any of the guild masters we look
+up to, or anyone else in your travels for there is
+no one to return our gear to us.
+
+-- Kimono Stealthe
+
+
+[0;35mrn[0m
+read next
+Message [32m4204[0m : Stables of the East ([32mKimono[0m)
+Written on Tue Mar  1 18:00:24 2011
+
+Come on folks! Why are stables being replenished by
+only the Numenorean Rangers?! It is simple: If you
+are near Brolg and find any abandoned mounts, lead
+them inside where another fellow Numenorean may
+need and use it in the future. If you are near the
+Orc caves, bring them into Slag pit and house them
+deep within where the wretched scums of the west
+wont steal them. You get my point, the same applies
+with Warrens, Ohurk, the Dark Tower and so on. The
+Numenorean Rangers are working very hard to keep
+the homeless mounts fed and housed so we can all
+benefit from having them nearby at a moments notice,
+so please help if you pass one! They need a home
+too.
+
+-- Kimono Stealthe
+
+
+[0;35mrn[0m
+read next
+No more unseen messages.
+
+[0;35m#log[0m
+[0m#SYNTAX: #LOG {APPEND|OVERWRITE|OFF} {<FILENAME>}[0m
+[0;35m#log off[0m

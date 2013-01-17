@@ -1,0 +1,27 @@
+#action {^You flee %1.} {
+	#variable lastflee %1;
+	#if {"$lastflee" == "west"} {#variable returndir east};
+	#elseif {"$lastflee" == "east"} {#variable returndir west};
+	#elseif {"$lastflee" == "north"} {#variable returndir south};
+	#elseif {"$lastflee" == "south"} {#variable returndir north};
+	#elseif {"$lastflee" == "up"} {#variable returndir down};
+	#elseif {"$lastflee" == "down"} {#variable returndir up}
+}
+
+#alias stab {
+	#variable stabmob %1;
+	#variable stabdir %2;
+	#send $stabdir;
+	backstab $stabmob;
+	flee;
+}
+
+#alias restab {
+	stab $stabmob $returndir
+}
+
+#nop macro {\e[24~} {restab}
+#alias bs stab
+#alias rs restab
+
+#macro {\e[E} sneak

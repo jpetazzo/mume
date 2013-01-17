@@ -1,0 +1,501 @@
+                                   HERBLORES
+
+### Important! You CAN NOT mix herblore if you have not obtained special book/
+### etc writing from the certain mob, even if you already know all components
+### needed for lore. If you try it, you will always produce "unknown mishmash"
+### instead of lore. But even if you have lore in your list (use "herblores"
+### command while having herbal kit in equipment), you can fail attempt to make
+### lore if you have low WIS. It is why for warrior/thief it's better to give
+### lores/components to a friend caster to mix the lore.
+
+
+
+                                   Antidote
+  Description:
+Poison is often deadly, and requires immediate action.Nature has provided us
+with certain herbs to defend ourselves from this vicious danger, if we know how
+to use them. Unfortunately, any remedy we hope to make will be very complex. The
+simplest, and most effective, is outlined below.
+
+First, a base is made with two handfuls of blackberries, because of their
+healthy juice. Water lily petals, to purify the blood, and figwort, to purge the
+stomach, make that a thick paste. Finally the healing properties of the
+kingsfoil make it really efficient.
+
+This mixture will not only cure most of the poisons that can be find in plants
+and water, but as well purge your body from the somewhat annoying effects of any
+potions.
+
+  How to obtain:
+You must kill the Chief of the Hillmen Village to obtain thin parchment. Sometimes
+loads on assassin in tangle near Wight Captain.
+
+  Effects:
+Cures amibia, poison, venom, alathen, aganar, minuial, firndal, psylonia,
+and arachnia.
+
+  Ingredients:
+2 x blackberries, water-lily petals, figwort and athelas.
+
+  Product:
+Brown bottle - lasts 6 mume days (2 hours 24 minutes rl) if created by player, 
+like 3 mume days (1 hour 12 minutes rl) otherwise - if gotten from epriest, 
+hillmen chief or from BM chest.
+
+
+
+                                    Leaf-Cake
+  Description:
+It is about a herb that you call coneflower. The Entwives first cultivated it for
+its beautiful bright purple-red colour but later on, men told us that in combination
+with what you call honey, thyme, and sage it can cure the most common illness of Men 
+and such illprompt races.
+
+  How to obtain:
+Fangorn leaf-cake quest (see Quests)
+
+  Effects:
+Cures flu.
+
+  Ingredients:
+coneflower, thyme, sage, honeycomb
+
+  Product:
+Leaf-cake.
+
+
+                                    Baker
+  Description:
+To make bannocks light and brown all is needed is one pound of flour, three
+eggs, and the sweet golden treasure of a freshly crushed honeycomb. Mix the
+flour and the eggs in a large dish. When this has been transformed into a
+homogenous mixture, crush the honeycomb and add it in the paste. Mix it
+carefully. If the paste is too thick, you may have to add a small quantity of
+water or milk. Make then small round dough and use all your talents to cook it
+in a pan. This will give you enough bannocks for a week. Serve them with a cup
+of tea, beautiful cramsome bread and rich free butter.
+
+  How to obtain:
+Solve lonely giant's quest (see Quests).
+
+  Effects:
+Fills your stomach.
+
+  Ingredients:
+sack of flour, 3 x egg, honeycomb (must be crushed).
+
+  Product:
+Delicious bannock - lighter than lembas wafers, last forever.
+
+
+
+                                 Clear-thoughts
+  Description:
+To create this wizard's brew, you must obtain juniper berries for promotion of
+higher thought. Mix these with the mystical mauve petals, to boost creativity,
+and sage to clear the mind. Finally, some thyme is needed to aid the memory.
+This brew will give the mage more energy, and replenish his energy at a faster
+rate. However, when the beneficial effects expire, he will be mentally exhausted.
+
+  How to obtain:
+The Evil Bloodwight have sometimes a bound sheaf of papers on which this lore is
+written down. The papers are very rare.
+
+  Effects:
+Mana +15 and mana regeneration +15 for 2 hours.
+After that, mana +7 and mana regeneration +7 for 4 hours.
+After that, mana -5 and mana regeneration -3 for 6 hours.
+
+  Ingredients:
+juniper berries, mauve petals, sage leaves and thyme leaves.
+
+  Product:
+Pungent brew - lasts 12 ticks.
+
+
+
+                                 Orkish draught
+  Description:
+Any snaga who wants to raid the western plains and rid them of pansy elves
+will need some extra stamina from time to time. The draught described below
+is really what you need in these cases.
+Begin by getting some blood. Elf blood gives the mixture a better flavour,
+but if that's not available the blood of any creature will do. Just make sure
+someone mixes in it some preserving herb, or your brew will quickly spoil.
+Dissolve in it the preserved blood the tail of a salamander and some bat
+fur, to give strength to your paces, and some tarragon leaves - they are
+narrow and smell of licorice. Shake well and gulp it down when needed.
+
+  How to obtain:
+Bring some nice jewel to Gruksh the Butcher in NOC. Opal, ruby and emerald works.
+
+  Effects:
+Transfers 10 hps to 30 mps. When non-orc/non-troll quaffs it he can get poison
+too.
+
+  Ingredients:
+tarragon leaves, salamander tail, bat fur, vial of preserved blood.
+
+  Product:
+Flask of orkish draught.
+
+
+
+                                     Seeing
+  Description:
+In the wild strange plants with strange properties can be found. One of the
+strangest is the phosphorescent moss which covers the walls of a few humid
+caves. It is believed that this light is emitted by a fungus which lives in
+symbiosis with the moss. What matters is the possibility to use it to prepare a
+draught which gives a limited vision in the night. The base of this concoction
+is the brown powder of a cinnamon stalk. In it add a handfull of rosemary leaves,
+to make mind more attentive. In this dry mixture put shreds of humidified
+phosphorescent moss, and mix carefully the whole, until you get a phosphorescent
+liquid. When quaffing it, you will feel more able to perceive your environment,
+specially during in the darkness, thanks to the moss. A side effect of its
+activity, as it draws its energy from your body, is to weaken you for a while.
+The whole lasts for several days.
+
+  How to obtain:
+The seeing herblore can be learned from a book carried by the witch south-east from Fornost.
+
+  Effects:
+Night vision.
+Perception +3 and constitution -1 for 10 hours.
+After that, perception +2 and constitution -1 for 15 hours.
+After that, perception +1 for 40 hours.
+
+  Ingredients:
+bag of cinnamon, rosemary leaves and phosphorescent moss.
+
+  Product:
+Phosphorescent bottle - lasts like 1 rl day.
+
+
+
+                                    Shadows
+  Description:
+In parallel to our world is the world of the Shadows,where undead and lost souls
+walk. Potent magic can create gates to this world, and Sauron the Necromancer has
+servants who live on the edge of the two worlds. Other undeadcreatures, such as
+the skeletons animated by foul magic, live also on this edge and theirbones an
+be used as key for the Shadows world. To concentrate the potency of these bones,
+you need to make a base with the powderof a cinnamon stalk, mixed with a few
+rosemary leaves which make the mind more receptive. Take then the dried rib bone
+of a formerly undead corpse, break it in small pieces, and add it in the
+crucible. Crush carefully the three ingredients with a mortar of whitemarble,
+until an homogenous powder is obtained. Once slipped in a bottle of water, you
+will have a potion which will give you access to the shadow world for four nights.
+
+  How to obtain:
+The secret of the Shadow lore is written in a book held by a spirit in "The
+Small Library" in the spirit castle on the Road to Fornost. The book loads rarely.
+
+  Effects:
+Shroud.
+Perception -3 and willpower -1 for 10 hours.
+After that, defensive bonus +2 and perception -2 for 60 hours.
+After that, defensive bonus +1 and perception -1 for 30 hours.
+
+  Ingredients:
+bag of cinnamon, rosemary leaves and rib-bone.
+
+  Product:
+Sombre bottle - lasts like 1 rl day.
+
+
+
+                             Skillful-oil
+  Description:
+This oil, when made, will make the drinker limber and energetic, in combat he or
+she will be more able than normal. The base for this recipe is a tincture of oil.
+Add paprika for stimulation of the muscles, and rose petals to warm them. A
+vanilla bean will cause the blood to circulate more quickly, and two parts of
+rosemary will quicken the mind and speed up reactions. The user must be warned;
+after the exertion, his muscles will be tired and stiff for several hours.
+
+  How to obtain:
+Erestor will teach this lore to anyone who brings him a evil artifact weapon
+(HBM, ElfHewer, Morgul Blade, HFS, Black Many-tailed Whip)
+
+  Effects:
+Offensive bonus +5 and defensive bonus +5 for 8 hours.
+After that, offensive bonus -5 and defensive bonus -10 for 4 hours.
+
+  Ingredients:
+tincture of oil, paprika, rose petals, vanilla bean, 2 x rosemary leaves.
+
+  Product:
+Vial of scented oil.
+
+
+
+                               Soothing-draught
+  Description:
+In the art of making a soothing draught, one must first make a base of honey.
+Often honey comes in the form of honey-combs, which must first be broken up into
+a thick pulp. Into that you must mix sage, for healing of the wound, and thyme
+to prevent the infection and partially numb the pain. Next, add a handful of
+blackcurrant so that the reagants can act together, and finally add the petals
+of a water lily, so that the blood may be purified and the wound may close. When
+this draught is swallowed, for a while the recipient will experience a healing
+effect, and his wounds will heal up. The fight against the infection will induce
+a spiritual weakness for a short duration.
+
+  How to obtain:
+Complete the quest given by Nordri in BlueMountains. To get quest first ask
+Nordri about "herblore", then after he will say "blah blah price." say "price?"
+and then nod Nordri when he will ask if you agree.
+
+  Effects:
+Hit point regeneration +15 and constitution +2 for 4 hours.
+After that, hit point regeneration +5 and dexterity -2 for 5 hours.
+
+  Ingredients:
+honeycomb, sage leaves, thyme leaves, blackcurrant berries and water-lily petals.
+
+  Product:
+Herbal draught - lasts 2 MUME weeks (5 hours 36 minutes rl time).
+
+
+
+                                  Travelling
+  Description:
+One who chooses to travel is greatly aided by this brew. It adds endurance to
+the muscles, and speed to the legs. For all of the walkable daylight, the
+imbiber will be able to travel farther and gain more benefit from rest. This
+simple concoction is made by mixing in tarragon leaves, to give spring to the
+step, ginseng root, to give energy to the muscles, and clover, to aid the blood
+in its travels.
+
+  How to obtain:
+Solve Dunadan Ranger's quest (see Quests).
+
+  Effects:
+Movement point regeneration +10 and movement points +10 for 120 hours.
+After that, movement point regeneration +7 and movement points +7 for 24 hours.
+After that, movement point regeneration +3 and movement points +3 for 24 hours.
+
+  Ingredients:
+tarragon leaves, ginseng root and clover.
+
+  Product:
+Mug of brew.
+
+
+
+                                    Walking
+  Description:
+One who chooses to walk between the towns of Eriador is greatly aided by this
+draught. It adds endurance to the muscles and speeds the legs, for the small
+cost of some loss in concentration and adress. To prepare this brew mix a
+handfull of tonifiant juniper berries with some clover as a base. Add a few
+crushed leaves of marjoram and freshly bought cloves, to clean the blood of its
+toxines and stop cramps.
+
+  How to obtain:
+Complete the quest given by Aldereon the ancient Noldo northwest of Greenholm.
+
+  Effects:
+Movement point regeneration +10 and willpower -3 for 24 hours.
+After that, movement point regeneration +5 and willpower -1 for 120 hours.
+After that, movement point regeneration +3 and willpower -1 for 24 hours.
+
+  Ingredients:
+clover, juniper berries, marjoram leaves and cloves.
+
+  Product:
+Bowl of brew - lasts 12 ticks.
+
+
+
+
+                                    POISONS
+
+  All poisons decay in like 1 hour rl, also the more time passed since you
+create it, the less powerful it is.
+
+
+                                   Arachnia
+  Description:
+Among the beasts of our lands, the spiders are the most feared, mostly because
+they sting their victim and inject a poison which slows their moves and their
+brain. Thanks to a careful study of the grey spider anatomia, we have been able
+to use the venom sack of this beast to produce a terribly dangerous poison. In a
+bowl, crush the tail of a young salamander into a shapeless pulp. Add the fur of
+a bat to stabilize the components, and, most important, the fluid sack of a grey
+spider. The sack must have been butchered recently from the monster, and kept in
+a wet sack during its transport. Mix the three ingredients until a brownish
+liquid is obtained.
+
+  How to obtain:
+Loads as a crumpled scroll on the dwarf at Top of Moria walls for instance. It
+loads rarely.
+
+  Effects:
+It contains oil, poisoned with level 22 arachnia that would last for 1 hour.
+
+  Ingredients:
+salamander tail, bat fur and grey fluid-sack (from a Grey spider).
+
+  Product:
+Dirty reddish vial.
+
+
+
+                                  Belladonna
+  Description:
+The plants of the wilderness have a large spectrum of applications. Those who
+know the use of three natural ingredients can produce a mild poison. Crush
+carefully the tongue of a frog in a vial, as base for your concoction. Get a
+freshly recolted Belladonna, the plant known for its dangerous properties. Use
+the fruits or the leaves of the plant, for it is where its essence is mostly
+concentrated. Add then a red mushroom, the sort which gives headache and
+dizziness when eaten. Mix the reagents and seal the liquid in a vial. That
+draught will weaken your opponent, who will lose an important part of his
+skills. It can of course be used to poison your arrows or your blade.
+
+  How to obtain:
+The assassin mentioned before, who have sometimes venom lore have almost always
+a dirty note, that carries the lore of a belladonna poison. Also one brigand
+have sometimes such dirty note as well, who is located all east and then south
+(hills, altar, coffin, crack) from Greenholm junction.
+
+  Effects:
+It contains oil, poisoned with level 6 poison that would last for 4 hours. 
+(Decreases some hp/mana/move regen.)
+
+  Ingredients:
+tongue of a frog, belladonna berries and a red mushroom.
+
+  Product:
+Dark violet vial.
+
+
+
+                                 Drake-slumber
+  Description:
+This is the recipe of a brew which should be able to debilitate even a very
+powerful beast - one which would not succumb to ordinary magic or weaker potions
+and poisons.
+
+  The sticky pulp of a fresh milkweed plant will make a ready base for the
+draught. All parts of thisplant cause weakness and staggering, then prostration,
+laboured breathing and a profound sleep. This should serve to slow and weaken
+the creature, despite its strength and size. To the base add some valerian root
+and the flowers of the mountain poppy - these herbs act to tranquilise and to
+alter the workings of the mind. They also inhibit aggression, which will be most
+important in controlling the beast.
+
+  Leaves, flowers and fruit of the hemlock plant will weaken the animal, slowing
+its heart and suppressing its breathing. A single fly agaric mushroom is also
+needed - the flesh of this bright red fungus is said to bring on dizziness and a
+lack of coordination, followed by a deep sleep.
+
+  To complete the brew one white fruit of the baneberry plant is needed. This
+strong poison will weaken the creature, and should further assist in bringing
+about dizziness and poor flow of the blood.
+
+  How to obtain:
+Below the temple of the evil priest behind the magically blocked door in a large
+chamber stand two stone guardians. One of them have an alchemical journal, that
+contains the secret of this mixture. No idea about how often it does load...
+
+  Effects:
+This poison is exception of all poisons: it is not supposed to be used vs
+player, but very important for doing scaly beast under LB fortress/epriest.
+When thrown towards beast, it devours it and gets weakened -> will not use his
+attack that starts delayed-dt mudlle in the room (Beast slaps tail ..., then
+leaves, then with delay tunnel colapses).
+
+  Ingredients:
+milkweed mass, valerian root, poppy, hemlock plant, red mushroom, baneberries.
+
+  Product:
+Glass flask - lasts not less than 20 mins.
+
+
+
+                                    Hemlock
+  Description:
+The plants of the wilderness have a large spectrum of applications. Those who
+know the use of the herbs can produce a whole set of curing concoctions, and of
+deadly mixtures also. This is the formula for one of the worst. Carefully crush
+the tongue of an old frog as base of your preparation. Take the leaves, the
+stem and the fruits of a hemlock and add them. Add then a handful of inkberries
+from Hollin. Mix carefully and seal it in a vial. That draught will weaken all
+the abilities of the person drinking it, and can successfully be poured over
+your blade to poison your opponents.
+
+  How to obtain:
+Loot dirty formula from Wuda the Dunlending Chief, formula is rare though.
+
+  Effects:
+Gives -1 str, -1 dex, -1 con, also eats some hps/mana/moves on tick.
+
+  Ingredients:
+tongue of a frog, hemlock plant and inkberries.
+
+  Product:
+Green stinking vial.
+
+
+
+                                   Psylonia
+  Description:
+Anyone who ate the wrong mushroom knows that the effects of mushroom intoxication
+can be really surprising. Headache, dizziness, hallucinations are some of the
+possible symptoms. Some people, like the inhabitants of the remote land known as
+Yuka Taan, south of Harad, use mushrooms as a drug. Others have found a more
+warlike usage. The orcs of the east know many preparations based on mushrooms.
+One of the most efficient, a poison which does not kill the victims, but drains
+them and stop their concentration, is described here.
+
+  The base is made by a handful of inkberries from Hollin. A red mushroom is
+crushed with the berries, to thicken the paste. The third ingredient is the most
+important: the rare, sickly green, mushroom. It must be added before the
+concoction is mixed. Few people have ever found this mushroom: it is rumoured to
+grow in humid caves or in the darkest forests of the land.
+
+  How to obtain:
+The lore of Psylonia written on a crumpled paper can be found at the goblin
+shaman in the Goblins Caves in the northern Misty Mountains. These papers are
+VERY rare. In the secret in same caves loads mushroom that needed for this lore.
+
+  Effects:
+When smeared on your weapon or to your arrows with the envenom skill you have
+the potential to affect your victims with the dreaded Psylonia poison. This
+poison does not kill the victims, but stops their manaregen and greately eats
+their mana.
+
+  Ingredients:
+inkberries, red mushroom and sickly green mushroom.
+
+  Product:
+Mildew covered vial.
+
+
+
+                                     Venom
+  Description:
+Extremly lethal poisons can be prepared with natural ingredients found in the
+wilderness. The following recipe uses the venom sack of the feared rattlesnake.
+Make a base with the tail of an adult salamander. Add a freshly butchered bat
+fur, to thicken the paste, and the small venom sack of a rattlesnake. The
+resulting liquid will kill a cow in a few minutes, and even the strongest
+fighter will risk death in a few hours.
+
+  How to obtain:
+North from windswept grounds and before Mormaeg's lair lurks a suspicious
+Assassin that carries the knowledge of the Venom lore inscribed on a small
+plaque made of clay. This plaque is very rare (he have often too dirty note that
+carries belladonna poisons lore). Master Assassin loads it sometimes too.
+
+  Effects:
+It contains oil, poisoned with level 20 venom that would last for 3 hours.
+
+  Ingredients:
+salamander tail, bat fur and small fluid-sack (from a rattlesnake).
+
+  Product:
+Fetid green vial.

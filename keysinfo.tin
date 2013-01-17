@@ -1,0 +1,176 @@
+#sub {an ancient dwarven key} {%0 [flagstone, circlet chest]}
+#sub {An ancient key of dwarven manufacture lies here.} {%0 [flagstone, circlet chest]}
+#sub {an ancient key} {%0 [stoneslab, lww smugglers]}
+#sub {An old looking key lies here.} {%0 [stoneslab, lww smugglers]}
+#sub {an ancient silver key} {%0 [book, OiE]}
+#sub {An ancient silver key is lying here, giving off a faint glimmer.} {%0 [book, OiE]}
+#sub {a bent bone key} {%0 [stonedoor, silver bracer]}
+#sub {A slightly bent bone key lies here in the dust.} {%0 [stonedoor, silver bracer]}
+#sub {a big metal key} {%0 [oakendoor, Rohir tower]}
+#sub {__unknown__a_big_metal_key__} {%0 [oakendoor, Rohir tower]}
+#sub {a big stonekey} {%0 [stonedoor, BBT]}
+#sub {A big, heavy stonekey has been left here.} {%0 [stonedoor, BBT]}
+#sub {a black and silver key} {%0 [slab, Old Wight]}
+#sub {A black and silver key is lying here.} {%0 [slab, Old Wight]}
+#sub {a black bonekey} {%0 [door, Nagrorh]}
+#sub {An eerie black key made of bone lies on the floor.} {%0 [door, Nagrorh]}
+#sub {a black key} {%0 [portcullis, LB fort]}
+#sub {A black key has been left on the floor.} {%0 [portcullis, LB fort]}
+#sub {a black metal key} {%0 [towerdoor, ABR tower]}
+#sub {A black key made of metal lies here.} {%0 [towerdoor, ABR tower]}
+#sub {a black stone key} {%0 [panels at great wheels]}
+#sub {A black stone key, apparently to a dwarven lock, lies here.} {%0 [panels at great wheels]}
+#sub {a blood-stained key} {%0 [rack, OOC]}
+#sub {A metal key, stained brown by drained blood has been dropped here.} {%0 [rack, OOC]}
+#sub {a bloody key} {%0 [door/gorydoor, Mezagor]}
+#sub {A small copper key, covered with blood, rests here.} {%0 [door/gorydoor, Mezagor]}
+#sub {a blue steel-key} {%0 [minedoor, Dunland mines]}
+#sub {A blue steel-key of dwarven make has been left here.} {%0 [minedoor, Dunland mines]}
+#sub {a brass key} {%0 [metaldoor, bandit leader]}
+#sub {A brass key has been left here.} {%0 [metaldoor, bandit leader]}
+#sub {a bright steel key} {%0 [grille behind panels (wheels)]}
+#sub {An untarnished steel key lies here.} {%0 [grille behind panels (wheels)]}
+#sub {a castle key} {%0 [irondoor, Malardils castle]}
+#sub {A heavy iron key with a large handle has been left here.} {%0 [irondoor, Malardils castle]}
+#sub {a chained silver key} {%0 [joist, AM treasury]}
+#sub {A small silver key with a fine silver chain has been left here.} {%0 [joist, AM treasury]}
+#sub {a City Key} {%0 [Tharbad gates]}
+#sub {A big City Key is lying here.} {%0 [Tharbad gates]}
+#sub {a copper key} {%0 [grate, pipeweed smugglers]}
+#sub {A copper key has been left on the ground.} {%0 [grate, pipeweed smugglers]}
+#sub {a crude metal key} {%0 [metaldoor, Filthy]}
+#sub {A crudely wrought metal key has been carelessly left here.} {%0 [metaldoor, Filthy]}
+#sub {a decayed ironkey} {%0 [sconce, BW treasury]}
+#sub {A very battered ironkey has been dropped here.} {%0 [sconce, BW treasury]}
+#sub {a dirty key} {%0 [trapdoor, bandit leader]}
+#sub {A dirty key lies on the ground.} {%0 [trapdoor, bandit leader]}
+#sub {a dirty stone key} {%0 [floor/ceiling, 2h-axe Eregion]}
+#sub {A dirty key of stone has been dropped here.} {%0 [floor/ceiling, 2h-axe Eregion]}
+#sub {an ebony key} {%0 [1 of 2 doors up from knight in rdell]}
+#sub {A shiny ebony key has been left here.} {%0 [1 of 2 doors up from knight in rdell]}
+#sub {an engraved silver ring} {%0 [crypt, near WC]}
+#sub {An engraved silver ring lies here.} {%0 [crypt, near WC]}
+#sub {an engraved stone key} {%0 [irondoor to overseer under trapdoor, Overseer]}
+#sub {A stone key with some strange runes lies here.} {%0 [irondoor to overseer under trapdoor, Overseer]}
+#sub {a Fornost city key} {%0 [Fornost gates]}
+#sub {A large, precious-looking key lies here.} {%0 [Fornost gates]}
+#sub {a fragile stone key} {%0 [stonedoor, Unqalome]}
+#sub {A fragile-looking stone key lies here.} {%0 [stonedoor, Unqalome]}
+#sub {a glass key} {%0 [flagstone, DK]}
+#sub {A glassy key with an ebon handle lies here.} {%0 [flagstone, DK]}
+#sub {a granite key inlaid with wood chest, Eregion 2 statues} {%0 [statue]}
+#sub {A stone key, inlaid with wood, lies here.} {%0 [statue]}
+#sub {a great bone key} {%0 [trapdoor, Balrog rings key]}
+#sub {A great key, carved from bone, rests here.} {%0 [trapdoor, Balrog rings key]}
+#sub {a green iron key} {%0 [prisondoor, NOC vellum place]}
+#sub {An iron key with a green surface has been left here.} {%0 [prisondoor, NOC vellum place]}
+#sub {a green key} {%0 [halldoor, Eregion]}
+#sub {A green key lies here, barely visible on the ground.} {%0 [halldoor, Eregion]}
+#sub {a heavy iron key} {%0 [door, Drain Pipe]}
+#sub {A large key of black iron is lying here.} {%0 [door, Drain Pipe]}
+#sub {a heavy steel key} {%0 [stonedoor/rockface, OOC]}
+#sub {A rather heavy-looking steel key lies on the ground.} {%0 [stonedoor/rockface, OOC]}
+#sub {a huge iron key} {%0 [steeldoor/leaddoor, Shaghosh]}
+#sub {A large iron key is lying here on the ground.} {%0 [steeldoor/leaddoor, Shaghosh]}
+#sub {an icy key} {%0 [all doors, Balrog treasury]}
+#sub {A slender key almost escapes your notice.} {%0 [all doors, Balrog treasury]}
+#sub {an intricate steel key} {%0 [Umuk's chest (bda)]}
+#sub {A steel key with a complex set of notches has been left here.} {%0 [Umuk's chest (bda)]}
+#sub {a jade-encrusted key} {%0 [archeddoor under hatch, Lorien]}
+#sub {A jade-encrusted key lies here.} {%0 [archeddoor under hatch, Lorien]}
+#sub {a Jail key} {%0 [jaildoor, Bree]}
+#sub {A big iron key is lying here.} {%0 [jaildoor, Bree]}
+#sub {a jewel-encrusted key} {%0 [jewelleddoor, Balrog rings key]}
+#sub {A beautiful key, encrusted with jewels, lies here.} {%0 [jewelleddoor, Balrog rings key]}
+#sub {a key} {%0 [secret, smugglers south Bree]}
+#sub {A key is lying here.} {%0 [secret, smugglers south Bree]}
+#sub {a large key} {%0 [wall, Old Wight]}
+#sub {A large steel key has been left here.} {%0 [wall, Old Wight]}
+#sub {a large flint key} {%0 [__unknown_key__]}
+#sub {__unknown__a_large_flint_key__} {%0 [__unknown_key__]}
+#sub {a metal and stone key} {%0 [cinderblock + tapestry, Eregion]}
+#sub {An old looking key made of metal and stone has been left here.} {%0 [cinderblock + tapestry, Eregion]}
+#sub {a metal key} {%0 [Oakendoor, Necro]}
+#sub {A small metal key has been dropped here.} {%0 [Oakendoor, Necro]}
+#sub {a metal key} {%0 [door, Tharbad chief]}
+#sub {A small metal key has been dropped here.} {%0 [door, Tharbad chief]}
+#sub {a mithril key} {%0 [mithrildoor, Balrog rings key]}
+#sub {A brilliant mithril key is here, shining brightly.} {%0 [mithrildoor, Balrog rings key]}
+#sub {an old bronze key} {%0 [Wolfgate, NOC]}
+#sub {A bronze key, covered with a green patina, lies here.} {%0 [Wolfgate, NOC]}
+#sub {an old iron key} {%0 [rockdoor, GC]}
+#sub {An ancient key, wrought from iron, is barely seen here.} {%0 [rockdoor, GC]}
+#sub {an old key} {%0 [chest, lord's treasury]}
+#sub {A key has been left here.} {%0 [chest, lord's treasury]}
+#sub {an old ornate key} {%0 [sarcophagus, Dunland vellum]}
+#sub {A small key cowered with dirt is lying here.} {%0 [sarcophagus, Dunland vellum]}
+#sub {a polished copper key} {%0 [door + irondoor, DT]}
+#sub {A polished copper key is here.} {%0 [door + irondoor, DT]}
+#sub {a rigid metal key} {%0 [trapdoor, GH Old Ruins]}
+#sub {A metal key lies on the ground here.} {%0 [trapdoor, GH Old Ruins]}
+#sub {a rusted iron key} {%0 [orcs dungeon, Dunland]}
+#sub {__unknokwn__a_rusted_iron_key__} {%0 [orcs dungeon, Dunland]}
+#sub {a rusted key} {%0 [Cryptdoor, Old Wight]}
+#sub {A half broken rusted key has been left here.} {%0 [Cryptdoor, Old Wight]}
+#sub {a shining key} {%0 [archeddoors, Muranog's treasury]}
+#sub {A key, shining like a star, lies on the ground.} {%0 [archeddoors, Muranog's treasury]}
+#sub {a shop key} {%0 [Tharbad shop key]}
+#sub {A shop key is lying on the floor} {%0 [Tharbad shop key]}
+#sub {a silvery key} {%0 [door, GC room]}
+#sub {A key, made of perhaps tarnished silver, glints here.} {%0 [door, GC room]}
+#sub {a simple metal key} {%0 [cover, BM mines]}
+#sub {A key made of a light metal is lying here.} {%0 [cover, BM mines]}
+#sub {a skull key} {%0 [burialtrap, near Hillmen]}
+#sub {A key shaped as a skull is lying here.} {%0 [burialtrap, near Hillmen]}
+#sub {a slightly bent iron key} {%0 [jade bracelet chest]}
+#sub {A slightly bent iron key lies on the ground.} {%0 [jade bracelet chest]}
+#sub {a slimy iron key} {%0 [vaultdoor, Icedoor]}
+#sub {A key made of iron lies on the ground.} {%0 [vaultdoor, Icedoor]}
+#sub {a slimy metal key} {%0 [3 irondoors in Shaghosh area]}
+#sub {A metal key covered with some green slime.} {%0 [3 irondoors in Shaghosh area]}
+#sub {a small brass key} {%0 [__unknown_key__]}
+#sub {A small brass key lies here.} {%0 [__unknown_key__]}
+#sub {a small copper key} {%0 [granite, Unqalome]}
+#sub {A small copper key lies here.} {%0 [granite, Unqalome]}
+#sub {a small iron key} {%0 [carpet/slab, to mda chest]}
+#sub {An iron key has been left here.} {%0 [carpet/slab, to mda chest]}
+#sub {a small iron key} {%0 [chest, Illusionist + x-door, trolls]}
+#sub {A small iron key has been left here.} {%0 [chest, Illusionist + x-door, trolls]}
+#sub {a small key carved from ebony board + grating at Necro} {%0 [Necro]}
+#sub {A black key lies here.} {%0 [Necro]}
+#sub {a small silver key} {%0 [AM quest item + AM chest]}
+#sub {(con: It weighs half a pound.)} {%0 [AM quest item + AM chest]}
+#sub {a small silver key} {%0 [blackdoor, Sage's treasury]}
+#sub {A small silver key is glittering in the dirt.} {%0 [blackdoor, Sage's treasury]}
+#sub {a small steel key} {%0 [slab, Unqalome]}
+#sub {A small steel key lies here.} {%0 [slab, Unqalome]}
+#sub {a small stone key} {%0 [stonelatch, Bulag's treasury]}
+#sub {A small stone key lies here.} {%0 [stonelatch, Bulag's treasury]}
+#sub {a square stone key} {%0 [force, Amon Othar]}
+#sub {A stone key with square ends lies here.} {%0 [force, Amon Othar]}
+#sub {a stonekey} {%0 [pillars, mattock armoury]}
+#sub {An old dwarven key made of stone has been left here.} {%0 [pillars, mattock armoury]}
+#sub {a tarnished metal key} {%0 [doors in VT]}
+#sub {A polished copper key is here.} {%0 [doors in VT]}
+#sub {a tinted brass key} {%0 [door, gilted shield place]}
+#sub {A brass key tinted with green spots has been left here.} {%0 [door, gilted shield place]}
+#sub {a tiny bronze key} {%0 [Marbledoor, outcast]}
+#sub {A small key made of bronze lies here.} {%0 [Marbledoor, outcast]}
+#sub {a tiny silver key} {%0 [1 of 2 doors up from knight in rdell]}
+#sub {__unknown_a_tiny_silver_key__} {%0 [1 of 2 doors up from knight in rdell]}
+#sub {a tiny stonekey} {%0 [stonedoor+prisondoor, Barbaras castle]}
+#sub {You barely notice a tiny stonekey on the floor.} {%0 [stonedoor+prisondoor, Barbaras castle]}
+#sub {a twisted iron key} {%0 [irondoor, entrance to BW]}
+#sub {An iron key, strangely wrought, lies here.} {%0 [irondoor, entrance to BW]}
+#sub {a twisted root} {%0 [wall, Ferny]}
+#sub {A small twisted root is sticking out of the ground here.} {%0 [wall, Ferny]}
+#sub {a very rusty key} {%0 [gate, nobleman east of tharbad]}
+#sub {A very rusty key lies here, crumbling into dust.} {%0 [gate, nobleman east of tharbad]}
+#sub {a wooden key} {%0 [secret, treevillage]}
+#sub {A wooden key has been left here.} {%0 [secret, treevillage]}
+#sub {a metal key} {%0 [Oakendoor, Necro / door, Tharbad chief]}
+#sub {A small metal key has been dropped here.} {%0 [Oakendoor, Necro / door, Tharbad chief]}
+#sub {a small iron key} {%0 [carpet/slab, to mda chest at Overseer / cheest, Illusionist + x-door, trolls]}
+#sub {__unused_key_description__} {%0 [carpet/slab, to mda chest at Overseer / cheest, Illusionist + x-door, trolls]}
+#sub {a small silver key} {%0 [AM quest item + AM chest / blackdoor, Sage's treasury]}
+#sub {__unused_key_description__} {%0 [AM quest item + AM chest / blackdoor, Sage's treasury]}

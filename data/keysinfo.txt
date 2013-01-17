@@ -1,0 +1,104 @@
+ 
+ 
+ 
+ 
+- KEY - 		- USE FOR IT, LOCATION -	- LOADS -		- LONG DESCRIPTION -
+
+[d]an ancient dwarven key	flagstone, circlet chest 	packrat			An ancient key of dwarven manufacture lies here.
+[ ]an ancient key		stoneslab, lww smugglers	chief of smugglers	An old looking key lies here.
+[d]an ancient silver key	book, OiE			Elrond/Sage		An ancient silver key is lying here, giving off a faint glimmer.
+[ ]a bent bone key 		stonedoor, silver bracer	lurg leader d crack	A slightly bent bone key lies here in the dust.
+[0]a big metal key		oakendoor, Rohir tower		guards			__unknown__a_big_metal_key__
+[ ]a big stonekey		stonedoor, BBT			BBT			A big, heavy stonekey has been left here.
+[ ]a black and silver key	slab, Old Wight			wight-warrior		A black and silver key is lying here.
+[ ]a black bonekey 		door, Nagrorh			Nagrorh			An eerie black key made of bone lies on the floor.
+[ ]a black key			portcullis, LB fort 		guards			A black key has been left on the floor.
+[ ]a black metal key		towerdoor, ABR tower		guards			A black key made of metal lies here.
+[ ]a black stone key		panels at great wheels		commanding orc, wgate	A black stone key, apparently to a dwarven lock, lies here.
+[ ]a blood-stained key		rack, OOC			orc torturer		A metal key, stained brown by drained blood has been dropped here.
+[ ]a bloody key			door/gorydoor, Mezagor		Mezagor			A small copper key, covered with blood, rests here.
+[ ]a blue steel-key		minedoor, Dunland mines		liche			A blue steel-key of dwarven make has been left here.
+[ ]a brass key			metaldoor, bandit leader	bandit leader		A brass key has been left here.
+[ ]a bright steel key		grille behind panels (wheels)	commanding orc, wgate	An untarnished steel key lies here.
+[ ]a castle key			irondoor, Malardils castle	rogue/Malardil		A heavy iron key with a large handle has been left here.
+[ ]a chained silver key		joist, AM treasury		AM			A small silver key with a fine silver chain has been left here.
+[r]a City Key			Tharbad gates			guards			A big City Key is lying here.
+[ ]a copper key			grate, pipeweed smugglers	experienced smuggler	A copper key has been left on the ground.
+[ ]a crude metal key		metaldoor, Filthy		large earth troll	A crudely wrought metal key has been carelessly left here.
+[ ]a decayed ironkey		sconce, BW treasury		BW			A very battered ironkey has been dropped here.
+[ ]a dirty key			trapdoor, bandit leader		thug at bandit leader	A dirty key lies on the ground.
+[ ]a dirty stone key		floor/ceiling, 2h-axe Eregion	chest, some s/e/d	A dirty key of stone has been dropped here.
+[ ]an ebony key			1 of 2 doors up from knight in rdell	Elrond		A shiny ebony key has been left here.
+[ ]an engraved silver ring 	crypt, near WC			WC			An engraved silver ring lies here.
+[ ]an engraved stone key	irondoor to overseer under trapdoor, Overseer	A stone key with some strange runes lies here.
+[r]a Fornost city key		Fornost gates			guards			A large, precious-looking key lies here.
+[ ]a fragile stone key		stonedoor, Unqalome		random mob in zone	A fragile-looking stone key lies here.
+[ ]a glass key			flagstone, DK			DK			A glassy key with an ebon handle lies here.
+[ ]a granite key inlaid with wood chest, Eregion 2 statues	statue			A stone key, inlaid with wood, lies here.
+[ ]a great bone key		trapdoor, Balrog rings key	whirlpool		A great key, carved from bone, rests here.
+[ ]a green iron key		prisondoor, NOC vellum place	olog-hai		An iron key with a green surface has been left here.
+[ ]a green key			halldoor, Eregion		hunter			A green key lies here, barely visible on the ground.
+[ ]a heavy iron key		door, Drain Pipe		great orc		A large key of black iron is lying here.
+[ ]a heavy steel key		stonedoor/rockface, OOC 	Gumak			A rather heavy-looking steel key lies on the ground.
+[ ]a huge iron key 		steeldoor/leaddoor, Shaghosh	Shaghosh		A large iron key is lying here on the ground.
+[D]an icy key			all doors, Balrog treasury	Balrog			A slender key almost escapes your notice.
+[D]an intricate steel key	Umuk's chest (bda)		orc behind greydoor	A steel key with a complex set of notches has been left here.
+[d]a jade-encrusted key 	archeddoor under hatch, Lorien	in the quest medallion	A jade-encrusted key lies here.
+[r]a Jail key			jaildoor, Bree			guard			A big iron key is lying here. 
+[ ]a jewel-encrusted key	jewelleddoor, Balrog rings key	Bulag's treasury	A beautiful key, encrusted with jewels, lies here.
+[ ]a key			secret, smugglers south Bree	Chief			A key is lying here.
+[ ]a large key			wall, Old Wight			brigand on OER e Bree	A large steel key has been left here.
+[0]a large flint key		__unknown_key__			__unknown_key__		__unknown__a_large_flint_key__
+[ ]a metal and stone key	cinderblock + tapestry, Eregion	grey spider		An old looking key made of metal and stone has been left here.
+[!]a metal key			Oakendoor, Necro		Gahruuk/Necro		A small metal key has been dropped here.
+[!]a metal key			door, Tharbad chief		Chief's 1.bodyguard	A small metal key has been dropped here.
+[ ]a mithril key		mithrildoor, Balrog rings key	Muranog's cabinet	A brilliant mithril key is here, shining brightly.
+[ ]an old bronze key		Wolfgate, NOC			chieftain		A bronze key, covered with a green patina, lies here.
+[ ]an old iron key 		rockdoor, GC 			wraith			An ancient key, wrought from iron, is barely seen here.
+[ ]an old key			chest, lord's treasury		Wight-lord		A key has been left here.
+[ ]an old ornate key		sarcophagus, Dunland vellum	stone statue		A small key cowered with dirt is lying here.
+[ ]a polished copper key	door + irondoor, DT		guards			A polished copper key is here.
+[ ]a rigid metal key		trapdoor, GH Old Ruins		bandit, Strange Shady	A metal key lies on the ground here.
+[0]a rusted iron key		orcs dungeon, Dunland		officer			__unknokwn__a_rusted_iron_key__
+[ ]a rusted key			Cryptdoor, Old Wight		Old Wight		A half broken rusted key has been left here.
+[ ]a shining key		archeddoors, Muranog's treasury	Muranog			A key, shining like a star, lies on the ground.
+[ ]a shop key			Tharbad shop key		shopkeeper		A shop key is lying on the floor
+[ ]a silvery key		door, GC room			GC			A key, made of perhaps tarnished silver, glints here.
+[ ]a simple metal key		cover, BM mines			spiders			A key made of a light metal is lying here.
+[ ]a skull key			burialtrap, near Hillmen	hillmen chief		A key shaped as a skull is lying here.
+[ ]a slightly bent iron key	jade bracelet chest		boil infested troll	A slightly bent iron key lies on the ground.
+[ ]a slimy iron key		vaultdoor, Icedoor		1 of 2 statues		A key made of iron lies on the ground.
+[ ]a slimy metal key		3 irondoors in Shaghosh area	lurg leader at Shaghosh	A metal key covered with some green slime.
+[0]a small brass key		__unknown_key__			__unknown_key__		A small brass key lies here.
+[ ]a small copper key		granite, Unqalome		pile of rocks		A small copper key lies here.
+[!]a small iron key		carpet/slab, to mda chest	Overseer		An iron key has been left here.
+[!]a small iron key		chest, Illusionist + x-door, trolls	wraith		A small iron key has been left here.
+[ ]a small key carved from ebony board + grating at Necro	Necro			A black key lies here.
+[!]a small silver key		AM quest item + AM chest	Malardil		A small key made of silver is lying here.	(con: It weighs half a pound.)
+[!]a small silver key 		blackdoor, Sage's treasury	Sage			A small silver key is glittering in the dirt.
+[ ]a small steel key		slab, Unqalome			fungus			A small steel key lies here.
+[ ]a small stone key		stonelatch, Bulag's treasury	Bulag			A small stone key lies here.
+[ ]a square stone key		force, Amon Othar		beast			A stone key with square ends lies here.
+[ ]a stonekey			pillars, mattock armoury	Mezagor			An old dwarven key made of stone has been left here.
+[ ]a tarnished metal key	doors in VT			guards			A polished copper key is here.
+[ ]a tinted brass key		door, gilted shield place	crow			A brass key tinted with green spots has been left here.
+[ ]a tiny bronze key		Marbledoor, outcast		nearby chest		A small key made of bronze lies here.
+[0]a tiny silver key		1 of 2 doors up from knight in rdell	Cirdan		__unknown_a_tiny_silver_key__
+[ ]a tiny stonekey 	stonedoor+prisondoor, Barbaras castle	prisonguard		You barely notice a tiny stonekey on the floor.
+[rd]a twisted iron key		irondoor, entrance to BW	spirit-soldier at GC	An iron key, strangely wrought, lies here.
+[ ]a twisted root		wall, Ferny			Ferny			A small twisted root is sticking out of the ground here.
+[ ]a very rusty key		gate, nobleman east of tharbad	nobleman		A very rusty key lies here, crumbling into dust.
+[r]a wooden key 		secret, treevillage		woman-archer		A wooden key has been left here.
+
+[!]a metal key			Oakendoor, Necro / door, Tharbad chief		Gahruuk/Necro		A small metal key has been dropped here.
+[!]a small iron key		carpet/slab, to mda chest at Overseer / cheest, Illusionist + x-door, trolls	Overseer	__unused_key_description__
+[!]a small silver key		AM quest item + AM chest / blackdoor, Sage's treasury	Malardil		__unused_key_description__
+
+[0] info about key not complete!
+[r] rentable
+[d] decays after use
+[D] decays in time/zone
+[!] another key with same name(s)
+ 
+
+ 

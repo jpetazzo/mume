@@ -1,0 +1,50 @@
+                              LOCKPICK IMPROVES
+
+
+Plain (non-upgraded) set adds 25% to pick skill, each upgrade (they all same) adds 3% more.
+
+
+1) Assassin Guildmaster.
+   Price - 15 gold.
+   Description: Two of the lockpicks have shallow notches on them.
+
+2) Master Assassin.
+The Master Assassin will improve lockpicks as a reward to the person who
+kills Malardil and brings the silver key to him. Just approach the Master
+Assassin with the key in your inventory, give him key after he asks for it, and
+remember to stay cool. Remember that you must be neither invisible nor sneaking
+while passing doorguards and entering MA. His reward is random: he always gives
+you 3 gold, then sometimes he gives you small pouch of paralyse, sometimes
+offers you picks upgrade (give him picks _after_ that). Btw it is also very
+easy to steal his own picks after getting your picks upgrade or pouch ;) Like
+80% steal needed.
+   Description: A couple lockpicks have a small bump near the tip.
+
+3) Angdil.
+   Price - an evil artifact weapon (HBM, ElfHewer, Morgul Blade, HFS, Black
+   Many-Tailed Whip) or Morgul Blade's sheath.
+   Description: The edges of most picks have been carefully sharpened.
+
+4) Dwarven Locksmith (dwarf only).
+   Price - pure Truesilver: a piece of mithril (silvery metal), mithril key
+   (Muranog cabinet) or shining mail piece. White chain doesn't fit!
+   Description: The lockpicks are extremely well tempered.
+
+5) Kraksh the Orcish Scout Guildmaster (orc only).
+   Price - a precious jewel.
+   Description: There is a strange lockpick, with a sharp protrusion on one side, in the set.
+
+6) Grey Cloaked Man (BN only).
+   Price - oak staff from a slain whitie.
+   Description: The lockpicks feel oddly light in your hand.
+
+7) Half-elven cut-throat.
+To get upgrade, give lockpicks to him - no messages like "he starts working
+on picks" or whatsoever. He does, and (btw) immediately! Kill him (or steal) to
+get picks back. It's better to give him tons of picks at one time - just to
+save yourself from excess trips to his hideout.
+   Free.
+   Description: Several of the picks have long, smooth grooves along their length.
+
+8) Saruman
+   Description: A finely shaped lockpick has been engraved with a white hand.

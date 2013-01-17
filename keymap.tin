@@ -1,0 +1,100 @@
+#macro {\eOP} exits
+#macro {\eOQ} {xinfo}
+#macro {\e[24~} {xinfo}
+#macro {\e[21~} {rip}
+#alias {xinfo} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
+#macro {\eOR} {info}
+#macro {\eOk} {xinfo}
+#macro {\eOS} {assist}
+
+#nop macro {\e[2~} {exits}
+#nop macro {\eOm} {examine}
+#nop macro {\e[E} {map rooms}
+#nop macro {\e[3~} {time}
+#nop macro {\e[3;2~} {help months}
+
+#nop -- WASD --
+
+#nop macro {\ew} {#echo North;north}
+#nop macro {\es} {#echo South;south}
+#nop macro {\ea} {#echo West;west}
+#nop macro {\ed} {#echo East;east}
+#nop macro {\ee} {#echo Up;up}
+#nop macro {\ec} {#echo Down;down}
+
+#nop macro {\eW} {scout north}
+#nop macro {\eS} {scout south}
+#nop macro {\eA} {scout west}
+#nop macro {\eE} {scout east}
+#nop macro {\eE} {scout up}
+#nop macro {\eC} {scout down}
+
+#nop macro {\eq} {time}
+#nop macro {\es} {xinfo}
+#nop macro {\er} {look}
+
+#nop -- HJKL --
+
+#nop macro {\ek} {#echo North;north}
+#nop macro {\ej} {#echo South;south}
+#nop macro {\eh} {#echo West;west}
+#nop macro {\el} {#echo East;east}
+#nop macro {\eu} {#echo Up;up}
+#nop macro {\en} {#echo Down;down}
+
+#nop macro {\eK} {scout north}
+#nop macro {\eJ} {scout south}
+#nop macro {\eH} {scout west}
+#nop macro {\eL} {scout east}
+#nop macro {\eU} {scout up}
+#nop macro {\eN} {scout down}
+
+#nop -- Alt-arrows --
+#nop \e\e[D\e\e[B\e\e[C\e\e[A\e\e[5~\e\e[6~
+
+#macro {\e\e[A} {#echo North; north}
+#macro {\e\e[B} {#echo South; south}
+#macro {\e\e[D} {#echo West; west}
+#macro {\e\e[C} {#echo East; east}
+#macro {\e\e[5~} {#echo Up; up}
+#macro {\e\e[6~} {#echo Down; down}
+
+#nop -- Shift-arrows --
+
+#nop macro {\e[1;2A} {#echo North; north}
+#nop macro {\e[1;2B} {#echo South; south}
+#nop macro {\e[1;2D} {#echo West; west}
+#nop macro {\e[1;2C} {#echo East; east}
+#nop macro {\eOo} {#echo Up; up}
+#nop macro {\eOj} {#echo Down; down}
+
+#nop macro {\e[A} {#echo North;north}
+#nop macro {\e[B} {#echo South;south}
+#nop macro {\e[C} {#echo East;east}
+#nop macro {\e[D} {#echo West;west}
+#nop macro {\eOo} {#echo Up;up}
+#nop macro {\eOj} {#echo Down;down}
+
+#alias xi xinfo
+#macro {\e[H} {ride}
+#macro {\e[F} {lead M}
+#macro {\e[E} {sneak}
+
+#macro {\eg} {get all all.corpse;give all m}
+
+#macro {\es} {say open}
+#macro {\ec} {call}
+
+
+#macro {\ei} {info travel: %t (%T) move: %j/%J}
+
+#macro {\eOu} {info travel: %t (%T) move: %j/%J}
+#macro {\e[1;2u} flee
+
+#macro {\e[H} {stand}
+#macro {\e[F} {rest}
+
+#macro {\ex} kx
+
+#macro {\e/} {#echo shoot X;shoot x}
+

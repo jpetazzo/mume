@@ -1,0 +1,71 @@
+#CONFIG           {AUTO TAB}  {5000}
+#CONFIG           {BUFFER SIZE}  {1000000}
+#CONFIG           {COMMAND COLOR}  {<078>}
+#CONFIG           {COMMAND ECHO}  {ON}
+#CONFIG           {CONNECT RETRY}  {15}
+#CONFIG           {HISTORY SIZE}  {1000}
+#CONFIG           {LOG}  {RAW}
+#CONFIG           {PACKET PATCH}  {0.00}
+#CONFIG           {REPEAT CHAR}  {!}
+#CONFIG           {REPEAT ENTER}  {OFF}
+#CONFIG           {SCROLL LOCK}  {ON}
+#CONFIG           {SPEEDWALK}  {OFF}
+#CONFIG           {TINTIN CHAR}  {#}
+#CONFIG           {VERBATIM}  {OFF}
+#CONFIG           {VERBATIM CHAR}  {\}
+#CONFIG           {VERBOSE}  {OFF}
+#CONFIG           {WORDWRAP}  {ON}
+#PATHDIR          {d}  {u}  {32}
+#PATHDIR          {e}  {w}  {2}
+#PATHDIR          {n}  {s}  {1}
+#PATHDIR          {ne}  {sw}  {3}
+#PATHDIR          {nw}  {se}  {9}
+#PATHDIR          {s}  {n}  {4}
+#PATHDIR          {se}  {nw}  {6}
+#PATHDIR          {sw}  {ne}  {12}
+#PATHDIR          {u}  {d}  {16}
+#PATHDIR          {w}  {e}  {8}
+
+#split
+
+#PROMPT {^%.%. %+>$} {\e[1;32m%1%2 %3\e[0;0m}
+#PROMPT {^%.%.>$} {\e[1;32m%1%2\e[0;0m}
+#PROMPT {^%.%.%.>$} {\e[1;32m%1%2%3\e[0;0m}
+#PROMPT {^%.%.%. %+>$} {\e[1;32m%1%2%3 %4\e[0;0m}
+#PROMPT {^%.%.%.%. %+>$} {\e[1;32m%1%2%3%4 %5\e[0;0m}
+#config {COMMAND COLOR} <058>
+
+#read windowbar.tin
+#read clock.tin
+#read rip.tin
+#read months.tin
+#read keysinfo.tin
+#read herbs.tin
+#read convenience.tin
+#read keymap.tin
+
+#alias gg {#gag {^$}}
+#alias ugg {#ungag {^$}}
+
+#alias idle {#ticker idle {prac} 60}
+#alias unidle {#unticker idle}
+
+#nop action {^%+, the %+ of %+, Year %d of the Third Age.$} { help %3 }
+#nop action {^%+ tells you '%*} {#variable reply %1}
+#alias re {tell $reply}
+
+#alias sellall {sa leather;sa shield;sa belt;sa shirt;sa pants;sa ring;sa hood;sa chain;sa metal;sa sword;sa knife;sa dagger;sa belt;sa mace}
+
+#nop highlight {R.I.P.} {bold yellow}
+#nop highlight {^%* has arrived from %*.$} {bold yellow}
+#nop highlight {^A%? %w has arrived from %*.$} {bold yellow}
+#nop highlight {^A%? %w %w has arrived from %*.$} {bold yellow}
+#nop highlight {^A%? %w %w %w has arrived from %*.$} {bold yellow}
+#nop highlight {^%* leaves %w.$} {bold magenta}
+#nop highlight {^A%? %w leaves %w.$} {bold magenta}
+#nop highlight {^A%? %w %w leaves %w.$} {bold magenta}
+#nop highlight {^A%? %w %w %w leaves %w.$} {bold magenta}
+
+#session MUME 127.0.0.1 4242
+
+#log append mume.log

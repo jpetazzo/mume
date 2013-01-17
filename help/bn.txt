@@ -1,0 +1,144 @@
+The Magic Users guildmaster is the Black Sorcerer. He either walks btw orc
+cave and DT (Dark Tower) or s.w./s of AT (Abandoned Tower).
+
+The cleric master a Dark Robed Man use to walk on Path to Angmar. On map it
+is east of R and all zones north.
+
+Thief master Grey Cloaked Man does not teach pierce, attack, missile or
+envenom. He patrols the Hills two zones east or R or the path at Lit Cave
+three zones south of R (Rocky Path south of open thornbushes, follow path
+all south, east, all north). He is the only BN master who is aggressive to
+orc players.
+
+The ranger master a Brown Robed Man use to patrol Eregion north zone of
+MM on map or the zones n.w/w/ww of MM. You find him if you have good track.
+He hides most of the time so you need sense life to follow him. He mends eq.
+But you cant give him a receipt back if you dont have sense life. There are
+two differnt Brown Robed Man so if you have an old receipt from the wrong
+one (only one man load at time) then he does not accept it. The recipts look
+a little different one of the masters write the room name on it the other
+write Shards of Numenor.
+
+
+   GUILDMASTERS
+
+There are four guildmasters, cleric/thief/sorcerer/ranger.  The
+difficulty in finding each is in the order I mentioned them, cleric
+being easiest and ranger being hardest.  The cleric guildmaster
+always loads on the "Path to Angmar" (not to be confused with
+"Angmarian Trail").  He never wanders far, so is easy to find.  The
+"Path to Angmar" is north of loudwater plains if you follow a trail
+northwest (not buinen heath).  The thief guildmaster doesn't wander
+far from where he loads, but can load in one of two places: a forest
+east of wild forest (2 zones east of R on the map) (be careful of
+wolves and bears), or on the trail winding upwards east of abr
+(abr = ancient broken road).  Sorcerer guildmaster will wander far
+and wide, but generally loads in one of two places: either near
+wolfgate by NOC (usually in the mountains just west and south of
+wolfgate) (1 zone south and 1 zone west of the O on the map), or
+south of ABR in green hills.  The ranger guildmaster used to be
+the hardest to find because he sneaks and hides, so lowbie bn's
+wont even be able to see him unless they are in the same room.
+I think the recent changes to sneak has made it so that he reveals
+himself, but it's still a task to find him.  Like the sorcerer he
+will also wander far and wide, but since he regens either near khuzur
+or near woodhall (sw of khuzur), it's not too hard to find him if
+you xp/map in eregion.
+
+If you see me logged in, and I'm not too busy, you can often get
+me to locate the exact zone the sorcerer or ranger is in at the time.
+Dont bother me for cleric or thief, I figure that with the above
+information, you should learn to find them on your own.
+
+There is no warrior guildmaster, and you cannot learn pierce from
+the thief guildmaster.  So if you're a warrior bn, you may wish to
+quit now.  People still seem to like playing thief bn's, but they
+don't generally go very far.  BN's are primarily mages and some
+clerics (you can't learn heal either, and cure serious only to about
+50 percent).  Of course, if you want to break the mold... good luck.
+
+
+
+I consider the following to be essential spells for a mage:
+
+Armour (Max)
+Lightning Bolt (Max)
+Store (Max)
+Earthquake (Max)
+Breath of Briskness (Max)
+Cure serious (Max)
+Fireball (Max)
+Shield (Max)
+Remove Poison (3 pracs is enough)
+Cure Crit (4 pracs)
+Ride (10 pracs)
+Climb (3 pracs)
+Swim (5 pracs)
+Pick (1 prac MINIMUM, more if you can spare it)
+Block Door (5 pracs minimum, more if you want a slightly stronger block)
+
+I consider the following to be recomended for any mage, though not essential:
+
+Track (105% +)
+Burning Hands OR Shocking Grasp (Not max, but enough it costs the minimum mana)
+Create Food (3 pracs)
+Magic Missile (2-3 pracs)
+Locate Life (6ish pracs)
+Teleport (5ish pracs if you just want to port around Tharbad, more for porting accross Arda.)
+Strength (5-8 pracs for +2 ussually)
+Wilderness(5 pracs)
+Dodge (1 prac, no more)
+Create Water (2 pracs)
+
+I consider the following to be good for any mage, though not essential:
+
+Charm (Max)
+Command (5-10 pracs, ONLY if you have charm)
+Create Light (2 pracs, really only useful as lowbie)
+Portal (Max)
+Watch Room (Especially good for portaller, 5 pracs)
+Shroud (2 pracs)
+Sense Life (1 prac)
+Detect magic (1 prac for pukemage-radar, more to detect watch room and portal destinations)
+
+I consider the following to be useful under certain circumstances, but not as universally useful as the above:
+
+Darkness (5ish pracs)
+Sleep (max)
+Leadership
+Enchant (10 pracs for max-enchant ussually)
+Scry
+Search (1 prac)
+
+I Consider the following to be viable under a limited set of circumstances, I DO NOT recomend them for the newbie BN, as they require higher levels to be effective:
+
+Sanctuary (Max)
+Break Door (Max)
+Silence (Max)
+Magic Blast (Max)
+
+I consider the following to be effectively useless for a BN mage:
+
+Blindness
+Energy Drain
+Harm
+Poison
+Remove Curse
+Summon
+Smother
+Backstab
+Escape
+Hide
+Missile
+Sneak
+Steal
+Chill Touch
+Detect Invisibility
+Dispel Magic
+Identify
+Locate
+Night Vision
+Ventriloquate
+Awareness
+Bandage (EXCEPTION: You NEED this skill 3-5 pracs UNTIL you get cure critical, then decay it)
+

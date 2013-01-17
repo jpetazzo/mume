@@ -1,0 +1,293 @@
+                               MISCELLANEOUS STUFF
+
+  1 ounce = x2,75
+  1 pound = x44
+  1 stone = 14 pound
+
+
+          Object         Weight  Other
+
++Sapphire ring               11  Magic, Bless, Anti-evil, Anti-neutral, Nosell
+                                        Can be affected by any following:
+                                        OB +10 / DB +10 / OB +5, DB +5 / Saving Spell -10, Attack Spell +10
++Jewelled ring                6  Magic, Nosell, Nosummon, Can be affected by any four of following:
+                                        Mana regeneration +4 (ruby) / Cure critical (garnet) / Strength
+                                        (topaz) / Remove poison (emerald) / Scout ring (opal)
++Ruby ring                    6  Magic, OB +5
++Iron ring                   14  Magic, DB +5
++Copper ring                 10  Magic, Saving Spell -10, Attack Spell +10
++Banded ring                 20  Magic, Cursed, can be affected by any of following:
+                                        OB +5, DB +5 / Saving Spell -10, Attack Spell +10 / OB +3, DB +3
++Nenya, the Ring of Adamant  45  Magic, Invisible, Bless, Anti-evil, Nosummon, Nosell, Mana regen +5, Saving Spell -30 
++White ring                   6  Magic, Mana regeneration +3, Saving Spell -10
++Diamond ring                 6  Nosummon
++Icy ring                     6  Magic, Nosummon, Eff vs fire
++Golden quartzite ring        3  Magic, Anti-evil, Nosell, Bless if used
++Strange golden ring         10  Magic, Nosell, Norent, Avoids your burning in Balrog's room
++Wooden ring                  3  Magic, Cursed, Randomly teleports you around
++Silver wedding ring          6  Treasure, Nosummon
++Engagement ring              6  Treasure, Magic
++Gold ring                    8  Treasure
++Silver ring                  6  Treasure
++Small tin ring               3  Eff vs disease
++Ring (Arda)                  2  Magic, Nosummon
++Unfinished band of gold      6  Treasure, for forgeing rings
++Azure ring                  10  Quest item
+
++Bright red amulet           44  Magic, Anti-evil, Eff vs fire, Saving Spell +10
++Black amulet                88  Magic, Evil, Anti-good, Anti-neutral, Eff vs light, Saving Spell +10, Nosell
++Mithril circlet             65  Magic, Anti-evil, Anti-neutral, Attack Spell +10
++Twisted crown               15  Magic, Anti-good, Anti-neutral, Attack Spell +10
++Necklace                    45  Magic, Bless, Anti-evil, Eff vs mental
++Old length of iron chain    45  Magic, Anti-good, Anti-neutral, Eff vs mental
++Star charm                  45  Magic, Evil, Anti-good, Anti-neutral, Eff vs lightning, Saving Spell +10, Nosell
++Small crystal phial         11  Magic, Glow, Bless, Anti-evil, Anti-neutral, Spellsave -20, Nosell
+                                        Three kinds: Bless (star pool)
++Pale blue stone             45  Magic, Bless, Anti-evil, Anti-neutral, Nosell, Gives x amount HP/Mana/MP if used
+
++Black scroll                20  Magic, Level 20 heal, strength and energy drain
++Blue scroll                 25  Magic, Bless, Level 20 heal, Nosell
++Purple scroll               10  Magic, Level 20 cure blindness, sanctuary, and poison, nosell
++Obsidian eye                45  Magic, Level 24 blindness, 3 charges, Nosell, Norent
++Vellum scroll               45  Bless, Level 25 protection from evil, bless, and breath of briskness
++Scroll which reads "ysafg"  35  Magic, Level 25 fear
++Ivory scroll (rune "E")     25  Magic, Level 20 heal, divination, and sense life, Nosell
++Ivory scroll (rune "M")     25  Magic, Level 20 blindness, protection from evil, strength, Nosell
++Ivory scroll (rune "N")     25  Magic, Level 20 call lightning, cure light, and cure blindness, Nosell
++Ivory scroll (rune "O")     25  Magic, Level 20 breath of briskness, detect poison, and poison, Nosell
++Ivory scroll (rune "Q")     25  Magic, Level 20 silence, create water, and shroud, Nosell
++Ivory scroll (rune "Y")     25  Magic, Level 20 sanctuary, divination, and create food, Nosell
++Clear ivory scroll          25  Magic, Level 20 sanctuary, detect poison, and protection from evil, Nosell
++Ebony scroll (rune "I")     25  Magic, Level 20 magic blast, chill touch, and bless, Nosell
++Ebony scroll (rune "N")     25  Magic, Level 20 call lightning, cure serious, and curse, Nosell
++Ebony scroll (rune "L")     25  Magic, Level 20 magic blast, detect poison, and sense life, Nosell
++Deep ebony scroll (rune "I")25  Magic, Level 20 magic blast, detect evil, and poison, Nosell
++Deep ebony scroll (rune "M")25  Magic, Level 20 blindness, shroud, and poison, Nosell
++Deep ebony scroll (rune "N")25  Magic, Level 20 call lightning, curse, and earthquake, Nosell
++Deep ebony scroll (rune "Q")25  Magic, Level 20 silence, night vision, and curse, Nosell
++Twisted rock fragment       90  Magic, Level ?? break door, Nosell
++Black candle                40  Evil magic, Level 14 sleep, 1 charge, Move regen -3, Saving Spell +10
++Small pouch                 45  All in room expect yourself paralyze for 3-4 secs
++Fragile parchment           10  Magic, Turns back damage from both lightnings
++Deep black orb             660  Magic, Evil, Anti-good, Eff v light
++Palantir of Amon Sûl      4840  Magic, Bless, Nosell
+
++Softly glowing green cup    20  Magic, Nosell
+                                 It increases mana by 10 and mana regeneration by 10 for 2 hours.
+                                 After that, it increases mana by 5 and mana regeneration by 5 for 4 hours.
+                                 After that, it decreases mana by 5 and mana regeneration by 3 for 6 hours.
+
++Pale orb                    90  Magic, Nosell, Part of 'watch room' kit
++Small marcasite pendant     45  Magic, Nosell, Part of 'watch room' kit
+
++Wolfskin wristband           6
++Black metal wristband       25  Magic, Bless, +2ob/-3db if aggressive, -2ob/+2db if wimpy
+
+
++Red ruby                    14  Bless, Glow
++Torch                       35  Light
++Lantern                     90  Light
++Hooded brass lantern       130  Light
++Candlestick                265  Light
+
+
++Sable pouch                 25  Container; Magic, Eff vs fire/cold, Closeable
++Belt pouch		     40  Container;
++Large sack                  45  Container; Closeable
++Saddlebag                  130  Container; Closeable
++Leather backpack           175  Container; Closeable
++Leather satchel            220  Container;
++Clay jar                   530  Container; Closeable
+
++Small jewel-box             45  Container; Closeable
++Inscribed wooden box        45  Container; Closeable
++Wooden box                 220  Container; Closeable
++Rickety wooden chest      2420  Container; Closeable
++Simple chest              3170  Container; Closeable
+
++Leather saddle             310  Container for mounts; Magic, Nosummon
++Saddlecloth                310  Container for mounts; Magic, Nosummon
+
++Moneybag                    20  Container; Money
++Keyring                     30  Container; Keys
++Leather pouch               45  Container; Slingstone quiver
++Laced quiver               130  Container; Arrows quiver, Magic, Eff vs fire
++Bolt-case                  130  Container; Crossbow bolt quiver
++Quiver                     175  Container; Arrows quiver
+
+
++Silver goblet                1  Drink container; 6    water
++Exquisite wine glass        10  Drink container; 38   water
++Golden cup                   6  Drink container; 45   water
++Cup                         10  Drink container; 50   water
++Jewel-encrusted goblet       6  Drink container; 85   water
++Small bottle                14  Drink container; 90   water
++Wine glass                  45  Drink container; 90   water
++Large glass jug              1  Drink container; 130  water
++Flagon                      10  Drink container; 130  water
++Dark coloured flask         10  Drink container; 130  water
++Aged silver flask          130  Drink container; 175  water
++Bottle                     130  Drink container; 175  water
++Beer mug                    90  Drink container; 180  water
++Water skin                  45  Drink container; 220  water
++Fine bottle                130  Drink container; 260  water
++Smelly bladder              90  Drink container; 265  water
++Pint                       130  Drink container; 265  water
++Worn clay bowl             130  Drink container; 305  water
++Large skin                  90  Drink container; 310  water
++Dented pail                265  Drink container; 440  water
++Small barrel               350  Drink container; 1145 water
++Barrel                    1935  Drink container; 3385 water
+
++Ornamented sheath           45  Sheath, automending, for one blade only
++Black sheath                45  Sheath (for Morgul blade only)
++Weapon sheath               45  Sheath (for blades)
++Weapon harness              45  Sheath (for crushing/2H weapons)
++Sturdy weapon harness       90  Sheath (for crushing/2H weapons)
++Ornate scabbard            130  Sheath (for blades)
++Leather baldric            130  Sheath (for slashing/stabbing)
+
+
++Narrow grey boat          1145  Boat
++Canoe                     1540  Boat
+ Light boat of reeds       1600  Boat
++Raft                      3700  Boat
+
+
++Small elven bag             33  Magic, Nosell, Provides unlimited food and water
+ Delicious bannock           25  Food; (rumor: never decays)
++Lembas wafer                35  Food; Magic, Bless, Anti-evil, Anti-neutral
++White bread                 35  Food
++Magic mushroom              35  Food; Magic, Decays in time
++Sack of flour               90  Food
++Egg                          6  Food
++Chunk of salt               90  Spice
++Sack of pepper             175  Spice
+
+
++Blue crystal                45  Treasure; main component for foci items
++Corberyl                     6  Treasure; for embedding (+10 attack spell)
++Star sapphire                5  Treasure; for embedding (-20 spell save)
++Lustrous opal                6  Treasure; for embedding (+10 attack spell)
++Chunk of metal             175  Treasure; for embedding (+5 parry)
++Huge silvery bracer        175  Treasure; for embedding (+5 parry)
++Bar of iron                310  Treasure; for embedding (+5 parry)
++Topaz                        6  Treasure; for making pale blue stone
++Brilliant adamant           11  Treasure; for making crystal phial
++Piece of silvery metal      33  Treasure; lockpicks upgrade in BM
++Large garnet                11  Treasure
++Amethyst                     6  Treasure
++Lustrous green emerald      10  Treasure; Magic
++Faintly glowing stone       11  Treasure; Magic
++Beautiful diamond            3  Treasure
++Emerald pendant             14  Treasure
++Fine silver bracelet        25  Treasure
++Golden elven bracelet       25  Treasure
++Silvery elven bracelet      25  Treasure; Magic, Eff vs mental, Nosell
++Small bracelet              25  Treasure
++Jade bracelet               19  Treasure
++Silver bracer               11  Treasure
++Silver cloakpin             30  Treasure
++Sun-emblazoned cloakpin     14  Treasure
++Enamelled cloakpin           8  Treasure
++Small silver pendant        14  Treasure; Nosell
++Golden necklace             33  Treasure
++Grotesque necklace          45  Treasure
++Necklace of bones           45  Treasure
++Bar of gold                130  Treasure
++Nugget of gold              14  Treasure
++Silver nugget               33  Treasure
++Bronze medallion            90  Treasure
+ Green brooch                    Treasure
++Mallorn-leaf brooch          6  Treasure; Anti-evil
++Sword-shaped brooch         11  Treasure
++Iron brooch                 15  Treasure
++Silver-leaf brooch           5  Treasure; Magic, Bless, Anti-evil, Nosell
++Long and scaly snakeskin    40  Treasure; tanner makes snakeskin belt from it
+ Small daisy-chain           30  Treasure
++Glittering spearhead        44  Treasure; Magic, Bless, for making blackened spear
++Silver crown                22  Treasure
+
++String of dwarven bones     45  Nosell; Quest item for HoB and BM citizenship
++Circlet of golden flowers   30  Nosell
++The Huge Shovel            485  Trolls can dig tunnels with it to ground
++Stone                       30  Nosell; whetstone
++Set of lockpicks            45  (same stats for strange set)
++Tharbad gate key           265  Rentable key
++Fragrant-smelling bag       45  For mixing herblores
++Crude herbal kit           175  For mixing herblores
++Pan                         20  For cooking meat/bannocks/etc
++Fine elven rope            135  Helps with climbing, Anti-evil
++Long rope with a hook tied 310  Helps with climbing
++Sturdy rope                310  Helps with climbing
++Crude orkish horn           90  Orcs get +10-15ob when used
++Rough wooden horn          220  Ineff vs fire, Nosell, Roots will let loose if used
++Golden harp                 90  Instrument
++Hunting horn                35  Instrument
++War horn                    35  Instrument
++Lute                        90  Instrument
++Shiny flute                 45  Instrument
++Flute of bone               45  Instrument; Evil
++Pair of orkish war-drums   175  Instrument
++Set of reed pipes            6  Instrument
+
++Infusion                    19  It purges all other potion effects and cures flu and amibia.
+                                 Mana +12 and mana regeneration +6 for 1 hour.
+                                 After that, mana +6 and mana regeneration +3 for 1 hour.
++Wooden pipe                  6  Increases mana regen 1.5x for some hours, if smoke it once per day.
++Some pipe-weed               1
++Flask of miruvor            10  2x mana, hp and mp regen for some ticks
++Flask of orkish draught     30  15 hps -> 30 moves, Increases move-regen, poison non-orcs
++Small metal flask           30  Zaugurz-draught
+
++Splintered piece of        440  Magic
+a broken shield
++Walking stick               45
++Stout oaken stick           45  Move cost -4%
++Ornate parchment             1
++Brown leather scroll       175  South Ingrove area map
++Riding whip                 30
++Dwarven beard-comb          25
++Cross-pein hammer           25  Magic, Nosell, Can mend equipment (needs fire and use hammer xxx)
+ Bloody pair of elf ears     11
++Silvery-green leaf          11  Map of Caras Galadhon
++Spoon                       14
++Quill pen                   11  To write notes
++Piece of paper               1  To write notes
++Die                          5
++Wooden top                   5
+ Teddy bear                  25  Hint: sqeeze it! ;-)
+
++Bloody piece of chitin    1320  Nosell
++Strange white skull        620  Cursed, Nosell
++Pair of tongs               90
++Alchemical supplies       1935
++Metal file                  39
++Shepherd's crook            90
++Fishing net                 19  For fishing
++Scalp                        3
+-------------------------------------------------------------------------------
+  Weight - in units: each unit = 10g, 44 units are 1 pound. For weapons is also
+shows minimum STR needed to wield it: for 1H - weight/15, for 2H - weight/22.5
+  Glow - for ruby: permanent light; for artifact weapons: starts glowing when
+evil creatures are near.
+  Magic, Evil magic - can not be enchanted.
+  Anti-evil/neutral/good - evil/neutral/good-aligned person can not use this item.
+  Nosell - you can not sell this item in any shop.
+  Wizlight - gives to you ability to see in the dark as orcs/trolls do.
+  Eff vs race/material - for weapon: inflicts more damage for opponents of that
+race/opponent in that type of armour (25% more damage).
+  Eff vs spell - can not be dispelled with 'dispel magic' spell.
+  Eff vs fire - less damage from fire spells: fireball, burning hands and dragonfire.
+  Eff vs light - less damage from light spell: colour spray.
+  Eff vs acid - protected from slugs' acid.
+  Eff vs water - takes less moves while swimming.
+  Eff vs cold - for shoes: takes less moves in winter; for other - protects vs flu.
+  Eff vs poison - saves against poisoning.
+  Eff vs mental - saves against mental spells: blindness, sleep, hold, fear, silence, charm.
+  Ineff vs [xxx] - makes less damage to [xxx]/is less protected against [xxx].
+  Negative spallsave - GOOD, decreases damage from all attack spells.
+  Positive spallsave - BAD, increases damage from all attack spells.
+  Attack spell - increases power of your attack spells.
+
+

@@ -1,0 +1,1367 @@
+                                 SOME STRATEGIES
+
+
+
+    Theddin's Mines (ancient spiders)
+
+  Location: From BM secretary 2w max s, wait till Theddin comes and say him
+"explore" after long conversation; then go down. Though, dwarves will not allow
+evil-aligner to enter, but there is another entrance (heavydoor) from outside
+BM - decent str needed to open it though.
+  Strategy: Zone is mudlled; at each repop the exits from all 100 rooms
+randomly change. But it is not true random: you will never be blocked in some
+rooms after repop because between each two rooms in these mines after each
+repop always is one way, and one only (exception - spiders' lair with secret
+exit). Spiders pop in their lair, and a while later they start to move randomly
+in the maze. They are about level 16, so they don't hit too hard and have an
+average amount of hps.
+  Main danger of these spiders is that they can trap you in their web! This
+does not happen instantly, though. First you will get a message that the
+spiders start producing the web (it is not dangerous). Then you will see the
+second message:
+
+    A great, dark spider quickly begins to weave a tight, sticky web around your body!
+
+Flee if you are solo, or be ready to flee if in group. Then you will see third:
+
+    A great, dark spider burdens your movement wrapping you layer after layer!
+
+Flee after that! and spam around until you receive this message:
+
+    After some struggle you remove the last web on you.
+
+If you don't flee, soon you will see message containing words "faster and faster
+around you". After this (fourth) message you will not be able to flee anymore -
+it is your last chance to narrate about your slow death in the cocoon. After
+fifth message you will become cocooned - that means you must wait for death
+(about half-hour rl) or wait for someone to come and free you. Inside the cocoon
+you will not be able to do anything, even check your inventory or narrate.
+Though, after the last change you can tell from inside coccoon.
+  So: If you are a mage, always keep stored 2 fireballs (solo spider dies in
+2 fireballs + 1-2 bolts). Warrior should have maxOB equipment and be in
+aggressive mood - just fight some/spam to remove webs. Same goes for thieves:
+spiders see sneakers, so backstab is impossible. On low hps spiders spamflee,
+so be ready. After finishing all spiders in the maze, go to their lair (s from
+large sign, always same exits). There are usually 2-3 spiders in the same room,
+so for mage will be good to store some earthquakes, but hitter must lure
+spiders outside one by one.
+  After killing them, get key from one of the corpses, open cover down from
+main room in their lair, turn swim on and jump down. You must have at least
+60-80% swim for swimming underwater. When you notice a glinting item, type
+reveal key. The spider's key is for the door before the chest (in north-western
+part of mines, some N of mineshaft up), glinting key is for the chest.
+  Level: Hero mage with store/warrior/thief with good bow/cleric with blind;
+also needed ultra-stable link or(/and) labfriends ;)
+  Loads: Steel-shafted mattock, metal wall shield, amethyst, some gold.
+
+
+    Amon Othar
+
+  Location: Northern Blue Mountains.
+  Strategy: First find the crazed dwarf, kill him and get the pry-bar from his
+corpse (it doesn't always load). Go w n 6e n e from him, open bushytangle, kill
+rattlesnake (hero thief can kill it in one fang/brd stab, otherwise get a caster
+with remove poison). Then unlock/open tombstone (pry-bar is the key for it - you
+can bash or break it though), go down and kill ghost.
+  Next is the stone beast and 2 stone statues. Open block and start stab/flee or
+cast/flee. Kill beast first - it's more dangerous (bashes and poisons), but
+has less HPs. Get key from beast's corpse, unlock/open force and go d, 2e.
+  The passages will close before and behind you, type search (sometimes even
+char without "search" practised can find hidden plate). Note that 1) only 2
+players can search at the same time; the more PER you have, the faster you will
+find plate; 3) alert paranoid helps too; 4) don't lose much time inside, or
+searing oil will be poured on you: it does like 120 damage, so non-warriors
+enter on full hps only!
+  After that in the room 2w of you (where you were already) 3 more statues will
+appear and guard way back. Kill them first and go 3e again. Kill the last 3
+statues.
+  To get the treasure you must have at least two chars with 16+ STR (I
+will name them Stout1 and Stout2). Stout1 must pull lever in the room that had
+the last 3 statues - this will open a passage s. Stout2 - go s. Stout1 - push
+lever (passage s will close), Stout2 - pull lever in his closed room (will open
+passage n from Stout1 and Co). Then someone (or even all group) - go n, get
+treasure and go back s. Then Stout2 - push lever (passage n from group will be
+closed), and THEN Stout1 - pull lever again to open passage s. If you will
+confuse last two operations, Stout2 will die... Amon Othar is nonarrate; zone
+will not repop while at least one player is in rooms under force.
+  W from block are portable rooms, others noport.
+  Level: Hero mage with earthquake (slow); hero mage with sleep (sleep 2 out of
+3, nuke/flee one by one); legend defence mage (just nuke/flee!); legend mage
+with 4 charmies and heal (fast); hero thief + healer/blinder; hero buffer + 2-3
+casters. And also 2 lowbies to push levers.
+  Loads: Mighty dwarven axe, metal wall shield, embellished longbow, laced
+quiver with 12 silver-tipped arrows in it, opal, 5 gold, huge silvery bracer
+(on statues).
+
+
+    New BM zone
+
+  Location: zone n from Forlond
+  Strategy: first you need to receive the oaken rod from either the young Dwarf
+or the Shepherdess (just enter their rooms, and: ask dwarf in Khuzdul about
+'Unnumbered Tears', or ask elf in Sindarin 'Nirnaeth Arnoediad'). Listen long
+story, after that one of them will get rod from sack and give you (though, it
+loads rarely, chance is like 10-15% per zonerepop).
+  Go to the mystical rings some sw of Shepherdess and look at glyphs on the rod.
+There are seven different types of glyphs on the rod, and the mystical rings
+contains of seven stones with diffenrent paintings. Now simply place the rod
+(ex. "put rod wedding") in the right stone and in the right order. Here is a
+list of glyphs vs. stonepaintings. 
+
+   Mistletoe - Wedding
+   Tree - Hunt
+   Flame - Battle
+   Cloud - River
+   Star - Mountain
+   Harp - Feast
+   Crown - Funeral
+
+  If you did this right, then stonedoor to the west will open. Go w, and now
+you're inside. Just small advice before entering: don't be afraid of all these
+messages about "something cold touches your arm", "something moving in the
+corner of your eye" - it's just mudlle effects, they don't hurt at all :)
+  Go s, e, d, n, push or pull handle (no difference). If you don't, to the
+north is a trap and you will fall down one room. 2 mobs here - mottled snake
+and watersnake, kill them. In this room a trapdoor is locked up and a secret
+west, hiddenladder, open it and go w.
+  Now you're back from room you fell down from. There is hidden exit w (wall) -
+it is another way out. Now you should go e. In this room are 1 stone beast and
+1 stone statue, you must at least kill the statue to be able to go s. This room
+has exit s and a hidden exit e (dragonhead).
+  Go s first, now you're in the lever room. The levers should be set to todays
+date, by either pulling or pushing it. I guess it will clean up the load room
+from water, so you don't have to fight the mobs underwater. After this go s
+kill statue, go either es or se and kill 1 beast and 1 statue. Here is a hidden
+exit e (secretdoor), open it and go e and loot all. Now go back to lever room
+and go n.
+  Open dragonhead and go e, d and s. Here are 2 nonaggresive dwarf statues and
+a sarcophagus. If you try loot they will attack you. Kill them and loot helmet.
+  Level: Same as for Amon.
+  Loads: Large visored helmet, full chain mail set, battle axe, 2H axe and
+sometimes metal breastplate.
+
+
+    Nagrorh the Abomination
+
+  Location: From Greenholm junction - 4w 2s 2w open trunk(fungi) s e open crypt
+d e pick/open plaque s.
+  Strategy: When you open one-way plaque, he will instantly cast sanctuary on
+himself, so either go west from him, or rest outside for 3 ticks. Then start
+cast/flee or stab/flee him. Remember, after last changes he tracks inside his
+2 rooms, so be careful! Irondoor e from him is way out, door s is locked with
+his black key. If you have his bone key already, room s is safe to rest (or to
+lock Naggie in s room, and rest outside) - because he doesn't lock/unlock or
+even close/open this door even if he has key himself ;) Don't stay too much
+time in his room, because he summon spectres (max 2 of them). Spectres
+disappear in some ticks (5?), you can kill them though.
+  Level: Hero thief/caster; takes VERY much time for solo warrior.
+  Loads: Enruned robe, 5 gold.
+
+
+    Old Man Willow
+
+  Location: From hunting place near Bombadil's house: w n 2w s 2w n w n 2e
+(exits mudlled)
+  Strategy: He is the mob that loads the blue crystal - a component that is
+needed for all foci items. He hits very hard - about 50 damage. He is not
+aggressive, but if you attacked him at once, fled and came back - he hits
+INSTANTLY. He is a legend mob, and solo player will get 100k xp for killing it.
+  For thief: stabbing him is piece of cake as he have very bad awareness. Just
+stab/flee.
+  For mage: cast shield; {cast armour; (control weather until lightning; store
+2 calls; unstore em on willow; sleep full) x 2} - until dead.
+  For warriors: cleric sanc warrior with max wil, heal him during fight, no
+attack spells, just plainly hit it to death.
+  For buffer+casters: plainly nuke it to death, usually in 2 rounds. He's smart
+mob btw, and if whole group re-enters, he will not hit the buffer but will pick
+a caster (maybe lowest hps). That's why it's good to send buffer in first on
+second round.
+  For charmies: charmer goes in and orders all 'hit willow'. After that all
+casters unstore their mana on willow while it's killing one butterfly per hit!
+  Level: Legend thief; legend mage with call lightning; hero thief+cleric with
+sanc; some warriors+legend cleric with sanc; hero buffer+cleric with sanc+
++several mages; legend buffer+some mages; 4+ mages, one of them with 12-15
+charmed lev1 mobs (like snakes, butterflies, etc - the higher is charmies level,
+the harder is to charm that much).
+  Loads: Blue crystal.
+
+
+    Willow Soul
+
+  Location: Sleep at the roots of Old Man Willow and you will find it! ;-)
+  Strategy: Once willow drags you inside, his soul will remove all eq from you.
+So better remove eq before the fight and give it to a friend who will stand
+outside. If no friends around - remove your eq and put it in your container
+(backpack). After the fight just pick up your backpack.
+  Drink from your skin and eat as late as possible before giving away/removing
+your eq - because you will not be able to pick up container with food or water
+inside willow.
+  After all of the party wakes up from willow's magical sleep, sanc your buffer
+and nuke soul - he hits almost as hard as willow, but has much less hps. After
+the soul is dead, you will be able to pick up your eq again, but DO NOT type
+"get leather", "get all.leather" etc, because black sword loads in leather
+satchel! This sword is mudlled - it auto attacks EVERYONE who is in the same
+room as you. Once you get the satchel, it will jump into your hands and you
+will instakill your naked friends.
+  Anyone who wants black sword must remove his weapon first - because sword
+will force him to drop it otherwise. Then cleric must blind him (remove all
+spellsave eq before it). Then blinded he must get sword from satchel, it will
+jump in his hands - but as it is cursed, impossible to remove it. Cast remove
+curse on person with sword, and call Tom Bombadil to get out. One with sword
+must SPAM "remove sword" all the time while his friends and (especially!)
+Bombadil is in his room. And also small note: if someone outside starts killing
+willow while you are inside - you will mobdie!
+  Btw, as calling Tom is ONLY way out - try NEVER be caught by willow as darkie
+(because Tom doesn't help darkies to get outta willow for some reason ;)).
+  Level: Hero buffer+cleric with sanc, blind & remove curse+hero mage.
+  Loads: The Black Sword.
+
+
+    Wight Lord
+
+  Location: From Bombadil's hunting place: max e open hatch 2d 3s w s e open
+barrel 2d s 2e s 2d e 2s - e is his area (random exits); back from lord's room
+- w n 2e n max w.
+  Strategy: In lord's 6-8 rooms with random exits walk 6 wight nobles, and 2
+more always stay in his room. Kill these 6 first (for solo player - label one
+noble, nuke him to death, rest full and repeat). Then kill nobles in lord's
+room, flee (non-engaged just walk west) and rest full again. There is ONE safe
+room to rest in lord's area - n from Sacrificial Hall (e from this safe room is
+way out - one-way).
+  Lord and the nobles are undead, so colour sprays rocks vs them. He
+drains mana from casters, so either get enough casters or have bows also (not
+spells only!). Lord hits hard, but not as hard as willow and kraken, so no sanc
+for buffer needed.
+  After lord dies, get loot and key, open statue e from him, go e, unlock/open
+chest and get all from it; key breaks after you unlock chest.
+  Level: Legend cleric or thief; hero buffer + some hero casters; legend buffer
++ legend caster.
+  Loads: On lord: fine grey cloak, ruby ring, wightblade (all rarely), heavy
+morningstar (if blade not popped), key for chest (always); in the chest: blue
+scroll.
+
+
+    Kraken
+
+  Location: Old Fornost, from great hall: s open door d s w open floorstone d s.
+  Strategy: Kraken is large evil octopus, it lives in the old lake under Old
+Fornost. All group members should have boats (even ones who swim well - because
+one or two failed swims while fleeing from Kraken means mobdeath). First wait
+for two tentacles and kill them - otherwise tentacles will drag all who flee
+from kraken back to his pool, which means mobdeath too. Then rest for full
+hps/mana, walk in and nuke it.
+  Always sanc your buffer before fight, because kraken hits very hard (almost
+same as willow), and if tentacles repop during fight - buffer will be dead
+for sure, and some casters maybe too: they can't free their hands (read: can't
+cast) if trapped by tentacles.
+  Kraken is in water, so fireballs (or any other fire) are ineffective vs him.
+After it dies, open secret rock, go east and quickly type: open chest, get
+all chest - because the strong current will move you away from chest some secs
+later (and of course stream is one-way).
+  Level: hero buffer + hero cleric with sanc + some mages.
+  Loads: Dunadan blade, 5 gold.
+  
+
+    Light shields
+
+  Location: See Maps
+  Strategy: To achieve shield of Cardolan you must go to Malardil's castle some
+nw of Tharbad and kill Malardil. All doors in his castle are locked, and most
+can be opened with castle key. Two mobs load this key: Malardil himself and
+rogue above hatch (s u from entrance). First kill gypsy woman: she casts.
+Malardil is soloable by any legend level char, and also easy to stab at hero
+level. Shiny dagger, amethyst and silver key for MA picks upgrade (in the
+pouch) loads on Malardil too. All castle is portable.
+
+  Arthedain loads on the ground in Bill Ferny's house. Kill Ferny and all his
+thugs (they all soloable by any class on hero level), get root from Bill's
+corpse - it's key for secret wall east of him (wall flagged NOFLEE btw); go
+east, pick/open floorboards and go down: shield doesn't always load btw.
+Ferny's room is portable, dunno about backrooms.
+
+  Gilted loads on a ghost some e from Bree. It isn't much harder to kill than
+other undeads on Arda. Kill black crow near entrance to Old Wight (with magic/
+arrows, because it flees), loot key, go to Noble's House, u from it is locked
+door n. Unlock it with this key, go n. Then you will need to 'winch' until
+platform goes up. Go n, wait until platform goes down, and proceed d to ghost.
+  Though, on high levels you can pass all this mudlle just by picking/bashing
+doors (more than 80% pick needed), and also you must be good climber to go up
+to platform.
+  Shield pops rarely (it is why even legends sometimes walk with Cardolan/
+/Arthedain instead of gilted). Ghost also often loads b&s surcoat and eket.
+He can also cast fear, so, watch out and be ready to for running to your corpse
+if you are weak-hearted ;)
+  Only portable room here is behind bushwall.
+
+
+    Necromancer
+
+  Location: From Nen-i-Sul bridge 5e, s, open hole, d is his area.
+  Strategy: First kill the half-orc and get the pouch from his corpse - it
+contains Necro key. Necro himself is located some north, behind closed and
+locked door. Ways down before his door are dts! Once you go in, Necro will
+close and lock door, so make aliases to unlock/open to flee if you aren't sure
+that you can kill him! This door is nobreak/nobash, btw. No point for buffer to
+attack him - skeletal warriors will rescue him instantly anyway. Don't nuke
+skeletals - they will die at the same moment that Necro dies, and even if you
+will kill them, Necro will summon new ones instantly.
+  Warrior must just buff skeletals and rescue caster, caster nuke Necro. After
+his death, get ebony key from his corpse, unlock/open board and go e for his
+treasure. Then unlock/open grating and go out (down). Btw: board is noblock, so
+if you already have ebony key, no one will be able to trap you in here.
+  Level: Hero maxabsorb warrior + hero caster; very hard but possible for solo
+mage/cleric/shooting thief (nice link needed for solo). For cleric - blind him
+first.
+  Loads: Red amulet in pouch; fear scroll, fang and key for DK entrance (silver
+rod) in his treasure room in chest.
+
+
+    Dead Knight
+
+  Location: From Nen-i-Sul bridge 5w, 2n, open slab, 2d, insert rod runedoor,
+open runedoor, e is his area.
+  Strategy: If you have mounts, better to leave them behind culvert (s w n from
+slab). To open slab you need to wait for moonrise (got to be full moon or almost
+full moon [3/4 waxing]). Its possible to enter during 2 moonrises (1 is 3/4
+waxing, 1 is full moon).
+  To open runedoor you need to kill Necro first and loot his silvery rod.
+  From runedoor 7e s e pick/open fireplace e are vambraces+greaves in locked 
+chest (good pick needed, like 80% (including picks)). Try several times if you 
+can't pick chest after first attempt - sometimes it takes like 10-20 tries.
+  From runedoor 5e 7s is Knight's 3x3 area. There lives DK himself, 10 or so
+skeletal warriors, and shadowy priest which summons shadows and 1 sanced spirit.
+Kill them all. If you are too few/have not too much time - just lure DK and 3
+his skeletals n from his 3x3 hall. But in this case lurer must be warned: if
+there is at least one skeletal on entrance - it will not let him pass back from
+hall: need to lurk around and wait until skeletal goes out, or kill him. And
+also one more warning: Knight randomly switches targets, so buffer must spam
+rescue. Loot Knight's glass key, unlock/open flagstone in the center of the
+hall and go d.
+  For solo it's easy to storequake skeletals (they die in like 3 quakes), but
+dont cast more than one quake at once: Knight bashes, which is deadly in this
+situation.
+  From this room starts the maze. Dirs in maze are individual, and written on
+libram which loads on Necro: each must "read example" for exact dirs, and walk
+in the maze solo (is exactly 14 rooms from below the Great Hall). You even don't
+need to unfol leader - you will be not able to follow him in the maze anyway.
+BUT! If you want not just skip maze, but also kill all mobs in it - go step by
+step: each uses his own dirs, but you all appear in same room! And also: if
+libram doesn't load, it's still possible to pass maze: you just need to have
+one person with dirs (i.e. one who did DK before). He must walk first, and drop
+1 to 13 copper pennies in each room; others just try to find a way from current
+room to a room with bigger amount of coins. If someone got lost - just try some
+random dirs until you get into start room with skeleton (pretty much of "wrong"
+dirs lead exactly to the start room), then start again. 8 souls pop there.
+  After the group gathers again in the room with a mirror, "enter mirror". It
+is portal to one more 3x3 area, with exit s "gateway". From behind gateway any
+of 3 dirs will randomly lead you either to cloudy area (safe room, but you will
+arrive at 1hp, 0mov, 0mana, all exits lead to Nen-i-Sul area) or to sentinel
+(non-aggro mob which guards the palantir of Amon Sul). Sentinel have much hps
+and good defence, and also he's good-aligned. To kill him is enough to have a
+caster with align over well-meaning (to not suffer from align loss), tho it's
+faster with buffer. Attack warrior can solo it too (bash/flee), dunno for thief.
+  Level: Hero buffer + some hero casters; 5+ hero warriors; legend thief; legend
+mage with quake.
+  Loads: greaves/vambraces, mw and bastard sword; dark broadsword/shield, fine
+metals and great helm on Dark Knight; The Palantir.
+
+
+    Wight Captain
+
+  Location: From OER some east from brush (there is also clover loading on
+the road) - 3s 2e 2n open door n 2u.
+  Strategy: This place is quite small, like a tower, exits are only up/down.
+  If you are caster - make sure your armour is fresh, and shield is up!
+  There is a bunch of bodyguards you have to kill first. Wight bodyguards are
+quite easy to stab and with decent weapon they need 2 stabs. Better to use
+sharp thorn: spirit type undeads are ineff vs wood. Even WC himself dies in 2
+thorn stabs from legend thief! With an eket some stabs+some arrows. Also they
+die in a few sprays/dispels.
+  Note that, you must not stand on the stairs too long, because eventually they
+will collapse, so if you get a message that something moves beneath your feet,
+then move out of room. There are 4 rooms in the tower where you can stand and
+not ruin the stairs: n from the door; n 2u from the door; max up and max d.
+  If you will ruin stairs and stay alive after fall, it is usually mobdeath to
+wights who will come for you - as it is almost impossible to flee using
+collapsed stairs. ONLY way to get out is high climb (don't forget to turn climb
+on also!).
+  When the bodyguards are dead, kill the captain. He is on the top of the tower,
+and usually has 2 bodyguards with him who follow him and don't move out of the
+room. You'd better kill bodyguards there too, because if you start with the
+captain, you will get hurt, because bodyguards always instaassist captain, but
+not each other and captain will not instaassist guards.
+  As for the guards who move around in tower - it's better to kill them too,
+because if you attack captain, he calls them.
+  For mage with call strategy is as easy as kill hobbit child. Just make clouds,
+store 2 calls, rest full, refresh armour - and kill WC: upper tower room is not
+indoors.
+  All tower is portable.
+  Level: Legend thief/caster; hero buffer+hero caster.
+  Loads: Broad silver belt, metal plate, metal greaves, metal gauntlets and
+engraved silver ring - key for loading place of The Silvery Broadsword. Sword
+itself loads bit east of WC, at rolling plains. Dirs from ruined outlook are:
+2s, 2w, 2n, w, 4s, 5e, 2n, open tangle, w, unlock crypt, open crypt, w.
+
+
+    Mormaeg the Spider
+
+  Location: From the Last Bridge - w n 6w 3s 3w n e 3n 2w n e, d is it's area.
+You have to walk through mudlled Windswept plains, which eats moves a lot, have
+some loop and one-way exits (not random, so *follow* given dirs), and whirlwind
+here can randomly teleport you around.
+  Strategy: Mormaeg area have web mudlle, which prevents you from leaving the
+room, and thus causes mobdeath. Web can be burned with natural (non-magical)
+fire. There in Mormaeg's area loads lantern - don't forget to get it and check
+if it's full (try light it)!
+  There is also instant-dt (scaling steam - so no death cry even), so examine
+every exit w if you don't have map!
+  On the half-way to Mormaeg there is one-way exit; after you pass it only way
+out is kill Mormaeg or die: way out is down from it, and you will be not able
+to pick it while spider is alive (he tracks).
+  Kill all mobs (mostly spiders and undeads) on the way. Actually you can skip
+them (Mormaeg doesn't call his fellow spiders), but you will just have more
+place to fight and less breaking concentration hits from lesser mobs. When you
+enter room s from last spider before Mormaeg, you will see first mudlled room:
+web will trap you! Just "burn web" (lantern/torch must be equipped), it is
+instant command, you can do it even while fighting. Remember that new webs will
+catch you every time you enter mudlled room, so burn it again every time. Then
+go w and rest full.
+  Mormaeg is s from this room with one more spider. Buffer must enter and hit
+Mormaeg (not just spider - he is 2.spider in the room), then caster enters,
+burns the web and starts nuking it. It is low on hps, and dies in like 5 fballs.
+You must have remove poison, because buffer will be arachniated for sure. After
+his death pick/open crack down, d open board s - and you are on the bend of OER
+near Windswept again.
+  You can solo it too, in this case thief need brown bottle ready (after last
+changes it will protect you from re-poison after you remove poison for the first
+time), and mage must have 5 stored quakes (will not kill Mormaeg, but will get
+him down to bad/awful). And remember: you can't cast in mudlled (web) room even
+if you already burned web - if you buff Mormaeg! Burn, walk to any other room
+and cast there.
+  Level: hero buffer+hero any class; legend mage; hero thief.
+  Loads: topaz (in corpse, not always), sable pouch (on the ground).
+
+
+    East evil priest
+
+  Location: From the Last Bridge - 2e 2n e n 2e open irondoor 3e 2n.
+  Strategy: Priest is soloable by any class. Just try to avoid his spells,
+because he blinds. Priest is perma-sanced, so don't use powerful spells like
+fireball or harm. The main danger when doing priest is the possibility of being
+trapped by other side players (e priest zone is active PK area).
+  So the easiest, fastest (and safest) way to kill priest is to break both
+doors, blind priest and shoot him dead. Sometimes he loads shadow which is hard
+to do with defence warrior (must be legend with ob set and with ob sword, and
+will end on wounded/bad which is dangerous in pk area).
+  After last change priest calls orc guards from irondoor, so either kill them
+first (hard to stab though, but possible to shoot|hit/flee), or block door
+before guards come.
+  Portable rooms: Bell Tower and Guardroom at irondoor.
+  Level: Any legend level player (may be slow with some classes).
+  Loads: Fang, purple scroll (loads in priest's hand), black arm wrappings,
+antidote bottle in pouch.
+
+
+    Scaly beast
+
+  Location: One entrance is from e priest bottom level (from room with exit e
+cast dispel magic on door, 2w kill guardians), second is from Last Bridge
+Fortress (bottom level too, n 3e d e open rubble - 30 str needed [added with 2
+ppl]).
+  Strategy: If you enter via Fortress and it's darkie popped - do mobs first (3
+guards at door, snaga orc s of door, 3 orcs behind bronzedoor, then e n w w u n
+n, kill 2 lowbie orc mobs).
+  Beast area changes after each repop (so remap it each time you do beast),
+beast even can dig new exits while you fight him. But these exits are neither
+random and nor mudlled - which means u n d s from some room always brings you
+back in same room.
+  Now it divides into with or without Drake-slumber lore.
+1) With lore: mix the lore, one person enters and finds the beast. Hold flask,
+'throw flask beast' and go get the rest. Then just nuke him while he is
+helpless. Though beware: the beast is not instantly affected by poison. While
+not affected by it yet, he is enraged - so better to wait 1-2 ticks before
+going to nuke. It is why better to solo it: while you get it to wounded solo,
+will pass enough time for sure. Also this poison quickly goes off, so better
+poison beast when it's hurt already (if solo).
+2) Without lore, its really hard and exciting. One buffer and 2 mages with
+stored spells or even solo mage can work. Just cast on it till its wounded,
+then it flees. This means it starts to "whip" down the cave into a dt whenever
+someone spells it. SO! In, cast ONE fireball, flee, DO NOT REENTER that room
+for few seconds - otherwise you will dt. Beast even can make cave-in which 
+blocks some dead-end room from entering at all (never can be done on crossing
+with more than one exit). Repeat until dead.
+  If you do beast solo, use stored spells only, and wear metal armour. Keep
+magic armour fresh too, and when unstored fballs go rest to Underground Cavern
+3w from stone guardians - beast can't come there. Beware: beast doesn't hit
+very hard, but it can bash, and also have special attack that inflicts like
+100-200 damage in one hit. Like 20 fballs is usually enough (including it's
+regen while you sleep mana). Do not use colour sprays on beast: it's eff vs
+light.
+  Butcher corpse to get treasure.
+  Only portable area is LB fort yard (non-INDOORS rooms only).
+  Level: Legend buffer + 2 legend mages; solo nicelinked legend caster.
+  Loads: Always gleaming belt, random metal/random jewel (can be even corberyl).
+  
+
+    Bill, Bert, Tom
+
+  Location: 4n 2w from Small Stream Crossing on OER (next zone e from e priest),
+open tangle d n fall down to their 2 rooms.
+  Strategy: It is quite easy, buffer buffs, casters nuke. If only one caster,
+make sure he has like +4 attack and 105%+ fireball, with 3 casters its even
+easier. And of course, this is legend warrior we are talking about, it's 3
+badass trolls hitting you while bashed!
+  Just remember to have full mana etc when you enter tangle. Go north, and -
+INSTANTLY! - stand, climb off. It's very important to remember to stand there,
+since you fall to the ground, and never try to climb because otherwise you
+might flee up (climbexit) and fall back again. Buffer must spam rescue casters
+for a bit - since no one knows who will be 1.player after you fall down, and no
+point to flee here: fall damage is worse here than trolls hit damage (in case
+one who got hit did not/had not time to turn off climb). If you see you are
+going to die - try walk to room where you felt from above, and type "climb
+hole" (just rumour though).
+  Kill 3 trolls and loot key, they usually load shadows. Then go west, open
+boulder, south, unlock stonedoor, open stonedoor, north open rock, west, reveal
+<swordyouwant>. "get all chest", "get all 2.corpse". Exit is e s e.
+  Levels: Legend maxabsorb/maxdefence warrior, 1-3 casters.
+  Loads: 3 ARTIFACT ELVEN SWORDS: Glamdring, Orcrist & Sting. Large metal wall 
+shield and metal vambraces.
+
+
+    Ghostly Captain
+
+  Location: From small hut near way to DT - u e n s e e n e s n e w open
+shatteredbranches n kill undeads get key unlock/open rockdoor n w w pick/open
+door w; back from rock face - open vegetation s w s e w d. If lost: general
+dirs in - ne, out - sw, and spam 'exits' after each dir of course, no dts here.
+If you have cleric in group, skip first 6 undeads, and just break rockdoor.
+  Strategy: First nuke all undeads inside and rest full. Someone with good pick
+skill must unfollow leader and leave outside GC door. After group enters he
+must spam pick/open door - in case someone of group or whole group gets beaten:
+captain closes and locks his door after anyone enters his room. Nuke captain,
+loot all and flee out afterwards.
+  Level: legend maxabsorb buffer + some legend mages; 2 legend maxabsorb
+warriors with good rescue + 2-3 hero any class; plus any level/class with good
+pick.
+  Loads: Bastard sword or (sometimes) great warsword, metal buckler or (rarely)
+The Black Buckler, star sapphire, small tin ring; plate vambraces, heavy set
+and some other metal, chain, battle axes, dark broadsword and other swords, key
+for Bloodwight - on undeads.
+
+
+    Bloodwight
+
+  Location: From DT door - 2w 5n 4w 2n 4e 2s d e d n e d 3e 2s 2e d 2n, behind
+irondoor is his hideout.
+  Strategy: BW is soloable (backstab works) for scout only. If you have good
+weapon like brd, BW dies in 3 stabs.
+  But it is not always that easy. First you need the key to the inner caves of
+bloodwight, the key loads at GC area and the key is not norent, but i guess
+there can be several keys for BW in game. If you have good overall pick skill
+(over 100% including picks) you can enter bw caves by picking the door.
+  BW caves are full of spirit beings like spirits, wraiths and spirit soldiers.
+There are 2 wraith's and 2 soldiers in BW's lair. But if you are lucky, you can
+kill BW before he runs back into his lair (that goes only for solo scouts, if
+you kill BW with group he always recalls into home after some fighting). After
+he dies, from lair unlock/open sconce, go east and loot both chests.
+  BW area begins with the valley floor. If you enter Valley floor, he appears
+with a message like "large bat arrives with bang" or smth. BW does not sneak,
+so just step out of the room and wait for him, if he enters leave/reenter and
+try to backstab.
+  A warning: this valley floor takes a lot of moves, but if you have both fgc
+and gleaming belt you will manage I guess.
+  A warning #2: BW casts spells - sleep to you and heal to himself and he makes
+firestorm as well, which is quite troublesome, because he seems to be able to
+firestorm endlessly (after some time, he stops healing and sleeping - he 
+doesn't have too much mana).
+  A warning #3: don't stay to fight with him, always flee, because he bites
+during fighting and that can envenom you.
+  Well, that is basic information. Just use your brains and find the ways to
+outplay him when solo. When with group, no brains needed, just nuke - 3 mages
+and warrior kill bloodwight any time.
+  Level: legend thief; maxabsorb warrior + some casters.
+  Loads: Engraved broadsword and bejewelled shield in one chest, clear-thoughts
+lore in the other chest + plate metal set, metal wall and silver cloakpin on
+him and other mobs in zone, sometimes mottled cloak and dark broadsword too.
+ 
+
+    Mithnaur the Dragon
+
+  Location: NOC area (see Maps)
+  Strategy: First go to Eoghha (4e 4n 4e 8n 12e from Rivendell moors). Say
+"lead dragon" (be sure he can see you). Follow his instructions (pay him like
+20 gold). Meet him at crude camp (some w of slag), follow him there - he will
+get you to entrance and will open it.
+  Thing is that if you get attacked while following Eoghha, he will get scared,
+and will stop unless you ask him again "lead dragon", then he will want another
+payament and you can continue. Also he doesn't stop for bob, etc, so its better
+to get group at entrance and then follow him solo. (There is a bug that u can
+spamfollow him and he will then walk megafast to the entrance).
+  To kill him you need group of at least 1 buffer and 4 casters. Safer with 5
+casters. Also sanctuary is useful if your buffer has average/low defence.
+Dragon casts firestorm which is a room fire spell, that can do massive damage,
+it helps if you wear shield so you can hide behind it. It has happened to me
+several times that Dragon simply casted too many firestorms and some of my
+casters didn't survive. Stored sprays help here, as you can cast while engaged
+from firestorms, instead of flee-return or disengage. Otherwise DISENGAGE
+BEFORE EVERY SPELL. Dragon also has special paralysing attack that can freeze
+you for several combat rounds (very dangerous if you buff him at low hps), but
+I think he cannot paralyze more than 1 char at a time.
+  Maybe it is obvious, but I must say it: dragon is immune to fire. He just
+eats your fire spells, and his fire breath is DEADLY after that!
+  I think the point is (no confirmation on this but seems so): the more ppl
+engaged with dragon the more he firestorms. Also better not try to bash him ;)
+  If you decide to flee, he will start chasing you. He always tracks the one
+who moved as last in the zone (each move triggers his track), but when he is
+done with that victim he will start to track others. There are 2 deathtraps in
+the zone (see the NOCAREA map). Way out is underwater so be sure all your
+followers have swim. Dragon doesn't follow down underwater (I think), but he
+sure doesn't go w of rocks. Also room e u from rocks has fall-down mudlle
+(anything dropped will fall down, including corpse with shadow).
+  Now I am not sure again about the rocks, maybe it's rock. Better be ready for
+that.
+  Level: Legend maxabsorb buffer + 4-5 legend casters.
+  Loads: Copper ring, tower shield, ornamented sheath, The Gleaming Broadsword,
+adamant, fragile parchment, some gold.
+
+
+    NOC area vellum place
+ 
+  Location: 2s 4w d e open stonetrap d from NOC crossing
+  Strategy: First kill mountain troll on stonetrap. Go down, nuke/flee ologs to
+the west. Get green iron key from the corpse of one of them, unlock/open
+prisondoor and go n. If there is popped noble prisoner (not just prisoner!),
+beckon him. Lead him outside prison, then he will give you vellum scroll as
+revard for saving his life. Of course noble will follow whitie only - orcs/etc
+can't take scroll in this place even if they kill prisoner.
+  Need I say that NOC area is not the best area to walk as whitie? Even your
+level is not as important as zone knowledge, and ability to spam to Rivendell
+if orc players find you while doing mobs.
+  Level: Hero thief/caster, hero buffer + hero any class.
+  Loads: vellum scroll.
+
+
+    Morthan Blacksoul
+
+  Location: Greenway (road to Tharbad).
+  Strategy: When you enter his room, he will close both obstructions (n and s),
+and will start to rob you for money. Don't try to open obstruction and flee -
+he closes it faster than you can open it. But if you attack him, he will not
+close it anymore! So: make alias "open obstruction", and start nuke/open/flee.
+There is also a secret underbrush w from Morthan.
+  Btw, do not start cast anything in Morthan's room before giving him money -
+he will instahit you. But if you really want to cast inside without getting hit
+(if chasing opposite side player) - first give him his money. Though you need
+to do it each time when you leave/reenter him (conclusion: bn who wants to nuke
+whities in Morthan must enter with minimum 20 gold ;) ).
+  Morthan room is portable.
+  Level: 15 thief, 18 mage with earthquake, hero mage, legend maxabsorb warrior.
+  Loads: Double edged eket on Morthan, forest green cloak on Thena, swords/
+/shields/bows for at least 15 gold.
+
+
+    Spirit Knight
+
+  Location: From Morthan s 2w 4s e 2s w, wait till midnight and say "open
+durin" (in any language). Though, door will be opened for dwarf at any time.
+  Strategy: To get into knight's rooms, first find iron pick in the underwater
+room (3s 2e 2s 2e 2s d n from entrance), wield it and start "dig east" from the
+room under entrance. When you finish digging, the pick will break in your hands.
+Go east. In that room loads about 20 small and middle snakes - so mage with
+quake will rock here. First quake small snakes, let warrior go in, rescue mage
+and finish 4 green snakes.
+  Then go east, fall down, quickly stand and nuke slaves (they are very low on
+hps and will die pretty fast - but they parrysplit and cast). After slaves die,
+start killing knight: keep him bashed - he hits hard (though not as hard as
+willow/kraken, and has much less OB). Exit back is up from knight's room (where
+he pops and where you will fall from above), secret - rottenvines. Also, to go
+back up, you must lure him to south room cause he won't let you go up when he's
+in room. He tracks in those 2 rooms but he's slow.
+  If zone repops while you are doing SK, the hole will close too. Secret back
+from snakes - earthwall.
+  Btw, it's impossible to do SK during winter - due to frozen water (no way to
+get pickaxe from underwater).
+  Level: Hero thief; legend caster; hero buffer + hero hitter/basher or hero
+caster. Hero mage can do him too, though it takes much time, and also store and
+quake needed.
+  Loads(sometimes): Engraved warhammer, fine metal plate, great helm;
+usually: regular plate, full metal helmet; 3 large warhammers on slaves.
+
+
+    Master Assassin
+
+  Location: From Tharbad n gates - n open oakendoor e open pegs d open
+moldywall 3s open metaldoor s.
+  Strategy: MA is not a very strong mob himself, but he calls tons (usually 4-6,
+but well-known old bug can cause even 10) hero level guards to help him. So
+don't even try to kill MA in his room: lure him outside!
+  Old strategy of catching him above pegs and blocking pegs doesn't work
+anymore: pegs are noblock now...
+  Good place to catch him is room with rats e from Long, Dark Corridor - Large
+Echoing Storeroom. Door to this room is not locked by default, but it is
+pickable, so one in group must have like 70-80% pick (including picks) for fast
+picking MA inside. Lurer must go to MA, hit him, flee to this room and spam
+search. Not _flush_: don't hit MA before picking woodendoor because if he will
+see group attacking him, he will use his flash powder and leave while you stand
+blind! After he comes (and instantly got revealed) one with good pick must as
+fast as he can close woodendoor and pick it. Nuke MA, he got like 600-800 hps,
+so mana of one hero nuker is enough usually. After you finish him, rest full,
+pick door and quickly leave (or go down for master's treasure) ONLY on full hps
+(for casters - with fresh armour too), because 10 MA guards can kill you in
+less than 3 rounds.
+  Master assassin is also soloable for thief. You just have to kill experienced
+assassins and brown-skinned men behind greystonewall to the east (doorwardens
+almost unstabable). Master is quite easy to backstab, after 2 stabs (when he
+looses hps below wounded) he uses flash powder, flees and runs away. Usually he
+runs down to sewers (so you have to know all MA area with 10+ secretdoors),
+swims across catacombs and hides himself at smugglers there. But you can get
+him out of hide with entering the room without sneak. He attacks and wont hide
+anymore, then just stab him once more. Btw, in case of his guards were killed
+he can block himself inside to wait for guards to repop. And also: if you
+manage to stab him to bad/awful, he walks very slow - thus it's possible to
+stab him once more even before he reaches catacombs.
+  Almost same goes for warriors: kill all mobs in MA area (even rats - their
+hits don't hurt but break tracking), one must rest inside, other go to MA room,
+open carpet (one-way down - to prevent master from going back), hit him and try
+flee/go down. Then just hit him to death. Keep him bashed - he have INSANE
+defence. Same tracking strategy as for thief. Just remember: his nasty guards
+never go up from under pegs, and never go south from e 2d of e greystonewall.
+  Level: Hero buffer/lurer/picker + hero nuker; legend thief with nice link;
+2 legend or 3 hero warriors.
+  Loads: Slender dagger or eket, upgraded picks, sometimes venom vial and venom
+lore, key to joist - on Master; small pouch (flash powder), opal and 5 gold -
+in his treasure chamber above joist, in chest which opens with Malardil key, 
+
+
+    Chief of Tharbad
+
+  Location: From n gates of Tharbad - 7s w 3s w 2n e s.
+  Strategy: First, find a caster with 'break door' or warrior with good bash to
+destroy door to chief (otherwise after you pick/open his door and enter, chief
+will close and lock it again - and you all mobdie). A warlock sits in the same
+room with chief and keeps himself and chief sanced, sleep warlock first (or
+just kill him - shoot to death, preferably with venomed arrows). He is probably
+the most dangerous mob here - his fireballs ROCK. It is also a good idea to
+sleep 1.guard, he has key and closes/locks chief's door.
+  After the warlock dies, wait till sanc on chief wears off, and start to
+cast/flee him (or stab/flee). If you are worrying about your alignment - don't
+worry anymore: chief is evil as hell. And last: if you don't want to become
+wanted in Tharbad, kill all of chief's guards and all city guards that saw you
+while killing chief. Again, better to start with 1.guard.
+  It is a little easier for solo cleric: break door, blind warlock before he
+sancs chief, and just nuke chief with fast/quick spells.
+  Btw, for caster with warrior there's another popular tactic: someone destroys
+door, mage follows warrior, warrior goes in and hits chief, mage casts fireball
+and leaves n (he's unengaged), then warrior flees. Chief dies in like 10 fballs
+from legend mage. But only cast one spell at a time, otherwise the warlock
+is going to do something nasty :)
+  Also, it's a one-exit room with lotsa mobs on you, so it's hard to flee from
+there. I've seen ppl mobdying from failed flees even when using PANIC! trigger.
+That's especially true when warlock is still alive (fireball). And also: if you
+died here, NEVER pray to Tharbad on hurt/wounded. N gate guards are not
+aggressive only when they stay in the n gate! But sometimes they move 1s (where
+arrive all who pray to Tharbad), and they can instakill naked caster with no
+spell up. ALWAYS wait till fine - it's easier to reequip than to gain levels.
+  And last thing: rumored that chief's 1.guard doesn't lock door anymore (after
+some change not much time ago), but anyways better to not take a risk and get
+breaker/basher :)
+  Chief's room is of course noport.
+  Level: Hero thief/legend mage (preferably with quake) + cleric/warrior to
+break/bash door; legend cleric.
+  Loads: Iron ring, notrack boots.
+
+
+    Wuda
+
+  Location: s Hollin road, near demon wolf cave (1 zone w Wyrdda).
+  Strategy: Enter yard of his house and kill all warriors first (Wuda calls all
+alive warriors to assist him). Yard is outdoors (of course), so call lightning
+rocks here. Then rest full, lure Wuda from indoors, do 2 warriors which always
+follow him. Then rest full again and finish Wuda.
+  Level: Legend caster/thief; legend buffer + hero any class.
+  Loads: Hemlock poison vial and (rarely) this poison lore, antidote bottle,
+herbal kit.
+
+
+    Wyrdda
+  
+  Location: Follow Hollin road to Eregion/Dunland border, then follow road s
+from ford.
+  Strategy: He lives in a small village (10 rooms). He isn't a very tough mob
+and doesn't have many guards. Just nuke/flee, exits fleeable. After his death
+open door of his stables, go n w.
+  For cleric with break it's even easier - don't even needed to kill Wyrdda.
+Just pick/open corral east from village entrance, e, break gate - and e is
+Rohirrim!
+  Level: Same as for Wuda.
+  Loads: Steel-shafted spear, wooden wall, Horse of Rohirrim.
+
+
+    Overseer
+
+  Location: From Wyrdda ford 4n 4e 4n 5w n open turf.
+  Strategy: First get the key from under trapdoor s 3e n e d from turf. Then
+enter turf, kill widow and cavebear. Wait until sunrise and say:
+                "By the might of Aule I command thee to open"
+It can be said by any race, but you must speak Khuzdul well. Slab opens, enter
+it and clear all mobs inside (3 pairs of crazed dwarves and 3 pairs of black
+spiders). Be warned: crazeds hit not only the buffer, but 2.player too, so
+buffer should have good rescue! Unlock irondoor using engraved key from
+trapdoor, enter it and kill overseer+another pair of dwarves. Get small iron
+key from overseer's corpse, unlock/open carpet down to his treasure room with
+chest. Nuggets load (if they load at all) n e irondoor.
+  Just remember, if any member of the opposite race notices your tracks leading
+in - 99% it will be turf/slab trap (they will have ENOUGH time to gather trap
+group)!
+  Level: Legend caster/thief, legend buffer + 1-2 hero any class.
+  Loads: Sometimes (much more often than in Amon Othar) MDA, always 2H axe,
+rarely golden and silver nuggets.
+
+
+    Tall Orc
+
+  Location: From Wyrdda ford follow road: 3n 3e n 3e n e n 2e n open brush 2w n
+e open floor d open runes d.
+  Strategy: Tall Orc is an uruk in my opinion, and 5 lowbie orcs follow him -
+so solo warrior can't handle them all. For solo, good strategy is nuke/flee.
+But watch out: members of opposite race can easily trap you inside - just block
+floor. In such occasion quickly go: w open obsidian u s pick/open statue 6s w s
+open boulder w s w open foliage u. Though, statue is hard to pick (over 50% pick
+plus upgraded picks needed), but it is bashable.
+  After last change tall calls for help if attacked, and all orcs/wolves in
+area come to join him.
+  Only portable rooms are 1w and 2w from brush.
+  Level: Legend caster/thief; legend buffer + legend any class.
+  Loads: Full regular metal set + fine metal boots + broad scimitar.
+
+
+    Unqalome the Great Dark
+
+  Location: Max sw from Dunland troll forest, open ancientslab (50 str needed),
+s is it's area.
+  Strategy: Leave your mounts 2n 3w 4s 3e from entrance - you will arrive here
+on way back (don't leave inside ancientslab because someone in group can die,
+and thus leave you without possibility to open slab again). From behind
+ancientslab go e s 2e. From there you must go one-by-one: leader 2d s w open
+crack w open algae w get key pile e u w, others just 2d s 2w u w (solo - just
+because you can fail swim while following leader and be lost in the underwater).
+Kill shade, unlock/open granite and go w.
+  There starts noflee area. Tons exits lead to the Deep Chasm, where you get
+mudlled 50 to 400 damage, and land (you or your corpse) w from Unqalome. The
+damage you get from fall depends on which room you fall. Deeper in the zone you
+are, less damage you get for fall (as you are slowly descending when going
+deeper). Damage also probably depends on your weight. So better to set wimpy
+low (like 30-50), and have aliases to rescue casters and cure buffers. Kill
+spirits, 3w s w kill spiders and get webbing (it can contain silvery elven
+bracelet btw). Go e n e, "tie web" and "throw web" ("toss web"). After that all
+rest (or unfollow leader), and go s on webbing one-by-one. If you don't toss
+web, or try walk here all together, you will fall to room w Unqalome and get
+like 150 damage.
+  After you successfully regroup on the other side of chasm, go s w s 3w open
+mossdoor w. You can kill spirits by the way, or just spam by (same strategy -
+noflee, rescue and nuke). Kill funguses, get small steel key from corpse. Go
+3e s w - second bracelet can load here. Key is for slab 2e d from you.
+  Down from slab is oneway to Grey Spider area. There starts slippery rooms -
+if you fall, type "exits" and go to room where group is (where room is lit). I
+suppose it is whitie group you are going in (thus having light) - *expirienced*
+darkies should do Unqa without this file :P You can't slip into chasm, btw.
+Spider doesn't sit in one room, but wanders around, so beware. Kill mobs all
+here: spider can load bracelet, and any random mob can load fragile stone key 
+for stonedoor. Go 2e s 3e, open crack n d n 2w s w - one more bracelet loads
+here. And at last, e u w d e is room where you meet Unqalome for the first time.
+  Target gloom, buffers buff, casters nuke and disengage after each Unqa spell
+- as when you fight dragon. Use fireballs of colour sprays - dunno which is
+better... I already heard rumours about it's icy mob (it lives in icy caverns
+after all), as well as it's spirit (non-bashable); but don't use lightning for
+sure - it reflects half the damage. After it goes below hurt, it flees through
+locked stonedoor down (you can't prevent it) and makes door frozen shut. Cast
+some fireballs or burning hands on it (like 500 fire damage needed), unlock/
+open it and go down.
+  There are few rooms where Unqalome tries to hide behind animated undeads.
+No dts, no slipping, just few passages and 3 rooms with 3 uruks + 1-2 shadows
+in each. Don't enter non-locked door: Unqa is there inside! Enter 2 others and
+kill shadows there: you will fight there later, so less mobs - less parrysplit.
+Though, you can't destroy non-animated uruks :( Then only go for next Unqalome
+fight. Try wait when shadow goes out and enter after that. Bracelets can load
+on these shadows too.
+  In the most deeper room shackles can trap you and prevent from leaving (which
+means mobdeath of course). Others who get trapped just go out (if non- engaged)
+after Unqa flees or before buffer flees (sometimes 8 attempts needed). Buffer
+hits Unqa, basher spams bash dis 1./2./3.uruks, casters nuke Unqa. If 3
+warriors in group - third assists buffer, if 4 - no spam bash dis, just every
+warrior takes his uruk, and buffer buffs gloom. After gloom flees again, fball
+door (like 80 fire damage), all flee (uruks can be killed later after gloom
+dies, they are no longer bound to their room when gloom is dead so u can take
+them 1 by 1) and go for next portion: it chooses random room where uruks are
+still not animated. Same strategy. In last room Unqalome will fight to death;
+rings and one rock loads in it, gems in corpses of uruks, other rocks just lie
+on the ground in uruk rooms (if loaded).
+  It is also wise to let someone scout the room before charging with whole room,
+as it takes some time till uruks are summoned by gloom, and gloom can use room
+attack and engage all buffers before uruks get summoned. If you let anyone
+scout, Unqalome will summon them right away. Also it is good to be very careful
+when scouting, because zone can pop when you are in and you might mobdie locked
+in room with gloom. Another bad thing that can happen is this: you enter room,
+gloom engages you, but since it is low it instaflees, freezes the door and you
+mobdie to uruks, unless some friend fireballs door from outside. So better
+always scout these rooms with friend ready to pick/fireball door from outside.
+  If you are fast and don't let Unqalome regen, it usually instaflees after
+second attack (actually 3rd attack if you count the very first encounter with
+gloom).
+  Way back from stonedoor: w u 2e s u 2w n u 3e s d 2e open fracturedfloor d.
+Same idea: if you slip, stand and go to group. Just remember - the more you
+carry, the more you slip. To get out pull lever and quickly swim e 2d 2w u
+(while irongrid is up) - and you arrive in room with your horses.
+  All area is noport; all d from underwater also nonarrate.
+  Level: 4-5 legends, at least one of them must be good buffer, and at least
+one must be mage with fireball or burn.
+  Loads: Icy ring, banded (3db/3pb or +10 ob/-10db) ring, up to 3 twisted rocks,
+diamonds/emeralds, grey fluid-sack (if loads), up to 6 silvery bracelets. Still
+no one figured what is use of bracelets (rumours about save vs shackles are
+groundless, though I already heard rumours about help with passing statues in
+the new Ost-in-Edhil zone; btw, do not wear them on both wrists - othervise
+they explode immediately).
+  P.S. Credits to Duke for sending me most features of this place :)
+
+
+    Dunland vellum place
+
+  Location: Dunland (see Maps)
+  Strategy: Not very tough mobs - just 2 stone guardians and some wraiths. Main
+problem are doors. First do all undeads under altarstone (or alike doorname).
+Then open bones, go n, kill first statue - it loads key for sarcophagus. Go s,
+open shelf, s, kill second beast. Unlock/open sarcophagus down, go and nuke/
+/flee rest mobs. Then you need a star sapphire. Insert sapphire [in] hole -
+passage opens n. In this room in the chest loads all treasure. Dunno how
+to get sapphire back - one-off item maybe?
+  Level: Hero, any class (maybe hard for warrior).
+  Loads: Vellum scroll, gem-inlaid knife, opal and some other stuff.
+
+
+    Dwarven statue
+
+  Location: Southern Dunland, jump down 2w s of lodgedboulder (costs like 100
+hps though).
+  Strategy: Statue is not aggressive, it even doesn't remember these who
+already attacked it. It is VERY hard to stab, and his hits HURTS - it is why
+almost impossible to solo it. Though, usual strategy for any non-soloable mob
+(hey, I'm maxbuffer, with group of 7 casters we will clear Arda!) doesn't not
+work here as well as usual: statue is the one mob in MUME (except Sage) which
+quakes!
+  So: cleric must sanc hitters and rest outside, they go leather/aggressive and
+just hit statue to death, rescuing each another. Cleric enters when statue is
+awful to get exp.
+  For mages it takes MUCH more time. They must store 2 fballs or 3 sprays and
+wear spellsave eq. If buffer is cleric, he must sanc himself. Just enter,
+buffer hits, mages unstore spells and flee, then buffer flees too. Be sure that
+each can survive 3 quakes (they same fast as stored sprays with staff). Statue
+is in cave (indoors), which means call doesn't work here.
+  Do not forget to restore armour after EACH round - because statue switches,
+and if non-fresh armour will drop after second or third quake, and statue will
+switch on this mage - he will be dead for sure.
+  To get back go max w and "pull lever" to open a mountaingate.
+  Level: 3 legend attack warriors + legend cleric with sanc; buffer (preferably
+cleric with sanc) + 2 legend mages; superlegend thief.
+  Loads: Double-headed axe (ONE 20 OB cleaver), black horn short bow on
+skeleton (with low probability).
+
+
+    Broghha
+
+  Location: max southern Dunland (see maps).
+  Strategy: Main problem here is that there is like 20 high level mobs in like
+20 rooms, and also gatekeeper and Broghha himself calls all captains with their
+soldiers if got attacked. They all (except shopkeepers and one thief) are
+outdoors, so mages with call will ROCK here.
+  First get up clouds, restore armour/shield spells and rest full. Warrior must
+go maxdefence/maxabsorb. Mages follow (dunlendings do not switch tagrets),
+enter and nuke 2.man (The Gatekeeper). Call on him, flee and rest - otherwise
+3 Captains and their 6 soldiers will arrive, and escape will be hard. Then just
+take out patrols one by one (they do not call each other). Do not kill mobs
+that are indoors (except thief (skulks)) - they all are good-aligned.
+  After 3 patrols will be dead, go to 'Remnants of Paving', west of this room
+('A Large Open-Air Tent') exists Broghha himself, 5 his guards and one more
+captain patrol which always follow Broghha. These 9 are piece for cake for
+quaker, but if he fails like 3-5 flees... So for solo only possible solution
+is wear full thick metal to quake here. For group strategy here is: in, buffer
+hits, mages get in ONE call and go out (5e), then buffer flees (quite important
+for buffer to know zone well - because Broghha tracks). Repeat until Broghha
+dies, after that soldiers will have no one to follow - just kill them one by
+one (2 calls needed for each).
+  Level: legend mage with quake and in thick metal (slow); legend metal buffer
++ 2 legend mages with call.
+  Loads: steel-tipped spear, small silver pendant; faintly glowing stone.
+
+
+    Black Numenorean Sage
+
+  Location: OOC, n 2e n 3w s 2w n e from entrance.
+  Strategy: Sage calls his guards if attacked, and comes to assist guards - if
+guards get attacked. Guards always follow sage, so the trick is to split sage
+and guards and kill them separately, it is much easier and requires smaller
+group. Kill orkish torturer first to get a key to for rack/prisondoor. Then kill
+orc in prisondoor. Then someone should lure sage and guards to prisondoor and
+lock them inside.
+  Entire group should stand w of prisondoor and buffers should spam hit 1.guard
+and 2.guard. Couple of ticks later sage will break prisondoor and head back to
+his room without assisting guards when they are hit. Kill guards, regen full
+mana/hps and go finish sage. Sage absorbs ANY attack spell - if he is standing.
+So keep him bashed, and nuke him with low damage spells (spell should be
+started when sage is bashed). Also it's possible to shoot or plainly hit him to
+death. Sage can cast fireball, earthquake, black breath or heal self. But as
+any caster, he runs out of mana, so it may be wise to poison him with psylonia
+if available. If you got trapped by opposite side (rockface blocked), there is
+another way out (one-way): unlock/open rack, n from orkish torturer.
+  Level: Legend buffer (good basher), some 2-3 casters/shooters. Double this
+amount for whitie group - because a) all mobs in OOC aggressive to whities (of
+course!), and b) darkies can trap whitie group, even if whities outnumber them!
+  Loads: Black runed dagger, black hooded cloak (on sage, not always), chunk of
+metal, black scroll (in his treasure room).
+-------------------------------------------------------------------------------
+                                   MORIA
+
+
+  Fabled place, tons mobs, some dts, most legend eq load spots. However, it is
+not as dangerous as breelegends describe it ;) More exactly: is not dangerous
+at all for clueful legend with good map and some info about tricks/smobs of
+this place (such as this file). Good map is problem, though ;) Map it as legend
+scout, and be ready to eat like 5 dt deaths, and maybe even some mobdeaths too
+(depends on your skill), so before mapping ask your friend to collect like 5-8
+22 pb+ shields/chanted ekets/fgcs/plain picks, and be online all time while you
+map/die. Before going inside store some food/oil flasks, one walking/travelling
+lore isn't excess too. MUME Moria water sources are not poisoned as JRRT
+describes it, so no point to store water.
+  To enter Moria via west gate you must solve some kind of quest. You must prac
+detect magic spell (decay it later if non-mage). Go to some n from gate (don't
+wait at gate, or tentacles will drag you to Moria kraken - 99% mobdeath), wait
+till moonrise, cast detect, go to gate and type 'exa inscription'. It must be
+night (if month is wrong, moon can rise after sun, and go down before night
+comes). If you see "Doors of Durin bla bla" - quest solved :) Later you can
+enter Moria at any time/month, and even without detect - just come to gate and
+say 'friend' in Sindarin. If you don't know Sindarin well - spam say! ;) After
+you enter Moria via wgate, it will be blocked for 20-30 mins (but it will not
+when you _leave_ it).
+  Well, some general info about dts. n and s from Durin's Bridge are instant
+dts, noflee though. Also one instant dt is in Shaghosh area (nw part). All
+other dts are either timed or mudlled. For example, one more dt in Shaghosh
+area triggers like 1 sec after you enter it (lose balance and fall); Ruined
+Avenue ruins if many heavily eqipped players enter it (like 4-5 metal dwarves),
+though it is timed too. Other places are not dts actually - just some damage.
+Boulder room (where you hear 'click' when enter) is delayed 150-200 damage, but
+magic armour can absorb it; heavy wheels in Shaghosh area (west from Mine
+Office) do like 150 damage too, but with high dex you can dodge em. These
+wheels can also trap you if you fail to run out, in such case just wait until
+zone pops.
+  All Moria can be mapped easily by legend scout, but I must point to some
+dangerous places. General rule: in most cases exits down lead to more dangerous
+areas than exits up, so if in trouble - spam up anywhere you can ;)
+  Not far from wgate are 2 oneways leading to jade bracelet area - there can
+load up to 6 patrols of 6-7 mobs in each, if just 2-3 patrols loaded - consider
+yourself lucky and map it. Boulder exists in this area, and oneway down from it
+leads to zone with even more mobs, and two secret out named 'rockdoor'.
+  Some n of it is Shaghosh area, with tons hardhitting mobs/secrets/dts/etc.
+You should always remember how to run back to safe rooms from it (drop some
+coins on important crossroads maybe).
+  Patrols near egate are nastier, but there always loads same number of patrols
+(like 3), and two more not moving (one guarding barricade). Middle part of the
+Mustering Stairs is here too, and down from it is area with most concentration
+of mobs in whole Moria: 13-mob patrols are common here.
+  Bottom area (Hwain's way) is most dangerous. It is patrolled by black uruks,
+which track over half of area (you should run like 15 rooms to make them stop
+tracking you). There are just 4 entrances to this area: via whirlpool (oneway),
+down from 'Intersection of roads', 2d from 'Cavern crossroads' and one more via
+secret w from Durin's bridge. In this area located Muranog, Hshkhlahk and
+Balrog. From room named 'deep shaft' oneway down leads to the Deeps of Moria -
+there live 3 worms (nobash, eff vs mental, bashing and hardhitting), and area
+repops every *7 seconds*. Exit out is locked 'shaft', you must have high pick
+to get out, or break it - othervise it is 100% mobdeath for solo player. If you
+fall here, quickly walk w or s from room where you fall to, and drop something
+here - so you will know which room has exit.
+  Any mob(s) in Moria except Balrog can be done by group of legend buffer
+(preferably defwarrior in thin metal or fine/white chain, attack warrior on
+wimpy in thick metal goes too), legend cleric with blind and legend mage with
+sleep. Solo mage in metal with stored spells can manage pretty much too, just
+Mezagor (due to bash attack) is impossible. Balrog is not supposed to be soloed
+by mage with charmies, but you can seek yourself if you can charm enough nasty
+mobs to do him ;)
+  HINT: Moria as an area is too complex to rely only on written info, but
+perhaps this will give you some insight on what to expect...
+
+
+    Small hints
+
+  1) Packrats will never repop until someone kill one with key, loots it and
+loots chest. If there are no visible packrats in Moria - means somewhere in
+Umuk or Shaghosh area hides last one with key ;)
+  2) As far as I know, no zone in Moria will repop when player is in - so don't
+be afraid of doing some locked in rooms mobs like boil-infested troll.
+  3) There is bridge-type place, with 3 exits down in a vertical row. Under it
+live some snakes and 2 orms, and of course in watery rooms. They are nice exp,
+but dangerous without boat/canoe. Canoe loads in Shaghosh area, but dont jump
+down from bridge with it: mudlle will force you to drop it, and it will be
+shattered (which can lead to drow/mobdeath). Get rope with hook near circlet
+chest, keep it in inventory - and then you will be able to move down 1e from
+bridge, without falling (and get back same way).
+
+
+    Bulag/Grey Spider
+
+  Location: upper halls of Moria, from Intersection of roads u max e max sw is
+area where he wanders.
+  Strategy: Not harder than epriest, same warning: try avoid blinding. May be
+some problems though is trolls follow him - in this case just blind them. Loot
+small stone key from corpse and go to north-eastern part of zone, to room with
+3 trolls. They block exit e, so kill them or blind to pass. Unlock/open
+stonelatch, e is Grey Spider which guards some treasure on the ground and chest
+with fine chain and jewel-encrusted key.
+  Loads: Shining chain mail leggings (rarely), Balrog key, metal vambraces/greaves,
+opal, amethyst and some gold.
+
+
+    Karcarak
+
+  Location: from Central Gathering Hall (with water-drake) 2n w.
+  Strategy: nothing unusual, just tough monster and 3 big trolls following him.
+Better blind/sleep lesser trolls before doing Karc - it's hard for any buffer
+to buff 4 trolls at the same time ;) And also: as this is egate area, everyone
+in group must know how to run from patrols (better hide behind panel wn bridge,
+or behind statuary w of it).
+  Loads: Shining chain mail shirt (rarely), fell blade or heavy morningstar, 
+belt of pearls and crystals.
+
+
+    Umuk
+
+  Location: from Cavern Crossroads 6e open greydoor nww and kill a small orc
+for intricate steel key. Then 2e s 3w 3n 2e 2n 2e 5s, d is his area.
+  Strategy: There will be up to 20(!) trollmobs before and behind entrance to
+Umuk. Better to clear all trolls that move before going d. Then there are two
+door to w and e, blackslab and bloodydoor. Prudent to open the doors and let
+the trolls out one at a time. Proceed inside wseenw to check that you have
+killed all, then Umuk + bulky cavetroll is wses. Kill them and open dirtfloor
+to loot some coins and harp (alive Umuk blocks exit down). Then open lichen and
+follow to the chest with BDA.
+  If you are just 3, killing all trolls will take like 20-30 mins. In this case
+first kill trolls, then go check orc for key - this key decays very fast.
+  Loads: Fine/black gauntlets on Umuk; w of Umuk gold, golden harp, white chain 
+mail coif (rare); blackened dwarven axe and sturdy metals in the chest.
+
+
+    Shaghosh
+
+  Location: from Cavern Crossroads 3e 4n 3w open crag w s open irondoor, s w s
+2w s 2w open redeye w n.
+  Strategy: Shag located in dangerous area, tons patrols here, so everyone must
+have map to be ready to flee out to Durins way. Only broad orcs non-aggressive
+here. You can kill all mobs of course, but if you are just 3, better to just
+skip patrols.
+  Before redeye stands patrol of commanding orc and 2 cave trolls - dangerous
+even for 3 legends. But! This room is NO_MOB, and once patrol leaves it - it
+can't neither follow you now track you back in ;) So, just lure patrol outside
+and go rest to redeye.
+  Behind redeye is patrol of commanding (5.) orc and 4 lesser orcs, and n of
+them is Shaghosh the Durghash orc chieftain + 2 bulky trolls + 2 dire wolves.
+Kill them all, though better to sleep higher mobs first, and do lesser while
+boss slept ;) Get huge iron key and bwf from Shaghosh corpse, open secretstairs
+d, go and loot another bwf. Then go back u s, unlock/open steeldoor, go w and
+loot all treasure.
+  Loads: 2 black warg furs, emerald and shining chain mail leggings.
+
+
+    Mezagor
+
+  Location: from white fountain e Azaghal's way 4w s open tile d 2e 3n w s
+open irondoor s kill orc open door e.
+  Strategy: Mezagor is fearsome beast, which is not bashable, but has himself
+some strange attack like continuous bash - his victim can't do ANYTHING until
+either he or Mezagor dies. Door to his room is not locked by default, but as
+soon as someone enters, Meza locks it. So: better destroy door before entering
+if you are not sure that you can manage him (in this case only buffer dies, but
+all non-engaged can leave). Meza have like 1200-1500 hps, so can be pretty
+easely fried by fballs/harms from 2 casters. It loads 2 keys: bloody for it's
+door and one of Balrog doors; stonekey for Armoury. Backway from Meza: gorydoor.
+  After doing him begins boring part. Go w 2n 2w 5s e s e. There loads patrol,
+but don't kill it there ;) Lure n e! This is entrance to armoury, and to enter
+it you need 3 things: weight, key and word. After killing patrol here go w s w
+3n 4e 6n - it is place where load boulders. Bring at least 5 of them to armoury
+entrance (command "push boulder <dir>"). When enough weight will be in this
+room (5 boulders, corpses of 1 patrol and 3 players is usually enough), you
+will hear *click* and see floor message. After that go w s w 3n 2e n open
+dwarfdoor e, kill both statues (they block exit up), open hatch and go up.
+There is page containing word (you must know Khuzdul well to read it). Return
+to entrance, and someone (any race) must say this word in any language - opens
+keyhole, then you should quickly unlock and open pillars to the east.
+  Loads: Balrog key in corpse; shining chain mail shirt, white chain mail sleeves, 
+white chain mail leggings, war mattock and tons metal in the armoury.
+
+
+    Muranog the High Lieutenant
+
+  Location: Muranog loads on his throne on the bottom-most level of Moria,
+reachable (w/o killing mobs) by endless stairs (portal needed) OR from the
+Intersection of roads d 4e s e s 15e n open stairway 2d open crevice w n e n 5e
+s e n open mahogany e OR from Durin's bridge w open statuary s w 3d e 3d n open
+door (stairwell from other side) w 2n 4w n open mahogany w n. He can wander
+nearby also. 
+  Strategy: Mura loads with 3 black olog trolls folling him, and killing all 4
+at the same time is hard work. Always better to split them. If you kill Muranog
+when trolls are in throne room where they loads, he will pop so that trolls
+won't fol him after repop. This can be done in two ways: if trolls following
+him - sleep them in throne room, and then kill Mura; if not - just lure him
+out, and kill anywhere. He's quite easy if group knows what they're doing
+(since black uruk patrols patrol the area - it's important that all know how to
+get out unless you wanna risk mobdeaths). Just (cast|stab)/flee if solo, or
+nuke if in group. 2 casters in most cases have enough mana to fireball him dead
+- he have like 2000 hps. And beware: Mura can switch targets, so either casters
+should cast non-engaged, or buffer should have good rescue.
+  For orc scout it's harder to stab Muranog than for elf (due to maluses in
+stats/sneak), but for orc there is another strategy: go from mahogany s max w s
+6e s 5w, kill Hshkhlahk the Dark Claw, butcher corpse for obsidian eye and stab
+Muranog blind! Whities can kill claw with nightvision/seeing herblore/95%+
+awareness only: it snuffs ANY light, even staff glow. Only possible strategy
+for group of whities is enter without light, let one buff Claw while another
+makes camp - and then nuke. Though, if you got group - you can manage Muranog
+even without killing Claw...
+  Shining key on him is key to his treasure rooms. With the key you can unlock
+archeddoor (from Throne room s 2e 2n). Shining chain mail sleeves can load there 
+in 3.chest. You will get blinded when you enter this room (unless you save - like
+5% chance) so might be wise to lock archeddoor (same name from inside and from
+outside) after you're in. Of course, never enter when door is already open -
+means someone trapping inside! And also, this room is nocast, so it's wrong
+place for trapping as mage ;) 2s from it is oakdoor. Shining sleeves can load
+inside oakdoor too, n from central room, hidden. S of central room is a cabinet
+which you can open with good pick skill/picks (over 60% total), it loads
+mithril key for Balrog.
+  Loads: Either ornate warhammer or HBM or iron-shod mace, corberyl (in left
+hand), great helm, crimson metal set; shining chain mail sleeves in his treasure rooms.
+  Level: Legend caster/thief can manage him too.
+
+
+    The Balrog
+
+  Location: from Muranog s w s w s 7e 3n w s 4w s w n; from here n is his area.
+  Strategy: To do Balrog you need 4 keys. They load at:
+
+Muranog     - in cabinet   - mithril key
+Mezagor     - in corpse    - bloody key
+Grey spider - in chest     - jewel-encrusted key
+underwater  - behind crack - great bone key
+
+  Even if you already have Muranog's mithril key, go and kill him - otherwise
+Balrog will call him, he will arrive with his 3 trolls, block doors, and it is
+kinda hard to manage Balrog+Muranog+trolls at the same time...
+  Also need 7 strange golden rings that will save you from Balrog's heat. Rings
+load below water-drake. Sleep/blind/kill drake (for kill you have to dive -
+dangerous, as drake has special mudlle that drags u underwater). Swim & climb
+on, go 2d, open wellrocks, go e, unlock/open trapdoor, go up. (I think its the
+underwater key that's needed for trapdoor). Then there are 3 other doors.
+Behind doors to east and west are pillars. You have to cast 'dispel magic' on
+each pillar. Then cast 'dispel magic' on field (in central room), unlock/open
+mithril door, go n and loot The Morgul Blade, emerald, bronze medallion and
+rings in wooden box (all 4 keys needed there). NB! To get it working, you must
+type it fully, "cast 'dispel magic'", without speed modifier (and maybe case-
+sensetive too).
+  Then go from well with water-drake (Central Gathering Hall): 16w 3d s 9e n
+open stairway n 2d open crevice w n e n 5e 2s 7e 3n w s 3w s w. North of this
+room is entrance to Balrog, guarded by 2 dragon columns. They are not so tough,
+but they breath fire, just like Mithnaur. So before entering remove/put in
+container all that burns: arrows, receipts, all metal, fine chain and shining
+(it will damage too and lose absorbtion due to it).
+  After dragons' death casters must stop following warriors and rest in dragons'
+room (Before the Dread Portal). Warriors must go and kill all mobs in Balrog
+area, because he calls them.
+  Then begins last part. All rest full. Each cleric chooses his 2-3 warriors.
+First, clerics strength their warriors, rest full again. Warriors must go fur
+and leather (max ob weapons too) - armour will not protect from Balrog's insane
+hits anyway. They must have at least 150 (better 160) ob on aggressive, because
+Balrog have insane defence too! After that casters bless their warriors, rest
+full. Each warrior must wear strange golden ring, because otherwise Balrog's
+heat will damage them even more than his hits. Last thing: clerics sanc their
+warriors and go sleep for mana. Warriors go berserk - anyway it's impossible to
+flee from Balrog if you already hit him: his whip will drag you back!
+  Then warriors must go, find Balrog and hit him to death (or at least to bad/
+wounded), rescuing each other. When Balrog starts to flee: either return to
+casters if low hps and quickly get 1 heal each; or spamfollow and spamhit him
+otherwise. Be warned: Balrog regens VERY FAST - he drains health from lava. So
+of course better to fight him in a non lava room, and do not lose even excess
+second! :) Also: as Balrog is spirit-type mob, better to hit him with eff vs
+spirit weapon (which means BDA: engraved bsword and thorn do too low damage).
+  After he dies, loot his key and eq (2 darkie artifacts!), return back to
+casters, get them and go for loot: 2n e 2n e n w n unlock/open laen n w n
+unlock/open crystal w loot all (robe from chest, treasure); e unlock/open
+glimmer n loot all (tunic and treasure from chest); s e unlock/open iron s 2e n
+unlock/open obsidian n loot all (shield and plate); s e unlock/open marble n
+loot all (vambraces and greaves); s unlock/open golddoor e loot all (axe and
+helm); w 2s open bronzedoors s e 3s 3w 2s back to Before Portal.
+  Do not forget before going back go metal and set wimpy again :)
+  Also: Balrog zone can repop while players are in, but not Balrog himself - so
+don't be scared of being caught by a fresh Balrog on way back from treasure
+rooms.
+  Loads: The Huge Flaming Sword, The Black Many-Tailed Whip (on Balrog), The
+Axe of Durin, The Dragonhelm, full shining set (breastplate/greaves/vambraces),
+Ancient dwarven shield, white robe, grey tunic, diamond ring, wooden ring, lotsa
+gold/gems/coins.
+  Level: 7 (not more, not less!) legend warriors, preferably offence + 3
+legend clerics with sanc; 1 mage with dispel to get rings. Hard but possible to
+have just 2 clerics (pbs's needed in such case).
+===============================================================================
+  Load spots of stuff that was not mentioned above (all mobs soloable at least
+by legends):
+
+White chain loads in Moria: hood on shaman, shirt on commanding orc near wgate,
+  sleeves in mattock armoury; and also on Glorfindel ;)
+Embroidered surcoat - w from Outcast below stoneblock in Tharbad zone.
+FGC also loads on Eoghha and elven hunters near Rivendell (important for orcs/
+  trolls).
+Black cape - on black sorcerer and dark-robed man (bn mage and cleric gm's).
+Buttoned cassock - on Bill Ferny and ranger near Woodhall.
+Black warg fur - butcher warg pack leaders.
+Sacred cloak and ceremonial dagger - on Amanrandil in Eregion. As he is
+  good-aligned, kill him using poison or charmed mobs.
+Black amulet can be also acquired by a darkie who brings to BN sage a whitie
+  artifact.
+Mithril circlet, twisted crown and jewel-encrusted goblet - kill packrats (one
+  of them loads ancient dwarven key), go e s 4e 2n e n 3e n e u 2w s from wgate,
+  unlock/open flagstone, d s open trapdoor u. Goblet loads on the ground, other
+  in the chest.
+Necklace and iron chain load in the underwater near Tharbad: from sw corner of
+  Tharbad zone e 2n d e open plank e s - necklace; from there n d open plank s
+  open boards s - chain. Both load hidden (reveal needed), both can be popped
+  at same time.
+Small wooden box - in NOOC on Mordrath the Uroth-Ghish.
+Piece of mithril loads hidden (reveal needed) in Moria, 5e s 2w u 3e s d 3w 2u
+  from Hshkhlahk, but beware: d from it is Devastation room with same worms as
+  in Depths of Moria.
+Topaz also loads in chest at statues in Woodhall (sw Khuzur).
+Opal also loads in warg pack leaders (butcher corpse to get).
+Flask of miruvor can be given to any whitie who brings and gives to Erestor
+  darkie power item (crown, chain, amulet, wightblade fits; dcs and mottled
+  of course no ;)), chances are like 20-25% though. For darkie artifacts he can
+  give you some power whitie items, like Dunadan blade, or even circlet!
+Bottle of antidote also loads on hunter near Woodhall, and also on hillman chief.
+Herbal kit loads on hillman chief too.
+Smelly piece of worm hide can be given by BN sage to any darkie who bring him
+  a glowsword (Sting preferably), chance to get it is like 1% though...
+ElfHewer - on Great Goblin in NOC.
+War mattock also loads on the one black uruk patrol that doesnt move. Exact dirs
+  to the patrol from Cavern Crossroad is 3ds13e, its on the troll if it loads.
+Heavy warhammer - on Khuzur; also in cairn/cryptwall/coffinlid secretplace near
+  Wuda, in rack.
+2H sword: on whitie side - on the Old Wight near Bree; on darkie side - on
+  Zaugurz uruk in NOC.
+Bastard sword also loads in the chest guarded by ghost in Harlond area; on the
+  western evil priest; on the Outcast; in rack in secretplace near Wuda.
+Battle axe can be bought inside BM; crazed dwarves at Overseer, undeads at the
+  Ghosthy Captain and some orcs in Moria load it too.
+Silvery morningstar - Moria, Halls of Mourning (from upper Mustering stairs w
+  s 5e u 3w 4n 2e), in the sarcophagus.
+Sharp thorn - butcher giant spine-bush in Neni bushes.
+Gem-inlaid knife also loads (rarely) on the gaunt man (BN ranger) and on the
+  Cinard the Master Thief in Eregion.
+Steel-shafted spear - on Ohurk-uai orc chief on ABR.
+Steel-tipped lance - under shady bandit leader in Eregion.
+Yew longbow can be achieved from trapper n from Forlond (see quests).
+Bhsb also loads in NOOC (orkish caves in Dunland), in rack guarded by chieftain,
+  and crossbow loads on chieftain himself. Chieftain blocks exit to bhsb, but
+  he is a wimp, he shoots and flees around, so just lure him away if you can't
+  manage NOOC solo and haven't group with you.

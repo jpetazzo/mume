@@ -1,0 +1,14 @@
+
+Your base abilities are: Str:20 Int:6 Wis:5 Dex:16 Con:17 Wil:15 Per:16.
+
+
+          STR   CON   DEX   PER   INT   WIS   WIL   AGE
+-------------------------------------------------------
+Orc (*)    +2    +2    --    --    -3    -2    -2   2.0
+
+    Str:18 Int: 9 Wis: 6 Dex:14 Con:18 Wil:14 Per:16.  (Orc: 100% track; Credit: Rogon)
+
+p
+Ching tells you '+1 con at least'
+Ching tells you 'I would do +2 con -1wil -1 dex'
+

@@ -1,0 +1,12 @@
+#action {^You are hungry.$} {get meat backpack; eat meat}
+#action {^You begin to feel hungry.$} {get meat backpack; eat meat}
+#action {^You are thirsty.$} {drink skin}
+#action {^You begin to feel thirsty.$} {drink skin}
+#action {^A circular stone well has been built here.$} {pour well skin}
+#action {^A clear spring babbles as cool water trickles out of the ground.$} {pour spring skin}
+#action {^A large fountain, made from grey stone, pours water from its centre.$} {pour fountain skin}
+#action {^A well-crafted white fountain is here, water pouring forth from it.$} {pour fountain skin}
+#action {^The large Well of Osse is here, full of sparkling clear water.$} {pour well skin}
+#action {^Alas, you cannot go that way...$} {@reset}
+#action {^You cannot ride there.$} {@reset}
+#action {^The %w seems to be closed.$} {@reset}

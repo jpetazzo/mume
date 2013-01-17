@@ -1,0 +1,11 @@
+#macro {\e§} {cast 'armour'}
+#macro {§} {#echo Lightning bolt; cast 'lightning bolt'}
+#macro {½} {cast 'shroud'}
+
+#nop action {^You%* shoot} shoot
+#nop action {^%* swiftly dodges your attempt to shoot %*.$} shoot
+#nop action {^Your magic missile hits %*.$} {cast 'magic missile'}
+#nop action {^Aye! You cannot concentrate any more...$} shoot
+#nop action {You receive your share of experience.} {draw eket; recover}
+#alias + {draw bow; shoot %1; draw eket}
+#alias < {draw bow; shoot %1}

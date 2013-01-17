@@ -1,0 +1,52 @@
+#act {^An Underground Stream$} {pour water skin;drink water}
+
+change linkdrop 60
+change mood aggressive
+#action {^WARNING: inactivity timeout in %d seconds.$} {time}
+
+
+#highlight {^A small, mean earth troll} yellow
+#nop highlight {^A powerful young troll} yellow
+#highlight {^A disgusting forest troll} yellow
+
+#highlight {^A tall troll} {light blue}
+#highlight {^Clunker} {light blue}
+#highlight {^Crusher} {light blue}
+
+#nop highlight Arx {light blue}
+#nop highlight Kloonk {light blue}
+#nop highlight Blondinbella {light blue}
+#nop highlight Sporf {light blue}
+
+#nop unmacro {\e[A}
+#nop unmacro {\e[B}
+#nop unmacro {\e[C}
+#nop unmacro {\e[D}
+#nop unmacro {\eOo}
+#nop unmacro {\eOj}
+
+#nop macro {\e[1;3A} {#echo North; north}
+#nop macro {\e[1;3B} {#echo South; south}
+#nop macro {\e[1;3D} {#echo West; west}
+#nop macro {\e[1;3C} {#echo East; east}
+#nop macro {\eOo} {#echo Up; up}
+#nop macro {\eOj} {#echo Down; down}
+
+
+#action {^%* joins %*'s fight.$} {assist}
+#action {^You are hungry.$} {eat corpse}
+#nop action {^You are thirsty.$} {drink skin}
+
+#read time.tin
+#read warrior.tin
+
+#macro {\e[H} wake
+#macro {\eOu} {kill troll; bash}
+#macro {\e[F} sleep
+#macro {\e[1;2F} sleep
+#macro {\e[1;2F} rest
+#macro {\e[E} bash
+# H F E 7 1 5
+
+#macro {[15~} time
+

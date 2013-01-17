@@ -1,0 +1,46 @@
+#highlight {^A man walks stealthily here, enshrouded in a grey woollen cloak.$} {light blue}
+#highlight {^A strange man, dressed in black priestly-garb, walks here (glowing).$} {light blue}
+
+#highlight {grey-cloaked man} {light blue}
+#highlight {cowled sorcerer} {light blue}
+#highlight {dark-robed man} {light blue}
+#highlight {gaunt man} {light blue}
+
+#alias start {
+	rev belt;
+	wear belt;
+	#2 rev lantern;
+	wear lantern belt;
+	snuff lantern;
+	rev shield;
+	wear shield;
+	rev blanket;
+	wear blanket;
+	rev dagger;
+	wield dagger;
+	rev knife;
+	wear knife;
+	#3 rev torch;
+	#3 rev cup;
+	rev shortbow;
+	wear shortbow;
+	#10 rev arrow;
+	rev quiver;
+	put all.arrow quiver;
+	wear quiver;
+	get all all.sack;
+	get sack;
+	eq;
+	get all.bread;
+	put all.bread sack;
+	inv
+}
+
+#action {^You%* shoot} shoot
+#action {^%* swiftly dodges your attempt to shoot it.$} shoot
+#action {^Your magic missile hits %*.$} {cast 'magic missile'}
+#nop action {^Aye! You cannot concentrate any more...$} {cast 'magic missile'}
+#unaction {You receive your share of experience.} recover
+
+#action {^ZBLAM} {stand; ride}
+

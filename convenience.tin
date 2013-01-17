@@ -1,0 +1,47 @@
+#alias ferry {#action {arrived in} {leave; #unaction {arrived in}};#action {arrived at} {board; #unaction {arrived at}}}
+
+#action {^The tanner gives you a wolfskin wristband.$} {give fur tanner}
+
+#alias {craw} {get pan backpack; get salt backpack; cook raw; put pan backpack; put salt backpack; put meat backpack}
+
+#alias {xsh} {draw bow;shoot %0;draw sheath}
+
+#alias {tells} {#grep  tells you}
+
+#alias hp {#tick hp {info HP: %z/%Z, Mana: %e/%E, Moves: %j/%J} 10}
+#alias unhp {#untick hp}
+#action {^You go to sleep.$} {hp}
+#action {^You wake, and sit up.$} {unhp; stand}
+#action {^You are awakened by %S.$} stand
+#action {^Nah... You feel too relaxed to do that.$} stand
+#action {^Maybe you should get on your feet first?$} stand
+
+
+#highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
+#highlight {^The night has begun.$} {red reverse b white}
+#highlight {^The sun rises in the east.$} {red reverse b white}
+#highlight {^The day has begun.$} {red reverse b white}
+#highlight {^You gain a level!$} {blue reverse b white}
+
+#highlight {^You flee %*} {black b yellow}
+
+#nop HIGHLIGHT {^You hit %*} {bold green}
+#nop HIGHLIGHT {%* hits you%*} {bold red}
+#nop HIGHLIGHT {%* crushes you%*} {bold red}
+#nop HIGHLIGHT {%* smites you%*} {bold red}
+
+#highlight {^You feel a hidden presence.$} {light red}
+#highlight {^You have found %*!$} {light red}
+
+#highlight ZBLAM {light red}
+
+#NOP Lorien
+
+#highlight {^Orophin, %*$} {light blue}
+#highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
+#highlight {^Celebrindal, Lady of the Galadhrim, is before you%*$} {light blue}
+#highlight {^A dark-haired, grey-eyed elven lady is standing here, clad all in white.$} {light blue}
+
+#highlight {%* of snow-white and palest green} {green}
+#highlight {Delicate golden blooms} {green}
+

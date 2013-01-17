@@ -1,0 +1,43 @@
+                                    SHIELDS
+
+
+           Shield          Weight  PB  Other
+
++Ancient dwarven shield      1715  35  Magic, Anti-evil
++Defiled dwarven shield      1715  35  Evil magic, Anti-good, Anti-neutral, Eff vs light
++Tower shield                1100  35  Magic
++Smelly piece of worm hide    880  30  Magic, Saving Spell -10
++Bejewelled shield            880  30  Magic, Saving Spell -10
++Large metal wall shield     1450  30
++Metal wall shield           1275  27
++Sun-emblazoned shield       1275  27
++Gilded round shield          750  25
++Large wooden wall shield    1190  25
++Zaugurz shield              1275  25
++Shield of Arthedain          705  24
++Wooden wall shield          1100  23
++Shield of Cardolan           705  22
++Dark shield                  925  21  Magic, Anti-good
++Large metal full shield      925  20
++Reinforced oaken shield      570  20
++Full metal shield            835  18
++Large wooden full shield     705  16
++Blackened shield             705  16  Evil, Anti-good, Anti-neutral
++Isengard shield              620  15
++Round shield of the Mark     620  15
++Black metal shield           660  15  Evil, Anti-good, Anti-neutral
++Full wooden shield           616  14
++Large metal shield           530  13
++Spiked shield                485  12
++Metal shield                 450  11
++Red-skull shield             440  11
++Large wooden shield          395  10
++Small metal shield           350  9
++Wooden shield                310  8
++Small wooden shield          265  6
+
++The Black Buckler            265  15  Magic, Nosell, Eff vs spell, Saving Spell -10, DB +5
++Metal buckler                350  7
++Wooden target shield         220  5
++Small metal target shield    175  4
++Small wooden target shield   175  3

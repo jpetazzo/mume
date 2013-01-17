@@ -1,0 +1,649 @@
+                               MISCELLANEOUS INFO
+
+### WARNING: any numbers in this file are not necessarily exact! Remember,  ###
+### I'm not a Vala, and can't see exact numbers/formulae. These numbers     ###
+### more or less describe the state of affairs, but anyway it is nothing    ###
+### but approximation...                                                    ###
+
+
+
+    I. Numeric part.
+
+    Bears
+
+  After meta stats change: Str:+4 Int:-4 Wis:-4 Dex:+3 Con:+3 Wil:-4 Per:+2
+
+    Some about spells
+
+  Max damage through sanctuary = const - (caster's_wis + target's_wil),
+where const was 49 in M6, and is some higher now (like 52-55).
+  Armour % = (spell_level + int - 20) * 2
+  Spell_level = spell_efficiency_(visible_in_guild) * your_level. Right if
+neither you nor your opponent have +attack/spellsave eq. Otherwise replace
+your_level to (your_level + your_attackspell/10 + opponent's_spellsave/10). Of
+course, if his spellsave is negative (brd, star sapphire, enruned, copper, etc),
+damage of your attack spells will be less, as if you were lower level. Note
+also that levels after 25 give you 1/10 of actual your_level (i.e. your_level
+will be 20 on l20, 25 on l25, and 26 on l35).
+  Amount of spells that you can store depends on your level, spell level (not
+spell_level metioned above!), and amount of items that increase your attack
+spell. Usually each legend mage can store 3 colour sprays (lev 13 * 3 = 33 store
+units), each correctly stated - 2 silence (level 17 * 2 = 34 store units), but
+if he also have staff with opal in it - even 5 earthquakes (level 7 * 5 = 35
+store units). Feel free to find it out yourself for each stat set and each spell!
+  Enchant spell makes weapons much better, but it also forces weapon to have
+same alignment as caster has. I.e. darkie can't wield whitie-enchanted weapon,
+and vice versa. But if mage have dispel magic spell - he can dispel enchant of
+opposite side and reenchant weapon. It is truth for any weapon but staff. Foci
+staff can't be dispelled at all. Rough staff (metal-shod/inlaid with gems)
+used to be non-dispellable too, but this feature is bugged! I.e. if whitie
+will dispel darkie staff - staff will lose it's evilness (but not forever), and
+will not lose extra pb/damage. If any whitie will hold this staff right after
+dispelling, staff will not zap him... until he rents/relogins, or just removes
+it and wears again! So, if you want to dispel evil enchant from staff forever,
+you need dispel it, and instantly - without wearing it - reenchant. But after
+that no one except caster himself will be able to use this staff...
+  Block door can protect door from being open for 9 ticks. Though, it is still
+possible to bash blocked door or break it with 'break door' spell. Not each
+door can be blocked (usually all wilderness door like "bushes", "thorns" are
+non-blockable). It is also impossible to block bashed/broken door, but! still
+possible to re-block (block door that was blocked before and bashed). It is
+MUCH harder to break/bash blocked door if blocker stands near door/behind it.
+
+
+    Battle messages
+
+  In MUME you do not see exact damage which you inflict to your enemy in hand-
+to-hand battle, but battle messages will give important information about
+damage to anyone who can decrypt them. Example:
+    A robber(1) strongly(2) pierces(3) your right arm(4) and tickles(5) it.
+  (1) Mob name, appears as "someone" if opponent was sneaking/invisible, or if
+you has been blinded.
+  (2) Literal indication of damage, can be "barely" (1-2hp)/"lightly" (3-5hp)/
+/"" (6-8hp)/"strongly" (9-11hp)/"hard" (12-14hp)/"very hard" (15-17hp)/
+/"extremely hard" (over 18hp).
+  (3) Opponent's weapon type, can be "slashes"/"pounds"/"cleaves"/"pierces"/
+/"stabs"/"shoots" (accordant to same weapon skill), "smites" which means "hits
+with 2-handed weapon", "whips" - using whip of course (however, it's slashing
+skill that needed for whipping - don't ask me why though ;)), "strikes" - goes
+for mages with 2h staves, and "hits" - just hits with no weapon.
+  (4) Can be "head"/"body"/"arm"/"hand"/"leg"/"foot".
+  (5) Shows relative damage: damage/hps left. Can be "tickle"/""/"shatter".
+Of course dependant on target's current hps. I.e. 30 hp smite will be "shatter"
+if you hit a wolf, but just "tickle" for Old Man Willow; last hit ever on
+willow will be "shatter" though.
+
+
+  How good you know skill - literal indication:
+  1 - 16%: Awful
+ 17 - 29%: Bad
+ 30 - 39%: Poor
+ 40 - 62%: Average
+ 63 - 69%: Fair
+ 70 - 80%: Good
+ 81 - 92%: Very good
+ 93 -100%: Excellent
+101%+: Superb
+
+  Your hit points while in battle - literal indication:
+ -5 -  0%: Dying
+  1 - 10%: Awful
+ 11 - 25%: Bad
+ 26 - 45%: Wounded
+ 46 - 70%: Hurt
+ 71 - 99%: Fine
+100%: Healthy
+
+  If you do limited reroll:
+changing stat to 1 increases distance to reference stats to 14.25,
+changing stat to 2 increases distance to reference stats to 33.9,
+changing stat to 3 increases distance to reference stats to 56.55,
+changing stat to 4 increases distance to reference stats to 80.85,
+rounding down. Permissible variation - 0.025.
+
+  Without leadership it's is possible to lead 2 (i.e. group of 3) without delay.
+The more leadership skill you have - the more ppl you can lead without delay:
+   0% leadership - group of 3
+  25% leadership - group of 4
+  50% leadership - group of 5
+etc up to group of 7. However, it's possible to lead group of 8 with no delay -
+for clerics with superhigh WIS/WIL: they can prac leadership up to 125%. Note
+also that anyone can be head of group (i.e. anyone can "group"), but anyway one
+who really leads (i.e. one whom others follow) needs leadership skill - if he
+wanna lead group without delay.
+
+  Your lockpicks are nothing more but your 'pick' skill boost. Plain (non-
+upgraded) set adds 25% to pick skill, each upgrade (they all same) adds 3% more.
+Conclusions:
+ 1) 'Pick' skill is obligatory for all classes. Max (7x) upgraded picks give
+you 46% pick - and same does 4 pracs in 'pick' for thief/defwarrior, like 5-6
+for caster/attack warrior. Guess what's easier to gain - 7x upgrade or 5 pracs.
+ 2) Don't care about many upgrades (they add too few anyways), but always have
+plain set - 25% pick worth 2-3 gold! You can always buy picks in the Tharbad
+thieves shop, or ask any dwarf to buy it inside BM; also picks load on certain
+mobs, like assassins or trapper in new zone near Tharbad.
+
+  Each armour absorbs some incoming damage, but not more than certain amount of
+hps (exception - magic armour, which absorbs always same part of damage - in
+percents - non-dependant on how hard hit is). Each weapon does certain damage
+after certain delay. For example, engraved broadsword have damage 9, delay 90% -
+i.e. 10 dam/round; max-enchanted bastard sword (while wielded one-handed) -
+damage 13, delay 135% - 9.6 dam/round. Also engraved have -5 OB, but +10 PB
+compared to bastard. It seems that engraved is the best non-artifact weapon for
+slasher-warrior - but it is right for exping on no-absorb mobs only.
+  Due to UP_TO (max hps absorbing by the armour) stat bastard sword is
+definitely better than all other non-artifact slashers. When you hit your metal-
+dressed victim with engraved, you hit him very often, but each hit inflicts
+like 1-2 damage, because armour absorbs all the damage. When you hit him with
+bastard, no armour except fine/shining can absorb so high damage, and thus your
+hits HURT :) Same goes for all other types of weapon: seek high dam/round
+weapon for exping, and just high-damage for pk.
+
+
+### All next is age-dependant.
+
+  Your hps=race_const+age_const+(race_const2+0.375*CON)*real_level,
+where race_const is base hps for this race (like 8 for elves, 11 for men, 10
+for bns, etc), race_const2 is level-dependant hp-modifier (like 3 for elves,
+2.6 for men, 2.1 for bns...), age_const can be taken from "help age" (Hit),
+real_level is your level if it is 25 or less, and 25+(your level-25)/10 if it
+is more that 25.
+
+  Though, this amount of hps have only chars who didn't pracced anything, and
+also pure thieves. Mages have 0.75 of this amount, clerics have 0.85, warriors
+have 1.2. If you are not pure class, you will have something average (at
+example, mage with bob+cure ser+rem pois+bless will have 0.77, if he have also
+some parry/pick/etc - around 0.8). I'll name this amount "class_hps".
+
+  If your char (any class) also pracced some endurance, it will have class_hps*
+(1+0.24*endu_know), where endu_know is your knowledge in endurance (visible in
+guilds)/100%. It will be pretty correct for warriors, but mages will gain extra
+hps when praccing endurance due to lowering mage level and increasing warrior
+(like 1 extra hp per prac - endu is HARD skill).
+
+  Your mana=race_const+age_const+3.75*INT+3.5*WIS.
+  Your moves=race_const+age_const+1.5*(CON+DEX).
+  However, pure casters will have some extra 1-2 mana, and 1-2 less hps/moves;
+vise versa for pure warriors.
+
+  Never use a weapon if you don't have enough strength to wield it (if you
+see message "You are too weak to use this weapon effectively"). If your
+strength is less than needed for this weapon, you will have 5 OB penalty on
+aggro and 3 OB/2 PB penalty on wimpy for each 1 lacking STR - for slashing 
+weapons, and also damage penalty - for crushers/two-handers. At example: if you
+are warrior, and have STR 17 - use enchanted large warhammer, not heavy
+morningstar (min 18 STR). Star have higher damage, but if you are not strong
+enough, you will do even less damage wielding it than wielding hammer.
+
+  Each 1 DEX gives you extra 2 natural db (which will exist even if you are
+naked). However, the more DEX do you have, the less db shield spell will give
+you (with same INT/WIS of course). And also your ob (directly) and db
+(indirectly - through carrying weight) depends on your STR.
+===============================================================================
+    II. Textual part.
+
+
+    Making foci
+
+  To create focus you must be at least 21 level and very good alignment person
+(maybe even better than well-meaning). You must collect some foci ingridients
+(see STAVES on secured part for info about staff parts), kill Old Man Willow
+and get blue crystal from his corpse (this component needed for all foci-type
+items). If you wanna make a staff, bring oak branch to the carpenter in Blue
+Mountains and let him make from it carved oak staff. Both components must be
+blessed; staff must be also enchanted (by owner only!). Then go to the Harlond,
+find Cirdan Shipwright and say him "sail west". Follow him to pier and wait
+until White Ship arrives (i.e. until midnight). Board it and sail to the
+Eressea. After you arrive, board ferry to Valinor (in same room in Eressea).
+All foci must be created in highest tower (from ferry some up, 12-15 rooms
+south-west and then up again).
+  To create foci staff you must have in inventory carved staff and blue crystal,
+and "cast 'create focus' staff". To make pale blue stone needed topaz (loads on
+Mormaeg the Spider) and crystal. For sapphire ring you have to have one of
+rings of power (ruby/iron/copper/jewelled/banded) and dip it into one of magic
+pools in Valinor before creating focus. Sun pool will add 5 OB, moon - 5 DB,
+star - +10 attack spell and -10 spellsave. However, you may dip ring in the one
+pool only. You must dip ring in proper time: i.e. in sun pool - dyring sunrise,
+etc. Moon pool located on Eressea (Tower), other two in Valinor (i.e. after
+ferry). Also make sure you are trying to dip RIGHT ring, not just some ardaring
+;) Use keywords 'ironring', 'rubyring', etc.
+  To create crystal phial dip adamant (loads on Mithnaur the Dragon) into one
+of pools too. The moon pool and sun pool no one is 100% sure about but I have a
+pretty good idea what they do. I'm pretty sure I'm the only person who has ever
+tried to make all 3 phials so my info is about as acurate as you can get. The
+phial made from the moon pool which like I said I cant say for 100% should do a
+magic blast which takes down evil spells like shield and armour. I use it in
+room with evil and everyone evil in room cries out in pain and I noticed I was
+shattering bns I fight more often after using it. It would be difficult however
+to just go and ask them if they noticed there spells dropping though. And the
+phial dipped in sunpool I think takes moves away from all evil mobs/players in
+the room and gives them to you. I used and all evil cries out in pain I leave
+and notice I have almost full moves after running down oer right smack into an
+orc group. Well star pool phial is the only one I'm 100% about blesses everyone
+in room for about a full mume day and takes about as long to recharge as a pbs.
+(credits to p(Norglin))
+  After that you can take sail back to the mortal land, and embed things into
+your staff (if you did make it). Just go into proper shop (where you can buy/
+sell embedding thing) and type, at example, "embed opal staff". It costs some
+money btw. You can embed max 3 things, and all they must be different.
+
+
+    Hide
+
+  Even after last changes hide is very powerful skill. If you have max (superb)
+hide, and hid yourself in proper area - it can take 10-15 rounds of search tho
+for solo enemy without awareness/search pracced. However, spamming hugegroup
+or maxaware whitie thief with 3 pracs (40%+) in search will reveal you pretty
+quick. Most important is find a good area to hide. Best is forest, hills/
+mountains are good too. You can not hide while someone sees you (unless you are
+grouped with him), but it does not mean that you can't hide with someone in
+room! Sneak on - and you will have a good chance to hide under someone's feets!
+:) You can not do any "active" acts while hidden - otherwise you will be
+instantly revealed. Only things that you can do is: "score", "stats" and "inf".
+Even checking your eq, changing linkdrop, "look", "examine", and such non-
+active command as "who" will reveal you (obviously bug, but anyway). If you
+have wounds, bleeding will not reveal you, but all in the room will see message
+"Someone bleeds from open wounds." Stealing will not reveal you too, but it's
+much easier to find you when you are attempting to steal. If you lost link
+while hidden, reconnecting will not reveal you.
+  After the last hide change it became much more powerful: if you hide when
+someone is tracking you, he will not get 'you found your victim' message when
+entering your room, but instead 'tracks coming from the...'. So: run to some
+open area, made circle and hide in the middle of it. It is called looptrack,
+and will force clueless hunter run in endless circles (because your tracks will
+have no end). Though, there is a way to handle this looptrack thingie (by
+Jocke). If you find your victim is making a track loop, cancel your track, make
+a 'where' in that room. That will show you the direction he went. Go there.
+Then make a new 'where'... etc. If he is in the room, it says comming from...
+even if he made a track loop. Either that or simply use a new track target in
+every room.
+
+
+    Protection from thieves
+
+  To protect yourself from playerstealers you must know how thieves do their
+work. Thief with pracced 'steal' skill can see your inventory. The larger is
+item - the harder to steal it. I.e. it's very easy to steal dagger, some harder
+to steal piece of armour, and very hard to steal large container. Almost same
+hard is stealing money. Completely impossible to steal money from moneybag and
+items from container (even if it's not closed)/from equipment. Thief can steal
+even if he is not sneaking (but it works better if sneaking though); success is
+dependant on zone too (its easier to steal in forest than in city) and on ratio
+thief level/victim level.
+
+
+    Some advices for thieves
+
+  If you feel that thieves are unplayable since last regen changes (as I do),
+it is really good idea to prac max steal (105%+) and turn some of your chars
+to real thieves - who will live inside cities only, have always tons of money,
+and will help your friends if they will need money. 
+  Best place to steal is Grey Havens (as there are many shops, and citizenship
+is free). To have maximal chance of success, turn sneak on, wait till no guards/
+players will be in shop, enter and hide thorough right in shop! Worth shops to
+steal are all 3 smiths (Kevlar/Faldor/Gildor), herbalist, tailor and - of
+course! - Daegil on ferry. Last one have no strongbox to hide his money, and
+after day without reboot he usually is REALLY rich. But don't try to steal from
+jeweller - because he is lev99 mob, and no one is able to steal from him.
+  As about pstealing... huh, it's your choose, but IMHO same-side pstealing is
+very lame act, and will make you very infamous...
+  Also small advice: when you are sneaking, your moves go down really fast, and
+even more fast if you are tracking while sneaking! So ride until you will be
+near your victim, and them dismount to stab. You can even not turn off your
+sneak while riding, because it is impossible to sneak while riding anyway, so
+movecost while riding/sneaking is same as while just riding.
+  You can no more stab bashed person: MUME management became tired of bash dis/
+/stabbing thieves and forbade it.
+
+
+    Artifacts
+
+  Artifacts are very good and rare items. Main difference between artifacts and
+other items is that only one person can own each type of artifact. I.e. great
+warsword is very hard to get, but as it is not artifact - there can be any
+amount of players who can own it at the same time. Otherwise, all glow weapons,
+most legendary darkie weapons, black buckler and some more items are artifacts
+and will not repop while someone already have them.
+  All artifacts will decay in the hands of their owner after some random time
+(rumors: 0-15 rl days), and will reappear in the load spot again (with very low
+probability though). Notrack boots are almost artifact: there can be max 3
+pairs of notracks in MUME; same goes for warmask.
+
+
+    The power of the pipe 
+
+  The pipeweed found all over Shire can be used for something other than quick
+money. First get a pipe (loads smugglers hideout some e s of Waymeet) and fill
+it with pipeweed (also loads smugglers, get key from 'experienced smuggler', of
+course loads pipeweed fields as well). [If you are rich and lazy, you can buy
+all stuff either in Shire or BM.] Hold pipe, rest and 'smoke pipe' (it is very
+important to rest while smoking - otherwise it would not work). You will get a
+message something like "You feel oddly charged", or "You feel focused". This
+will give you an instant mana boost (6-30 mana is typical), but your manaregen
+will be slower for like 20 secs rl. The only drawbacks are you have to wait a
+few ticks before you can use again, and that on rare occasions you may lose
+mana instead of gaining. One smoke=one pipeweed, and wooden pipe holds max 99
+pipeweed. Clay pipe can contain just 14 pipeweed, but it also weights less.
+  Pipe also can be used to smoke mauve... Well, not to gain some extra help in
+fight, but to differ your rest a little ;) Try it yourself, and you get the
+point!
+
+
+  Your alignment - literal indication:
+You are totally corrupted by the Evilness of Morgoth! - Max evil
+You are evil, you could be a decent follower of Sauron. - Almost max evil
+You find a form of beauty in other's pains. - Very evil
+You are a balanced individual with little concern for good or evil. -
+    Corrupt/Decadent (Evil)
+You are a well-meaning person, always glad to help your friends. -
+    Undecided/Thoughful/Well-disposed (Neutral/Good)
+You are firm believer in the values of Right and Wrong. - Very good
+You must have been sent on Arda to free it from the sorrows that weigh upon it. -
+    Max good
+
+  When someone is fighting several enemies at the same time, his parrying bonus
+is splitting (dodging bonus is not though). This called "parrysplitting", and
+it depends on target's level and total amount of levels hitting the target.
+
+  If you want to type a long message (narrate/tell) in pk area, start search
+thorough first - it is long enough to type and not been stabbed while typing.
+
+  Bash door success depends on your OB. That is why experienced fighters have
+two sets of armour: metal and leather (thin soft jerkin/sleeves/trousers/
+boots, thin (not SOFT) gloves and soft cap). Metal eq decreases your OB, but
+thin soft leather - increases. So before bashing doors put off your metal set
+and wear leather one (make aliases for it: remove/wear all.metal/all.leather).
+
+  Always have 1-2 gold coins in your wallet (not in the moneybag). You can lose
+link, but renting in the open place is much expensive than in the inn. If you
+have not enough money for "linklessrenting", you will lose ALL your equipment
+(including money in moneybag).
+
+  Never enter into town where you are not citizen with unsheathed weapon (you
+can also simply "remove" it and keep in your inventory), never cast any spells
+inside. If you did this, follow any guard that orders you to do it (one
+exception - SEE BELOW) AS QUICKLY AS YOU CAN. You will be put in jail for a
+short time, but you will be alive. Unfortunately this rule applies to ALL
+Shire area (from Mishel Delving zone to some rooms east from Brandywine
+bridge).
+
+  You can enter Tharbad (via gates, or inside coach) with unsheathed weapon
+and can cast inside even if you're not citizen. So don't buy citizenship (it
+costs 100 gold for all good-aligned players under lev 15, and even more on
+higher levels). But if you have attacked Tbad citizen by chance and guard
+orders you to follow him, DON'T DO THAT! It is death trap - you will be
+instantly slain in jail. Narrate for any player-citizen opens Tbad gates, bash
+gates down, narrate about transfer, but don't follow guards. By the way, guards
+will forget abour your crime after 1 rl month or after your mobdeath.
+
+  Different races have different race bonuses/maluses. Hobbits are best
+sneakers on Arda, and have even more bonuses in sneak when barefoot. Elves
+are eff vs snow (can walk without losing extra moves on any snow - even on
+Redhorn), sneak well too (but not as well as hobbits), can ride without
+saddles and immune to diseases. Dwarves have +5 OB bonus when unmounted and
+with 1H axes. Trolls are eff vs hobbits (do 25% more damage), naturally see
+invisible, and completely unaffected by poisons (but they can't cast any spell
+and have sundeath, don't forget). Orks are eff vs fire/poison, ineff vs light,
+and ineff vs spell under sun. Both trolls and orcs can see in darkness. Black
+Numenoreans and ineff vs lightning bolt spell. There is also info about
+eff/ineff vs different terrains in "help terrain".
+
+  There are some mobs in MUME who can track and will chase you (if they are
+aggressive to you). Some advices will help you to get rid of them:
+  1) run to nearby building with door and close self inside, but beware! some
+clever mobs (usually humanoid) can open door and even close it behind them!
+  2) go through water - it's impossible to track on water (but possible to
+track on ice!)
+  3) invis yourself (of course it will not work if mob can see invisible)
+  4) run far away - usually mobs stop tracking when victim is farther than
+certain distance from them. Distance is different for different mobs - from
+few rooms for hill giant to whole zones for patrols in Moria.
+
+  Roots can trap you and prevent you from leaving room, even if you are riding.
+If you are low level (<10) and can't just kill them, there are some tricks that
+will help you survive:
+  1) warrior: "bash disengage" roots and quickly leave room. But roots will
+remember you in such case, and will instantly and without any message trap you
+again if you will return in their room! However, this feature was changed
+somehow not so much time ago, so watch out!
+  2) caster: nuke them ('burning hangs' works very well vs roots - as they are
+wooden), flee, roots will drag you back - and invis yourself before roots will
+hit you: they don't see invisible. Rest for mana and repeat until they dead.
+  3) thief <8 level: with no backstab narrate for help - no way to defeat them;
+with backstab make backstab attempt while roots can see you - when they
+"surprise you" they will get hit-delay during which u can flee; on higher level
+with no backstab try shoot/flee - if you have quick bow (shortbow for example).
+  Indeed, roots have no eyes, so nuke and return - and it will not remember or
+attack you again.
+  Luckily there are few rooms with roots in MUME: in a secret place in BM area;
+in the Old Forest; above north-western exit from Troll Warrens; in new zones:
+Vale, BM warmask zone, Dunland. And the last advice: don't attack roots in Old
+Forest while trees are alive - otherwise all trees will attack you and you will
+die pretty quick.
+
+  In you are lost in the Old Forest or in hills near it - "tell bombadil help",
+and Tom Bombadil will come and lead you out. Don't use "tell tom help" - it
+doesn't always works well.
+
+  Rumored that wolfskin wristband increases change to save dt. Why so? Tanner
+who makes it has the interesting message which makes people believe that it
+increases dt save. He says "It may oneday save your life."
+
+  Some mobs on Arda placed behind closed (thugs near GH, at example) or even
+locked (Zaugurz uruk in NOC) doors. Before entering similar rooms always make
+aliases for open/pick/bash <doorname> (but don't forget - you can't pick while
+fighting!) - otherwise repop can catch you inside, fresh mobs will arrive,
+door(s) will auto close/lock, and you will have good chance to eat mobdeath.
+Other good method of whacking mobs behind doors is doing it just after repop of
+this zone.
+
+  Rumored that no matter what spell mode you on when you cast stored spell - it
+will be same speed anyway. So if you are gonna cast any stored spell might as
+well make it normal for less mana and more damage.
+
+  Some closed/locked doors on Arda can't be picked/bashed/breaked with magic.
+That doesn't meant that you can not get inside at all. Some on them just need
+special key which loads on some mob, usually not far from door. Some doors can
+be opened only with keys given by Ainur - doors of most secured legend homes
+such White Tower near Harlond and PurpleDoor in Hobbiton (Gangee house). Others
+need special mob to open it. At example, all city gates can be opened by
+gateguards (if one with key wasn't killed), just "say open" from inside or
+"call" from outside. Same goes for legendhomes with doorwardens (in you are
+friend of house owner) and jaildoor in NOC. Secret door in NOC area that leads
+to Mithnaur the Dragon can be opened by Eoghha if you will give him 20 gold.
+
+  About fleeing. If you flee with swim/climb turned off, you will never pass
+exit where swim/climb needed. Examples: if you are in water, fighting near
+beach, swim off and flee - and either you will die or flee outta water; if you
+are fighting in the Necro area on Ledge, climb off and flee - and you will
+never flee down. However, nothing will save trolls from fleeing into sun except
+mood berserk.
+
+  Mobs are not affected by his eq. I.e. bn sage hits with dented plain dagger
+same hard as with brand new black runed dagger, etc...
+
+  Rule for 1 vs 1 warrior fights (by Tairach): if solo hitter hits you, wait
+for your attempt to hit him back and then flee or whatever. If you flee
+instantly you are gonna lose.
+
+  Second rule from Tairach: if anyone has hit-delay (also mobs) their defence
+is reduced => warrior can solo hard mobs with just retaliating first hit and
+fleeing. Example:
+    Bulky troll tries to hit u...
+    <delay>
+    You slash troll extremely hard.
+    *>flee
+While "hit troll" would probably result in opposite effect (troll parrying
+and you getting ass kicked).
+
+  Rumored that time of pale blue stone full-recharge is 2 MUME days (48 mins rl)
+
+  There are 6 Oak Trees on Arda (which load oak branches) - 2 near NOC, 1 in the
+circle of stones in NOC area, 2 in Eregion (Khuzur/Tall Orc) and 1 in Dunland
+(near foresters). But at the one time can be popped only 2 of them. Branches
+decay in few hours rl after you get them from tree, so watch out for time.
+
+  Spirit-type undeads are ineff vs wood - so it's much better to pierce/backstab
+them using starp thorn (to get it butcher some bush mob located in brushes on
+road to Rivendell). If it is maxenchanted, even Wight Captain will die in 2
+stabs from legend thief.
+
+  Best thief guilds are in the city of Tharbad, but it is evil city, and it's
+guards don't protect whitie players from Black Numenoreans. GH/Bree/Fornost/
+Rivendell guilds are very poor. But there is one more thief guild in Arda: in
+the hidden place in Old Fornost. On middle levels it would be very good to prac
+here. To enter it you need to go to the Olly Tavern in Fornost, and give him
+2*(your level) silver (celeb) coins - he will tell you password for Black
+Dagger Guild. Then from w gates of Fnost go n 4w open hiddenrock d, call - and
+say password after guildmaster's request. You can also get cleric with "break
+door" spell to get in (dunno if this door is bashable or not).
+
+  Darkies have no justice, their mobs do not hunt players who kills same race
+mobs, it is impossible to lose NOC/Warrens citizenship, but! if orc player
+kills Great Goblin and loots/wears his crown, he:
+1) Loses ability to wear something else on his head (crown of bones is cursed -
+impossible to remove it). Though, it will decay after two or three days.
+2) His title automatically changes to "the Goblin King/Queen", in the moment of
+wearing, and also after each login.
+3) Gains right to rent without any payament.
+4) Gains ability to convict/pardon other orcs - it is only way to make orc
+wanted/unwanted in NOC (examine runes on crown for more info).
+
+  If you got huge loot from opposite side players/such rich mobs as Balrog,
+there are two good and fast ways of splitting eq:
+1) Some slower, but no special item needed - just type command. All "flip coin".
+All who got tails leave. If more than one person got heads - flip again. If no
+one got heads after last round - these who flipped on last round flip again.
+Repeat until only one person left with heads - he wins item. Repeat for all
+items - will be slow if there are much items/players pretending.
+2) Best way, but needs die (you can buy it in Tharbad thieves shop). One with
+die must hold and "throw" it twice for each pretender. 2 digits will give to
+each number from 11 to 66. If two players gets same number - they flip coin.
+Then one who gets largest number gets item that he wants, then chooses player
+with second large number, and so on. If there are more items than players -
+make enough rounds :)
+
+  Usually if someone dies in dt, there is one way to get his eq - log in
+immortal and fly in dt ;) But this doesn't applies to Canyon dt (4 rooms some e
+from Warrens): if someone died here, you can retrieve his eq just by going s 2e
+n d n d 2w d w - there drops all corpses of all died players!
+
+  Dark Tower, Last Bridge Fortress, watch tower on ABR, new tower in Vale and
+Rohir tower in southern Dunland can be popped darkie or whitie. There are rules
+of this repop:
+1) By default (after MUME reboot) all towers but Rohir pops darkie
+2) If there is at least one alive darkie mob (even shadow) left - it pops
+darkie (same goes for whitie mobs - whitie repop)
+3) If there are no mobs left and there are players of both sides inside - it
+pops same as previous time
+4) If there are no mobs left and no darkie (whitie) players inside, but at
+least one whitie (darkie) in - it pops whitie (darkie)
+5) If there are no mobs left and no players inside - it doesn't repop
+
+  Reimbursement rule by Ainagul.
+  If you died due to bug (in your opinion), and want reimburse:
+1) report the death in a bug-manner using appropriate language
+2) start reequiping
+3) try to find the Vala that takes pride in that certain zone the accident
+happened in (most probably the builder)
+4) offer help in explaining the bug etc
+5) dont ask for reimburse... it will be offered :)
+
+  Rumors about forgeddoor in BM are completely groundless. Behind forgeddoor
+are just 6 rooms, one of them underwater, one just watery with mudlle which
+slowly drags you down, and down from it is plain non-timed dt. No any good
+stuff loads here - we searched these rooms with maxed search many times. Just
+some thick chain in the chest...
+
+  Rumours about weapon damage formula. 
+  Each race have some base_damage which adds with weapon damage, and it is not
+dependant on str directly (i.e. two warriors with same ob, same weapon and
+different str inflict same damage to third char). Then adds eff/ineff vs victim
+race/armour, and after that to damage adds some ob modifier (dunno how it
+calculated, but victim's defence affects it for sure). At last subtracts armour
+absorbtion (%) - not more than "Up To" hps, and resulting value is less than 1
+- you get message 'fails to hit'.
+
+  If you want to use scroll - "recite" it; if you want to use fragile parchment
+- wear it instead of shield or insteand of weapon, recite and KEEP it in hand.
+
+  If you suffer from evil wound inflicted by Morgul blade - as quickly as you
+can run to Elrond, he will heal you. But he can not cure more than one person
+in like 20-30 mins... And also, if you approach Elrond on low hps - he can give
+you infusion which will restore you to full hps.
+
+  To use the palantir, drop it on the ground and type: 'l palantir <dir>', 'l
+creature <name>'. Most use of it is seek for darkies ;) though you must know
+names of these who are online atm. Don't you palantir too much (like more than
+10 attempts), or you can get 'bane of Sauron' (-5 wil temporary), or even die!
+
+  You can not wear iron ring while wearing metal armour; though it's finechain
+compatible.
+
+  You can't flee into instant dt (i.e. room with flag DEATH), though you can
+flee into room which inflicts huge damage (like in Unqa zone), or into room
+where mudlle instakills you seconds later (so-called timed dts).
+
+  Balrog's whip allows wielder to entangle ppl, which works like an instant
+short bash (very short even). You can spam "entangle <enemy>" tho and it works
+well especially on low defence enemies. Just one drawback is that if you use it
+on bashed person, it will cancel his bashed status. Balrog also uses whip to
+throw ppl out of room, but I don't know if there is appropriate command players
+can use for that.
+
+  About huge shovel. It can only be used by trolls, loads on Khuzur. It can dig
+50 rooms, never dig up and only dig down once to start the tunnel each dig
+takes approx 15 mps and it will decay if nobody is in the tunnel at the next
+tick. Anyone voided in the tunnels when they collapse is treated as if they
+entered a dt.
+
+  Treasure map which loads at Golden cave leads to Old Man Willow, though
+treasure (crystal/sword) isn't that easy to get ;)
+
+  Banded rings are cursed with special curse (remove curse spell doesn't help).
+When you wear it, you can't remove it for some time (can be from some minutes
+to several hours). While ring 'affects' you, it can produce false visions of
+three types: '*a Man* begins strange incantations', scry and portal, and also
+prevents you from sleeping. After 'black aura fades for a while' message you
+can sleep or remove ring again. Though, if you don't remove it, black aura will
+return later. Main question is: what amount of time you can live without aura
+is depends to? Because for sure, my legends who pk in darkie zones wearing
+banded usually always affected by dark aura, while newbie exping in good zones
+usually can sleep with banded on finger 90% of the time...
+
+  Any darkie who drags puke-corpse to orkish loremaster gets crude orkish horn
+(this is VERY rare, may crumle right when ye get it). May have many horns at
+same time (using them increases ob/casts fear). To use: 'blow horn'.
+
+  Since the change with random delayed moods (change mood wimpy, change mood
+aggresive, etc) some thief skills are acting weird. This happens because 
+backstab always sets you aggressive and escape sets you wimpy for their 
+duration.  Before after backstab was over, you went back to preset mood, Now it
+can take a while, forcing you to fight at aggressive for some time. This can
+get you killed if you are not careful. Escape does the same thing but doesn't
+affect it as much.
+-------------------------------------------------------------------------------
+    WANTED INFO (full and correct answer brings pw to secured part):
+
+  Formula of offencive spells damage: dependance on caster's/victim's level,
+caster's +attack and victim's spellsave/wil.
+  Exact formula of weapon damage.
+  How to get into White Tower near Harlond? Already tried (means: failed) call,
+pick, bash, break, port and use palantir.
+  Is it possible to remove sword from stone in closet at Unqalome?
+  How to fix the broken sword (Narsil?) which loads in rdell up from knight,
+behind two locked doors (keys on Elrond and Cirdan)? Yes I already heard
+rumours about 'broken parts of weapons' - but I need exact info, not rumours ;)
+
+  Plus of course any useful additions to any of files/maps on this page. It
+means: strategy of doing another hero+ level mob; new location of ginseng; any
+new herblore or bringing me (char which I point to) any non-tested/non-
+indentified herblore; any new quest (Quenaire's for example); any new piece of
+info about corrupting; any other REALLY useful info as update to this list;
+any new secrets with don't exist on maps on common page (you see, there are no
+secretnames, but exist secrets itself) - 3 in puke/neutral areas, 2 in bad
+aligned zones.
+  I know how to make darkened spear already, but this info will be kept in
+secured part for some time (as important one).
+  Send me additions in emails plz, don't use mumemail - I'm usually too lazy/
+/pkhungry to read mails when I came to play :)

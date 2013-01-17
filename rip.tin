@@ -1,0 +1,47 @@
+#nop This script is written for v1.99.9 and higher
+
+#list gains clear;
+
+#action {^lastxp %*$} {#variable lastxp %1}
+info lastxp %X
+#unaction {^lastxp %1$}
+
+#action {^%1 is dead! R.I.P.$} {#variable mob %1; info xp to level: %X}
+#action {^%1 disappears into nothing.$} {#variable mob %1; info xp to level: %X}
+#action {^xp to level: %d} {#math {xpgain} {$lastxp - %1};#variable lastxp %1; #showme {${xpgain} xp gained for ${mob}.}}
+
+#act {%d xp gained for %*.$}
+{
+        #math {gains[$mob][exp]} {$gains[$mob][exp] + %1};
+        #math {gains[$mob][cnt]} {$gains[$mob][cnt] + 1}
+}
+ 
+#alias {rip}
+{
+        #showme {      Average Xp       Total Xp     #   Death List, R.I.P.};
+        #showme {----------------------------------------------------------};
+        
+        #unvar {gains[final]};
+        
+        #foreach {$gains[]} {mob}
+        {
+                #echo {  %+14G %+14G %+5G   %s}                   
+                        {$gains[$mob][exp] / $gains[$mob][cnt]}                 
+                        {$gains[$mob][exp]}
+                        {$gains[$mob][cnt]}
+                        {$mob};            
+                               
+                #math gains[final][exp] $gains[final][exp] + $gains[$mob][exp];
+                #math gains[final][cnt] $gains[final][cnt] + $gains[$mob][cnt] 
+        };
+        #showme {----------------------------------------------------------};
+        
+        #math tmp {$gains[final][exp] / $gains[final][cnt]};
+        
+        #echo {  %+14G %+14G %+5G}
+                {$tmp}          
+                {$gains[final][exp]}
+                {$gains[final][cnt]}
+}
+
+#action {^You gain a level!$} {#read rip.tin}

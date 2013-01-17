@@ -1,0 +1,10 @@
+#action {^%* death cry as %* collapses.$} {look in corpse}
+#action {^%* death cry as %* collapses.$} {get coins all.corpse; look in corpse}
+#unaction {^%* seems to have recovered %S senses.$} bash
+#unaction {^As %* avoids your bash, you topple over and lose your balance.$} bash
+#unaction {^Your head stops stinging.$} bash
+#action {^A brown pond between old branches and roots is here.$} {pour water skin}
+#action {^You are thirsty.$} {drink skin}
+
+#macro {\eOu} {#echo Bash;bash}
+#macro {\e[1;2u} {kill orc}

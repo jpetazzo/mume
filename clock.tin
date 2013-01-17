@@ -1,0 +1,39 @@
+#action {^The current time is %1:%2 %3.$} {setmumetime %1 %2 %3}
+
+#action {^A huge clock is standing here.$} {look clock}
+
+
+#variable {hour} {1};
+#variable {minute} {0};
+#variable {ampm} {am};
+
+#alias {setmumetime}
+{
+	#showme {Old time: ${hour}:${minute} ${ampm}};
+	#variable {hour} {%1};
+	#variable {minute} {%2};
+	#variable {ampm} {%3};
+}
+
+#ticker {second}
+{
+	#if {${minute} == 59}
+	{
+		#if {${hour} == 11}
+		{
+			#regex ${ampm} {am}
+			{ #variable {ampm} {pm} }
+			{ #variable {ampm} {am} }
+			#format {hour} {%m} {12}
+		} {
+			#if {${hour} == 12}
+			{ #format {hour} {%m} {1} }
+			{ #format {hour} {%m} {${hour} + 1} }
+		}
+		#format {minute} {%m} {0}
+	} { #format {minute} {%m} {${minute} + 1} }
+	#format {time} {%s:%s %s} {$hour} {$minute} {$ampm};
+	#showme {<158> $time<090>} {-10}
+} 1
+
+#showme clock.tin loaded
