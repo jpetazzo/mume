@@ -1,0 +1,2 @@
+#action {^A blue transparent wall slowly appears around you.$} {#var armour_hour $hour;#var armour_minute $minute;#var armour_ampm $ampm}
+#action {^You feel less protected.$} {#echo {Armour down at $hour:$minute$ampm, it was up since $armour_hour:$armour_minute$armour_ampm.}}

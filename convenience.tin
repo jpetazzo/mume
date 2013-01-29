@@ -7,15 +7,28 @@
 #alias {xsh} {draw bow;shoot %0;draw sheath}
 
 #alias {tells} {#grep  tells you}
+#action {^%w tells you '%*} {#variable reply %1;#tab %1}
+#alias re {tell $reply %0;#echo {Message sent to $reply.}}
+
+#action {north:%w} {#tab %1}
+#action {south:%w} {#tab %1}
+#action {east:%w} {#tab %1}
+#action {west:%w} {#tab %1}
+#action {up:%w} {#tab %1}
+#action {down:%w} {#tab %1}
 
 #alias hp {#tick hp {info HP: %z/%Z, Mana: %e/%E, Moves: %j/%J} 10}
 #alias unhp {#untick hp}
 #action {^You go to sleep.$} {hp}
+#action {^You lie down on the bed and go to sleep.$} {hp}
 #action {^You wake, and sit up.$} {unhp; stand}
+#action {^You wake, and sit up on the bed.$} {unhp; stand}
 #action {^You are awakened by %S.$} stand
 #action {^Nah... You feel too relaxed to do that.$} stand
 #action {^Maybe you should get on your feet first?$} stand
 
+#action {^REPORT: %+$} {#echo -- %1;-- %1}
+#alias report {info REPORT: HP: %z/%Z, Mana: %e/%E, Moves: %j/%J}
 
 #highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
 #highlight {^The night has begun.$} {red reverse b white}
@@ -42,6 +55,26 @@
 #highlight {^Celebrindal, Lady of the Galadhrim, is before you%*$} {light blue}
 #highlight {^A dark-haired, grey-eyed elven lady is standing here, clad all in white.$} {light blue}
 
-#highlight {%* of snow-white and palest green} {green}
-#highlight {Delicate golden blooms} {green}
+#nop highlight {%* of snow-white and palest green} {green}
+#nop highlight {Delicate golden blooms} {green}
+
+#alias {cp} {wield %1;crush %1;drawmyweapon}
+#action {^You have produced %* petals.$} {ph petals}
+#action {^You have produced %* leaves.$} {ph leaves}
+#action {^You have produced a sticky mass of stems, leaves and sap.$} {ph stems}
+
+#alias {oxc} {open chest;examine chest}
+
+#highlight {^A citizen-mercenary is here, waiting for a job.$} {bold}
+
+#alias {lbow} {#echo {Switching to LONGBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw longbow;put bow backpack}
+#alias {sbow} {#echo {Switching to SHORTBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw shortbow;put bow backpack}
+#alias {xbow} {#echo {Switching to CROSSBOW.};remove quiver;put quiver backpack;get crossbow backpack;get case backpack;wear case;draw crossbow;put bow backpack}
+
+#alias {smok} {get pipe pack;sheath;wield pipe;rest;smoke pipe;stand;remove pipe;put pipe pack;draw}
+
+#highlight {^A dot in the sky approaches quickly and seems to be some sort of very large bird!$} {red reverse b white}
+#highlight {^A loud, aggressive shriek echoes through the skies!$} {red reverse b white}
+#highlight {^The bird turns out to be a black, leathery beast that flies in a circle high above!$} {red reverse b white}
+#highlight {^The fast-moving beast starts a dive at you, but then turns and flies upwards again.$} {red reverse b white}
 

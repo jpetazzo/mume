@@ -7,5 +7,5 @@ for line in open('keysinfo.txt'):
     idesc = line[0].strip()
     rdesc = line[-1].strip()
     tdesc = line[1].strip()
-    print '#sub {%s} {%%0 [%s]}'%(idesc,tdesc)
-    print '#sub {%s} {%%0 [%s]}'%(rdesc,tdesc)
+    print '#sub {^%s$} {%%0 [%s]}'%(idesc,tdesc)
+    print '#sub {^%s$} {%%0 [%s]}'%(rdesc,tdesc)

@@ -1,0 +1,96 @@
+change color look bold underline green
+change color say bold cyan
+change color emote bold cyan
+change color tell bold green
+
+alias x examine
+alias xp examine backpack
+alias xm examine moneybag
+
+alias dw drink water
+alias pw pour water skin
+alias ds drink skin
+
+alias gop get all.oil backpack
+alias pop put all.oil backpack
+alias pol fill lantern
+alias ll light lantern
+alias sl snuff lantern
+alias cr cover ruby
+alias ur uncover ruby
+
+alias plp put all.lembas backpack
+alias glp get all.lembas backpack
+
+alias loot get all.& all.corpse
+alias ga get all
+alias gcc get all.coins all.corpse
+alias gac get all all.corpse
+alias gaa get all.arrow
+alias gaac get all.arrow all.corpse
+alias paq put all.arrow quiver
+alias lq look in quiver
+alias gab get all.bolt
+alias gabc get all.bolt all.corpse
+alias pbc put all.bolt case
+alias lc look in case
+alias ll load crossbow
+
+alias bc butcher corpse
+alias bcc butcher &.corpse
+alias dar drop all.raw
+
+alias pp put & backpack
+alias ph put & pouch
+
+alias oe open exit
+alias ce close exit
+alias pe pick exit
+alias be bash exit
+alias le lock exit
+alias ue unlock exit
+alias ke knock exit
+
+alias tar label & x
+alias kx kill x
+alias sx shoot x
+
+alias db draw bow
+alias dk draw eket
+
+alias gas get all all.shrub
+alias rr reveal root
+alias wp wield plant
+alias cp crush plant
+
+alias sq search quick
+alias rq reveal quick
+alias fq flush quick
+alias st search thorough
+alias rt reveal thorough
+alias ft flush thorough
+
+alias gpp get pipe backpack
+alias ppp put pipe backpack
+alias pwp put all.weed pipe
+alias gwp get all.weed pipe
+
+alias armour cast 'armour'
+alias shield cast 'shield'
+alias mush cast 'create food'
+alias water cast 'create water'
+alias bless cast 'bless'
+
+alias cc cast 'cure critical'
+alias crit cast 'cure critical'
+alias heal cast 'heal'
+alias remp cast 'remove poison'
+
+alias blind cast 'blindness'
+alias qb cast quick 'blindness'
+alias harm cast 'harm'
+alias qh cast quick 'harm'
+alias disp cast 'dispel evil'
+alias qd cast quick 'dispel evil'
+
+

@@ -28,11 +28,6 @@
 
 #split
 
-#PROMPT {^%.%. %+>$} {\e[1;32m%1%2 %3\e[0;0m}
-#PROMPT {^%.%.>$} {\e[1;32m%1%2\e[0;0m}
-#PROMPT {^%.%.%.>$} {\e[1;32m%1%2%3\e[0;0m}
-#PROMPT {^%.%.%. %+>$} {\e[1;32m%1%2%3 %4\e[0;0m}
-#PROMPT {^%.%.%.%. %+>$} {\e[1;32m%1%2%3%4 %5\e[0;0m}
 #config {COMMAND COLOR} <058>
 
 #read windowbar.tin
@@ -43,6 +38,7 @@
 #read herbs.tin
 #read convenience.tin
 #read keymap.tin
+#read prompt.tin
 
 #alias gg {#gag {^$}}
 #alias ugg {#ungag {^$}}
@@ -51,10 +47,8 @@
 #alias unidle {#unticker idle}
 
 #nop action {^%+, the %+ of %+, Year %d of the Third Age.$} { help %3 }
-#nop action {^%+ tells you '%*} {#variable reply %1}
-#alias re {tell $reply}
 
-#alias sellall {sa leather;sa shield;sa belt;sa shirt;sa pants;sa ring;sa hood;sa chain;sa metal;sa sword;sa knife;sa dagger;sa belt;sa mace}
+#alias sellall {sell all.leather;sell all.shield;sell all.belt;sell all.pants;sell all.hood;sell all.chain;sell all.metal;sell all.sweapon;sell all.stweapon;sell all.cweapon;sell all.pweapon}
 
 #nop highlight {R.I.P.} {bold yellow}
 #nop highlight {^%* has arrived from %*.$} {bold yellow}

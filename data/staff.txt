@@ -1,0 +1,31 @@
+                              STAVES and EMBEDDING
+
+  Maxenchant for staves - 5 PB, 1 damage, Saving Spell -10.
+All staves have delay 150%.
+
+
+       Object     Weight Value  OB  PB Dmg Other
+
+ Oak branch          750   250
+ Carved oak staff    500  5000   5  10   7 Bless, Nosell
+ Carved oak staff    500  5000   5  15   9 Glow, Magic, Bless, Anti-evil, Anti-neutral,
+        (Focused)                            Nosell, Focus, Eff vs spell, Saving Spell -10
+ Istari wand        1200  5000  20  30   9 Glow, Magic, Bless, Anti-evil, Anti-neutral,
+                                             Nosell, Focus, Eff vs spell, Attack spell +20, Saving Spell -30
+ Rough staff         500  2000   5  10   7
+
+
+      Embeding            Affects             Load spot                  Description when embedded
+                                                                         
+ Iron bar             OB +5, PB +5   BM smith, Malardil's castle         its foot is shod with iron
+ Huge silver bracer   OB +5, PB +5   Stone statues (BM, Woodhall),       silvery bands encircle it from top to bottom
+                                       stone/hill giants (DT, NOC area)
+ Chunk of metal       OB +5, PB +5   Black Numenorean Sage (OOC)         an orb of black metal surrounds its tip
+ Lustrous opal      Attack Spell +10 Ancient Warg and BM jeweller        lustrous fire opal has been inlaid in it
+ Corberyl           Attack Spell +10 Muranog (Moria), Scaly beast        a shining gemstone embedded near its top shimmers with many colours
+ Star sapphire      Saving Spell -20 Ghostly Captain                     a six-rayed star shines from the middle of a blue stone set in the staff
+ Brilliant adamant  Saving Spell -20 Mithnaur the Dragon
+
+
+  After embedding description of staff changes: carved -> reinforced (if more
+metal than gems) or bejewelled (otherwise), rough -> metal-shod/inlaid with gems.
