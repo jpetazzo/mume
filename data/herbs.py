@@ -1,36 +1,30 @@
 #!/usr/bin/env python
 
-def extractinfo(data, field):
-    if field not in data: return
-    if '/' not in data[field]: return
-    value, info = data[field].split('(')
-    data[field] = value.strip()
-    data['Info'] = info.split(')')[0].strip()
+import yaml
+
+def extractinfo(herb, field):
+    if field not in herb: return
+    if '/' not in herb[field]: return
+    value, info = herb[field].split('(')
+    herb[field] = value.strip()
+    herb['info'] = info.split(')')[0].strip()
 
 
-data = open('herbs.txt').read()
-paragraphs = data.split('\n\n')
-for p in paragraphs:
-    data = {}
-    for l in p.split('\n'):
-        if not l: continue
-        if l.startswith('#'): continue
-        if ':' not in l:
-            print 'Warning: skipping line', repr(l)
-            continue
-        k,v = l.split(':',1)
-        data[k] = v
-    if not data: continue
-    if 'Name' not in data:
-        print 'Missing Name in data', data
+data = yaml.load(open('herbs.yml'))
+for herb in data:
+    if 'name' not in herb:
+        print 'the following herb has no name:'
+        print herb
         continue
-    if 'Description' not in data:
-        print 'Missing Description in data', data
+    if 'description' not in herb:
+        print 'the following herb has no description:'
+        print herb
         continue
-    extractinfo(data, 'Description')
-    extractinfo(data, 'Loads')
-    if 'Loads' in data: data['Info'] = 'loads: '+data['Info']
-    for f in ['Description','Name','Info']:
-        data[f] = data[f].strip()
-    print '#sub {%s} {%%0 [%s, %s]}'%(data['Description'], data['Name'], data['Info'])
+    herb['info'] = '?'
+    extractinfo(herb, 'description')
+    extractinfo(herb, 'loads')
+    if 'loads' in herb: herb['info'] = 'loads: '+herb['info']
+    for f in ['description','name','info']:
+        herb[f] = herb[f].strip()
+    print '#sub {%s} {%%0 [%s, %s]}'%(herb['description'], herb['name'], herb['info'])
 

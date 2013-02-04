@@ -1,0 +1,301 @@
+-
+  trophy: A young mountain lion
+  keywords: lion
+-
+  trophy: A giant rat
+  keywords: rat
+  inroom: A giant rat patters against you, squeaking maliciously.
+-
+  trophy: A thief
+  keywords: thief
+  inroom: A thief is here looking for some stranger to rob.
+  inroom: A thief lurks here, looking for a stranger to rob.
+-
+  trophy: A brigand
+  kewords: brigand
+  inroom: A brigand, looking at your nice purse, is sneaking here.
+-
+  keywords: robber
+  inroom: A mean looking robber is here, demanding money from you.
+-
+  keywords: bear
+  inroom:  A brown bear is sleeping here.
+  level: 12
+-
+  inroom: A colourful butterfly is fluttering around here.
+-
+  inroom: A robin is here, carrying small pieces of wood to its nest.
+-
+  level: 15
+  inroom: A huge grizzly bear is here, roaming the wild.
+  keywords: huge grizzly bear
+-
+  inroom: A spirit floats towards you and howls with an evil laughter.
+  keywords: spirit
+-
+  inroom: A finch flies low above the ground.
+-
+  inroom: A shadowy haunt floats here, oblivious to your presence.
+  level: 14
+  keywords: haunt
+-
+  level: 15
+  inroom: A moaning ghost advances towards you, shimmering with a pale light.
+  keywords: ghost
+-
+  inroom: Some roots lie here waiting to ensnare weary travellers.
+  keywords: roots
+  warning: Do massive roots first!
+-
+  level: 16
+  inroom: Massive roots shift uneasily all around you.
+  keywords: massive
+-
+  inroom: Some thick writhing vines whip all around you.
+  keywords: vines
+-
+  inroom: A black wolf pads restlessly, looking for its next prey.
+  keywords: wolf
+-
+  inroom: A hungry-looking giant lizard is slithering towards you.
+  keywords: lizard
+-
+  level: 15
+  inroom: A great wolf with coal-black eyes stares intently at you, drooling saliva.
+  keywords: werewolf wolf
+-
+  inroom: An ancient fungus smothers the boulders.
+  keywords: fungus
+-
+  inroom: The mother wolf stands here, protecting her young cubs.
+  keywords: mother wolf
+-
+  inroom: A giant termite is here, crushing skulls and bones.
+  keywords: giant termite
+-
+  inroom: A large elk gazes coldly at you, chewing on a small branch.
+  keywords: elk
+-
+  inroom: Some ugly blow-flies are buzzing around here.
+  keywords: flies
+-
+  inroom: A colony of red ants is here. The ants seem to ignore you.
+  keywords: ants
+-
+  inroom: A mottled snake is sneaking here, ready to sink its fangs into flesh.
+  keywords: mottled snake
+-
+  inroom: An intact skeleton of a man is walking around here.
+  keywords: skeleton
+-
+  inroom: A grey-clad elf is here.
+-
+  inroom: A young bard is standing here, singing softly.
+-
+  inroom: An elven archer dressed in green is here, watching the forest.
+-
+  inroom: An elven boy is running about here.
+-
+  inroom: A sturdy trained horse is standing here.
+-
+  inroom: A tall and proud elf is standing here.
+-
+  inroom: A Bounder is here safeguarding the Shire.
+-
+  inroom: A Shirriff stands here, keeping a watchful eye on things.
+-
+  inroom: A hobbit is here walking around.
+-
+  inroom: A tall stag is here, grazing peacefully.
+-
+  inroom: A huge, hungry-looking rat is here.
+-
+  inroom: A bedraggled man stumbles as best he can across the terrain.
+-
+  inroom: A boar cub is playing here, and exploring the wide world.
+-
+  inroom: A brown donkey watches the surroundings, perhaps looking for a chance to graze.
+-
+  inroom: A brown fox is here, looking for some rabbits to chew up.
+-
+  inroom: A large rabbit looks peacefully at you, ready to dart away.
+-
+  inroom: A sturdy pack horse is standing here.
+-
+  inroom: An elven guard is standing here at his post.
+-
+  inroom: A Bounder is here, patrolling the Shire and watching for evil.
+-
+  inroom: An elven woman is here merrily walking along.
+-
+  inroom: An elven guard is wandering here, keeping the peace.
+-
+  inroom: Randir the elven guide is standing here.
+-
+  inroom: An elven caretaker is standing here, offering his guests a rest.
+  flags: rent
+-
+  inroom: Galadriel the Lady of Lórien is standing here.
+  flags: sanc
+-
+  inroom: An elf, clad in the garments of a woodsman, moves stealthily among the trees.
+-
+  inroom: A duck is here, quacking happily.
+-
+  inroom: A pigeon is strutting around here.
+-
+  inroom: A Dunlending huntsman is here.
+-
+  inroom: A snake slithers towards you.
+-
+  inroom: A domesticated pony, beast of burden to many, stands here.
+-
+  inroom: A restless rabbit bounces around.
+-
+  inroom: A rabbit is here eyeing your presence warily.
+-
+  inroom: A cute rabbit is here.
+-
+  inroom: A Guard of Bree is here, watching the gate.
+-
+  inroom: A stocky mountain mule is here, waiting to serve.
+-
+  inroom: A large grocer is here, waiting to buy or sell some goods.
+-
+  inroom: A squirrel scampers around here, looking for nuts from the trees.
+-
+  inroom: A fierce boar is here, making grunting noises.
+-
+  inroom: A beautiful and docile horse is standing here.
+-
+  inroom: A brown toad is here, hunting flies.
+-
+  inroom: A black snake, with red markings, is lying here.
+-
+  inroom: A young man in ranger's attire is here, travelling the roads.
+-
+  inroom: A grey wolf is here, snarling aggressively.
+-
+  inroom: A fallow deer is grazing peacefully here.
+-
+  inroom: An elf sits here delving into some old tomes of elven lore.
+-
+  inroom: A small, loyal beagle is here, eager to please.
+-
+  inroom: Barliman Butterbur, the innkeeper, offers you a room in his inn.
+  flags: rent
+-
+  inroom: A stray dog snuffles around as he searches for something of interest.
+-
+  inroom: A woolly sheep is grazing here.
+-
+  inroom: A grey bird with a bright orange-red belly sits here, singing a melodic tune.
+-
+  inroom: A worm is here slithering around.
+-
+  inroom: A young farm-hand is here hard at work.
+-
+  inroom: A swarm of mosquitoes is here, humming around you.
+-
+  inroom: A green frog is here, hopping around.
+-
+  inroom: A sturdy warrior is here, guarding the tower.
+-
+  inroom: A Rohir door-warden is here.
+-
+  inroom: A stout Rohir lieutenant is here.
+-
+  inroom: A foot-soldier of Rohan is here.
+-
+  inroom: A Rohir marksman surveys the landscape, targeting would-be adversaries.
+-
+  inroom: An archer of the Mark is here.
+-
+  inroom: A Rohir cavalier, wielding a longspear, is here, riding a trained horse.
+-
+  inroom: A foot-soldier of Rohan is here.
+-
+  inroom: An elite Rohir knight appears alert.
+-
+  inroom: A hobbit farmer is here, thinking about seeds and vegetables.
+-
+  inroom: A smiling hobbit child is playing around here.
+-
+  inroom: The garden snake slithers harmlessly here.
+-
+  inroom: A vicious little bandit advances towards you.
+-
+  inroom: An evil priest is here chanting and praying to some foul entity.
+  flags: sanc
+-
+  inroom: An elven lady is walking around here.
+-
+  inroom: A coloured game bird is visible in the vegetation, watching you warily.
+-
+  inroom: A blue dragonfly is circling around.
+-
+  inroom: A ferocious warg is here, snarling angrily.
+-
+  inroom: A lone hawk soars high above you.
+-
+  inroom: A forest spider is here crawling around.
+-
+  inroom: An elf of the Galadhrim is walking around here.
+-
+  inroom: A nightingale is here, chirping a sweet melody.
+-
+  inroom: A noble Elf stands here, proudly displaying his valuable assets.
+-
+  inroom: A pretty elven girl is strolling around here.
+-
+  inroom: A dove rests near one of the flowers.
+-
+  inroom: Haldir the Elf is here.
+  flags: sanc
+-
+  inroom: A majestic, white stag stands here, eyeing the surroundings carefully.
+-
+  inroom: A magpie is flying around looking for some food.
+-
+  inroom: A brook trout is here, swimming in the current.
+-
+  inroom: A buck runs swiftly from place to place, looking about warily as it grazes.
+-
+  inroom: A small animal, all covered in spines, snuffles amongst the undergrowth.
+-
+  inroom: A swan swims gracefully on the surface of the water.
+-
+  inroom: A huge black fungus is here, exuding a foul stench.
+-
+  inroom: A wolf cub happily plays here.
+-
+  inroom: A small grasshopper clings to a blade of grass, ready to spring.
+-
+  inroom: A wary elf, all clad in grey, moves silently here.
+-
+  inroom: A long-tailed bird watches you from the vegetation.
+-
+  inroom: A field vole has frozen to the spot, sensitive to your presence.
+-
+  inroom: An elven cook is standing here, singing softly as she prepares a meal.
+-
+  inroom: Ecthelion the Elven-smith is here.
+  flags: shop
+-
+  inroom: A furry, striped raccoon is here, nosing around for some berries or roots.
+-
+  inroom: A long-necked bird, with a fairly short spear-like bill stands here.
+-
+  inroom: A bee flies around here, collecting nectar from the flowers.
+-
+  inroom: A large beaver is here, gnawing on a piece of wood.
+-
+  inroom: A long-bodied animal with thick brown fur bounds through the trees.
+-
+  inroom: A small harmless centipede is here.
+-
+  inroom: A large owl with small sharp horns looks cautiously around it.
+-
+  inroom: A cute, fluffy owlet pecks at some food on the ground.
+-
+  inroom: A pack horse is standing here.

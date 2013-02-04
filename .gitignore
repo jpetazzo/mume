@@ -1,2 +1,4 @@
-mume.log
+session.tin
+logs/*.log
+chars/
 *~

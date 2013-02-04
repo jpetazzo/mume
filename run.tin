@@ -60,6 +60,8 @@
 #nop highlight {^A%? %w %w leaves %w.$} {bold magenta}
 #nop highlight {^A%? %w %w %w leaves %w.$} {bold magenta}
 
-#session MUME 127.0.0.1 4242
+#read session.tin
 
-#log append mume.log
+#script {timestamp} {date +%Y-%m-%d_%H:%M:%S}
+#log {append} {logs/$timestamp[1].log}
+

@@ -1,0 +1,321 @@
+Ok.
+Nothing.
+
+You will swim if necessary.
+You will try to climb even under unsafe conditions.
+You begin to feel hungry.
+You are hungry.
+You are full.
+You begin to feel thirsty.
+You are thirsty.
+You feel less thirsty.
+You do not feel thirsty anymore.
+You are not thirsty anymore.
+
+You sit down and rest your tired bones.
+You stop resting, and stand up.
+You are already standing.
+You are already resting.
+Your head stops stinging.
+
+You are too exhausted.
+Alas, you cannot go that way...
+Nothing special there...
+You begin to search...
+You don't see anything special there...
+No-one by that name here...
+
+Your mount cautiously descends the slippery slope.
+You swiftly scale the ladder.
+You climb down the white ladder.
+As you walk down the stairs, the sound of the fountain slowly fades.
+Following the spiralling stair, you slowly descend to the top of the great hill.
+Descending a flight of stairs you find yourself on flat ground.
+A vague and elusive sound resembling singing comes from the city.
+A shadow of a small ship appears on the surface of the bowl and fades away.
+As night falls, a silver lamp begins to burn brighter, springing to life like a star after the sunset.
+A white stair takes you higher up on the slope.
+The mallorn trees whisper a gentle greeting as Anarwen enters the shrine.
+Scaling the stairs you arrive on a higher level of the hill.
+Climbing out of the deep fosse is somewhat tiring.
+As you climb down the deep fosse, you are immersed in grey shadows.
+As you climb down into the deep fosse, you are immersed in grey shadows.
+Ascending the polished white steps you reach the crown of the hill.
+Stars glimmer briefly on the surface of the water in the bowl. As a breath of wind stirs the water, they dissolve.
+A feeling of peace envelops you as you enter the enchanted forest.
+A mass of dark green leaves clings to a wall.
+Taking a pitcher from behind a shrub, Anarwen waters the flowers.
+The flowers seem to nod their heads.
+Faint voices can be heard from across the bridge.
+
+As Ecthelion pumps some air into the forge, the fire flares up brightly.
+Ecthelion thrusts the helm into the flames, which engulf it.
+The forge exhales a puff of foul-smelling smoke, and some molten metal flows down a chute into the depths of the forge.
+Ecthelion wipes his brow.
+
+You begin to see some clouds.
+The ground is frozen solid.
+The water is frozen solid.
+The fog disappears.
+It starts to snow.
+The snow has stopped.
+The lightning has stopped.
+There is some snow on the ground.
+Lightning starts to show in the sky.
+Snow falls gently from the sky, creating a white blanket over the flat ground.
+Delicate flakes of snow fall gently from the sky, covering the roofs and the streets.
+A sudden chorus of birds greets the rising sun.
+The sun sinks slowly below the tops of the golden trees on its way to the lands beyond the Sea.
+There is a lot of snow on the ground.
+You don't see any more snow here.
+The deepening gloom announces another sunset outside.
+Light gradually filters in, proclaiming a new sunrise outside.
+As daylight grows, the light of a silver lamp seems to grow dim, like the light of a star after the sunrise.
+
+You receive your share of experience.
+It begins to be automatic...
+Yes! You're beginning to get the idea.
+
+A finely crafted crystal lamp is hanging from a tree branch.
+There is an old street-lamp on the border of the street.
+A finely crafted crystal lamp is here.
+A brass lantern has been set on the ground.
+A white-painted bench is here.
+
+You dismount, and coax your mount to follow you.
+You board the ferry.
+* boards the ferry.
+* steps on board.
+* steps off the ferry.
+* grabs a long pole and pushes the ferry into the river.
+* uses the pole to push the ferry across the river.
+The opposite shore is fast approaching.
+You have reached the opposite shore. * puts down the pole.
+You grab a long pole and push the ferry into the river.
+You slowly push the ferry further into the river, using the pole.
+The ferry has reached the opposite shore. You put down the pole.
+You leave the ferry.
+A ferry in the shape of a great white swan is here.
+The ferry is not here now.
+You peer across the water, but cannot locate an unoccupied ferry.
+The ferry has arrived.
+
+A fine marble chessboard with ivory and ebony pieces is set here.
+A mailbox stands here stuffed full of messages.
+A sturdy target for arrows, made out of thatch, stands here.
+
+A clear spring babbles as cool water trickles out of the ground.
+A well-crafted white fountain is here, water pouring forth from it.
+A large fountain, made from grey stone, pours water from its centre.
+A circular stone well has been built here.
+The water of the fountain splashes gently as it falls into the marble pool.
+
+A large stone fireplace with a roaring fire warms the room.
+A small campfire burns here, its low flames giving off only a little light.
+
+A hollow tree is growing upright here.
+An arrow rack stands upright in the corner.
+A weapons rack stands against the wall.
+A sturdy peg for hanging armour from is on the wall.
+A small oaken table has been set here.
+A large encrusted cedar chest is standing here.
+A large cabinet capable of storing goods is here.
+A wooden chest stands in the corner.
+
+You stop scouting.
+You cannot ride there.
+
+You start to concentrate...
+You feel stronger.
+You feel weaker.
+You begin to feel the light of Aman shine upon you.
+The light of Aman fades away from you.
+A strange feeling runs through your body.
+A magic mushroom suddenly appears.
+You can't concentrate enough while resting.
+
+You are a firm believer in the values of Right and Wrong.
+
+You are not known for any acts of war.
+
+You start refreshing all of your skills...
+No more skills need refreshing.
+An elf guides you to an unused section of the pavilion, where you can rest for a while in privacy behind lightly coloured screens.
+You can explore world map offline or try to reconnect again...
+
+Exits:*
+Exits/*
+ACK! *
+It's too difficult to ride here.
+You now follow *
+You follow *
+You stop following *
+* stops following *
+* now follows *
+You stop riding *
+You quietly scout *
+You see some fog coming from the *
+On the table, *
+On the peg, *
+Standing in the rack *
+In the rack *
+Inside the shrub, *
+On the shrub, *
+You can't find anything in the *
+* is not carrying anything.
+You can't take the *
+
+A large bulletin board, entitled *
+No more unseen messages.
+
+The corpse of *
+
+You eat the *
+You buy *
+You sell *
+You now have *
+You drink the *
+You drop the *
+You stop using *
+You hold a *
+You start crushing *
+You have produced *
+You don't have a *
+* drinks water from *
+
+You are a female *
+You have played *
+This ranks you as *
+Perception: *
+You are welcome in *
+Your equipment weighs *
+You have scored *
+Your mood is *
+Your base abilities are: *
+You are speaking *
+Offensive Bonus: *
+OB: *
+Needed: *
+Your armour provides an average protection of *
+You are * years* old.
+You are * and weigh *.
+
+* is a level *
+Is playing from *
+
+The white stag *
+Anarwen *
+A young smith *
+The elven cook *
+The guild is closed. *
+You mentally recite the *
+You refresh your training in *
+You will not train in this skill anymore.
+
+* panics, and attempts to flee.
+* joins your fight.
+* begins some strange incantations...
+* seems to have recovered his senses.
+* seems to have recovered her senses.
+* seems to have recovered its senses.
+* bleeds from open wounds.
+* death cry as it collapses.
+* death cry as he collapses.
+* death cry as she collapses.
+* disappears into nothing.
+* is mortally wounded and will die soon if not aided.
+* is incapacitated and will slowly die, if not aided.
+* is dead! R.I.P.
+
+* has arrived from the west.
+* has arrived from the east.
+* has arrived from the north.
+* has arrived from the south.
+* has arrived from below.
+* has arrived from above.
+* leaves west.
+* leaves east.
+* leaves north.
+* leaves south.
+* leaves down.
+* leaves up.
+* leaves his hiding place.
+* leaves her hiding place.
+* and clambers on her feet.
+* and clambers on his feet.
+* reins, and start riding him.
+* reins, and starts riding him.
+* starts following you.
+* stops following you.
+* ridden by you.
+* sits down and rests.
+
+* practice sessions left.
+* practice session left.
+* to reach the next level.
+* movement points.
+
+* has been left here.
+You open a moneybag, carefully trying not to spill its contents.
+* coins in a moneybag.
+* busc pennies.
+
+* seems to be closed.
+* seem to be closed.
+* closes quietly.
+You knock on it.
+Soundlessly, the gates swing *
+
+* is standing here, ridden by *
+* leaves west riding *
+* leaves east riding *
+* leaves north riding *
+* leaves south riding *
+* leaves up riding *
+* leaves down riding *
+* has arrived from the west riding *
+* has arrived from the east riding *
+* has arrived from the north riding *
+* has arrived from the south riding *
+* has arrived from above riding *
+* has arrived from below riding *
+* sessions in this skill. *
+
+* waves.
+
+You place * on a*
+You put * in a*
+You get * from a*
+You can't find a *
+You have no *
+That would be an interesting topological experiment.
+
+You light a lantern.
+
+You * wield *, ready to protect the weak.
+You protect your head with *
+You wear * on your *
+You wear * about your *
+You cover your arms with *
+You fasten * on your arm, becoming very impressive.
+You fasten * on your belt.
+You take * off the *
+You put * on your back.
+You are already wearing *
+You aren't wearing *
+You are already holding too much.
+* seems to be too large for you.
+* seems to be the wrong size for you.
+
+* the Elf*, wielding *, is *ing here*.
+* the Dwarf*, wielding *, is *ing here*.
+* the Woman*, wielding *, is *ing here*.
+* the Man*, wielding *, is *ing here*.
+
+Galadriel the Lady of * is standing here.
+
+Little parts of a broken weapon are lying on the ground.
+A tunic, made from the finest material, lies here.
+A plain shirt is on the ground.
+A pair of soft, sequinned slippers lies here.
+A small mushroom grows nearby.

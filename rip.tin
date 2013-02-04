@@ -7,6 +7,7 @@ info lastxp %X
 #unaction {^lastxp %1$}
 
 #action {^Never forget! Try to role-play...$} {info XPCOUNTER INIT, XP = %x, TNL = %X}
+#action {^Reconnecting.$} {info XPCOUNTER INIT, XP = %x, TNL = %X}
 #action {^XPCOUNTER INIT, XP = %d, TNL = %d} {#variable xpcounter_total %1;#variable xpcounter_session %1}
 
 #action {^%1 is dead! R.I.P.$} {xpcounter_killed {%1}}
@@ -51,3 +52,5 @@ info lastxp %X
 }
 
 #nop action {^You gain a level!$} {#read rip.tin}
+
+#action {^The perfect match!$} {info LEVEL:%l}

@@ -1,0 +1,324 @@
+#Some comments
+#
+#1) As usual plants/bushes/shrubs doesn't have keywords, but leaves/flowers/
+#petals have it.
+#2) To crush plant/flower/etc type "wield <plant>" and "crush <plant>".
+#3) (35/900) means Weight 35, Cost 900
+#===============================================================================
+-
+  name: Athelas
+  description: A small plant grows here, with long, pointed leaves and flowers at its top (35/900)
+  crushed: some long, slender green leaves (2/700)
+  location: some NE from Harlond; near mottled snake N from Forlond; in the Old Fornost; OER in brushes; some se from Rivendell
+  herblore: Antidote
+-
+  name: Baneberries
+  description: A dark green, foul-smelling shrub grows to about a foot in height
+  loads: some white, egg-shaped berries (5/4000)
+  NOTE: loads at certain yeartime only (winter)
+  location: in the vines secretplace n from Tharbad; 6e from Amanrandil Temple; some se (across river) from tall orc oak tree; on way to tower e from thorns/hedge; ABR - some ne from tower; some ne from moors; DT pine forest; 4 n from OER near Warrens; some s from WC
+  herblore: Drake-slumber poison
+-
+  name: Belladonna 
+  description: A large shrub covered with dark violet berries grow here
+  loads: some violet berries (5/350)
+  location: BM area; Shire; Old Forest bonfire; NOC area
+  herblore: Belladonna poison
+-
+  name: Blackberries
+  description: A large thorny branched shrub is growing here
+  loads: some blackberries (4/12)
+  location: very common in Shire
+  herblore: Antidote
+-
+  name: Blackcurrant
+  description: A shrub with maple-like leaves is growing here
+  loads: a handful of blackcurrant berries (7/500)
+  location: very common in BM area; Shire
+  herblore: Soothing-draught
+-
+  name: Bluebells
+  description: A dense carpet of blue flowers dip their heads in the breeze (10/1, nosell)
+  location: Tbad area; Lothlorien
+-
+  name: Blueberries
+  description: A low shrub with bright green, oblong leaves is growing here
+  loads: some blueberries (10/10)
+  location: inside Harlond; Shire
+-
+  name: Bulrushes
+  description: Clusters of slender stems and tall leaves thrive in the mud and shallows (35/1, nosell)
+  When dropped: A hollow length of stout reed lies here (50/2)
+  location: zone e of Harlond, Dunland near oak tree
+-
+  name: Buttercups
+  description: Yellow flowers, with grey-green foliage, grow in clusters here (10/1, nosell)
+  location: zone e of Harlond; Eregion; Dunland
+-
+  name: Cardamom
+  description: A small flower grows here, with a purple bloom and wide leaves (10/900)
+  crushed: grey-brown powder (5/900)
+  location: BM area; Nen-i-sul; ABR; Lothlorien; NOC area
+  herblore: Orc Balm
+-
+  name: Cherries
+  description: A large shrub grows here, its branches loosely spreading
+  loads: some cherries (10/10)
+  location: Lothlorien
+-
+  name: Cinnamon
+  description: A bag of cinnamon lies here (5/1275)
+  location: GH herbalist
+  herblore: Seeing, Shadow
+-
+  name: Clover
+  description: A small patch of clover grows here (2/60)
+  location: very common herb
+  herblore: Travelling, Walking
+-
+  name: Cloves
+  description: Some small cloves are lying here (2/500)
+  location: GH and Rivendell herbalists
+  herblore: Walking
+-
+  name: Conker
+  description: A tall, stately, dome-topped tree grows here
+  loads: a green spine capsule (30/4, nosell)
+  location: Shire - near Hobbiton; Eregion
+-
+  name: Comfrey
+  description: A sturdy plant grows to a height of almost a yard (200/3600)
+  crushed: a bulbous root (17/3600)
+  loads: Midnight Forest nw from the Ford
+-
+  name: Coriander
+  description: A man's-waist high evergreen shrub grows here, with bright green branches (1000/1000)
+  loads: several splayed leaves (2/1000)
+  location: GH and Rivendell herbalists; "A dense thicket" - northeastern part of brush
+-
+  name: Daisy-chain
+  description: A band of small flowers is lying here (10/20)
+  location: Loads on Dunlending children
+-
+  name: Elanor
+  description: Delicate golden blooms adorn the ground like a cascade of stars (10/1, nosell)
+  location: Lothlorien
+-
+  name: Ferns
+  description: A cluster of dark green, feathery fronds flourishes in the shade (15/1, nosell)
+  location: RTT; Dunland; Dunland Ancient Forest; Lothlorien
+-
+  name: Figwort (Turtlehead)
+  description: A tall plant grows here, with grey-green leaves and grey flowers (250/1750)
+  crushed: some grey petals (1/1750)
+  location: Midgewater Marshes, on road to Tbad near Tbad, some SE of Khuzur, Lothlorien
+  herblore: Antidote
+-
+  name: Foxglove
+  description: A slender plant, with white flowers at the top, grows here (150/1800)
+  crushed: some white petals (1/1800)
+  location: BM area; Shire; Old Forest bonfire
+-
+  name: Foxtail
+  description: A bushy plant grows here, with tall clusters of yellow flowers (230/4000)
+  crushed: some yellow petals (1/4000)
+  location: s of Tharbad
+-
+  name: Ginseng
+  description: A slender plant grows here, a single cluster of flowers atop its narrow stem (75/6000)
+  crushed: a man-like root (5/6000)
+  location: three load places near Last Bridge 1) 2e 4s, 2) 2e n 7-9e 1-2n; 3) 2e n 9e s; also somewhere in Misties near Moria (???)
+  NB: root also loads even if plant is not loaded, so try 'reveal root' even if you don't see plant
+  herblore: Travelling
+-
+  name: Goosegrass
+  description: A small and tough weed grows here (75/150)
+  crushed: a crushed stem (3/125)
+  location: Shire; Dunland
+-
+  name: Gooseberry preserve
+  description: __unknown_gooseberry__ (0/0)
+  Inventory: some sticky gooseberry preserve (50/10)
+  location: clay jar near Harlond; same jar in MA area
+-
+  name: Grapes
+  description: Some plump of juicy grapes are growing here (50/6)
+  location: inside Harlond; zone N from Forlond
+-
+  name: Green mushroom
+  description: A small, sickly green mushroom grows here (20/2000)
+  location: secret with shadow in BM; secret behind goblin leader in goblin caves
+  NB: There were other load spots, but they all nuked during poisons change
+  herblore: Psylonia poison
+-
+  name: Hemlock
+  description: A tall plant with a perfectly smooth stem gracefully marks the landscape (20/1000)
+  location: Old Forest bonfire; sw of Wuda; Warrens Canyon floor; NOC area
+  herblore: Drake-slumber poison, Hemlock poison
+-
+  name: Hollyberries
+  description: A bright green holly bush is growing here
+  loads: some hollyberries (4/10)
+  location: very common in Khuzur and Eregion area
+-
+  name: Honeysuckle
+  description: A large shrub grows here, filling the air with a heavy scent
+  loads: a handful of fragile flowers (11/3500)
+  location: some s from road to GH - entrance to Nagrorh; "Loudwater Plains" - 2s2e from crossing in the trail (to DT)
+-
+  name: Inkberries
+  description: A holly bush with dark green leaves is growing here
+  loads: some inkberries (4/10)
+  location: very common in Eregion
+  herblore: Psylonia poison, Hemlock poison
+-
+  name: Ivory rose
+  description: A beautiful, ivory coloured rose with a tint of crimson is blossoming here (2/15)
+  location: near Khuzur; in Dunland near entrance to NOOC.
+-
+  name: Juniper
+  description: A short evergreen plant, with slightly bluish needles, grows here
+  loads: a cluster of hard, round, black berries (4/10)
+  location: Shire - hills of Scary, 3e from "A Spring" (loads at certain yeartime only); some ne of Harlond; Lothlorien; ne3nw from entrance to tall orc; near NOC; 2w5n3w2ne3ne2s from door into the Dark Tower; 12e from eastern Evil Priest
+  herblore: Clear-thoughts, Walking
+-
+  name: Lissuin
+  description: A grouping of soft pink flowers radiates a sweet fragrance (10/1, nosell)
+  location: Ost-In-Edhil
+-
+  name: Marjoram
+  description: A thin, hairy plant, with small, oval leaves, grows here (120/225)
+  crushed: a pinch of pale-green, crushed leaves (2/275)
+  location: Gamgee's garden; NE corner of zone NE from Bree; 8enes10e from moors
+  herblore: Walking
+-
+  name: Mauve petals
+  description: Some dried mauve petals can be found here (1/987)
+  location: on Big John's experienced smuggler, in sack; Shire, in the underwater hermit cave, in sack
+  herblore: Clear-thoughts
+-
+  name: Milkweed
+  description: A slender plant grows here, with clusters of tiny pink flowers (180/2000)
+  crushed: a sticky mass of stems, leaves and sap (100/1400)
+  location: Shire - some ne from Rushey; Eregion; Dunland; Warrens area; some e from Rivendell
+  herblore: Drake-slumber poison
+-
+  name: Mint
+  description: A clean fragrance drifts up from a thick clump of leaves (30/50)
+  location: RTT by Morthan; Tbad area; Eregion
+-
+  name: Niphredil
+  description: Several blooms of snow-white and palest green cover the ground (10/1, nosell)
+  location: Lothlorien
+-
+  name: Orchid
+  description: An orchid of light violet petals blossoms nearby (2/60)
+  location: Lothlorien, Tbad area
+-
+  name: Paprika (pepper)
+  description: A small pile of pungent red powder lies here (7/1000)
+  location: GH and Rivendell herbalists
+  herblore: Skillful-oil
+-
+  name: Phosporescent moss
+  description: A patch of moss grows here on a wet, flat stone (15/500, nosell)
+  location: slug cave near road to GH; spirit castle and witch tower near Fornost; secret down in Farmer Maggot's barn
+  herblore: Seeing
+-
+  name: Poppy (Moon)
+  description: Some orange-red blossoms grow amid grey-green foliage (10/4000)
+  Inventory: some orange-red flowers
+  location: w from dt in FOY area; Misties east of Moria
+  herblore: Drake-slumber poison
+-
+  name: Red (agaric) mushroom
+  description: A bright red mushroom is growing here (20/250)
+  location: common
+  herblore: Belladonna poison, Drake-slumber poison, Psylonia poison
+-
+  name: Red rose
+  description: A detached red rose is lying here (2/50, nosell)
+  crushed: some red petals (1/24)
+  location: zone N from Forlond; inside Harlond/Bree; entrance to Fornost witch
+  herblore: Skillful-oil
+-
+  name: Rosemary
+  description: A woody evergreen plant grows here, with many stems reaching upward (365/225)
+  Inventory: a woody, many-stemmed plant
+  crushed: several needlelike leaves (2/200)
+  location: BM area; Shire; White sands near road to Fornost; little east of Wuda; some s from Tbad; some e from marshes near Bree
+  herblore: Seeing, Shadow, Skillful-oil
+-
+  name: Sage (Salvei)
+  description: A waist-high evergreen shrub grows here, with thick, reaching branches (500/225)
+  loads: some grey-green leaves (2/100)
+  location: GH area; near road to GH; Shire; some w of Wuda; 8enes10es from moors
+  herblore: Clear-thoughts, Soothing-draught, Orc Balm
+-
+  name: Simbelmyne
+  description: A cluster of white star-shaped forget-me-nots fluorish here in reminiscence (50/100, nosell)
+  location: inside Bree; ABR
+-
+  name: Strawberries
+  description: Some delicious wild strawberries grow on the ground (20/10)
+  location: BM area; some e of Moria; Dunland
+-
+  name: Tarragon (Estragon)
+  description: A small evergreen plant grows here, its woody stems reaching two feet (20/450)
+  Inventory: a woody, stemmed plant
+  crushed: a handful of narrow leaves (2/450)
+  location: at Oak trees; some s from road to GH; Shire; e from entrance to Wyrdda; some se of NOC; n3e2n from northern entrace to tall orc
+  herblore: Travelling, Orkish draught
+-
+  name: Thistles
+  description: Prickly, white-stemned plants, with blue flower heads grow in abundance (10/1, nosell)
+  location: Eregion; Dunland; Lothlorien
+-
+  name: Thyme
+  description: A low, many-branched shrub covers the ground here (125/400)
+  crushed: some scented crushed leaves (2/400)
+  location: Shire; Eregion; n2e2sw7swsw2s4e from Eoghha
+  herblore: Clear-thoughts, Soothing-draught
+-
+  name: Tincture of oil
+  description: A small tincture of oil has been placed on the ground (185/1000)
+  location: Fornost herbalist
+  herblore: Skillful-oil
+-
+  name: Valerian
+  description: A flowering plant grows here, its fern-like foliage dancing in the breeze (230/1200)
+  crushed: a foul-smelling root (10/1200)
+  location: up from giant lizard in BM area; south-western Shire; near Rivendell; ABR some sw from tower
+  herblore: Drake-slumber poison
+-
+  name: Vanilla
+  description: A long brown bean, emitting a pleasant scent, is here (2/2000)
+  location: GH and Rivendell herbalists
+  herblore: Skillful-oil
+-
+  name: Water-lily
+  description: A blooming water-lily floats on the surface of the water (10/150)
+  crushed: some white petals (1/150)
+  location: inside Forlond; in marshes near Bree; near RTT; Dunland
+  herblore: Antidote, Soothing-draught, Orc Balm
+-
+  name: White rose
+  description: A detached white rose is lying here (2/50, nosell)
+  location: inside Harlond/Bree
+-
+  name: __starshapedmoss
+  description: A patch of star-shaped moss covers the ground.
+  location: Lorien
+-
+  name: __orangemushroom
+  description: A patch of orange mushrooms springs from the ground here.
+  location: Lorien
+-
+  name: __erectshrub
+  description: An erect shrub with green pinnate leaves is growing here.
+  location: Lorien
+-
+  name: elderberries
+  description: A tall shrub with strong-smelling foliage is growing here.
+  location: Fangorn
+

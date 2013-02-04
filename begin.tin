@@ -34,7 +34,7 @@ alias gab get all.bolt
 alias gabc get all.bolt all.corpse
 alias pbc put all.bolt case
 alias lc look in case
-alias ll load crossbow
+alias lx load crossbow
 
 alias bc butcher corpse
 alias bcc butcher &.corpse
@@ -93,4 +93,4 @@ alias qh cast quick 'harm'
 alias disp cast 'dispel evil'
 alias qd cast quick 'dispel evil'
 
-
+alias ksd knock sturdydoor
