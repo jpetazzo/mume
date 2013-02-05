@@ -94,3 +94,15 @@ alias disp cast 'dispel evil'
 alias qd cast quick 'dispel evil'
 
 alias ksd knock sturdydoor
+alias oaw open archway
+
+alias ca change mood aggr
+alias cw change mood wimp
+
+alias 0 change wimpy 0
+alias 10 change wimpy 10
+alias 20 change wimpy 20
+alias 30 change wimpy 30
+alias 40 change wimpy 40
+alias 50 change wimpy 50
+

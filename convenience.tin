@@ -6,16 +6,16 @@
 
 #alias {xsh} {draw bow;shoot %0;draw sheath}
 
-#alias {tells} {#grep  tells you}
+#alias {tells} {#grep tells you}
 #action {^%w tells you '%*} {#variable reply %1;#tab %1}
 #alias re {tell $reply %0;#echo {Message sent to $reply.}}
-
-#action {north:%w} {#tab %1}
-#action {south:%w} {#tab %1}
-#action {east:%w} {#tab %1}
-#action {west:%w} {#tab %1}
-#action {up:%w} {#tab %1}
-#action {down:%w} {#tab %1}
+#action {^%w narrates '%*} {#tab %1}
+#action { n:%w} {#tab %1}
+#action { s:%w} {#tab %1}
+#action { e:%w} {#tab %1}
+#action { w:%w} {#tab %1}
+#action { u:%w} {#tab %1}
+#action { d:%w} {#tab %1}
 
 #alias hp {#tick hp {info HP: %z/%Z, Mana: %e/%E, Moves: %j/%J} 10}
 #alias unhp {#untick hp}

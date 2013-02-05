@@ -5,6 +5,7 @@
 #CONFIG           {CONNECT RETRY}  {15}
 #CONFIG           {HISTORY SIZE}  {1000}
 #CONFIG           {LOG}  {RAW}
+#CONFIG           {LOG LEVEL} {LOW}
 #CONFIG           {PACKET PATCH}  {0.00}
 #CONFIG           {REPEAT CHAR}  {!}
 #CONFIG           {REPEAT ENTER}  {OFF}
@@ -42,6 +43,7 @@
 
 #alias gg {#gag {^$}}
 #alias ugg {#ungag {^$}}
+gg
 
 #alias idle {#ticker idle {prac} 60}
 #alias unidle {#unticker idle}
@@ -64,4 +66,6 @@
 
 #script {timestamp} {date +%Y-%m-%d_%H:%M:%S}
 #log {append} {logs/$timestamp[1].log}
+#system {rm -f log}
+#system {ln -s logs/$timestamp[1].log log}
 

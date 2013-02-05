@@ -35,7 +35,7 @@
 		#format {minute} {%m} {0}
 	} { #format {minute} {%m} {${minute} + 1} }
 	#format {time} {%02d:%02d %s} {$hour} {$minute} {$ampm};
-	#showme {<158> $time<090>} {-10};
+	#showme {<158> $time<099>} {-10};
 	#if {$timeok} {#showme TIME:$time} {#nop}
 } 1
 

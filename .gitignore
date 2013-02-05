@@ -1,4 +1,5 @@
 session.tin
+log
 logs/*.log
 chars/
 *~

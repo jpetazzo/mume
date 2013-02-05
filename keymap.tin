@@ -22,16 +22,47 @@
 #macro {\e\e[6$} {#echo {shift Down};shift down}
 
 
+#nop UIOJKL (when arrows are not available)
+
+#macro {\ei} {#echo North;north}
+#macro {\ek} {#echo South;south}
+#macro {\ej} {#echo West;west}
+#macro {\el} {#echo East;east}
+#macro {\eu} {#echo Up;up}
+#macro {\eo} {#echo Down;down}
+
+
+#nop Shift+UIOJKL (when arrows are not available)
+
+#macro {\eI} {#echo {shift North};shift north}
+#macro {\eK} {#echo {shift South};shift south}
+#macro {\eJ} {#echo {shift West};shift west}
+#macro {\eL} {#echo {shift East};shift east}
+#macro {\eU} {#echo {shift Up};shift up}
+#macro {\eO} {#echo {shift Down};shift down}
+
+
 #nop Combat
 
-#macro {\e/} {#echo shoot;shoot}
-#macro {\e?} {#echo {shoot x};shoot x}
 #macro {\ea} {#echo assist;assist}
-#macro {\ek} {#echo {kill x};kill x}
+#macro {\eb} {#echo BA(sh/ckstab);ba}
+#macro {\eB} {#echo {BA(sh/ckstab) x};ba x}
+#macri {\ee} {#echo {open exit};open exit}
 #macro {\ef} {#echo flee;flee}
+#nop   {\ei} (used by alternate movement)
+#nop   {\ej} (used by alternate movement)
+#nop   {\ek} (used by alternate movement)
+#nop   {\el} (used by alternate movement)
+#macro {\em} {#echo lead;lead}
+#macro {\eM} {#echo ride;ride}
+#nop   {\eo} (used by alternate movement)
 #macro {\eq} {#echo recover;recover}
-#macro {\eQ} {#echo get all.arrow;get all.arrow;#echo get all.arrow all.corpse;get all.arrow all.corpse;#echo put all.arrow quiver;put all.arrow quiver}
-#macro {\eb} {#echo BA(sh/ckstab);ba x}
-#macro {\et} {#echo {label x};label x}
+#macro {\eQ} {#echo {get all.arrow};get all.arrow;#echo {get all.arrow all.corpse};get all.arrow all.corpse;#echo {put all.arrow quiver};put all.arrow quiver}
 #macro {\er} {#echo rescue;rescue}
-#macro {\el} {#echo {load crossbow};load crossbow}
+#macro {\es} {#echo shoot;shoot}
+#macro {\eS} {#echo {shoot x};shoot x}
+#macro {\et} {#echo {label x};label x}
+#nop   {\eu} (used by alternate movement)
+#macro {\ex} {#echo {kill x};kill x}
+#macro {\ew} {#echo wake;wake}
+#macro {\ez} {#echo sleep;sleep}
