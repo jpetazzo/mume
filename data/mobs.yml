@@ -1,301 +1,450 @@
--
-  trophy: A young mountain lion
-  keywords: lion
--
-  trophy: A giant rat
-  keywords: rat
-  inroom: A giant rat patters against you, squeaking maliciously.
--
-  trophy: A thief
-  keywords: thief
-  inroom: A thief is here looking for some stranger to rob.
-  inroom: A thief lurks here, looking for a stranger to rob.
--
-  trophy: A brigand
-  kewords: brigand
-  inroom: A brigand, looking at your nice purse, is sneaking here.
--
+# Each entry is keyed by its "in-room" description.
+# It can have the following (optional) fields:
+# - level: numeric level of the mob.
+# - warning: string to be displayed when the mob is met.
+# - trophy: the "canonical" description of the mob (as shown in TROPHY).
+# - keywords: space-separated words which can be used to interact with the mob.
+# - flags: space-separated special flags.
+# The following flags are defined for now. Their meaning is pretty obvious:
+# - rent: you can rent at this mob.
+# - guild: you can prac with this mob.
+# - shop: this mob is a shop.
+# - sanc: this mob is sanced (glowing).
+# - mount: this mob is a mount.
+# - yell: this mob will yell if you attack him.
+# - call: this mob will call other mobs if you attack him.
+# - bash: this mob can bash.
+# 
+# If the "in-room" description contains a "|", it is used as a separator to
+# indicate the trophy entry. Otherwise, the trophy description should be 
+# specified as a separate field. In other words, the two following entries 
+# are equivalent:
+# A stone troll is here, dreaming about hobbit meat.:
+#   trophy: A stone troll
+# A stone troll| is here, dreaming about hobbit meat.:
+A giant rat| patters against you, squeaking maliciously.:
+A thief| lurks here, looking for a stranger to rob.:
+A thief| is here looking for some stranger to rob.:
+A brigand|, looking at your nice purse, is sneaking here.:
+A mean looking robber is here, demanding money from you.:
   keywords: robber
-  inroom: A mean looking robber is here, demanding money from you.
--
-  keywords: bear
-  inroom:  A brown bear is sleeping here.
+A brown bear| is sleeping here.:
   level: 12
--
-  inroom: A colourful butterfly is fluttering around here.
--
-  inroom: A robin is here, carrying small pieces of wood to its nest.
--
+A colourful butterfly is fluttering around here.:
+A robin is here, carrying small pieces of wood to its nest.:
+A huge grizzly bear is here, roaming the wild.:
   level: 15
-  inroom: A huge grizzly bear is here, roaming the wild.
-  keywords: huge grizzly bear
--
-  inroom: A spirit floats towards you and howls with an evil laughter.
-  keywords: spirit
--
-  inroom: A finch flies low above the ground.
--
-  inroom: A shadowy haunt floats here, oblivious to your presence.
+A spirit floats towards you and howls with an evil laughter.:
+A finch flies low above the ground.:
+A shadowy haunt floats here, oblivious to your presence.:
   level: 14
-  keywords: haunt
--
+A moaning ghost advances towards you, shimmering with a pale light.:
   level: 15
-  inroom: A moaning ghost advances towards you, shimmering with a pale light.
-  keywords: ghost
--
-  inroom: Some roots lie here waiting to ensnare weary travellers.
-  keywords: roots
-  warning: Do massive roots first!
--
+Some roots lie here waiting to ensnare weary travellers.:
+Massive roots shift uneasily all around you.:
   level: 16
-  inroom: Massive roots shift uneasily all around you.
   keywords: massive
--
-  inroom: Some thick writhing vines whip all around you.
+  warning: Do massive roots first!
+Some thick writhing vines whip all around you.:
   keywords: vines
--
-  inroom: A black wolf pads restlessly, looking for its next prey.
+A black wolf pads restlessly, looking for its next prey.:
   keywords: wolf
--
-  inroom: A hungry-looking giant lizard is slithering towards you.
+A hungry-looking giant lizard is slithering towards you.:
   keywords: lizard
--
+  level: 12
+A great wolf with coal-black eyes stares intently at you, drooling saliva.:
   level: 15
-  inroom: A great wolf with coal-black eyes stares intently at you, drooling saliva.
   keywords: werewolf wolf
--
-  inroom: An ancient fungus smothers the boulders.
+An ancient fungus smothers the boulders.:
   keywords: fungus
--
-  inroom: The mother wolf stands here, protecting her young cubs.
-  keywords: mother wolf
--
-  inroom: A giant termite is here, crushing skulls and bones.
-  keywords: giant termite
--
-  inroom: A large elk gazes coldly at you, chewing on a small branch.
-  keywords: elk
--
-  inroom: Some ugly blow-flies are buzzing around here.
+  trophy: A giant fungus
+  level: 5
+The mother wolf stands here, protecting her young cubs.:
+A giant termite is here, crushing skulls and bones.:
+A large elk gazes coldly at you, chewing on a small branch.:
+Some ugly blow-flies are buzzing around here.:
   keywords: flies
--
-  inroom: A colony of red ants is here. The ants seem to ignore you.
+A colony of red ants is here. The ants seem to ignore you.:
   keywords: ants
--
-  inroom: A mottled snake is sneaking here, ready to sink its fangs into flesh.
-  keywords: mottled snake
--
-  inroom: An intact skeleton of a man is walking around here.
+A mottled snake is sneaking here, ready to sink its fangs into flesh.:
+An intact skeleton of a man is walking around here.:
   keywords: skeleton
--
-  inroom: A grey-clad elf is here.
--
-  inroom: A young bard is standing here, singing softly.
--
-  inroom: An elven archer dressed in green is here, watching the forest.
--
-  inroom: An elven boy is running about here.
--
-  inroom: A sturdy trained horse is standing here.
--
-  inroom: A tall and proud elf is standing here.
--
-  inroom: A Bounder is here safeguarding the Shire.
--
-  inroom: A Shirriff stands here, keeping a watchful eye on things.
--
-  inroom: A hobbit is here walking around.
--
-  inroom: A tall stag is here, grazing peacefully.
--
-  inroom: A huge, hungry-looking rat is here.
--
-  inroom: A bedraggled man stumbles as best he can across the terrain.
--
-  inroom: A boar cub is playing here, and exploring the wide world.
--
-  inroom: A brown donkey watches the surroundings, perhaps looking for a chance to graze.
--
-  inroom: A brown fox is here, looking for some rabbits to chew up.
--
-  inroom: A large rabbit looks peacefully at you, ready to dart away.
--
-  inroom: A sturdy pack horse is standing here.
--
-  inroom: An elven guard is standing here at his post.
--
-  inroom: A Bounder is here, patrolling the Shire and watching for evil.
--
-  inroom: An elven woman is here merrily walking along.
--
-  inroom: An elven guard is wandering here, keeping the peace.
--
-  inroom: Randir the elven guide is standing here.
--
-  inroom: An elven caretaker is standing here, offering his guests a rest.
+A grey-clad elf is here.:
+A young bard is standing here, singing softly.:
+An elven archer dressed in green is here, watching the forest.:
+An elven boy is running about here.:
+A sturdy trained horse is standing here.:
+A tall and proud elf is standing here.:
+A Bounder is here safeguarding the Shire.:
+A Shirriff stands here, keeping a watchful eye on things.:
+A hobbit is here walking around.:
+A tall stag is here, grazing peacefully.:
+A huge, hungry-looking rat is here.:
+A bedraggled man stumbles as best he can across the terrain.:
+A boar cub is playing here, and exploring the wide world.:
+A brown donkey watches the surroundings, perhaps looking for a chance to graze.:
+A brown fox| is here, looking for some rabbits to chew up.:
+  level: 2
+A large rabbit looks peacefully at you, ready to dart away.:
+A sturdy pack horse is standing here.:
+An elven guard is standing here at his post.:
+A Bounder is here, patrolling the Shire and watching for evil.:
+An elven woman is here merrily walking along.:
+An elven guard is wandering here, keeping the peace.:
+Randir the elven guide is standing here.:
+An elven caretaker is standing here, offering his guests a rest.:
   flags: rent
--
-  inroom: Galadriel the Lady of Lórien is standing here.
+Galadriel the Lady of Lórien is standing here.:
   flags: sanc
--
-  inroom: An elf, clad in the garments of a woodsman, moves stealthily among the trees.
--
-  inroom: A duck is here, quacking happily.
--
-  inroom: A pigeon is strutting around here.
--
-  inroom: A Dunlending huntsman is here.
--
-  inroom: A snake slithers towards you.
--
-  inroom: A domesticated pony, beast of burden to many, stands here.
--
-  inroom: A restless rabbit bounces around.
--
-  inroom: A rabbit is here eyeing your presence warily.
--
-  inroom: A cute rabbit is here.
--
-  inroom: A Guard of Bree is here, watching the gate.
--
-  inroom: A stocky mountain mule is here, waiting to serve.
--
-  inroom: A large grocer is here, waiting to buy or sell some goods.
--
-  inroom: A squirrel scampers around here, looking for nuts from the trees.
--
-  inroom: A fierce boar is here, making grunting noises.
--
-  inroom: A beautiful and docile horse is standing here.
--
-  inroom: A brown toad is here, hunting flies.
--
-  inroom: A black snake, with red markings, is lying here.
--
-  inroom: A young man in ranger's attire is here, travelling the roads.
--
-  inroom: A grey wolf is here, snarling aggressively.
--
-  inroom: A fallow deer is grazing peacefully here.
--
-  inroom: An elf sits here delving into some old tomes of elven lore.
--
-  inroom: A small, loyal beagle is here, eager to please.
--
-  inroom: Barliman Butterbur, the innkeeper, offers you a room in his inn.
+An elf, clad in the garments of a woodsman, moves stealthily among the trees.:
+A duck is here, quacking happily.:
+A pigeon is strutting around here.:
+A Dunlending huntsman is here.:
+A snake slithers towards you.:
+A domesticated pony, beast of burden to many, stands here.:
+A restless rabbit bounces around.:
+A rabbit is here eyeing your presence warily.:
+A cute rabbit is here.:
+A Guard of Bree is here, watching the gate.:
+A stocky mountain mule is here, waiting to serve.:
+A large grocer is here, waiting to buy or sell some goods.:
+A squirrel scampers around here, looking for nuts from the trees.:
+A fierce boar is here, making grunting noises.:
+  trophy: A boar
+  level: 8
+  flags: bash
+A beautiful and docile horse is standing here.:
+A brown toad is here, hunting flies.:
+A black snake, with red markings, is lying here.:
+A young man in ranger's attire is here, travelling the roads.:
+A grey wolf| is here, snarling aggressively.:
+  level: 6
+A fallow deer is grazing peacefully here.:
+  level: 2
+An elf sits here delving into some old tomes of elven lore.:
+A small, loyal beagle is here, eager to please.:
+Barliman Butterbur, the innkeeper, offers you a room in his inn.:
   flags: rent
--
-  inroom: A stray dog snuffles around as he searches for something of interest.
--
-  inroom: A woolly sheep is grazing here.
--
-  inroom: A grey bird with a bright orange-red belly sits here, singing a melodic tune.
--
-  inroom: A worm is here slithering around.
--
-  inroom: A young farm-hand is here hard at work.
--
-  inroom: A swarm of mosquitoes is here, humming around you.
--
-  inroom: A green frog is here, hopping around.
--
-  inroom: A sturdy warrior is here, guarding the tower.
--
-  inroom: A Rohir door-warden is here.
--
-  inroom: A stout Rohir lieutenant is here.
--
-  inroom: A foot-soldier of Rohan is here.
--
-  inroom: A Rohir marksman surveys the landscape, targeting would-be adversaries.
--
-  inroom: An archer of the Mark is here.
--
-  inroom: A Rohir cavalier, wielding a longspear, is here, riding a trained horse.
--
-  inroom: A foot-soldier of Rohan is here.
--
-  inroom: An elite Rohir knight appears alert.
--
-  inroom: A hobbit farmer is here, thinking about seeds and vegetables.
--
-  inroom: A smiling hobbit child is playing around here.
--
-  inroom: The garden snake slithers harmlessly here.
--
-  inroom: A vicious little bandit advances towards you.
--
-  inroom: An evil priest is here chanting and praying to some foul entity.
+A stray dog snuffles around as he searches for something of interest.:
+A woolly sheep is grazing here.:
+A grey bird with a bright orange-red belly sits here, singing a melodic tune.:
+A worm is here slithering around.:
+A young farm-hand is here hard at work.:
+A swarm of mosquitoes is here, humming around you.:
+A green frog is here, hopping around.:
+A sturdy warrior is here, guarding the tower.:
+A Rohir door-warden is here.:
+A stout Rohir lieutenant is here.:
+A foot-soldier of Rohan is here.:
+A Rohir marksman surveys the landscape, targeting would-be adversaries.:
+An archer of the Mark is here.:
+A Rohir cavalier, wielding a longspear, is here, riding a trained horse.:
+A foot-soldier of Rohan is here.:
+An elite Rohir knight appears alert.:
+A hobbit farmer is here, thinking about seeds and vegetables.:
+A smiling hobbit child is playing around here.:
+The garden snake slithers harmlessly here.:
+A vicious little bandit advances towards you.:
+  trophy: A bandit
+  level: 6
+An evil priest is here chanting and praying to some foul entity.:
   flags: sanc
--
-  inroom: An elven lady is walking around here.
--
-  inroom: A coloured game bird is visible in the vegetation, watching you warily.
--
-  inroom: A blue dragonfly is circling around.
--
-  inroom: A ferocious warg is here, snarling angrily.
--
-  inroom: A lone hawk soars high above you.
--
-  inroom: A forest spider is here crawling around.
--
-  inroom: An elf of the Galadhrim is walking around here.
--
-  inroom: A nightingale is here, chirping a sweet melody.
--
-  inroom: A noble Elf stands here, proudly displaying his valuable assets.
--
-  inroom: A pretty elven girl is strolling around here.
--
-  inroom: A dove rests near one of the flowers.
--
-  inroom: Haldir the Elf is here.
+An elven lady is walking around here.:
+A coloured game bird is visible in the vegetation, watching you warily.:
+A blue dragonfly is circling around.:
+A ferocious warg is here, snarling angrily.:
+A lone hawk soars high above you.:
+A forest spider is here crawling around.:
+An elf of the Galadhrim is walking around here.:
+A nightingale is here, chirping a sweet melody.:
+A noble Elf stands here, proudly displaying his valuable assets.:
+A pretty elven girl is strolling around here.:
+A dove rests near one of the flowers.:
+Haldir the Elf is here.:
   flags: sanc
--
-  inroom: A majestic, white stag stands here, eyeing the surroundings carefully.
--
-  inroom: A magpie is flying around looking for some food.
--
-  inroom: A brook trout is here, swimming in the current.
--
-  inroom: A buck runs swiftly from place to place, looking about warily as it grazes.
--
-  inroom: A small animal, all covered in spines, snuffles amongst the undergrowth.
--
-  inroom: A swan swims gracefully on the surface of the water.
--
-  inroom: A huge black fungus is here, exuding a foul stench.
--
-  inroom: A wolf cub happily plays here.
--
-  inroom: A small grasshopper clings to a blade of grass, ready to spring.
--
-  inroom: A wary elf, all clad in grey, moves silently here.
--
-  inroom: A long-tailed bird watches you from the vegetation.
--
-  inroom: A field vole has frozen to the spot, sensitive to your presence.
--
-  inroom: An elven cook is standing here, singing softly as she prepares a meal.
--
-  inroom: Ecthelion the Elven-smith is here.
+A majestic, white stag stands here, eyeing the surroundings carefully.:
+A magpie is flying around looking for some food.:
+A brook trout is here, swimming in the current.:
+A buck runs swiftly from place to place, looking about warily as it grazes.:
+A small animal, all covered in spines, snuffles amongst the undergrowth.:
+A swan swims gracefully on the surface of the water.:
+A huge black fungus is here, exuding a foul stench.:
+  level: 10
+A wolf cub happily plays here.:
+A small grasshopper clings to a blade of grass, ready to spring.:
+A wary elf, all clad in grey, moves silently here.:
+A long-tailed bird watches you from the vegetation.:
+A field vole has frozen to the spot, sensitive to your presence.:
+An elven cook is standing here, singing softly as she prepares a meal.:
+Ecthelion the Elven-smith is here.:
   flags: shop
--
-  inroom: A furry, striped raccoon is here, nosing around for some berries or roots.
--
-  inroom: A long-necked bird, with a fairly short spear-like bill stands here.
--
-  inroom: A bee flies around here, collecting nectar from the flowers.
--
-  inroom: A large beaver is here, gnawing on a piece of wood.
--
-  inroom: A long-bodied animal with thick brown fur bounds through the trees.
--
-  inroom: A small harmless centipede is here.
--
-  inroom: A large owl with small sharp horns looks cautiously around it.
--
-  inroom: A cute, fluffy owlet pecks at some food on the ground.
--
-  inroom: A pack horse is standing here.
+A furry, striped raccoon is here, nosing around for some berries or roots.:
+A long-necked bird, with a fairly short spear-like bill stands here.:
+A bee flies around here, collecting nectar from the flowers.:
+A large beaver is here, gnawing on a piece of wood.:
+A long-bodied animal with thick brown fur bounds through the trees.:
+A small harmless centipede is here.:
+A large owl with small sharp horns looks cautiously around it.:
+A cute, fluffy owlet pecks at some food on the ground.:
+A pack horse| is standing here.:
+  flags: mount
+  level: 6
+A dark intangible shadow turns to face you.:
+  keywords: wraith
+  level: 16
+A powerful lioness| is barely visible in the grass.:
+  level: 12
+A very large lion with a dark mane watches you lazily.:
+  trophy: A dark-maned lion
+A brown cow| is here, contemplating a higher reality whilst chewing slowly.:
+  level: 4
+A well-fed cow| stands here chewing her cud listlessly.:
+  level: 4
+A tree-snake| lies wrapped around one of the tree branches.:
+  level: 6
+A raider| is here, looking for plunder.:
+  level: 8
+  flags: yell call
+A ruffian is sneaking around here, looking for some mischief to do.:
+  trophy: A ruffian
+  level: 8
+A dirty ruffian draped in rags advances towards you.:
+  trophy: A young ruffian
+A black uruk, armoured heavily, stands confidently here.:
+A strange bat-like creature is flitting around.:
+A stone-grey troll advances toward you, with fury in its eyes.:
+An eyeless white rat with nasty teeth scurries about.:
+A dark orkish archer is aiming a vicious bow at you.:
+A dark-skinned orc, born of the tunnels, draws his weapon.:
+An Elven innkeeper stands ready to sign up his guests.:
+  flags: rent
+The elven lieutenant is here looking for any sign of trouble.:
+An impressive elven knight stands watch here.:
+An elven hunter is here, ready to teach.:
+An elven citizen is here enjoying the day.:
+A helpful elven citizen is cleaning up the area here.:
+Kevlar the elven armourer is here polishing items he has on display.:
+  flags: shop
+Curifil the elven guide stands here carrying an old book.:
+Faldor the weaponsmith is here demonstrating his latest work.:
+  flags: shop
+An elven herbalist is watching his merchandise here.:
+  flags: shop
+A fat rabbit is here, chewing on some grass.:
+A grey-cloaked elf is here, looking for the tracks of evil creatures.:
+A seagull is soaring above you.:
+The elven lamplighter is making his rounds through the streets.:
+Eldinor the owner and bartender of the Seagull Inn is serving drinks here.:
+An elven grocer is standing here, quietly humming to herself.:
+An elven cook is standing here, busy cooking meals.:
+A mountain lion eyes you closely and prepares to pounce for his next meal.:
+One of the strong town gatekeepers is standing here.:
+An elven tailor is standing here, tidying his selection.:
+  flags: shop
+A dwarven gateguard watches over the entranceway.:
+A prospector is walking around slowly, looking for a new ore vein to mine.:
+A sharp-eyed hawk is here stalking some prey.:
+A sparrow is flapping around on the ground.:
+A secretary is sitting at the desk.:
+A dwarven cityguard is patrolling the streets.:
+An experienced dwarven captain stands here with an air of authority.:
+A mountain goat is here, jumping from cliff to cliff.:
+A goat is here, grazing in the hills.:
+A young goat playfully charges and hops away.:
+A Dwarven stablehand checks on the horses.:
+Vubur the innkeeper is here, offering a room at his inn.:
+A dwarven cityguard stands here looking scornfully at foreigners.:
+A woodpecker is here, tapping on a tree.:
+A large marmot is here, scurrying in between the rocks.:
+A rumpled-looking dwarf walks around here.:
+Frár the baker is here, tending to his ovens.:
+A dwarven soldier is here, watching for trouble.:
+A large eagle soars above you.:
+A mountain lioness pads quietly through the terrain.:
+A young mountain lion is sizing up his next meal from the nearby cover.:
+A large bullfrog croaks loudly.:
+A roe deer is standing here, watching the terrain while chewing the vegetation.:
+An elf is here walking around.:
+An elven farmer stands here partially hunched over.:
+An elven farmer is here surveying the land.:
+Gildor the blacksmith is here, busy forging a sword.:
+  flags: shop
+A small termite is running around making strange sounds.:
+A large elk is standing here, chewing grass and leaves.:
+A mouse is here nosing around, looking for a safe place to hide.:
+A large, loyal falcon is circling above.:
+A thin, crippled deer looks around timidly.:
+A grizzly cub is here, snarling loudly.:
+A black catfish is here, lurking in the mud.:
+A crayfish is here, snapping its claws at you.:
+A small centipede is here scurrying about.:
+A sergeant of the dwarven guard looks around alertly.:
+A short, muscular dwarven captain is giving orders to his soldiers.:
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.:
+An orc, of the Durghash tribe, crouches here.:
+A large bat is here, hanging in the darkness.:
+A powerful young troll stares at you.:
+A large mean-looking troll is here.:
+An infant troll, baring its teeth, snarls here.:
+A wealthy merchant is slowly strolling around here.:
+A woman is here, looking for someone to chat with.:
+An insolent scholar is here, pondering.:
+A Dúnadan soldier is here busily performing his duties.:
+An old man is walking around, cleaning up.:
+A man passes by, intent on his business.:
+A crooked man, dressed in dark ragged clothes, is standing behind a long desk.:
+A Dúnadan soldier is here busily performing his duties.:
+Olly is standing here, cleaning some cups.:
+A simple servant quietly walks around, performing his duties.:
+A Dúnadan soldier is here busily performing his duties.:
+An experienced Dúnadan officer is standing here, keeping things under control.:
+An old man is walking around, cleaning up.:
+A man passes by, intent on his business.:
+A weaponsmith stands here.:
+The Commandant of Fornost is walking around, inspecting all and everything.:
+Huor of Dor-lómin is standing here, ready to teach his arts.:
+  flags: guild
+A little boy is here, running around.:
+Fardur the guide is here, leaning on his walking-stick.:
+A ranger stands quietly here, willing to teach his knowledge of woodcraft.:
+  flags: guild
+A little dog is here.:
+A wicked black witch glares at you with mad eyes.:
+A hardened ranger is walking around, looking for tracks.:
+A great, dark wolf stands here, sniffing the air.:
+A grey wolf is here, thin from starvation.:
+An elite Bree guard stands here stoutly.:
+A guard of Bree stands here.:
+Harry the Bree Gatekeeper stands here.:
+A small rabbit glares angrily at you.:
+A menacing looking tree is here, just waiting for a lost wanderer.:
+An old, withered tree looms above the path.:
+  trophy: A withered old tree
+A young hobbit is here, wondering how to get home.:
+A hobbit guard is here, watching over Buckland's north gate.:
+Bob the hobbit stable-lad is standing here, smiling happily.:
+An iron-grey wolf stands here, grizzled from countless hunts.:
+A fierce bat is here, lusting for your blood.:
+An elven hunter, fair and mighty, roams here warding against evil.:
+An elderly herbalist is here, surrounded by a cloud of spice.:
+  flags: shop
+An armourer stands here.:
+  flags: shop
+An elven beekeeper is standing here, peacefully watching his bees.:
+A huge, poisonous spider is here.:
+A tiny spider is here, eating a tiny bug.:
+A malicious thug is here, threatening you.:
+The wild ox seems ready to charge you.:
+A brown snake watches you.:
+A badger is here, exploring for food.:
+A swallow flies high above the ground.:
+The starving cow stands here looking for a patch of grass.:
+Filatior the elven acolyte is here performing sacred ceremonies.:
+A diamond-back rattlesnake is coiled here, ready to strike.:
+A crazed dwarf is here, drooling down his beard.:
+A fishmonger is standing here, loudly advertising today's catch.:
+An elven boat-fisher is here hard at work on his boat.:
+A fat carp swims here.:
+A grey wolf is here, salivating profusely.:
+A fierce wolverine is here, snarling at you.:
+A huge, black wolf is here, ready to devour.:
+A bear is here, covered with coarse black fur.:
+A large brown snake with black patches is coiled here.:
+A small brown snake is slithering around here.:
+A singing, happy drunk is staggering about here.:
+An elven librarian is here taking care of all the books.:
+A silvery fish quickly darts through the water.:
+A huge, poisonous tarantula extends her legs to you.:
+A newborn spider is here.:
+A partridge attempts to hide in the undergrowth.:
+A black raven flies in the sky searching for flesh to prey upon.:
+A trout swims here.:
+A salmon swims here.:
+A bass swims here.:
+The elven bartender is standing here, gossiping behind the bar.:
+A swift and agile forest cat moves silently through the vegetation.:
+A beggar is here, asking for a few coins.:
+An old innkeeper stands here, talking to some guests.:
+  flags: rent
+The storyteller is sitting here, drinking beer and telling tales.:
+A barman watches you calmly, while skilfully mixing a drink.:
+An old wise druid is standing here. He looks very clever and savant.:
+  flags: guild
+An old woman is here, stirring a large round pot.:
+A black crow flies low to the ground here, looking for carrion to eat.:
+A giant slug is here, oozing around.:
+A cockroach is scuttling across the floor carrying some debris.:
+The gatekeeper stands here.:
+An opossum stands here, sniffing around the ground.:
+Mr. Mugwort, a busy but friendly hobbit stands here.:
+A small loyal cat is here.:
+An elven huntsman is standing here, watching for signs of evil.:
+A hen sits here, keeping her eggs warm.:
+A drunk hobbit is sprawled on the the ground before you.:
+Nob the Hobbit wanders around here, looking for work to do.:
+A river otter splashes playfully here.:
+The ruffian leader Scarred grins as he draws his sword.:
+Malindon the elven mage is here reading over some old texts.:
+  flags: guild
+A sturdy bandit bodyguard stands here, eager to hack you to pieces.:
+A dwarf is here processing wool.:
+An apprentice scurries about the room.:
+A long-bearded weaver is busily making cloth.:
+King Thorin II, Oakenshield, sits here on his throne.:
+A dwarven child wanders around.:
+A dwarven female is here walking around.:
+Dori the armourer is here pounding on iron.:
+A dwarf stands here crafting children's toys.:
+A cobbler is here mending a pair of sandals.:
+A female dwarf is here cutting a piece of leather.:
+A dwarven potter is here sculpting clay.:
+A large ram guards his flock of sheep.:
+A half wolf is here, loyally protecting his master.:
+Ginnar the weaponsmith stands here pounding out a sword.:
+Althof the shopkeeper is here, examining his inventory.:
+- 
+Rekk the pipeweed trader is here, blowing smoke rings.:
+A dwarven sergeant is here watching over his guards.:
+A grey haired elf is standing here, ready to share his knowledge.:
+A slender dwarf is here, tinkering with mechanical devices.:
+A three-foot-long queen bee is here, buzzing agitatedly.:
+A venerable elven priest is here, willing to teach his art.:
+An elven youth is busy attending to the animals.:
+The Housekeeper looks fed up with her job. She scowls at you unhappily.:
+The elven garrison commander is here making sure everything is safe.:
+An elf is sitting here, fishing for a catch.:
+A drone bee flies around here, angrily buzzing.:
+An angry bee is working on a honeycomb here.:
+A hobbit fishtrader loudly advertises his fresh fish here.:
+A Hobbit shopkeeper stands here, eager to sell you his wares.:
+The baker looks at you calmly, wiping flour from his face with one hand.:
+A small hobbit bartender is here, bragging about the beer.:
+A well-fed hobbit has set up an inn here, renting out rooms.:
+A busy hobbit female is here worrying about the home labours.:
+The Mayor is sitting in his huge chair, snoring loudly.:
+A retired Captain stands here, selling boats.:
+A beggar begs you for money. You graciously let her peep at your fortune.:
+A grey hare stands alert, looking and listening for predators.:
+Jack stands on guard here, collecting money.:
+A huge warg is here, moving in for the kill.:
+A shopkeeper stands here, eager to sell you his wares.:
+A mole is looking out of a mole-hill here.:
+A wealthy hobbit merchant stands behind the counter, greeting you.:
+A lean and well-travelled hobbit stands here, while resting his legs.:
+A Stoor goes about his daily business.:
+A Stoor child is playing peacefully here.:
+A grey snake slides along the water.:
+A Dúnadan ranger is crouched over the fire, cooking a meal.:
+The Chief of the Stoor Village is here.:
+A dun-coloured grouse is sitting still in the heather.:
+A young brush-lion stalks the wilderness, searching for prey.:
+A hobbit shopkeeper stands here, eager to sell you his wares.:
+The lonely giant sits on a stone and sings a mournful lay.:
+A mass of wriggling vines drops on you from the trees.:
+A black spider crawls here, a shiny red spot visible on its belly.:
+An elven scout stands here, blending in with the background.:
+A golden spider rests on a tree-branch.:
+An elven ropemaker is fiddling with some thread here.:
+A hungry warg stands here, sniffing around for flesh.:
+A rock lizard is here, motionless as it observes you.:
+An elven archer is here, honing his skills.:

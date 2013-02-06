@@ -1,0 +1,22 @@
+#sub {^A dark intangible shadow turns to face you.$} {%0 [16] }
+#sub {^A great wolf with coal-black eyes stares intently at you, drooling saliva.$} {%0 [15] }
+#sub {^A hungry-looking giant lizard is slithering towards you.$} {%0 [12] }
+#sub {^A brown bear is sleeping here.$} {%0 [12] }
+#sub {^A tree-snake lies wrapped around one of the tree branches.$} {%0 [6] }
+#sub {^A fallow deer is grazing peacefully here.$} {%0 [2] }
+#sub {^A fierce boar is here, making grunting noises.$} {%0 [8] }
+#sub {^A grey wolf is here, snarling aggressively.$} {%0 [6] }
+#sub {^Massive roots shift uneasily all around you.$} {%0 [16, WARNING: Do massive roots first!] }
+#sub {^A brown cow is here, contemplating a higher reality whilst chewing slowly.$} {%0 [4] }
+#sub {^An ancient fungus smothers the boulders.$} {%0 [5] }
+#sub {^A huge grizzly bear is here, roaming the wild.$} {%0 [15] }
+#sub {^A powerful lioness is barely visible in the grass.$} {%0 [12] }
+#sub {^A huge black fungus is here, exuding a foul stench.$} {%0 [10] }
+#sub {^A shadowy haunt floats here, oblivious to your presence.$} {%0 [14] }
+#sub {^A ruffian is sneaking around here, looking for some mischief to do.$} {%0 [8] }
+#sub {^A pack horse is standing here.$} {%0 [6] }
+#sub {^A raider is here, looking for plunder.$} {%0 [8] }
+#sub {^A moaning ghost advances towards you, shimmering with a pale light.$} {%0 [15] }
+#sub {^A vicious little bandit advances towards you.$} {%0 [6] }
+#sub {^A well-fed cow stands here chewing her cud listlessly.$} {%0 [4] }
+#sub {^A brown fox is here, looking for some rabbits to chew up.$} {%0 [2] }

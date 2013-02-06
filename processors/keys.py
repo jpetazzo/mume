@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-for line in open('keysinfo.txt'):
+import sys
+for line in sys.stdin:
     if ']' not in line: continue
     if line[3] == ' ': continue
     line = line.split(']',1)[1]

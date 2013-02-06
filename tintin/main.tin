@@ -31,15 +31,16 @@
 
 #config {COMMAND COLOR} <058>
 
-#read windowbar.tin
-#read clock.tin
-#read rip.tin
-#read months.tin
-#read keysinfo.tin
-#read herbs.tin
-#read convenience.tin
-#read keymap.tin
-#read prompt.tin
+#read tintin/windowbar.tin
+#read tintin/clock.tin
+#read tintin/rip.tin
+#read tintin/months.tin
+#read tintin/data-keys.tin
+#read tintin/data-herbs.tin
+#read tintin/data-mobs.tin
+#read tintin/convenience.tin
+#read tintin/keymap.tin
+#read tintin/prompt.tin
 
 #alias gg {#gag {^$}}
 #alias ugg {#ungag {^$}}
@@ -47,8 +48,6 @@ gg
 
 #alias idle {#ticker idle {prac} 60}
 #alias unidle {#unticker idle}
-
-#nop action {^%+, the %+ of %+, Year %d of the Third Age.$} { help %3 }
 
 #alias sellall {sell all.leather;sell all.shield;sell all.belt;sell all.pants;sell all.hood;sell all.chain;sell all.metal;sell all.sweapon;sell all.stweapon;sell all.cweapon;sell all.pweapon}
 
@@ -62,9 +61,10 @@ gg
 #nop highlight {^A%? %w %w leaves %w.$} {bold magenta}
 #nop highlight {^A%? %w %w %w leaves %w.$} {bold magenta}
 
-#read session.tin
+#read login
 
 #script {timestamp} {date +%Y-%m-%d_%H:%M:%S}
+#system {mkdir -p logs}
 #log {append} {logs/$timestamp[1].log}
 #system {rm -f log}
 #system {ln -s logs/$timestamp[1].log log}

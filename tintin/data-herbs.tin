@@ -1,6 +1,6 @@
 #sub {A small plant grows here, with long, pointed leaves and flowers at its top} {%0 [Athelas, 35/900]}
 #sub {A dark green, foul-smelling shrub grows to about a foot in height} {%0 [Baneberries, loads: 5/4000]}
-#sub {A large shrub covered with dark violet berries grow here} {%0 [Belladonna, loads: 5/350]}
+#sub {A large shrub covered with dark violet berries grows here} {%0 [Belladonna, loads: 5/350]}
 #sub {A large thorny branched shrub is growing here} {%0 [Blackberries, loads: 4/12]}
 #sub {A shrub with maple-like leaves is growing here} {%0 [Blackcurrant, loads: 7/500]}
 #sub {A dense carpet of blue flowers dip their heads in the breeze} {%0 [Bluebells, 10/1, nosell]}
@@ -10,7 +10,7 @@
 #sub {A small flower grows here, with a purple bloom and wide leaves} {%0 [Cardamom, 10/900]}
 #sub {A large shrub grows here, its branches loosely spreading} {%0 [Cherries, loads: 10/10]}
 #sub {A bag of cinnamon lies here} {%0 [Cinnamon, 5/1275]}
-#sub {A small patch of clover grows here} {%0 [Clover, 2/60]}
+#sub {A small cluster of clover grows here} {%0 [Clover, 2/60]}
 #sub {Some small cloves are lying here} {%0 [Cloves, 2/500]}
 #sub {A tall, stately, dome-topped tree grows here} {%0 [Conker, loads: 30/4, nosell]}
 #sub {A sturdy plant grows to a height of almost a yard} {%0 [Comfrey, loads: 200/3600]}
@@ -56,3 +56,8 @@
 #sub {A long brown bean, emitting a pleasant scent, is here} {%0 [Vanilla, 2/2000]}
 #sub {A blooming water-lily floats on the surface of the water} {%0 [Water-lily, 10/150]}
 #sub {A detached white rose is lying here} {%0 [White rose, 2/50, nosell]}
+#sub {A patch of star-shaped moss covers the ground.} {%0 [__starshapedmoss, ?]}
+#sub {A patch of orange mushrooms springs from the ground here.} {%0 [__orangemushroom, ?]}
+#sub {An erect shrub with green pinnate leaves is growing here.} {%0 [__erectshrub, ?]}
+#sub {A tall shrub with strong-smelling foliage is growing here.} {%0 [elderberries, ?]}
+#sub {A sprawling green bush of stinging nettle grows here} {%0 [nettle, ?]}

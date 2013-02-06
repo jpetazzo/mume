@@ -20,7 +20,7 @@
   herblore: Drake-slumber poison
 -
   name: Belladonna 
-  description: A large shrub covered with dark violet berries grow here
+  description: A large shrub covered with dark violet berries grows here
   loads: some violet berries (5/350)
   location: BM area; Shire; Old Forest bonfire; NOC area
   herblore: Belladonna poison
@@ -72,7 +72,7 @@
   herblore: Seeing, Shadow
 -
   name: Clover
-  description: A small patch of clover grows here (2/60)
+  description: A small cluster of clover grows here (2/60)
   location: very common herb
   herblore: Travelling, Walking
 -
@@ -321,4 +321,7 @@
   name: elderberries
   description: A tall shrub with strong-smelling foliage is growing here.
   location: Fangorn
-
+-
+  name: nettle
+  description: A sprawling green bush of stinging nettle grows here
+  

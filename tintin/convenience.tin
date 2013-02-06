@@ -4,8 +4,6 @@
 
 #alias {craw} {get pan backpack; get salt backpack; cook raw; put pan backpack; put salt backpack; put meat backpack}
 
-#alias {xsh} {draw bow;shoot %0;draw sheath}
-
 #alias {tells} {#grep tells you}
 #action {^%w tells you '%*} {#variable reply %1;#tab %1}
 #alias re {tell $reply %0;#echo {Message sent to $reply.}}
@@ -48,15 +46,15 @@
 
 #highlight ZBLAM {light red}
 
-#NOP Lorien
-
 #highlight {^Orophin, %*$} {light blue}
 #highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
 #highlight {^Celebrindal, Lady of the Galadhrim, is before you%*$} {light blue}
 #highlight {^A dark-haired, grey-eyed elven lady is standing here, clad all in white.$} {light blue}
+#highlight {^A citizen-mercenary is here, waiting for a job.$} {light blue}
+#highlight {^A pair of tiny eyes gleam at you from the shadows.$} {light blue}
+#highlight {^An infusion of herbs gives out a nice scent.$} {light blue}
+#highlight {^The lonely giant sits on a stone and sings a mournful lay.$} {light blue}
 
-#nop highlight {%* of snow-white and palest green} {green}
-#nop highlight {Delicate golden blooms} {green}
 
 #alias {cp} {wield %1;crush %1;drawmyweapon}
 #action {^You have produced %* petals.$} {ph petals}
@@ -64,8 +62,6 @@
 #action {^You have produced a sticky mass of stems, leaves and sap.$} {ph stems}
 
 #alias {oxc} {open chest;examine chest}
-
-#highlight {^A citizen-mercenary is here, waiting for a job.$} {bold}
 
 #alias {lbow} {#echo {Switching to LONGBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw longbow;put bow backpack}
 #alias {sbow} {#echo {Switching to SHORTBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw shortbow;put bow backpack}
