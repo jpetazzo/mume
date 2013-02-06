@@ -7,9 +7,12 @@ alias x examine
 alias xp examine backpack
 alias xm examine moneybag
 
+alias evg eat vegetable
 alias dw drink water
-alias pw pour water skin
 alias ds drink skin
+alias df drink flagon
+alias pw pour water skin
+alias pwf pour water flagon
 
 alias gop get all.oil backpack
 alias pop put all.oil backpack
@@ -57,6 +60,8 @@ alias sx shoot x
 
 alias db draw bow
 alias dk draw eket
+alias bs draw broadsword
+alias ls draw longsword
 
 alias gas get all all.shrub
 alias rr reveal root
@@ -74,6 +79,9 @@ alias gpp get pipe backpack
 alias ppp put pipe backpack
 alias pwp put all.weed pipe
 alias gwp get all.weed pipe
+
+alias gsp get all.sack backpack
+alias psp put all.sack backpack
 
 alias armour cast 'armour'
 alias shield cast 'shield'
