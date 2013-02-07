@@ -49,6 +49,7 @@ Some thick writhing vines whip all around you.:
   keywords: vines
 A black wolf pads restlessly, looking for its next prey.:
   keywords: wolf
+  level: 7?
 A hungry-looking giant lizard is slithering towards you.:
   keywords: lizard
   level: 12
@@ -79,6 +80,7 @@ A Bounder is here safeguarding the Shire.:
 A Shirriff stands here, keeping a watchful eye on things.:
 A hobbit is here walking around.:
 A tall stag is here, grazing peacefully.:
+  level: 6-
 A huge, hungry-looking rat is here.:
 A bedraggled man stumbles as best he can across the terrain.:
 A boar cub is playing here, and exploring the wide world.:
@@ -350,6 +352,7 @@ A fierce wolverine is here, snarling at you.:
 A huge, black wolf is here, ready to devour.:
 A bear is here, covered with coarse black fur.:
 A large brown snake with black patches is coiled here.:
+  level: 9
 A small brown snake is slithering around here.:
 A singing, happy drunk is staggering about here.:
 An elven librarian is here taking care of all the books.:
@@ -441,6 +444,7 @@ A young brush-lion stalks the wilderness, searching for prey.:
 A hobbit shopkeeper stands here, eager to sell you his wares.:
 The lonely giant sits on a stone and sings a mournful lay.:
 A mass of wriggling vines drops on you from the trees.:
+  level: 11+
 A black spider crawls here, a shiny red spot visible on its belly.:
 An elven scout stands here, blending in with the background.:
 A golden spider rests on a tree-branch.:
@@ -448,3 +452,90 @@ An elven ropemaker is fiddling with some thread here.:
 A hungry warg stands here, sniffing around for flesh.:
 A rock lizard is here, motionless as it observes you.:
 An elven archer is here, honing his skills.:
+A large mother hawk is here looking for a prey to feed her young.:
+A cute young hawk is sitting here waiting for his mother to feed him.:
+A large hawk angrily rises from her nest and moves to attack.:
+A black and white cat is playing here.:
+A large warhorse is standing here, clad in mail.:
+  flags: mount
+A shade is here, shrouded in an inky blackness.:
+A wolf spider is here, among the trees.:
+The patch of weeds here shifts strangely in the breeze.:
+A big hummerhorn is here, flying around you.:
+A great black and silver wolf is standing here, at the head of the pack.:
+A black snake hurries towards you with sly intentions.:
+An experienced smuggler is here, conspiring with his cohorts.:
+Mrs. Brown is here, looking for her husband.:
+A cute little girl is here.:
+A white wolf is here.:
+A citizen-mercenary is here, waiting for a job.:
+A rather ragtag, dubious-looking man is standing here, trying to sell his wares.:
+  flags: shop
+A mercenary-guard is on sentry here.:
+A huge and awesome dealer in black leather is here.:
+A thief is waiting here to teach his art.:
+  flags: guild
+Tundur the lamplighter is walking around here with a lantern in his hand.:
+An old tailor is sitting here, working with a piece of fabric.:
+A wise old hobbit is here smoking a simple pipe.:
+A big, nasty vulture is sitting here, protecting its nest.:
+A steward of the Valar stands here, ready to assist you into a room.:
+A Dúnadan stands here, dressed in the garb of a woodsman.:
+A lonely goatherd stands here.:
+A goatherd's dog is here.:
+A huge statue made of stone suddenly turns to life.:
+A guardian stone beast is here, protecting the grave.:
+An elven navigator is on look-out here.:
+A small loyal dog is here.:
+A tall elven trapper is walking around here.:
+An old tanner is here, smoking his pipe in boredom.:
+A huge stag with a great span of antlers is warily browsing on the vegetation.:
+A disgusting forest troll is searching for fresh meat here.:
+A small leech is here, floating in the water.:
+A swarm of midges is here, humming around you.:
+A rabid rabbit is here, frothing at the mouth.:
+An ibex is watching you from afar.:
+A demon wolf lurks here, its dark form twisting and hiding its shape.:
+A tall woman in riding leathers is here.:
+A dwarf is here, bearing a grim and competent demeanour.:
+A wizened dwarf is busy at work.:
+A sturdy old dwarf wonders if you want something.:
+A young dwarf is here, attempting to look tough.:
+A Dunlending trapper is here searching for animals.:
+A buzzing dumbledor is here, flying around you in close circles.:
+A lamp-lighter is here, holding a big lantern in his hand.:
+A heron is stalking the area, looking for fish.:
+A wild mare is watching you warily.:
+A large wild horse is here, protecting his herd.:
+A young filly is just learning to walk.:
+A young colt is frolicking playfully.:
+A small black cricket is here, chirping loudly.:
+A black and white skunk is scuttling about here, searching for food.:
+A water moccasin slithers out of sight just below the surface of the water.:
+A black alder looms threateningly over its surroundings.:
+A field mouse noses about hungrily, searching for food.:
+A small boar with big yellow tusks looks eager to fight.:
+A wild dog bares his yellow fangs at you.:
+The elongated shape of a stoat can be seen darting across the terrain.:
+A mother eagle flies high above looking for prey.:
+A tall birch is here, watching over the landscape.:
+An angry bee is here, collecting nectar from all the flowers of the garden.:
+Rumil the Master Bard of Lothlórien is here smiling gently.:
+A great wolf with a sable coat glares around with red eyes.:
+A lurg leader, with markings of the Durghash tribe, stands here.:
+A pair of tiny eyes gleam at you from the shadows.:
+  warning: Packrat!
+A bulky cave troll is here, looking like a massive pile of stone.:
+A small bat flies silently from shadow to shadow.:
+A dripping yellow fungus hangs here, clinging to the crevices and walls.:
+A huge stone troll looms overhead, ready to crush your body.:
+An Uruk-moragog warrior glares around him, ready for enemies.:
+A lurg leader of the Uruk-moragog looks at you from a bloody helm.:
+A broad orc works here, burnt from the fire over which he stoops.:
+An orkish female is here, spitting and glaring at you.:
+A great dark-grey horse stamps restively.:
+  flags: mount
+An eerie spectyre hovers over a sarcophagus.:
+A great, black warg pads around, looking to rip something apart.:
+A huge water-drake is coiled here.:
+A huge troll, with skin as black as pitch, glowers at you.:

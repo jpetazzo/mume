@@ -1,29 +1,72 @@
+By what name do you wish to be known?
 Welcome to the land of Middle-earth. May your visit here be... interesting.
 Never forget! Try to role-play...
 Free rent.
 Your rent was *
-The innkeeper stores your stuff in the safe, and helps you to your retirement home.
+All your objects are now updated.
+You can unretire now.
+You can get a full reroll now by swimming in the pool.
+You can get a practice reset now.
+An elf guides * to an unused section of the pavilion, to rest for a while in privacy behind lightly coloured screens.
 * gives * an offer.
+You have enough money for *
+A steward stores your stuff in the safe and helps you into your chamber.
+Vubur the innkeeper stores your stuff in the safe, and helps you into your chamber.
+The innkeeper stores your stuff in the safe, and helps you into your chamber.
+The innkeeper stores your stuff in the safe, and helps you to your retirement home.
 * disappears into the void.
 * has returned.
+* has entered the game.
+You have been idle, and are pulled into a void.
 Reconnecting.
 Ok. Changed label *
+Exactly whom did you wish to give a label?
+Labels may only contain letters.
 Changed * colour.
+Spam mode on.
+Brief mode on.
+Brief mode off.
+No field by that name.
+Possible prompts: *
+Prompt set to *
+Your prompt will display twiddlers when you are busy.
+You have * aliases defined.
+Total kills: *
+You never killed anything like that.
+You are outside... where do you want to go?
 
 Account pass phrase: OK.
 That name is already in use, please try another.
 New character * created *
 Please select your base abilities.
 Str:*
+Reference abilities: *
 
+Consider whom or what?
+You ARE mad!
+Are you mad!?
+Do you feel lucky, punk?
+You would need a lot of luck and great equipment!
+You would need a lot of luck!
+You would need some luck!
+The perfect match!
 Fairly easy.
 Easy.
+You could do it with a needle!
+The next blow might be deadly.
 
+Arglebargle, glop-glyf!?!
 Ok.
 Nothing.
-You don't have anything.
+None.
 You can't do that.
 You do not see anything like that.
+You can't do that here.
+Sorry, but you cannot do that here!
+You cannot go that way...
+You are too exhausted to ride.
+
+You feel confused and move along randomly...
 
 It is pitch black...
 You are in a forest.
@@ -35,11 +78,14 @@ You light something.
 You are on a hill.
 You are in a field, following a trail.
 You are inside.
+Something.
 Someone is here.
 You are in water.
+It is raining.
 You are in a field.
 You are in a flat area.
 You can't find anything.
+You cannot see much in this light.
 
 Real time is *
 Last reboot due to *
@@ -50,19 +96,36 @@ It must be the middle of the night.
 It should be the end of the night soon.
 You can see a New Moon in the eastern part of the sky.
 You can see a Quarter Moon in the eastern part of the sky.
+Daylight is shining outside.
 
-You will swim if necessary.
+The ascent ahead seems quite easy to climb, while falling down might bruise you slightly.
+If you still want to try, you must 'climb' there.
+You can't go into deep water!
 You will try to climb even under unsafe conditions.
+You will swim if necessary.
+You are trying to sneak.
+You are now under water, slowly using up your oxygen.
+You swim and manage to keep your head above water.
+Fresh air still fills your lungs, so being submerged is no problem.
+You failed swimming there.
+You happily inhale the lovely oxygen in the air.
 You begin to feel hungry.
 You are hungry.
 You are full.
+You are too full to eat more!
 You begin to feel thirsty.
 You are thirsty.
 You feel less thirsty.
 You do not feel thirsty anymore.
 You are not thirsty anymore.
+Your stomach can't contain anymore!
 You feel bolder.
+You feel stealthy again.
+You stop sneaking.
+Ok, from now you'll try to swim.
+Ok, you'll try to move silently for a while.
 
+You sit down.
 You sit down and rest your tired bones.
 You stop resting, and stand up.
 You are already standing.
@@ -81,7 +144,11 @@ You wake, and sit up on the bed.
 * lies down and falls asleep.
 * clambers on her feet.
 * clambers on his feet.
+* can't hear you.
 
+You start mending *
+You feel that a sharp edge is beginning to form on *
+You can feel the progress with *
 * starts mending *
 * will soon have made * as good as new.
 * is really showing some progress with *
@@ -109,21 +176,37 @@ You don't see anything special there...
 No one here by that name.
 No-one by that name here...
 They aren't here.
-You don't have that.
+You don't have *
 You can't carry that.
+It is too heavy for you to move.
+You are not holding that.
+You cannot hide *
 There is nothing like this here.
 There is no such thing for sale.
 There are no such things for sale.
+* doesn't seem to be able to carry anything else.
 Wielding something to shoot with might help...
 Nothing seems to happen.
 You didn't find anyone.
 
-You are now under water, slowly using up your oxygen.
-You swim and manage to keep your head above water.
-Fresh air still fills your lungs, so being submerged is no problem.
-You failed swimming there.
-You happily inhale the lovely oxygen in the air.
-
+A round tangle with waxy leaves and white berries grows on a branch nearby.
+A faint buzzing emanates from under the fallen leaves.
+A glimmering span of elven rope aids your ascent to the talan.
+Jumping lightly, you land on one of the smaller flets in the branches of another mallorn tree.
+Constantly hanging onto some branches, you walk on some others toward an adjacent flet.
+Stepping carefully onto the sturdiest branches, you walk to a smaller flet in an adjacent tree.
+Jumping high, you land on another flet in the branches of a neighbouring tree.
+The rapid slide down the smooth expanse of the elven rope leaves you with a pleasant vertigo.
+As you pass, the feeling of enchantment fades from around you and the colours pale.
+The rocky terrain makes travelling difficult.
+The slope is rocky, and very difficult to climb.
+Going down the ladder takes you into a dark cellar.
+As you pass between the tall mellyrn, you find yourself in a small and tranquil glade.
+Leaving the vineyard, you descend a small stair.
+As you walk down the stair through the thick hedge, you enter Galadriel's Garden.
+Through a narrow passage in the hedge, up a few steps you leave the enchanted garden.
+Leaving the vineyard, you descend a small stair.
+Climbing the ladder takes you up into the ruins.
 The steep hillside quickly drains your energy.
 Man-high thorny bushes shift behind you as you enter the small valley.
 Moving up the slope is really hard.
@@ -133,6 +216,8 @@ You carefully climb up the tree, using its branches for support.
 Straight like an arrow, the white stair leads up the slope.
 Your mount cautiously descends the slippery slope.
 You swiftly scale the ladder.
+You climb up the tree.
+A splash is heard, followed by a light spray of water.
 You climb down the white ladder.
 As you walk down the stairs, the sound of the fountain slowly fades.
 Following the spiralling stair, you slowly descend to the top of the great hill.
@@ -146,6 +231,9 @@ A white stair takes you higher up on the slope.
 A soft breeze intensifies the fragrance of flowers in the room.
 The mallorn trees whisper a gentle greeting as Anarwen enters the shrine.
 Scaling the stairs you arrive on a higher level of the hill.
+Smooth polished stairs run down the slope to ease your descent.
+As you climb the ladder, faint melodies swirl around you.
+As you descend the ladder, soft notes echo among the branches.
 Climbing out of the deep fosse is somewhat tiring.
 As you climb down the deep fosse, you are immersed in grey shadows.
 As you climb down into the deep fosse, you are immersed in grey shadows.
@@ -155,11 +243,25 @@ A feeling of peace envelops you as you enter the enchanted forest.
 A mass of dark green leaves clings to a wall.
 Taking a pitcher from behind a shrub, Anarwen waters the flowers.
 The flowers seem to nod their heads.
+Passing through some brush and mist, you emerge onto a path.
+After struggling valiantly through the underbrush, you emerge, disoriented, on the other side.
+The clear-shaped white honeycombs quickly turn into a yellow mash.
+Gradually, a white substance rises to the top of the pan.
 Faint voices can be heard from across the bridge.
+You ascend the stairs into the lower reaches of the great mallorn tree.
+You climb the ladder.
+You swiftly move down the ladder.
+You walk across the narrow rope bridge between the flets.
+You climb down the tree.
+You climb the wooden ladder.
+You swiftly climb down the ladder.
+Descending the marble steps you reach the winding path again.
 You hear a loud horn, signalling the oncoming departure of the ship.
 You hear a loud horn, signalling the arrival of a ship.
 You hear a loud horn, signalling the immediate departure of a ship.
-The coach to * rolls noisily *wards.
+Gildor the blacksmith holds bits of scrap metal over an open flame to melt them down.
+When the metal is completely liquefied, Gildor the blacksmith pours it into a mould.
+The coach * rolls noisily *wards.
 The coach to * is here.
 
 As Ecthelion pumps some air into the forge, the fire flares up brightly.
@@ -169,14 +271,52 @@ Ecthelion wipes his brow.
 
 The evil power begins to regress...
 Arda seems to wither as an evil power begins to grow...
+Shrouds of dark clouds roll in above you, blotting out the skies.
 
 The sun rises, colouring the forest realm golden green.
+The sun rises over the Weather Hills to the east.
+The day has begun.
+The night has begun.
 The rays of the morning sun paint the fields with gold.
 A light rain begins to fall upon the ground.
 Rain is soaking the streets.
 Flares of lightning stretch across the sky over the hills.
 A light rain is falling upon the hillsides.
+The sun slowly rises over the rooftops in the east.
+A light snow begins to fall upon the ground.
+The gloom clears as the sun rises in the east to open the day.
+The moon falls out of sight in the west.
+As Anar rises above the eastern horizon, the sky is lit by a fiery glow.
+The first golden rays break the darkness as the sun rises from behind the Tower Hills.
+The pale moon rises slowly above the Anduin Vale.
+A flare of lightning branches out into several small streaks above the mountains.
+The long shadows slowly lengthen as the sun dips below the horizon.
+The red-rimmed shadow of Hithaeglir creeps over the land, setting it on fire.
+Dainty and insubstantial, the Moon rises above the land.
+It suddenly starts to rain.
+The last rays of the sun create long shadows in the forest.
+The sun quickly disappears beyond the Misty Mountains.
+The moon begins its journey across the sky.
+Darkness lifts, as first sunrays turn morning dew into sparkling gems.
+The moon rises, and starts its journey across the sky.
+As the sun sets, the last gleaming rays peek over the Blue Mountains.
+Rays of sunshine pierce the darkness as the sun begins its gradual ascent to the middle of the sky.
+The moon disappears in the west.
+The last rays of the sun slowly recede to the west.
+Sunlight streaks across the landscape.
+The sun sets over the Great Western Ocean.
+The moon begins to show above the Tower Hills.
+The moon gently fades away as it slides below the horizon.
+Through the tree-branches, clouds can be seen collecting in the sky.
+Rain is dripping off the roofs of the nearby buildings.
+Rain begins to drop softly upon the hills.
+Scattered clouds appear in the sky above the roofs.
+The sun rises in the east.
+The last rays of the moon disappear as it sinks into the sea of whispering leaves.
+Setting in the west, the fires of Anar create a faint golden glow among the clouds.
 Faint light trickles its way through the clouds outside, proclaiming a sunrise.
+Snowflakes fall slowly from the sky, covering the branches and the forest ground.
+Long, thin clouds are gathering in the sky across the plain.
 Dark clouds in the sky light up, as lightning strikes from within.
 The rain suddenly stops.
 The last few raindrops dance briefly over the surface of the puddles, and the rain stops.
@@ -185,6 +325,7 @@ Heavy rain is falling from the sky, and the flat ground is covered in puddles.
 Flares of lightning stretch across the sky above the roofs, then quickly disappear.
 Rain is falling over the streets, and thunder can be heard over the roofs.
 Flares of lightning stretch out from beneath dark clouds in the sky above the plain.
+You hear loud thunder.
 You hear a crackle of thunder in the distance from *
 Wisps of clouds begin to form slowly over the tree-tops.
 Low clouds appear above the hills in the sky.
@@ -209,7 +350,6 @@ The moon quietly disappears behind the snow-topped peaks of the Blue Mountains.
 The snow suddenly stops.
 The stars appear one by one as the sun sets behind the Blue Mountains.
 It starts to rain.
-Snowflakes fall slowly from the sky, covering the branches and the forest ground.Exits/emulated: north, east.
 The water is frozen solid.
 The fog disappears.
 It starts to snow.
@@ -233,6 +373,7 @@ You see some smoke *
 
 Some * noise can be heard from *
 You hear some * noise from *
+You hear the sounds of battle *
 
 The crystal orb shines here providing a bright beacon for approaching ships.
 A finely crafted crystal lamp is hanging from a tree branch.
@@ -243,6 +384,7 @@ A white-painted bench is here.
 
 You dismount, and coax your mount to follow you.
 The ferry is docked here, ready to be boarded.
+The ferry has arrived at the quay and you can now board.
 You board the ferry.
 * boards the ferry.
 * steps on board.
@@ -252,19 +394,24 @@ You board the ferry.
 The opposite shore is fast approaching.
 You have reached the opposite shore. * puts down the pole.
 You grab a long pole and push the ferry into the river.
+You grab a rope and pull the ferry across the river.
 You slowly push the ferry further into the river, using the pole.
 The ferry has reached the opposite shore. You put down the pole.
+A horn sounds, and the ferry moves off on the vast expanse of water.
 You leave the ferry.
 A ferry in the shape of a great white swan is here.
 The ferry is not here now.
 You peer across the water, but cannot locate an unoccupied ferry.
 The ferry has arrived.
+A grey ship is moored here.
 
 A sturdy bed made from solid oak lies here, covered in warm blankets.
 A fine marble chessboard with ivory and ebony pieces is set here.
 A mailbox stands here stuffed full of messages.
 A sturdy target for arrows, made out of thatch, stands here.
 A large bulletin board, entitled *
+A very old sign has been placed at the entrance of the eastern corridor.
+A large sign is posted upon the wall for you to read.
 A Warning Sign for new players is here.
 A traffic sign is here, giving directions.
 A sign reading, Building Permit Information, is here.
@@ -275,8 +422,14 @@ Spam mode off.
 You need to specify a subject for your report.
 
 A clear spring babbles as cool water trickles out of the ground.
+A small pool of red-stained water lies here.
+A shallow pond is here, tinted green with algae.
 The large Well of Ossë is here, full of sparkling clear water.
 The large Well of Oss* is here, full of sparkling clear water.
+A black pond of water is here.
+A pool with many big pieces of ice floating in it is here.
+The babbling of a small brook gently washes through the room.
+A small white fountain is here.
 A well-crafted white fountain is here, water pouring forth from it.
 A large fountain, made from grey stone, pours water from its centre.
 A circular stone well has been built here.
@@ -298,9 +451,13 @@ A sturdy peg for hanging armour from is on the wall.
 A small oaken table has been set here.
 A neat straw pallet is lying here.
 A great stone table has been set here.
+A tall pine tree grows here.
+A large yellow apple lies here.
 A large encrusted cedar chest is standing here.
 A noticeable crack runs down one of the walls.
 A stone sarcophagus lies on the floor.
+A nest is here.
+There is a huge, pyramidal beehive here.
 A simple wooden chest is here.
 A dark stone chest sits on the ground.
 A large cabinet capable of storing goods is here.
@@ -325,37 +482,59 @@ You can't find any*
 You can't take the *
 On the tree's branches *
 
-You stop scouting.
-
 You are trapped by some roots.
 * is entangled by some roots.
 
+Cast what which where?
 You start to concentrate...
+You feel a strange power surrounding you.
+The ground seems to absorb your spell!
 Aye! You cannot concentrate any more...
 You muster all of your concentration...
 Your spell backfired! You feel drained.
+* spell backfires, and * squeals in surprise!
 You have a sudden lapse of memory... Your spell backfired! You feel drained.
 You mispronounced the magical words... Your spell backfired! You feel exhausted.
 You were not able to keep your concentration while moving.
 You can't concentrate enough while resting.
+Your victim has disappeared!
 Nothing happens.
 You feel stronger.
 You feel weaker.
+You are surrounded by a misty shroud.
+You feel yourself exposed.
 You begin to feel the light of Aman shine upon you.
 The light of Aman fades away from you.
 A strange feeling runs through your body.
 Your scratches and bruises disappear.
 A magic mushroom suddenly appears.
+* magically creates a mushroom.
 * trembles as the poison runs through his veins.
 * trembles as the poison runs through her veins.
+You feel very cold, strange...
+
+You failed. You exhausted yourself trying to change your shape.
+Your vision gets troubled a while...
+When you come back into reality, you find yourself like a new-born babe.
+You return to your original body.
+You can only transform into a Horse or an Eagle.
 
 You must have been sent to Arda to free it from the sorrows that weigh upon it.
 You are a firm believer in the values of Right and Wrong.
 You are a well-meaning person, always glad to help your friends.
 
+You have failed the Istari Quest.
+
 You are not known for any acts of war.
 
+You may complain, or surrender, at the mayor's office.
+A secretary looks at you piercingly, as if to discern your darkest secrets.
+King Thorin II eyes you piercingly.
+
+* starts exercising...
+* makes some strange movements.
 You start refreshing all of your skills...
+None of your skills needed refreshing.
 No more skills need refreshing.
 An elf guides you to an unused section of the pavilion, where you can rest for a while in privacy behind lightly coloured screens.
 
@@ -366,14 +545,22 @@ Exits/*
 ACK! *
 * is now a group member.
 You are now a member of * group.
+You transfer group leadership to *
+Group disbanded.
+* has been kicked out of the group!
+You will not follow anyone else now.
 You now follow *
 You follow *
 You stop following *
 * stops following *
 * now follows *
+* is already following you!
+Abandon what?
 You are already riding.
 You stop riding *
 You quietly scout *
+You stop scouting.
+Scouting *wards is too difficult.
 * quietly scouts *
 * stops scouting *
 You see some fog coming from the *
@@ -400,14 +587,14 @@ You stop using *
 You hold a *
 You start crushing *
 You have produced *
-You don't have a *
 You don't see *
 * drinks water from *
 * drinks some water.
 You fill * with some *
 * sells *
 
-* is a *male Dwarf.
+* is a*male Dwarf.
+* is a*male Elf.
 You are a male *
 You are a female *
 You have played *
@@ -437,9 +624,13 @@ You see nothing special about *
 * has some small bruises.
 * has several bruises.
 * has some big nasty scratches.
+* is in very bad shape.
+* looks pretty hurt.
 
 * is an Elf*
+* is a Dwarf.
 * is a level *
+Is playing.
 Is playing from *
 Last login * ago from *
 Last login * ago.
@@ -447,12 +638,17 @@ Last login * ago.
 * starts cleaning up his shop.
 * removes some junk from his inventory.
 * rearranges his inventory.
+* prepares to open his shop.
 * opens his shop.
 * closes his shop.
 The white stag *
+A black raven squawks *
 Anarwen *
 Aldereon *
+The tanner *
+An elven trapper is done talking.
 Nordri the shopkeeper *
+An elven beekeeper *
 A young smith *
 The elven cook *
 An elven innkeeper *
@@ -463,18 +659,33 @@ The guild is closed. *
 You mentally recite the *
 You refresh your training in *
 You will not train in this skill anymore.
-You have enough money for *
-The innkeeper stores your stuff in the safe, and helps you into your chamber.
+You will try to improve your *
+You are going to neglect your *
 
 * panics, and attempts to flee.
 * panics, but can't stop fighting to flee.
+You flee *
+Who do you want to assist?
+You're already fighting!
+That really HURT!
+You will attempt to flee!
+PANIC! You couldn't escape!
+PANIC! You can't quit the fight!
+No way! You are fighting for your life!
 * joins your fight.
 You are too afraid.
 Your opponent won't stop this fight just like that.
 You assist *
 * joins *'s fight.
+You will now try to protect *
+You fail the rescue.
+Heroically you come to * rescue!
+* intercepts * blow.
+* heroically rescues *
 * nocks a missile in *
+Shoot whom?
 SNAP! Your string breaks! You bend a new one...
+An ash arrow breaks.
 An arrow breaks.
 A war arrow breaks.
 * begins some strange incantations...
@@ -482,6 +693,7 @@ A war arrow breaks.
 * seems to have recovered her senses.
 * seems to have recovered its senses.
 * bleeds from open wounds.
+* is shaken with spasm as the venom enters his body!
 * death cry as it collapses.
 * death cry as he collapses.
 * death cry as she collapses.
@@ -492,26 +704,32 @@ You hear a death cry from *
 * is stunned and will probably die soon.
 * is dead! R.I.P.
 You need a pouch and a slingstone in it.
+You need a quiver and an arrow in it.
 You search the surroundings for your *
 You recover * and put * in your *
 You recovered no *
 * begins searching the surroundings.
 * stops searching.
 You receive your share of experience.
-It begins to be automatic...
+Congratulations! This is the first time you've killed it!
+Good job!
 Yes! You're beginning to get the idea.
+It begins to be automatic...
 
 You are incapacitated and will slowly die, if not aided.
 You are dead! Sorry...
+Ouch! You lose a level!
 Now you feel strong enough to return to Arda.
 You kneel down and try to hear the Ainulindalë.
 You kneel down and try to hear the Ainulindal*
 In response to your request strange harmonies come from nowhere...
 Listening to them, you have the strange sensation to fade away...
-
+Suddenly an explosion of ancient rhymes makes the space collapse around you!
+You blink, you vanish! *
 
 You try to bind your wounds.
 You try to bind your wound but only make it worse.
+You are not skilled enough to treat this wound any better.
 Your wound is now bound up.
 Your wound is now poorly bound.
 * starts tending * wounds.
@@ -545,16 +763,26 @@ Your wound is now poorly bound.
 * reins, and start riding him.
 * mounts on *, and begins riding him.
 * dismounts from *, and stops riding him.
+* is forced to dismount too.
 *'s mount refuses to continue.
+Lead what?
+What do you want to ride?
+Your mount refuses to follow your orders!
+You can't do that while someone is riding him.
 * reins, and starts riding him.
 * starts following you.
 * stops following you.
 * ridden by you.
 * makes a discreet gesture, pointing at a * hiding place.
 * tries to sneak behind *
+* catches * by surprise.
+You feel a hidden presence.
+You see * sneaking into a hiding place.
+You have revealed *
 
 You do not seem to be able to practice now.
 You need to be more experienced before practicing this skill further.
+You have to stand in order to practice anything.
 * practice sessions left.
 * practice session left.
 * to reach the next level.
@@ -562,6 +790,7 @@ You need to be more experienced before practicing this skill further.
 
 * has been left here.
 You open a moneybag, carefully trying not to spill its contents.
+Absolutely nothing!
 * coins in a moneybag.
 * busc penny.
 * busc pennies.
@@ -580,19 +809,30 @@ It seems to be locked.
 You can't seem to spot any lock to pick.
 There does not seem to be any keyhole.
 Using your lockpicks, you try to pick the lock...
+You begin to try to pick the lock...
+* is already trying to pick the lock...
 The lock finally yields to your skill.
+You seem to be unable to pick this lock.
+But it's already open!
+It's already open!
+* unlocks the *
+* locks the *
+* tries to bash *
 * seems to be closed.
 * seem to be closed.
+* lid slams shut.
 * closes quietly.
 * close quietly.
 * opens quietly.
 * open quietly.
-Using * lockpicks, * tries to pick the * lock...
+* tries to pick the * lock...
 * skilfully picks the lock of the *
 * opens the *
 * closes the *
 * fiddles with a wooden chest.
 * opens a wooden chest.
+It is closed.
+
 
 You knock on it.
 Soundlessly, the gates swing *
@@ -600,8 +840,20 @@ The gate magically opens for *
 You call for the * to be opened.
 * looks you and your group over.
 * calls for the * to be opened.
+You call out, trying to gain passage to an unseen entrance.
+You have the uneasy impression that a pair of unseen eyes are scrutinising you.
 You hear a *click* in a lock.
 The * is opened from the other side.
+A small peephole is uncovered in the door and a pair of eyes peers out at you.
+
+With a grinding noise, *
+With effort, * the big lever.
+You hear an ominous *click* as one of the floor tiles descends by an inch.
+* starts looking for a way out.
+You start looking for a way out.
+Somewhere deep in the rock, heavy wheels are turning.
+You find a hidden pressure plate and push it.
+
 
 * is standing here, ridden by *
 * leaves west riding *
@@ -627,6 +879,7 @@ You put * in a*
 You get * from a*
 You can't find a *
 * is no container.
+It is empty.
 You can't take *
 You have no *
 That would be an interesting topological experiment.
@@ -635,7 +888,7 @@ You make * drop his belongings.
 * is now empty.
 You pour some * into *
 * pours some * into *
-* gets * from a *
+* gets * from a*
 * gets * from the corpse of *
 * puts * in a*
 * drops a *
@@ -644,20 +897,30 @@ You pour some * into *
 You light a* lantern.
 * lights a* lantern.
 * snuffs a* lantern.
+Your light has gone out.
+Your light is becoming faint...
 The light of * is becoming faint...
 The light of * has gone out.
 * completely fills a lantern with oil.
+You need oil to fill *
+You completely fill a lantern with oil.
+You completely fill a lantern with oil, emptying a dark coloured flask.
+You pour all your remaining oil into *
 There is enough oil for *
+It's about half full of a black liquid.
+There is no oil left.
+It's more than half full of a black liquid.
 The lamp-lighter lights a street-lamp.
+An elven lamplighter snuffs a street-lamp.
 
+Wield what?
+But you are already wielding it!
 You need two hands free to wield that.
 You are too weak to use this sword effectively.
-You * wield *, ready to protect the weak.
-You * draw *, ready to protect the weak.
-You * draw *, prepared for battle.
-You * wield *, prepared for battle.
-You * draw *, prepared to cleave your enemies.
-You * wield *, prepared to cleave your enemies.
+You *, ready to protect the weak.
+You *, prepared for battle.
+You *, ready to defend yourself.
+You *, prepared to cleave your enemies.
 You sheathe * into *
 You protect your head with *
 You wear * on your *
@@ -676,13 +939,18 @@ You are already holding too much.
 You can't get *, you are carrying too many items already.
 You can't carry that many items.
 You are not wearing any belt.
+But you have no sheath!
+* seems to be too small for you.
 * seems to be too large for you.
 * seems to be the wrong size for you.
+It fits you well.
 
 * awkwardly draws *
 * confidently draws *
 * decisively draws *
+* skilfully draws *
 * masterfully draws *
+* swiftly draws * from across * back.
 * stops using *
 * protects * head with *
 * wears * on * hands.
@@ -692,6 +960,7 @@ You are not wearing any belt.
 * puts * around * wrist.
 * wears * about * waist.
 * puts * feet in *
+* puts * finger with delicacy.
 * binds * on * arm.
 * puts * on * belt.
 * hangs * across * back.
@@ -719,7 +988,11 @@ The current time is *
 
 You agree with *
 You sink deep into your heart, trying to forgive yourself.
+You beckon for * to follow you.
+You flutter your eyelashes coquettishly at *
+You bow before *
 You burp loudly.
+You burp loudly and curl your furry feet in joy.
 You chuckle politely.
 You giggle.
 You giggle at your own silliness.
@@ -727,25 +1000,38 @@ You hop around on the back of your mount.
 You hug him.
 You hug her.
 You hum a little tune, looking up absent-mindedly.
+You kiss *
 You nod solemnly.
 You nod in agreement with *
 You peer closely at *
+You ponder life, the universe, and everything.
 You raise your hand.
 You sigh.
 You shrug indifferently.
 You smile happily.
+You smile at *
+You smirk.
+You thank *
 You tip your hat.
+You wave.
+You whistle appreciatively.
 You wiggle your bottom.
 * beckons for everyone to follow her.
 * beckons for everyone to follow him.
 * bows before you.
 * shows his approval by clapping his hands together.
 * shows her approval by clapping her hands together.
+* curtseys to you.
+* dances around with *
 * gasps in astonishment.
 * giggles.
 * hugs *
 * starts moaning.
 * nods solemnly.
+* pokes * in the ribs.
+* ponders life, the universe, and everything.
+* raises * hand.
+* shakes * head.
 * shrugs indifferently.
 * sighs loudly.
 * smiles happily.
@@ -753,6 +1039,7 @@ You wiggle your bottom.
 * sniffs sadly.
 * snores loudly.
 * thanks you heartily.
+* tickles you - hee hee hee.
 * tips his hat.
 * tips her hat.
 * thinks till it hurts.
@@ -764,18 +1051,23 @@ You wiggle your bottom.
 * the Woman*, wielding *, is *ing here*.
 * the Man*, wielding *, is *ing here*.
 
+Rumil the Master Bard of Lothl*rien is here smiling gently.
 Galadriel the Lady of L*rien is standing here.
 A D*nadan soldier is here busily performing his duties.
 An experienced D*nadan officer is standing here, keeping things under control.
 Huor of Dor-l*min is standing here, ready to teach his arts.
 A D*nadan ranger is crouched over the fire, cooking a meal.
+A D*nadan stands here, dressed in the garb of a woodsman.
 
+Tie the rope to what?
 You wrap one end of the sturdy rope around the tree and tie a secure knot.
 You carefully toss the sturdy rope up towards the stump on the other side.
 The rope lands close but does not quite seem to catch the stump.
 The rope successfully catches the stump and seems secure.
 A rope is already tied to the tree, and it extends across the river.
 Your arms strain as you carefully move hand over hand across the rope.
+
+A citizen mercenary taps you on the shoulder.
 
 Little parts of a broken weapon are lying on the ground.
 A tunic, made from the finest material, lies here.
@@ -785,9 +1077,13 @@ A pair of soft, sequinned slippers lies here.
 A small mushroom grows nearby.
 Some plump juicy grapes are growing here.
 A map has been dropped here.
+An aged and fine bottle of wine stands here.
+A moneybag made of rough leather is lying here.
+A small flask has been left here on the ground.
 A large bundle of pale yellow fur is here.
 A fragrant smelling bag is lying here.
 A wooden longbow is lying here.
+A hefty stone club is on the ground.
 A greyish-black pelt lies here.
 A thick, rigid leather breastplate is on the ground.
 A pair of rigid leather sleeves are lying here.
@@ -795,6 +1091,7 @@ A wooden club is on the ground.
 A woodman's axe lies here.
 An arrow made from a grey wood lies here.
 A large piece of fresh, raw venison lies here.
+A small bit of raw lion meat is lying on the ground.
 A piece of raw venison is on the ground.
 A large potato is growing here.
 A carrot is lying here.
@@ -805,11 +1102,22 @@ A skeleton of some humanoid lies in the dust.
 A large, orange pumpkin is here.
 An old piece of paper lies on the ground.
 A large piece of fresh, raw bear meat lies here.
+A plain leather belt is lying here.
+A rather heavy clay jar stands here.
+A grey wolf fur is here lying on the ground.
 An arrow lies on the ground.
 There is a red, delicious-looking apple here.
 A dirty shovel is lying on the ground here.
+A pair of rigid leather boots are on the ground.
+A silver-tipped arrow lies on the ground.
+A spotted pair of pants are on the ground.
+A rigid leather breastplate is on the ground.
+A longsword is on the ground.
+A map of Fornost lies here.
+A silvery-green leaf lies here, faint markings drawn on one of the sides.
 An iron pick has been dropped here.
 A large toadstool grows nearby.
+A dagger lies on the ground.
 A leather helmet lies here.
 A large wooden full shield is on the ground.
 A cutlass is on the ground.
@@ -818,6 +1126,7 @@ An old-looking ring, covered with runes, lies here.
 A cup has been set here.
 A sticky honeycomb lies on the ground.
 A pair of soft leather sleeves is here.
+A large arrow lies on the ground.
 A rusty pickaxe with a broken handle lies discarded here.
 A silver wedding ring lies here.
 Some cereals that look like wheat are lying here.
@@ -831,22 +1140,32 @@ A little stone lies on the ground.
 A large round whetstone rests on the ground.
 A coil of rope is lying here.
 A small barrel made of aged oak and strong iron hoops stands here.
+A reinforced leather helmet lies here.
 A light leather sling lies in the dust.
 A dented pail has been carelessly left here.
 A chunk of salt is here.
 A dark green cabbage is here.
 A golden, firm onion is here.
+The rib-bone of an animated skeleton lies here.
 A bulb of garlic with green stems is here.
 A cluster of white star-shaped forget-me-nots flourish here in reminiscence.
 A half-rotten corpse is hanging here.
 A pair of rigid leather sleeves lies here.
+A large piece of cheese has been placed here.
+A plain pair of pants are on the ground.
+A pitchfork has been carelessly left lying here.
+A chequered shirt lies here.
 A pair of soft leather boots are on the ground.
 
 You see * on the ground.
 On the ground, there are *
 There are * here.
+Whom do you want to give something?
+* seems to have his hands full.
+* seems to have her hands full.
 * gives * to *
 * gives you *
+* has arrived.
 
 * opens a sealed letter and reads it intently.
 * starts writing a reply.

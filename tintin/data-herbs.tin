@@ -49,7 +49,7 @@
 #sub {A cluster of white star-shaped forget-me-nots fluorish here in reminiscence} {%0 [Simbelmyne, 50/100, nosell]}
 #sub {Some delicious wild strawberries grow on the ground} {%0 [Strawberries, 20/10]}
 #sub {A small evergreen plant grows here, its woody stems reaching two feet} {%0 [Tarragon (Estragon), 20/450]}
-#sub {Prickly, white-stemned plants, with blue flower heads grow in abundance} {%0 [Thistles, 10/1, nosell]}
+#sub {Prickly, white-stemmed plants, with blue flower heads grow in abundance} {%0 [Thistles, 10/1, nosell]}
 #sub {A low, many-branched shrub covers the ground here} {%0 [Thyme, 125/400]}
 #sub {A small tincture of oil has been placed on the ground} {%0 [Tincture of oil, 185/1000]}
 #sub {A flowering plant grows here, its fern-like foliage dancing in the breeze} {%0 [Valerian, 230/1200]}
@@ -60,4 +60,5 @@
 #sub {A patch of orange mushrooms springs from the ground here.} {%0 [__orangemushroom, ?]}
 #sub {An erect shrub with green pinnate leaves is growing here.} {%0 [__erectshrub, ?]}
 #sub {A tall shrub with strong-smelling foliage is growing here.} {%0 [elderberries, ?]}
-#sub {A sprawling green bush of stinging nettle grows here} {%0 [nettle, ?]}
+#sub {A sprawling green bush of stinging nettle grows here.} {%0 [nettle, ?]}
+#sub {A tall silvery plant grows here, surrounded by mist.} {%0 [mistyplant, ?]}

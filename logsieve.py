@@ -44,12 +44,14 @@ def match_combat_line(line):
         if ' fails to '+verb[0]+' ' in line:
             return True
     other_verbs = [
-        'burns', 'sinks its fangs into', 'avoids being bashed by',
-        'sprawling with a powerful', 'tries a kick at',
-        'who deftly avoids the',
+        ' burns ', ' sinks its fangs into ', ' avoids being bashed by ',
+        ' sprawling with a powerful bash.', ' tries a kick at ',
+        ' who deftly avoids the ', ' is corroded by a splash of acid.',
+        ' howls in pain as the claws of ', ' with its poisonous fangs.',
+        ' bites ', 'throws a glowing magical missile at ',
         ]
     for verb in other_verbs:
-        if ' '+verb+' ' in line:
+        if verb in line:
             return True
     # Keep at bay failed: TARGET tries to keep ATTACKER at bay, but fails.
     if ' tries to keep ' in line and ' at bay, but fails.' in line:
@@ -77,14 +79,17 @@ for line in open('data/lines.txt'):
         continue
     ignore_lines.add(line)
 
+ignore_regexes = set(re.escape(g).replace(r'\*','.*') for g in ignore_globs)
+ignore_compiled = set(re.compile(r) for r in ignore_regexes)
+
 for line in sys.stdin:
     if line[0] not in string.uppercase:
         continue
     line = line.rstrip()
-    if line[-1] != '.':
+    if line[-1] not in '.?!':
         continue
     if ' (' in line and ')' in line:
-        line = re.sub(r' \([a-z]+\)','',line)
+        line = re.sub(r' \([A-Za-z]+\)','',line)
     if line in ignore_lines:
         continue
     if any(line.startswith(prefix) for prefix in ignore_prefixes):
@@ -93,7 +98,11 @@ for line in sys.stdin:
         continue
     if any(factor in line for factor in ignore_factors):
         continue
-    if any(fnmatch.fnmatch(line, glob) for glob in ignore_globs):
+    #if any(fnmatch.fnmatch(line, glob) for glob in ignore_globs):
+    #    continue
+    #if any(re.match(regex, line) for regex in ignore_regexes):
+    #    continue
+    if any(regex.match(line) for regex in ignore_compiled):
         continue
     if match_combat_line(line):
         continue

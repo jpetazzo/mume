@@ -271,7 +271,7 @@
   herblore: Travelling, Orkish draught
 -
   name: Thistles
-  description: Prickly, white-stemned plants, with blue flower heads grow in abundance (10/1, nosell)
+  description: Prickly, white-stemmed plants, with blue flower heads grow in abundance (10/1, nosell)
   location: Eregion; Dunland; Lothlorien
 -
   name: Thyme
@@ -323,5 +323,8 @@
   location: Fangorn
 -
   name: nettle
-  description: A sprawling green bush of stinging nettle grows here
+  description: A sprawling green bush of stinging nettle grows here.
+-
+  name: mistyplant
+  description: A tall silvery plant grows here, surrounded by mist.
   
