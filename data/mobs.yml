@@ -35,18 +35,21 @@ A robin is here, carrying small pieces of wood to its nest.:
 A huge grizzly bear is here, roaming the wild.:
   level: 15
 A spirit floats towards you and howls with an evil laughter.:
+  level: 12?
 A finch flies low above the ground.:
 A shadowy haunt floats here, oblivious to your presence.:
   level: 14
 A moaning ghost advances towards you, shimmering with a pale light.:
   level: 15
 Some roots lie here waiting to ensnare weary travellers.:
+  level: 13?
 Massive roots shift uneasily all around you.:
   level: 16
   keywords: massive
   warning: Do massive roots first!
 Some thick writhing vines whip all around you.:
   keywords: vines
+  level: 13?
 A black wolf pads restlessly, looking for its next prey.:
   keywords: wolf
   level: 7?
@@ -62,12 +65,14 @@ An ancient fungus smothers the boulders.:
   level: 5
 The mother wolf stands here, protecting her young cubs.:
 A giant termite is here, crushing skulls and bones.:
+  level: 11
 A large elk gazes coldly at you, chewing on a small branch.:
 Some ugly blow-flies are buzzing around here.:
   keywords: flies
 A colony of red ants is here. The ants seem to ignore you.:
   keywords: ants
 A mottled snake is sneaking here, ready to sink its fangs into flesh.:
+  level: 12
 An intact skeleton of a man is walking around here.:
   keywords: skeleton
 A grey-clad elf is here.:
@@ -264,6 +269,7 @@ A dwarven soldier is here, watching for trouble.:
 A large eagle soars above you.:
 A mountain lioness pads quietly through the terrain.:
 A young mountain lion is sizing up his next meal from the nearby cover.:
+  level: 12?
 A large bullfrog croaks loudly.:
 A roe deer is standing here, watching the terrain while chewing the vegetation.:
 An elf is here walking around.:
@@ -334,8 +340,10 @@ An armourer stands here.:
   flags: shop
 An elven beekeeper is standing here, peacefully watching his bees.:
 A huge, poisonous spider is here.:
+  level: 9?
 A tiny spider is here, eating a tiny bug.:
 A malicious thug is here, threatening you.:
+  level: 10
 The wild ox seems ready to charge you.:
 A brown snake watches you.:
 A badger is here, exploring for food.:
@@ -350,6 +358,7 @@ A fat carp swims here.:
 A grey wolf is here, salivating profusely.:
 A fierce wolverine is here, snarling at you.:
 A huge, black wolf is here, ready to devour.:
+  level: 8-
 A bear is here, covered with coarse black fur.:
 A large brown snake with black patches is coiled here.:
   level: 9
@@ -390,6 +399,7 @@ The ruffian leader Scarred grins as he draws his sword.:
 Malindon the elven mage is here reading over some old texts.:
   flags: guild
 A sturdy bandit bodyguard stands here, eager to hack you to pieces.:
+  level: 8-
 A dwarf is here processing wool.:
 An apprentice scurries about the room.:
 A long-bearded weaver is busily making cloth.:
@@ -539,3 +549,14 @@ An eerie spectyre hovers over a sarcophagus.:
 A great, black warg pads around, looking to rip something apart.:
 A huge water-drake is coiled here.:
 A huge troll, with skin as black as pitch, glowers at you.:
+An alert young dwarf is working here.:
+A clerk sits here, lazily tending to the thermal baths.:
+A suspicious Innkeeper watches you carefully as you enter, wondering whether to give you a room.:
+  flags: rent
+The farmer's wife is bustling busily around.:
+A peaceful farmer is here, whistling merrily.:
+A dwarven miner is here, digging the hard rock with his pick.:
+A giant, strange looking green fungus is here, ready to devour you in seconds.:
+An albino fish is swimming here, looking for some food.:
+An elven vintner is standing here looking for someone to talk to about wine.:
+

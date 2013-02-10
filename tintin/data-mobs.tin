@@ -1,8 +1,12 @@
 #sub {^A large brown snake with black patches is coiled here.$} {%0 [9] }
+#sub {^A sturdy bandit bodyguard stands here, eager to hack you to pieces.$} {%0 [8-] }
 #sub {^A black wolf pads restlessly, looking for its next prey.$} {%0 [7?] }
 #sub {^A dark intangible shadow turns to face you.$} {%0 [16] }
 #sub {^A great wolf with coal-black eyes stares intently at you, drooling saliva.$} {%0 [15] }
 #sub {^A hungry-looking giant lizard is slithering towards you.$} {%0 [12] }
+#sub {^A young mountain lion is sizing up his next meal from the nearby cover.$} {%0 [12?] }
+#sub {^A giant termite is here, crushing skulls and bones.$} {%0 [11] }
+#sub {^A mottled snake is sneaking here, ready to sink its fangs into flesh.$} {%0 [12] }
 #sub {^A brown bear is sleeping here.$} {%0 [12] }
 #sub {^A tall stag is here, grazing peacefully.$} {%0 [6-] }
 #sub {^A tree-snake lies wrapped around one of the tree branches.$} {%0 [6] }
@@ -11,17 +15,23 @@
 #sub {^A grey wolf is here, snarling aggressively.$} {%0 [6] }
 #sub {^Massive roots shift uneasily all around you.$} {%0 [16, WARNING: Do massive roots first!] }
 #sub {^A brown cow is here, contemplating a higher reality whilst chewing slowly.$} {%0 [4] }
+#sub {^A huge, black wolf is here, ready to devour.$} {%0 [8-] }
 #sub {^An ancient fungus smothers the boulders.$} {%0 [5] }
 #sub {^A huge grizzly bear is here, roaming the wild.$} {%0 [15] }
 #sub {^A powerful lioness is barely visible in the grass.$} {%0 [12] }
 #sub {^A huge black fungus is here, exuding a foul stench.$} {%0 [10] }
+#sub {^A huge, poisonous spider is here.$} {%0 [9?] }
+#sub {^Some roots lie here waiting to ensnare weary travellers.$} {%0 [13?] }
 #sub {^A shadowy haunt floats here, oblivious to your presence.$} {%0 [14] }
 #sub {^A ruffian is sneaking around here, looking for some mischief to do.$} {%0 [8] }
 #sub {^A pack horse is standing here.$} {%0 [6] }
 #sub {^A mass of wriggling vines drops on you from the trees.$} {%0 [11+] }
 #sub {^A pair of tiny eyes gleam at you from the shadows.$} {%0 [WARNING: Packrat!] }
+#sub {^A spirit floats towards you and howls with an evil laughter.$} {%0 [12?] }
 #sub {^A moaning ghost advances towards you, shimmering with a pale light.$} {%0 [15] }
 #sub {^A raider is here, looking for plunder.$} {%0 [8] }
 #sub {^A vicious little bandit advances towards you.$} {%0 [6] }
+#sub {^A malicious thug is here, threatening you.$} {%0 [10] }
 #sub {^A well-fed cow stands here chewing her cud listlessly.$} {%0 [4] }
 #sub {^A brown fox is here, looking for some rabbits to chew up.$} {%0 [2] }
+#sub {^Some thick writhing vines whip all around you.$} {%0 [13?] }

@@ -106,11 +106,13 @@ You will swim if necessary.
 You are trying to sneak.
 You are now under water, slowly using up your oxygen.
 You swim and manage to keep your head above water.
+You are borne along by a strong current.
 Fresh air still fills your lungs, so being submerged is no problem.
 You failed swimming there.
 You happily inhale the lovely oxygen in the air.
 You begin to feel hungry.
 You are hungry.
+You do not feel hungry anymore.
 You are full.
 You are too full to eat more!
 You begin to feel thirsty.
@@ -119,6 +121,8 @@ You feel less thirsty.
 You do not feel thirsty anymore.
 You are not thirsty anymore.
 Your stomach can't contain anymore!
+You are now sober.
+Your mind is beginning to clear.
 You feel bolder.
 You feel stealthy again.
 You stop sneaking.
@@ -307,6 +311,16 @@ Sunlight streaks across the landscape.
 The sun sets over the Great Western Ocean.
 The moon begins to show above the Tower Hills.
 The moon gently fades away as it slides below the horizon.
+The frost is making the ground feel solid.
+The frosty ground is starting to soften.
+The ground is hardening with frost.
+The moon rises over the mountains of Lhûn.
+The moon sets over the Great Western Ocean.
+You see some frost on the ground now.
+Lightning strikes across the sky, branching out above the hills.
+Rain is falling from the sky, crashing down upon the branches and the ground.
+The sun sinks below the jagged peaks of Ered Luin.
+Rain starts falling from the clouds above, forming puddles in the streets.
 Through the tree-branches, clouds can be seen collecting in the sky.
 Rain is dripping off the roofs of the nearby buildings.
 Rain begins to drop softly upon the hills.
@@ -410,6 +424,7 @@ A fine marble chessboard with ivory and ebony pieces is set here.
 A mailbox stands here stuffed full of messages.
 A sturdy target for arrows, made out of thatch, stands here.
 A large bulletin board, entitled *
+A sign made of polished brass is on the wall.
 A very old sign has been placed at the entrance of the eastern corridor.
 A large sign is posted upon the wall for you to read.
 A Warning Sign for new players is here.
@@ -666,8 +681,11 @@ You are going to neglect your *
 * panics, but can't stop fighting to flee.
 You flee *
 Who do you want to assist?
+Bash what or whom?
+Bash someone already bashed? Aren't we funny?
 You're already fighting!
 That really HURT!
+You are wracked with overwhelming PAIN!
 You will attempt to flee!
 PANIC! You couldn't escape!
 PANIC! You can't quit the fight!
@@ -715,6 +733,7 @@ Congratulations! This is the first time you've killed it!
 Good job!
 Yes! You're beginning to get the idea.
 It begins to be automatic...
+You gain a level!
 
 You are incapacitated and will slowly die, if not aided.
 You are dead! Sorry...
@@ -779,6 +798,7 @@ You can't do that while someone is riding him.
 You feel a hidden presence.
 You see * sneaking into a hiding place.
 You have revealed *
+You have found *
 
 You do not seem to be able to practice now.
 You need to be more experienced before practicing this skill further.
@@ -855,6 +875,7 @@ Somewhere deep in the rock, heavy wheels are turning.
 You find a hidden pressure plate and push it.
 
 
+* is standing here trying to concentrate.
 * is standing here, ridden by *
 * leaves west riding *
 * leaves east riding *
@@ -886,6 +907,8 @@ That would be an interesting topological experiment.
 * won't fit in *
 You make * drop his belongings.
 * is now empty.
+There is no room for more.
+It's full of a clear liquid.
 You pour some * into *
 * pours some * into *
 * gets * from a*
@@ -1096,6 +1119,8 @@ A piece of raw venison is on the ground.
 A large potato is growing here.
 A carrot is lying here.
 A shortsword is on the ground.
+A large piece of fresh, raw lion meat lies here.
+A roast haunch of boar sends up a fragrant aroma.
 A large torch lies here among the dust.
 A copper penny lies on the ground.
 A skeleton of some humanoid lies in the dust.
@@ -1143,6 +1168,11 @@ A small barrel made of aged oak and strong iron hoops stands here.
 A reinforced leather helmet lies here.
 A light leather sling lies in the dust.
 A dented pail has been carelessly left here.
+A pair of huge palmate antlers is lying here.
+A piece of raw bear meat is on the ground.
+A piece of raw grizzly meat is on the ground.
+A small leathery fluid-sack is on the ground.
+A small piece of raw bear meat is on the ground.
 A chunk of salt is here.
 A dark green cabbage is here.
 A golden, firm onion is here.

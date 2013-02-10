@@ -47,7 +47,7 @@
 #macro {\ea} {#echo assist;assist}
 #macro {\eb} {#echo BA(sh/ckstab);ba}
 #macro {\eB} {#echo {BA(sh/ckstab) x};ba x}
-#macri {\ee} {#echo {open exit};open exit}
+#macro {\ee} {#echo {open exit};open exit}
 #macro {\ef} {#echo flee;flee}
 #nop   {\ei} (used by alternate movement)
 #nop   {\ej} (used by alternate movement)

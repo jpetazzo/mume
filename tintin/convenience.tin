@@ -4,10 +4,6 @@
 
 #alias {craw} {get pan backpack; get salt backpack; cook raw; put pan backpack; put salt backpack; put meat backpack}
 
-#alias {tells} {#grep tells you}
-#action {^%w tells you '%*} {#variable reply %1;#tab %1}
-#alias re {tell $reply %0;#echo {Message sent to $reply.}}
-#action {^%w narrates '%*} {#tab %1}
 #action { n:%w} {#tab %1}
 #action { s:%w} {#tab %1}
 #action { e:%w} {#tab %1}
@@ -25,13 +21,14 @@
 #action {^Nah... You feel too relaxed to do that.$} stand
 #action {^Maybe you should get on your feet first?$} stand
 
-#action {^REPORT: %+$} {#echo -- %1;-- %1}
-#alias report {info REPORT: HP: %z/%Z, Mana: %e/%E, Moves: %j/%J}
+#alias rep {info REPORT: HP: %z/%Z, Mana: %e/%E, Moves: %j/%J}
+#action {^REPORT: %+$} {#line gag;#echo emote reports '%1'}
 
 #highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
 #highlight {^The night has begun.$} {red reverse b white}
 #highlight {^The sun rises in the east.$} {red reverse b white}
 #highlight {^The day has begun.$} {red reverse b white}
+
 #highlight {^You gain a level!$} {blue reverse b white}
 
 #highlight {^You flee %*} {black b yellow}
@@ -54,7 +51,6 @@
 #highlight {^A pair of tiny eyes gleam at you from the shadows.$} {light blue}
 #highlight {^An infusion of herbs gives out a nice scent.$} {light blue}
 #highlight {^The lonely giant sits on a stone and sings a mournful lay.$} {light blue}
-
 
 #alias {cp} {wield %1;crush %1;drawmyweapon}
 #action {^You have produced %* petals.$} {ph petals}

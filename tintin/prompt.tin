@@ -1,11 +1,46 @@
 #var {prompt_main} {}
-#var {prompt_twid} { }
+#var {prompt_twid} {<129>.<099>}
 #var {prompt_time} {??:?? ??}
+#var {target_trophy} {}
+#var {target_health} {}
+#var {target_fighting} {false}
 
-#function {prompt_full} {#return $prompt_time \e[1\;33m$prompt_twid \e[1\;32m$prompt_main\e[0\;0m}
-#function {prompt_main} {#var {prompt_main} {%1};#var {prompt_twid} { };#return @prompt_full{}}
-#function {prompt_twid} {#var {prompt_twid} {%1};#return @prompt_full{}}
-#function {prompt_time} {#var {prompt_time} {%1};#return @prompt_full{}}
+#function {prompt_full} {
+	  #var {prompt_left} {$prompt_time <139>$prompt_twid<099> <169>$prompt_main<099>};
+	  #var {prompt_right} {<499>$target_trophy:$target_health<099>};
+	  #format {prompt_w} {%C};
+	  #format {prompt_left_w} {%L} {$prompt_left};
+	  #format {prompt_right_w} {%L} {$prompt_right};
+	  #math {prompt_middle_w} {$prompt_w - $prompt_left_w - $prompt_right_w};
+	  #format {prompt_middle} {%${prompt_middle_w}s} {};
+	  #return $prompt_left$prompt_middle$prompt_right
+}
+#function {prompt_main} {
+	  #var {prompt_main} {%1};
+	  #var {prompt_twid} {<129>.<099>};
+	  #regexp {%1} {%S {([CcSsRrW]+ )?}%*{[^:]+}:%w>} {
+	  	  #nop &1 = terrain;
+		  #nop &2 = movement;
+		  #nop &3 = movement;
+		  #nop &4 = hp/mana/moves/nothing;
+		  #nop &5 = targetname;
+		  #nop &6 = targethealth;
+		  #var {target_trophy} {&5};
+		  #var {target_health} {&6};
+		  #var {target_fighting} {true}
+          } {
+		  #var {target_fighting} {false}
+	  }
+	  #return @prompt_full{}
+}
+#function {prompt_twid} {
+	  #var {prompt_twid} {%1};
+	  #return @prompt_full{}
+}
+#function {prompt_time} {
+	  #var {prompt_time} {%1};
+	  #return @prompt_full{}
+}
 
 #prompt {^>$} {@prompt_main{%0}}
 #prompt {^%.>$} {@prompt_main{%0}}

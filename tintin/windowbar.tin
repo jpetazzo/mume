@@ -1,59 +1,40 @@
-#nop This script is written for v1.99.7 and higher
+#if {"${windowsize}" == ""} {#variable {windowsize} {10}}
+#list {window} {clear}
+#$windowsize {#list {window} {add} {{ }}}
+#split {$windowsize}
 
-#split 10 1
+#nop Generic communication matchers (unused for now)
+#nop act {~%S %S: %*} {showtowin %0}
+#nop act {~%S %S '%*} {showtowin %0}
 
-#var window {{1}{ } {2}{ } {3}{ } {4}{ } {5}{ } {6}{ } {7}{ } {8}{ } {9}{ }}
-
-#act {~%1 says '%2} {showtowin %1 says '%2}
-#act {~%1 narrates '%2} {showtowin %1 narrates '%2}
-#act {~%1 tells the group '%2} {showtowin %1 tells the group '%2}
-#act {~%1 roars: %2} {showtowin %1 roars: %2}
-#act {~%1 yells '%2} {showtowin %1 yells '%2}
-#act {~%1 yells %2} {showtowin %1 yells %2}
-#act {~%1 sez: %2} {showtowin %1 sez: %2}
-#act {~%1 hits the bong: %2} {showtowin %1 hits the bong: %2}
-#act {~%1 rages %2} {showtowin %1 rages %2}
-#act {~%1 gurglar: %2} {showtowin %1 gurglar: %2}
-#act {~%1 blogs: %2} {showtowin %1 blogs: %2}
-#act {~%1 hammers: %2} {showtowin %1 hammers: %2}
-#act {~%1 snorfs - %2} {showtowin %1 snorfs - %2}
-#act {~%1 melts: %2} {showtowin %1 melts: %2}
-#act {~%1 says %2} {showtowin %1 says %2}
-#act {~%1 says: %2} {showtowin %1 says: %2}
-#act {~%1 spits %2} {showtowin %1 says %2}
-
-#act {^%S tells you '%*} {#variable reply %1; showtowin %1 tells you '%2 }
-
-#nop act {^%S %S: %3$} {showtowin %1 %2: %3}
-#nop act {^%S %S '%*$} {showtowin %1 %2 '%3}
-#nop act {^-- Arx _.-[ %* ]} {showtowin Arx: %1}
-#nop gag {~%1 narrates '%2$}
-#nop gag {~%1 tells the group '%2$}
-#nop gag {~%1 roars: %2$}
-#nop gag {~%1 tells you '%2$}
-#nop gag {~%1 says '%2$}
-#nop gag {~%1 yells '%2$}
-#nop gag {~%1 sez: %2$}
+#act {^%S says '%*}		{#tab %1;showtowin <169>%0<099>}
+#act {^%S narrates '%*}		{#tab %1;showtowin <139>%0<099>}
+#act {^%S tells the group '%*} 	{#tab %1;showtowin <129>%0<099>}
+#act {^%S tells you '%*}  	{#tab %1;showtowin <129>%0<099>;#variable reply %1}
+#alias re {tell $reply %0;#echo {Message sent to $reply.}}
 
 #alias {showtowin}
 {
 	#format temp {%w} {%0};
+	#if {"${temp[1]}" == ""} {#list temp set 1 { }};
 
 	#loop {1} {&temp[]} {cnt}
 	{
 		#list window ins -1 {$temp[$cnt]}
 	};
 
-	#loop {10} {&window[]} {cnt}
+	#loop {$windowsize} {&window[]} {cnt}
 	{
 		#list window del 1
 	};
 
-	#loop {1} {9} {cnt}
+	#loop {1} {$windowsize} {cnt}
 	{
 		#echo {{$window[$cnt]} {-$cnt}}
 	}
 }
+
+showtowin
 
 #alias {test_windowbar}
 {

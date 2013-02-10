@@ -2,19 +2,16 @@
 
 #list gains clear;
 
-#action {^lastxp %*$} {#variable lastxp %1}
-info lastxp %X
-#unaction {^lastxp %1$}
-
 #action {^Never forget! Try to role-play...$} {info XPCOUNTER INIT, XP = %x, TNL = %X}
 #action {^Reconnecting.$} {info XPCOUNTER INIT, XP = %x, TNL = %X}
-#action {^XPCOUNTER INIT, XP = %d, TNL = %d} {#variable xpcounter_total %1;#variable xpcounter_session %1}
+#action {^XPCOUNTER INIT, XP = %d, TNL = %d} {#line gag;#variable xpcounter_total %1;#variable xpcounter_session %1}
 
 #action {^%1 is dead! R.I.P.$} {xpcounter_killed {%1}}
 #action {^%1 disappears into nothing.$} {xpcounter_killed {%1}}
 #alias {xpcounter_killed} {#variable xpcounter_lastmob {%1};info XPCOUNTER UPDATE, XP = %x, TNL = %X, SESSION = %L}
 #action {^XPCOUNTER UPDATE, XP = %d, TNL = %d, SESSION = %d}
 {
+	#line gag;
 	#math {xpcounter_lastgain} {%1 - $xpcounter_total};
 	#math {xpcounter_rate} {(%1 - $xpcounter_session) / %3};
         #echo {$xpcounter_lastgain XP gained for $xpcounter_lastmob. Current rate: $xpcounter_rate XP/min. TNL: %2.};
@@ -51,6 +48,4 @@ info lastxp %X
                 {$gains[final][cnt]}
 }
 
-#nop action {^You gain a level!$} {#read rip.tin}
-
-#action {^The perfect match!$} {info LEVEL:%l}
+#action {^The perfect match!$} {#line gag;info The perfect match! [%l]}

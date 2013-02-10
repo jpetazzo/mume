@@ -35,7 +35,8 @@
 		#format {minute} {%m} {0}
 	} { #format {minute} {%m} {${minute} + 1} }
 	#format {time} {%02d:%02d %s} {$hour} {$minute} {$ampm};
-	#showme {<158> $time<099>} {-10};
+	#nop the line blow shows the time at the top of the screen as well
+	#nop showme {<158> $time<099>} {-10};
 	#if {$timeok} {#showme TIME:$time} {#nop}
 } 1
 

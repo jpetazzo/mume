@@ -1,0 +1,16 @@
+When you reroll your character, its new stats have to be close to its old stats.
+As I write those lines (February 2013), all the stats generators available
+online compute the new/old difference incorrectly. I logged an old retired
+character, tried to reroll it. The following table shows the actual difference.
+
+Difference in stats	Distance
+-------------------	--------
+0			0
+1			14
+2			33
+3			56
+4			80
+5			106
+
+Remember: the distance between old and new stats should not be above 100.
+
