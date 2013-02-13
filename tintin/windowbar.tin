@@ -7,10 +7,10 @@
 #nop act {~%S %S: %*} {showtowin %0}
 #nop act {~%S %S '%*} {showtowin %0}
 
-#act {^%S says '%*}		{#tab %1;showtowin <169>%0<099>}
-#act {^%S narrates '%*}		{#tab %1;showtowin <139>%0<099>}
-#act {^%S tells the group '%*} 	{#tab %1;showtowin <129>%0<099>}
-#act {^%S tells you '%*}  	{#tab %1;showtowin <129>%0<099>;#variable reply %1}
+#act {^%S says '%*}		{#tab %1;showtowin <069>%0<099>}
+#act {^%S narrates '%*}		{#tab %1;showtowin <039>%0<099>}
+#act {^%S tells the group '%*} 	{#tab %1;showtowin <029>%0<099>}
+#act {^%S tells you '%*}  	{#tab %1;showtowin <029>%0<099>;#variable reply %1}
 #alias re {tell $reply %0;#echo {Message sent to $reply.}}
 
 #alias {showtowin}
