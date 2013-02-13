@@ -1,45 +1,65 @@
 #var {prompt_main} {}
 #var {prompt_twid} {<129>.<099>}
 #var {prompt_time} {??:?? ??}
-#var {target_trophy} {}
-#var {target_health} {}
-#var {target_fighting} {false}
+#var {prompt_fighter1} {}
+#var {prompt_fighter2} {}
+#var {prompt_fighters} {}
+#var {prompt_fighting} {false}
+
+#var {re_terrain} {([^ ]+)}
+#var {re_movement} {( [CcSsRrW]+)?}
+#var {re_hp} {( HP:[A-Za-z]+)?}
+#var {re_mana} {( Mana:[A-Za-z]+)?}
+#var {re_move} {( Move:[A-Za-z]+)?}
+#var {re_mount} {( Mount:[A-Za-z]+)?}
+#var {re_fight} {( [^:]+:[A-Za-z]+)?}
+#var {re_all} {{$re_terrain$re_movement$re_hp$re_mana$re_move$re_mount$re_fight$re_fight>}}
 
 #function {prompt_full} {
-	  #var {prompt_left} {$prompt_time <139>$prompt_twid<099> <169>$prompt_main<099>};
-	  #var {prompt_right} {<499>$target_trophy:$target_health<099>};
-	  #format {prompt_w} {%C};
-	  #format {prompt_left_w} {%L} {$prompt_left};
-	  #format {prompt_right_w} {%L} {$prompt_right};
-	  #math {prompt_middle_w} {$prompt_w - $prompt_left_w - $prompt_right_w};
-	  #format {prompt_middle} {%${prompt_middle_w}s} {};
-	  #return $prompt_left$prompt_middle$prompt_right
+    #var {prompt_left} {$prompt_time <139>$prompt_twid<099> <169>$prompt_main<099>};
+    #if {"$prompt_fighting" == "true"} {
+        #var {prompt_right} {}
+    } {
+        #var {prompt_right} {$prompt_fighters}
+    };
+    #format {prompt_w} {%C};
+    #format {prompt_left_w} {%L} {$prompt_left};
+    #format {prompt_right_w} {%L} {$prompt_right};
+    #math {prompt_middle_w} {$prompt_w - $prompt_left_w - $prompt_right_w};
+    #format {prompt_middle} {%${prompt_middle_w}s} {};
+    #return $prompt_left$prompt_middle$prompt_right
 }
 #function {prompt_main} {
-	  #var {prompt_main} {%1};
-	  #var {prompt_twid} {<129>.<099>};
-	  #regexp {%1} {%S {([CcSsRrW]+ )?}%*{[^:]+}:%w>} {
-	  	  #nop &1 = terrain;
-		  #nop &2 = movement;
-		  #nop &3 = movement;
-		  #nop &4 = hp/mana/moves/nothing;
-		  #nop &5 = targetname;
-		  #nop &6 = targethealth;
-		  #var {target_trophy} {&5};
-		  #var {target_health} {&6};
-		  #var {target_fighting} {true}
-          } {
-		  #var {target_fighting} {false}
-	  }
-	  #return @prompt_full{}
+    #var {prompt_main} {%1};
+    #var {prompt_twid} {<129>.<099>};
+    #regexp {%1} {$re_all} {
+        #nop &1 = regex;
+        #nop &2 = terrain;
+        #nop &3 = movement;
+        #nop &4 = hp;
+        #nop &5 = mana;
+        #nop &6 = move;
+        #nop &7 = mount;
+        #nop &8 = fight1;
+        #nop &9 = fight2;
+        #var {prompt_fighter1} {&8};
+        #var {prompt_fighter2} {&9};
+        #if {"$prompt_fighter1" != ""} {
+            #var prompt_fighting true;
+            #var prompt_fighters {<499>$prompt_fighter1<099> <499>$prompt_fighter2<099>}
+        } {
+            #var prompt_fighting false
+        }
+    };
+    #return @prompt_full{}
 }
 #function {prompt_twid} {
-	  #var {prompt_twid} {%1};
-	  #return @prompt_full{}
+    #var {prompt_twid} {%1};
+    #return @prompt_full{}
 }
 #function {prompt_time} {
-	  #var {prompt_time} {%1};
-	  #return @prompt_full{}
+    #var {prompt_time} {%1};
+    #return @prompt_full{}
 }
 
 #prompt {^>$} {@prompt_main{%0}}
