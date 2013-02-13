@@ -3,3 +3,5 @@ log
 logs/*.log
 chars/
 *~
+mmapper
+tt++
