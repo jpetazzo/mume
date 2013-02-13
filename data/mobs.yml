@@ -42,7 +42,7 @@ A shadowy haunt floats here, oblivious to your presence.:
 A moaning ghost advances towards you, shimmering with a pale light.:
   level: 15
 Some roots lie here waiting to ensnare weary travellers.:
-  level: 13?
+  level: 12
 Massive roots shift uneasily all around you.:
   level: 16
   keywords: massive
@@ -256,6 +256,7 @@ A secretary is sitting at the desk.:
 A dwarven cityguard is patrolling the streets.:
 An experienced dwarven captain stands here with an air of authority.:
 A mountain goat is here, jumping from cliff to cliff.:
+  level: 4?
 A goat is here, grazing in the hills.:
 A young goat playfully charges and hops away.:
 A Dwarven stablehand checks on the horses.:
@@ -345,6 +346,7 @@ A tiny spider is here, eating a tiny bug.:
 A malicious thug is here, threatening you.:
   level: 10
 The wild ox seems ready to charge you.:
+  level: 8
 A brown snake watches you.:
 A badger is here, exploring for food.:
 A swallow flies high above the ground.:
@@ -356,6 +358,7 @@ A fishmonger is standing here, loudly advertising today's catch.:
 An elven boat-fisher is here hard at work on his boat.:
 A fat carp swims here.:
 A grey wolf is here, salivating profusely.:
+  level: 7?
 A fierce wolverine is here, snarling at you.:
 A huge, black wolf is here, ready to devour.:
   level: 8-
@@ -501,6 +504,7 @@ A tall elven trapper is walking around here.:
 An old tanner is here, smoking his pipe in boredom.:
 A huge stag with a great span of antlers is warily browsing on the vegetation.:
 A disgusting forest troll is searching for fresh meat here.:
+  level: 10?
 A small leech is here, floating in the water.:
 A swarm of midges is here, humming around you.:
 A rabid rabbit is here, frothing at the mouth.:
@@ -522,6 +526,7 @@ A young colt is frolicking playfully.:
 A small black cricket is here, chirping loudly.:
 A black and white skunk is scuttling about here, searching for food.:
 A water moccasin slithers out of sight just below the surface of the water.:
+  level: 8
 A black alder looms threateningly over its surroundings.:
 A field mouse noses about hungrily, searching for food.:
 A small boar with big yellow tusks looks eager to fight.:
@@ -559,4 +564,120 @@ A dwarven miner is here, digging the hard rock with his pick.:
 A giant, strange looking green fungus is here, ready to devour you in seconds.:
 An albino fish is swimming here, looking for some food.:
 An elven vintner is standing here looking for someone to talk to about wine.:
-
+The dark presence of the Monitor stands at the stone door.:
+The Great Goblin is here, looking at you in disapproval.:
+The Guardian is standing here, watching the treasures.:
+A shadowy and lithe orc stands here, half-hidden in the darkness.:
+A slobbering giant greedily lumbers towards you.:
+A small, mean earth troll is standing here, thinking of something hideous.:
+A snaga is here, trying to sharpen a set of blood-encrusted needles.:
+  level: 7
+  trophy: A snaga orc
+A spirit floats around, making strange magical gestures.:
+A very large, hairy man is standing here, examining you carefully.:
+A very strong orkish leader is here on patrol.:
+A warrior of Goblin Gate stands menacingly before you.:
+A weary slave who has lost all hope sits here staring into space.:
+A wet, gilled reptile-like creature lurks in the water here.:
+An albino salamander is here, perched on some rocks.:
+An elite orc-guard is on sentry here.:
+An experienced orkish scout is looking for tracks on the ground.:
+An officer of the Uruk-tarkhnarb stands before you.:
+An orc apprentice is here, going about his duties.:
+An orc assassin is hiding here, waiting for a victim to stab.:
+An orc-guard is on patrol here.:
+An orc is slinking around trying to look inconspicuous.:
+  level: 7
+  trophy: A snaga orc
+An orc sentry is here on patrol.:
+An orc slavemaster is here, looking for someone to abuse.:
+An orkish chieftain is here, controlling his guards.:
+An orkish master-warrior torments his recruits here.:
+Guthblug the Foreman is here, scowling at you furiously.:
+Kormock the orkish armourer is working at his bench.:
+  flags: shop
+You catch sight of the lithe form of Kraksh, the Scoutmaster.:
+  flags: guild
+A porcupine is waddling around here, its tail full of sharp quills.:
+A prisoner is sitting here, looking at you with sad eyes.:
+A brutish forest troll is hunting here, looking for some tasty flesh.:
+A dark-skinned orkish veteran guard is on sentry here.:
+A female orc stands glaring at you.:
+  level: 6?
+A gnarled and crouching old orc is here, his head hung low.:
+A grey-skinned mountain troll stands here.:
+A heavily-scarred orc stands here, begrudging your presence.:
+A huge orc bodyguard looks at you suspiciously.:
+A huge stone giant is here, glaring at you.:
+A large cave troll is here, staying close to his mother.:
+A large sturgeon swims slowly along the bottom.:
+A pig is here, covered in mud.:
+Takhr the orkish warden is standing here, looking greedily at your stuff.:
+  flags: rent
+Thrakghash of the Mordor Flame waits here, ready to teach his malevolent magic.:
+  flags: guild
+The orkish loremaster is standing here, looking for his audience.:
+The prominent fin of a silver-yellow fish breaks the surface of the water.:
+The queen bat is here, emitting piercing squeaks.:
+  level: 9?
+A great bustard strides over the grass.:
+A Guard of Bree stands here, waiting in the headquarters.:
+A big, brown, angry-looking bear is here.:
+A black wolf is here.:
+A bouncing rabbit is here.:
+A cow stands here, chewing her cud.:
+An elven baker is standing here, covered in flour.:
+Angdil the elven smith is here, fashioning exquisite armour and weaponry.:
+  flags: shop
+Arwen Undómiel stands here in radiant beauty.:
+Elladan, son of Elrond is here.:
+Elrohir, son of Elrond is here.:
+Erestor the High Mage of Rivendell is studying here.:
+  flags: guild
+Quenairë, the Elven master of tales stands here, waiting for an audience.:
+A large, weather-beaten man is here.:
+The rabid raccoon stands here, frothing at the mouth.:
+A suspicious-looking man watches you carefully.:
+An orc is hobbling around on rudimentary crutches.:
+  level: 5
+A sad looking old farmer is standing here.:
+  level: 8?
+Some dark, thick writhing vines whip all around you.:
+Murog, the Captain of the Fortress, stands here.:
+A wild sheep with a short, greyish coat grazes here.:
+A woodchuck is watching for enemies here.:
+A black moth flies towards the light.:
+A black squirrel peers down from the branches of the trees.:
+A fat yellow rodent scurries away, barking wildly.:
+A field lark stands here, focused on finding food.:
+A giant form rustles among the trees.:
+A great feline is stalking here, blending into the terrain.:
+A great male deer with reddish hair and twisted antlers stands here proudly.:
+A grouchy uruk is here, lashing his whip.:
+A large brown wolf stands here, its teeth partly bared.:
+A large, dangerous-looking green snake is coiled up here.:
+A large dark fly is buzzing around here.:
+A large hawk-like bird is here overlooking its territory.:
+A large leech is moving close to you, searching for blood.:
+A large pike is lurking in the mud by the bottom.:
+A large, yellow crab is crawling around here.:
+A limping orc shuffles around here. He looks miserable.:
+  level: 9
+  trophy: A crippled orc
+A long rat with a white-tipped tail seems indifferent to your presence.:
+A long slender eel glides along the water, its body coiled to strike.:
+A magpie is sitting here protecting her nest.:
+A mighty brown bear, huge among his kin, growls threateningly.:
+A nasty troll female crouches here, with a feral look in her eyes.:
+An enslaved troll is here, eager to unleash its rage upon you.:
+An orc-guard of the Morgundul is on patrol here.:
+An uruk of the Morgundul tribe is here commanding his soldiers.:
+A powerful ram stands here, poised and alert.:
+A reddish fawn romps harmlessly among the tender grass shoots.:
+A sly cat prepares to pounce from its grassy hiding place.:
+A sly mongoose keeps an eye out for danger.:
+A small chick is in the nest squawking at his mother for food.:
+A small vicious black rat squeaks at you for disturbing it.:
+A soft-skinned female deer wanders peacefully among the grass.:
+A speckled, brown and white bird with a long curved bill stands here.:
+A tall brown-skinned orc, with wide arms, examines you harshly.:

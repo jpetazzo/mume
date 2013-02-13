@@ -1,4 +1,11 @@
-By what name do you wish to be known?
+Account&gt;*
+By what name do you wish to be known?*
+Alignment?
+Race?
+Sex?
+Subrace?
+Are you an experienced MUME player*
+Do you confirm your choices (yes, no, clear)?*
 Welcome to the land of Middle-earth. May your visit here be... interesting.
 Never forget! Try to role-play...
 Free rent.
@@ -14,6 +21,7 @@ A steward stores your stuff in the safe and helps you into your chamber.
 Vubur the innkeeper stores your stuff in the safe, and helps you into your chamber.
 The innkeeper stores your stuff in the safe, and helps you into your chamber.
 The innkeeper stores your stuff in the safe, and helps you to your retirement home.
+Takhr the orkish warden stores your stuff in the safe, and helps you into your chamber.
 * disappears into the void.
 * has returned.
 * has entered the game.
@@ -68,6 +76,8 @@ You are too exhausted to ride.
 
 You feel confused and move along randomly...
 
+You blink and feel weaker under the cruel light of the sun.
+
 It is pitch black...
 You are in a forest.
 Something is here.
@@ -90,6 +100,7 @@ You cannot see much in this light.
 Real time is *
 Last reboot due to *
 * of the Third Age.
+The present Tan Istar, Lord of the Istari Council is *
 
 You cannot guess the time indoors.
 It must be the middle of the night.
@@ -98,14 +109,28 @@ You can see a New Moon in the eastern part of the sky.
 You can see a Quarter Moon in the eastern part of the sky.
 Daylight is shining outside.
 
+You start watching the surroundings.
+You see * moving away * to the *
+You see * moving close to the *
+You see * approaching * to the 
+You stop watching the surroundings.
+
+A cold hard wind lashes at your clothes, making it difficult to move.
+
 The ascent ahead seems quite easy to climb, while falling down might bruise you slightly.
 If you still want to try, you must 'climb' there.
+You carefully try to walk on the frozen water.
+You unsuccessfully try to break through the ice.
 You can't go into deep water!
 You will try to climb even under unsafe conditions.
 You will swim if necessary.
 You are trying to sneak.
 You are now under water, slowly using up your oxygen.
 You swim and manage to keep your head above water.
+You successfully tread water.
+You fail swimming, and feel weaker.
+Stiffness slowly works its way through your muscles.
+You are drowning!
 You are borne along by a strong current.
 Fresh air still fills your lungs, so being submerged is no problem.
 You failed swimming there.
@@ -153,6 +178,9 @@ You wake, and sit up on the bed.
 You start mending *
 You feel that a sharp edge is beginning to form on *
 You can feel the progress with *
+Soon * will be as good as new!
+You are becoming very tired of mending, and lose your concentration just long enough *
+You have successfully mended *
 * starts mending *
 * will soon have made * as good as new.
 * is really showing some progress with *
@@ -171,6 +199,7 @@ You set fire to the corpses.
 It's too difficult to ride here.
 You cannot ride there.
 You are already riding.
+ZBLAM! *
 Nah... You feel too relaxed to do that.
 You are too exhausted.
 Alas, you cannot go that way...
@@ -205,6 +234,8 @@ As you pass, the feeling of enchantment fades from around you and the colours pa
 The rocky terrain makes travelling difficult.
 The slope is rocky, and very difficult to climb.
 Going down the ladder takes you into a dark cellar.
+Your travel up the crag is more difficult than if you were to travel down it.
+You leave the muddy pool for a damp marsh.
 As you pass between the tall mellyrn, you find yourself in a small and tranquil glade.
 Leaving the vineyard, you descend a small stair.
 As you walk down the stair through the thick hedge, you enter Galadriel's Garden.
@@ -277,6 +308,7 @@ The evil power begins to regress...
 Arda seems to wither as an evil power begins to grow...
 Shrouds of dark clouds roll in above you, blotting out the skies.
 
+The morning mist fades as the sun slowly rises over the vast plains.
 The sun rises, colouring the forest realm golden green.
 The sun rises over the Weather Hills to the east.
 The day has begun.
@@ -287,8 +319,13 @@ Rain is soaking the streets.
 Flares of lightning stretch across the sky over the hills.
 A light rain is falling upon the hillsides.
 The sun slowly rises over the rooftops in the east.
+The frost is leaving its hold of the ground.
+The ground is slightly frosty.
 A light snow begins to fall upon the ground.
 The gloom clears as the sun rises in the east to open the day.
+The moon disappears behind the western horizon.
+The moon slowly rises above the waters of the great Anduin.
+The pale moon sinks gradually beyond the rugged silhouette of the horizon.
 The moon falls out of sight in the west.
 As Anar rises above the eastern horizon, the sky is lit by a fiery glow.
 The first golden rays break the darkness as the sun rises from behind the Tower Hills.
@@ -303,6 +340,9 @@ The sun quickly disappears beyond the Misty Mountains.
 The moon begins its journey across the sky.
 Darkness lifts, as first sunrays turn morning dew into sparkling gems.
 The moon rises, and starts its journey across the sky.
+There is a thin film of ice on the water.
+The sun rises above the hills in the east, slowly lifting the heavy darkness.
+The sun sets on Bree-land.
 As the sun sets, the last gleaming rays peek over the Blue Mountains.
 Rays of sunshine pierce the darkness as the sun begins its gradual ascent to the middle of the sky.
 The moon disappears in the west.
@@ -420,6 +460,7 @@ The ferry has arrived.
 A grey ship is moored here.
 
 A sturdy bed made from solid oak lies here, covered in warm blankets.
+A large and finely decorated harp of white marble has been built here.
 A fine marble chessboard with ivory and ebony pieces is set here.
 A mailbox stands here stuffed full of messages.
 A sturdy target for arrows, made out of thatch, stands here.
@@ -453,10 +494,12 @@ A placid pond is here, inviting you to take a refreshing drink.
 
 A large bonfire is burning here.
 A huge, smoking campfire is burning here.
+A couple of burning logs sit in a pile.
 A large stone fireplace with a roaring fire warms the room.
 A small campfire burns here, its low flames giving off only a little light.
 Bodies lie piled on a funeral pyre, the flames consuming the flesh.
 
+A graceful and slender tree grows here.
 A low and wide-spread tree grows here.
 A hollow tree is growing upright here.
 A colossal tree, its trunk as wide as a small cottage, stands here.
@@ -475,6 +518,7 @@ A nest is here.
 There is a huge, pyramidal beehive here.
 A simple wooden chest is here.
 A dark stone chest sits on the ground.
+A large pile of boulders is sitting here, probably debris from a rockslide.
 A large cabinet capable of storing goods is here.
 A wooden chest stands in the corner.
 A large stone chest is here.
@@ -495,6 +539,8 @@ On the shrub, *
 You can't find any*
 * is not carrying anything.
 You can't take the *
+You can't get *, it's too heavy.
+You can't get *, they're too heavy.
 On the tree's branches *
 
 You are trapped by some roots.
@@ -527,6 +573,8 @@ A magic mushroom suddenly appears.
 * trembles as the poison runs through his veins.
 * trembles as the poison runs through her veins.
 You feel very cold, strange...
+Your body is purged.
+You seem to have a low fever.
 
 You failed. You exhausted yourself trying to change your shape.
 Your vision gets troubled a while...
@@ -537,6 +585,7 @@ You can only transform into a Horse or an Eagle.
 You must have been sent to Arda to free it from the sorrows that weigh upon it.
 You are a firm believer in the values of Right and Wrong.
 You are a well-meaning person, always glad to help your friends.
+You are totally corrupted by the Evilness of Morgoth!
 
 You have failed the Istari Quest.
 
@@ -584,6 +633,10 @@ The corpse of *
 The butchered corpse of *
 The *remains of * lie here in a heap of rotting compost.
 The remains of * lie here.
+The shadow of * is floating here.
+
+A half-decayed corpse of a goblin lies rotting on the ground.
+A rotten corpse is hanging here.
 
 You eat the *
 It is * (*, *).
@@ -683,6 +736,7 @@ You flee *
 Who do you want to assist?
 Bash what or whom?
 Bash someone already bashed? Aren't we funny?
+You cannot bash someone you aren't fighting!
 You're already fighting!
 That really HURT!
 You are wracked with overwhelming PAIN!
@@ -711,7 +765,7 @@ A war arrow breaks.
 * seems to have recovered her senses.
 * seems to have recovered its senses.
 * bleeds from open wounds.
-* is shaken with spasm as the venom enters his body!
+* is shaken with spasm as the venom enters * body!
 * death cry as it collapses.
 * death cry as he collapses.
 * death cry as she collapses.
@@ -796,6 +850,7 @@ You can't do that while someone is riding him.
 * tries to sneak behind *
 * catches * by surprise.
 You feel a hidden presence.
+You smell blood.
 You see * sneaking into a hiding place.
 You have revealed *
 You have found *
@@ -803,6 +858,7 @@ You have found *
 You do not seem to be able to practice now.
 You need to be more experienced before practicing this skill further.
 You have to stand in order to practice anything.
+You are too inexperienced in this Art to practice in this Guild.
 * practice sessions left.
 * practice session left.
 * to reach the next level.
@@ -826,6 +882,7 @@ Absolutely nothing!
 * gold coins.
 
 It seems to be locked.
+They seem to be locked.
 You can't seem to spot any lock to pick.
 There does not seem to be any keyhole.
 Using your lockpicks, you try to pick the lock...
@@ -835,6 +892,7 @@ The lock finally yields to your skill.
 You seem to be unable to pick this lock.
 But it's already open!
 It's already open!
+They're already open!
 * unlocks the *
 * locks the *
 * tries to bash *
@@ -858,13 +916,16 @@ You knock on it.
 Soundlessly, the gates swing *
 The gate magically opens for *
 You call for the * to be opened.
+You wait, but there is no hint of activity from the other side.
+* looks you over.
 * looks you and your group over.
 * calls for the * to be opened.
 You call out, trying to gain passage to an unseen entrance.
 You have the uneasy impression that a pair of unseen eyes are scrutinising you.
 You hear a *click* in a lock.
-The * is opened from the other side.
+The * opened from the other side.
 A small peephole is uncovered in the door and a pair of eyes peers out at you.
+You hear a call from the other side of the *
 
 With a grinding noise, *
 With effort, * the big lever.
@@ -939,11 +1000,12 @@ An elven lamplighter snuffs a street-lamp.
 Wield what?
 But you are already wielding it!
 You need two hands free to wield that.
-You are too weak to use this sword effectively.
+You are too weak to use this * effectively.
 You *, ready to protect the weak.
 You *, prepared for battle.
 You *, ready to defend yourself.
 You *, prepared to cleave your enemies.
+You *, ready to fight evil.
 You sheathe * into *
 You protect your head with *
 You wear * on your *
@@ -1042,17 +1104,20 @@ You wiggle your bottom.
 * beckons for everyone to follow her.
 * beckons for everyone to follow him.
 * bows before you.
+* throws back his head and cackles with insane glee!
 * shows his approval by clapping his hands together.
 * shows her approval by clapping her hands together.
 * curtseys to you.
 * dances around with *
 * gasps in astonishment.
 * giggles.
+* grins evilly, showing his teeth.
 * hugs *
 * starts moaning.
 * nods solemnly.
 * pokes * in the ribs.
 * ponders life, the universe, and everything.
+* spanks you on your butt. Is it your birthday?
 * raises * hand.
 * shakes * head.
 * shrugs indifferently.
@@ -1075,6 +1140,8 @@ You wiggle your bottom.
 * the Man*, wielding *, is *ing here*.
 
 Rumil the Master Bard of Lothl*rien is here smiling gently.
+Arwen Und*miel stands here in radiant beauty.
+Quenair*, the Elven master of tales stands here, waiting for an audience.
 Galadriel the Lady of L*rien is standing here.
 A D*nadan soldier is here busily performing his duties.
 An experienced D*nadan officer is standing here, keeping things under control.
@@ -1092,100 +1159,7 @@ Your arms strain as you carefully move hand over hand across the rope.
 
 A citizen mercenary taps you on the shoulder.
 
-Little parts of a broken weapon are lying on the ground.
-A tunic, made from the finest material, lies here.
-A plain shirt is on the ground.
-A pan is here, ready for use.
-A pair of soft, sequinned slippers lies here.
-A small mushroom grows nearby.
-Some plump juicy grapes are growing here.
-A map has been dropped here.
-An aged and fine bottle of wine stands here.
-A moneybag made of rough leather is lying here.
-A small flask has been left here on the ground.
-A large bundle of pale yellow fur is here.
-A fragrant smelling bag is lying here.
-A wooden longbow is lying here.
-A hefty stone club is on the ground.
-A greyish-black pelt lies here.
-A thick, rigid leather breastplate is on the ground.
-A pair of rigid leather sleeves are lying here.
-A wooden club is on the ground.
-A woodman's axe lies here.
-An arrow made from a grey wood lies here.
-A large piece of fresh, raw venison lies here.
-A small bit of raw lion meat is lying on the ground.
-A piece of raw venison is on the ground.
-A large potato is growing here.
-A carrot is lying here.
-A shortsword is on the ground.
-A large piece of fresh, raw lion meat lies here.
-A roast haunch of boar sends up a fragrant aroma.
-A large torch lies here among the dust.
-A copper penny lies on the ground.
-A skeleton of some humanoid lies in the dust.
-A large, orange pumpkin is here.
-An old piece of paper lies on the ground.
-A large piece of fresh, raw bear meat lies here.
-A plain leather belt is lying here.
-A rather heavy clay jar stands here.
-A grey wolf fur is here lying on the ground.
-An arrow lies on the ground.
-There is a red, delicious-looking apple here.
-A dirty shovel is lying on the ground here.
-A pair of rigid leather boots are on the ground.
-A silver-tipped arrow lies on the ground.
-A spotted pair of pants are on the ground.
-A rigid leather breastplate is on the ground.
-A longsword is on the ground.
-A map of Fornost lies here.
-A silvery-green leaf lies here, faint markings drawn on one of the sides.
-An iron pick has been dropped here.
-A large toadstool grows nearby.
-A dagger lies on the ground.
-A leather helmet lies here.
-A large wooden full shield is on the ground.
-A cutlass is on the ground.
-A large sack is on the ground.
-An old-looking ring, covered with runes, lies here.
-A cup has been set here.
-A sticky honeycomb lies on the ground.
-A pair of soft leather sleeves is here.
-A large arrow lies on the ground.
-A rusty pickaxe with a broken handle lies discarded here.
-A silver wedding ring lies here.
-Some cereals that look like wheat are lying here.
-An infusion of herbs gives out a nice scent.
-A spoon is placed here.
-A bowl of salad has been placed here.
-A small pouch, made from leather, lies in the dust.
-A round turnip is here.
-A map of Bree lies here.
-A little stone lies on the ground.
-A large round whetstone rests on the ground.
-A coil of rope is lying here.
-A small barrel made of aged oak and strong iron hoops stands here.
-A reinforced leather helmet lies here.
-A light leather sling lies in the dust.
-A dented pail has been carelessly left here.
-A pair of huge palmate antlers is lying here.
-A piece of raw bear meat is on the ground.
-A piece of raw grizzly meat is on the ground.
-A small leathery fluid-sack is on the ground.
-A small piece of raw bear meat is on the ground.
-A chunk of salt is here.
-A dark green cabbage is here.
-A golden, firm onion is here.
-The rib-bone of an animated skeleton lies here.
-A bulb of garlic with green stems is here.
-A cluster of white star-shaped forget-me-nots flourish here in reminiscence.
-A half-rotten corpse is hanging here.
-A pair of rigid leather sleeves lies here.
-A large piece of cheese has been placed here.
-A plain pair of pants are on the ground.
-A pitchfork has been carelessly left lying here.
-A chequered shirt lies here.
-A pair of soft leather boots are on the ground.
+A statue of a troll is posed in a moment of flight yet forever frozen in stone.
 
 You see * on the ground.
 On the ground, there are *
@@ -1200,6 +1174,15 @@ Whom do you want to give something?
 * opens a sealed letter and reads it intently.
 * starts writing a reply.
 This letter should be delivered to *
+
+You bend close to the ground, seeking the path to Rivendell...
+At last Rivendell is within sight!
+
+You feel a slight tremor in your blade.
+
+News of a sudden attack on the Dark Tower reaches your ears.
+The loud booming of drums echoes through the tunnels.
+A single loud drum roll signals the end of the attack on the guardian.
 
 * eats *
 * is sitting here.
@@ -1219,3 +1202,7 @@ This letter should be delivered to *
 * and * are here.
 
 *.Exits/emulated:*
+
+A black key made of metal lies here.
+A crude key made out of metal is discarded here.
+A small metal key has been dropped here.

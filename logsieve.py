@@ -14,6 +14,9 @@ ignore_lines |= set(mob.replace('|','')
 data_herbs = yaml.load(open('data/herbs.yml'))
 ignore_prefixes |= set(herb['description'].split('(')[0].strip() for herb in data_herbs)
 
+data_objects = yaml.load(open('data/objects.yml'))
+ignore_lines |= set(data_objects)
+
 def match_combat_line(line):
     # This is very crude for now.
     weapon_verbs = [
