@@ -1,0 +1,21 @@
+#alias notify_crit {
+    #alias notify {
+        #if {"%0" != ""} {
+            #system {notify-send --urgency critical "%0"}
+        }
+    }
+}
+
+#alias notify_norm {
+    #alias notify {
+        #if {"%0" != ""} {
+            #system {notify-send "%0"}
+        }
+    }
+}
+
+#alias notify_mute {
+    #alias notify #nop
+}
+
+notify_mute

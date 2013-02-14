@@ -1,0 +1,27 @@
+#alias saa {sell all.leather;sell all.chain;sell all.metal;sell all.shield}
+#alias saw {sell all.pweapon;sell all.sweapon;sell all.cweapon;sell all.stweapon;sell all.tweapon;sell all.clweapon}
+#alias sac {sell all.pants;sell all.sleeves;sell all.shirt;sell all.hood}
+#alias sap {sell all.plant;sell all.root;sell all.leaves}
+#alias sall {saa;saw;sac;sap}
+
+#alias {craw} {get pan backpack; get salt backpack; cook raw; put pan backpack; put salt backpack; put meat backpack}
+
+#alias boots {remove boots;get boots backpack;wear boots;put boots backpack}
+#alias shoes {remove boots;get snowshoes backpack;wear snowshoes;put boots backpack}
+
+#alias {lbow} {#echo {Switching to LONGBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw longbow;put bow backpack}
+#alias {sbow} {#echo {Switching to SHORTBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw shortbow;put bow backpack}
+#alias {xbow} {#echo {Switching to CROSSBOW.};remove quiver;put quiver backpack;get crossbow backpack;get case backpack;wear case;draw crossbow;put bow backpack}
+
+#alias {smok} {get pipe pack;sheath;wield pipe;rest;smoke pipe;stand;remove pipe;put pipe pack;draw}
+
+#alias {oxc} {open chest;examine chest}
+
+#alias hp {#tick hp {info HP: %z/%Z, Mana: %e/%E, Moves: %j/%J} 10}
+#alias unhp {#untick hp}
+
+#alias gg {#gag {^$}}
+#alias ugg {#ungag {^$}}
+
+#alias idle {#ticker idle {prac} 60}
+#alias unidle {#unticker idle}

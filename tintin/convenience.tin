@@ -2,8 +2,6 @@
 
 #action {^The tanner gives you a wolfskin wristband.$} {give fur tanner}
 
-#alias {craw} {get pan backpack; get salt backpack; cook raw; put pan backpack; put salt backpack; put meat backpack}
-
 #action { n:%w} {#tab %1}
 #action { s:%w} {#tab %1}
 #action { e:%w} {#tab %1}
@@ -11,8 +9,6 @@
 #action { u:%w} {#tab %1}
 #action { d:%w} {#tab %1}
 
-#alias hp {#tick hp {info HP: %z/%Z, Mana: %e/%E, Moves: %j/%J} 10}
-#alias unhp {#untick hp}
 #action {^You go to sleep.$} {hp}
 #action {^You lie down on the bed and go to sleep.$} {hp}
 #action {^You wake, and sit up.$} {unhp; stand}
@@ -24,49 +20,10 @@
 #alias rep {info REPORT: HP: %z/%Z, Mana: %e/%E, Moves: %j/%J}
 #action {^REPORT: %+$} {#line gag;#echo emote reports '%1'}
 
-#highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
-#highlight {^The night has begun.$} {red reverse b white}
-#highlight {^The sun rises in the east.$} {red reverse b white}
-#highlight {^The day has begun.$} {red reverse b white}
-
-#highlight {^You gain a level!$} {blue reverse b white}
-
-#highlight {^You flee %*} {black b yellow}
-
-#nop HIGHLIGHT {^You hit %*} {bold green}
-#nop HIGHLIGHT {%* hits you%*} {bold red}
-#nop HIGHLIGHT {%* crushes you%*} {bold red}
-#nop HIGHLIGHT {%* smites you%*} {bold red}
-
-#highlight {^You feel a hidden presence.$} {light red}
-#highlight {^You have found %*!$} {light red}
-
-#highlight ZBLAM {light red}
-
-#highlight {^Orophin, %*$} {light blue}
-#highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
-#highlight {^Celebrindal, Lady of the Galadhrim, is before you%*$} {light blue}
-#highlight {^A dark-haired, grey-eyed elven lady is standing here, clad all in white.$} {light blue}
-#highlight {^A citizen-mercenary is here, waiting for a job.$} {light blue}
-#highlight {^A pair of tiny eyes gleam at you from the shadows.$} {light blue}
-#highlight {^An infusion of herbs gives out a nice scent.$} {light blue}
-#highlight {^The lonely giant sits on a stone and sings a mournful lay.$} {light blue}
-
 #alias {cp} {wield %1;crush %1;drawmyweapon}
 #action {^You have produced %* petals.$} {ph petals}
 #action {^You have produced %* leaves.$} {ph leaves}
 #action {^You have produced a sticky mass of stems, leaves and sap.$} {ph stems}
 
-#alias {oxc} {open chest;examine chest}
-
-#alias {lbow} {#echo {Switching to LONGBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw longbow;put bow backpack}
-#alias {sbow} {#echo {Switching to SHORTBOW.};remove case;put case backpack;get bow backpack;get quiver backpack;wear quiver;draw shortbow;put bow backpack}
-#alias {xbow} {#echo {Switching to CROSSBOW.};remove quiver;put quiver backpack;get crossbow backpack;get case backpack;wear case;draw crossbow;put bow backpack}
-
-#alias {smok} {get pipe pack;sheath;wield pipe;rest;smoke pipe;stand;remove pipe;put pipe pack;draw}
-
-#highlight {^A dot in the sky approaches quickly and seems to be some sort of very large bird!$} {red reverse b white}
-#highlight {^A loud, aggressive shriek echoes through the skies!$} {red reverse b white}
-#highlight {^The bird turns out to be a black, leathery beast that flies in a circle high above!$} {red reverse b white}
-#highlight {^The fast-moving beast starts a dive at you, but then turns and flies upwards again.$} {red reverse b white}
-
+#alias xpon {#class xp read tintin/xp.tin}
+#alias xpoff {#class xp kill}

@@ -31,6 +31,7 @@
 
 #config {COMMAND COLOR} <058>
 
+#read tintin/notify.tin
 #read tintin/windowbar.tin
 #read tintin/clock.tin
 #read tintin/rip.tin
@@ -39,27 +40,12 @@
 #read tintin/data-herbs.tin
 #read tintin/data-mobs.tin
 #read tintin/convenience.tin
+#read tintin/aliases.tin
+#read tintin/highlights.tin
 #read tintin/keymap.tin
 #read tintin/prompt.tin
 
-#alias gg {#gag {^$}}
-#alias ugg {#ungag {^$}}
 gg
-
-#alias idle {#ticker idle {prac} 60}
-#alias unidle {#unticker idle}
-
-#alias sellall {sell all.leather;sell all.shield;sell all.belt;sell all.pants;sell all.hood;sell all.chain;sell all.metal;sell all.sweapon;sell all.stweapon;sell all.cweapon;sell all.pweapon}
-
-#nop highlight {R.I.P.} {bold yellow}
-#nop highlight {^%* has arrived from %*.$} {bold yellow}
-#nop highlight {^A%? %w has arrived from %*.$} {bold yellow}
-#nop highlight {^A%? %w %w has arrived from %*.$} {bold yellow}
-#nop highlight {^A%? %w %w %w has arrived from %*.$} {bold yellow}
-#nop highlight {^%* leaves %w.$} {bold magenta}
-#nop highlight {^A%? %w leaves %w.$} {bold magenta}
-#nop highlight {^A%? %w %w leaves %w.$} {bold magenta}
-#nop highlight {^A%? %w %w %w leaves %w.$} {bold magenta}
 
 #read login
 

@@ -155,6 +155,7 @@ A vicious little bandit advances towards you.:
   trophy: A bandit
   level: 6
 An evil priest is here chanting and praying to some foul entity.:
+  level: 18?
   flags: sanc
 An elven lady is walking around here.:
 A coloured game bird is visible in the vegetation, watching you warily.:
@@ -388,6 +389,7 @@ An old wise druid is standing here. He looks very clever and savant.:
 An old woman is here, stirring a large round pot.:
 A black crow flies low to the ground here, looking for carrion to eat.:
 A giant slug is here, oozing around.:
+  level: 9?
 A cockroach is scuttling across the floor carrying some debris.:
 The gatekeeper stands here.:
 An opossum stands here, sniffing around the ground.:
@@ -577,6 +579,7 @@ A spirit floats around, making strange magical gestures.:
 A very large, hairy man is standing here, examining you carefully.:
 A very strong orkish leader is here on patrol.:
 A warrior of Goblin Gate stands menacingly before you.:
+  level: 11?
 A weary slave who has lost all hope sits here staring into space.:
 A wet, gilled reptile-like creature lurks in the water here.:
 An albino salamander is here, perched on some rocks.:
@@ -586,6 +589,7 @@ An officer of the Uruk-tarkhnarb stands before you.:
 An orc apprentice is here, going about his duties.:
 An orc assassin is hiding here, waiting for a victim to stab.:
 An orc-guard is on patrol here.:
+  level: 12?
 An orc is slinking around trying to look inconspicuous.:
   level: 7
   trophy: A snaga orc

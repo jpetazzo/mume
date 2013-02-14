@@ -1,0 +1,42 @@
+#highlight ZBLAM {light red}
+
+#highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
+#highlight {^The night has begun.$} {red reverse b white}
+#highlight {^The sun rises in the east.$} {red reverse b white}
+#highlight {^The day has begun.$} {red reverse b white}
+
+#highlight {^You gain a level!$} {blue reverse b white}
+
+#nop highlight {R.I.P.} {bold yellow}
+#nop highlight {^%* has arrived from %*.$} {bold yellow}
+#nop highlight {^A%? %w has arrived from %*.$} {bold yellow}
+#nop highlight {^A%? %w %w has arrived from %*.$} {bold yellow}
+#nop highlight {^A%? %w %w %w has arrived from %*.$} {bold yellow}
+#nop highlight {^%* leaves %w.$} {bold magenta}
+#nop highlight {^A%? %w leaves %w.$} {bold magenta}
+#nop highlight {^A%? %w %w leaves %w.$} {bold magenta}
+#nop highlight {^A%? %w %w %w leaves %w.$} {bold magenta}
+
+#highlight {^You flee %*} {black b yellow}
+
+#nop HIGHLIGHT {^You hit %*} {bold green}
+#nop HIGHLIGHT {%* hits you%*} {bold red}
+#nop HIGHLIGHT {%* crushes you%*} {bold red}
+#nop HIGHLIGHT {%* smites you%*} {bold red}
+
+#highlight {^You feel a hidden presence.$} {light red}
+#highlight {^You have found %*!$} {light red}
+
+#highlight {^Orophin, %*$} {light blue}
+#highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
+#highlight {^Celebrindal, Lady of the Galadhrim, is before you%*$} {light blue}
+#highlight {^A dark-haired, grey-eyed elven lady is standing here, clad all in white.$} {light blue}
+#highlight {^A citizen-mercenary is here, waiting for a job.$} {light blue}
+#highlight {^A pair of tiny eyes gleam at you from the shadows.$} {light blue}
+#highlight {^An infusion of herbs gives out a nice scent.$} {light blue}
+#highlight {^The lonely giant sits on a stone and sings a mournful lay.$} {light blue}
+
+#highlight {^A dot in the sky approaches quickly and seems to be some sort of very large bird!$} {red reverse b white}
+#highlight {^A loud, aggressive shriek echoes through the skies!$} {red reverse b white}
+#highlight {^The bird turns out to be a black, leathery beast that flies in a circle high above!$} {red reverse b white}
+#highlight {^The fast-moving beast starts a dive at you, but then turns and flies upwards again.$} {red reverse b white}

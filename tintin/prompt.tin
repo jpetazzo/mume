@@ -5,6 +5,9 @@
 #var {prompt_fighter2} {}
 #var {prompt_fighters} {}
 #var {prompt_fighting} {false}
+#var {prompt_hp} {}
+#var {prompt_mana} {}
+#var {prompt_move} {}
 
 #var {re_terrain} {([^ ]+)}
 #var {re_movement} {( [CcSsRrW]+)?}
@@ -42,8 +45,11 @@
         #nop &7 = mount;
         #nop &8 = fight1;
         #nop &9 = fight2;
-        #var {prompt_fighter1} {&8};
-        #var {prompt_fighter2} {&9};
+	#if {"$prompt_hp" != "&4"} {#var prompt_hp {&4};notify &4};
+	#if {"$prompt_mana" != "&5"} {#var prompt_mana {&5};notify &5};
+	#if {"$prompt_move" != "&6"} {#var prompt_move {&6};notify &6};
+	#if {"$prompt_fighter1" != "&8"} {#var prompt_fighter1 {&8};notify &8};
+	#if {"$prompt_fighter2" != "&9"} {#var prompt_fighter2 {&9};notify &9};
         #if {"$prompt_fighter1" != ""} {
             #var prompt_fighting true;
             #var prompt_fighters {<499>$prompt_fighter1<099> <499>$prompt_fighter2<099>}
