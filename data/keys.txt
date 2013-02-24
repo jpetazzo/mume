@@ -86,7 +86,7 @@
 [0]a tiny silver key		1 of 2 doors up from knight in rdell	Cirdan		__unknown_a_tiny_silver_key__
 [ ]a tiny stonekey 	stonedoor+prisondoor, Barbaras castle	prisonguard		You barely notice a tiny stonekey on the floor.
 [rd]a twisted iron key		irondoor, entrance to BW	spirit-soldier at GC	An iron key, strangely wrought, lies here.
-[ ]a twisted root		wall, Ferny			Ferny			A small twisted root is sticking out of the ground here.
+[ ]a small twisted root		wall, Ferny			Ferny			A small twisted root is sticking out of the ground here.
 [ ]a very rusty key		gate, nobleman east of tharbad	nobleman		A very rusty key lies here, crumbling into dust.
 [r]a wooden key 		secret, treevillage		woman-archer		A wooden key has been left here.
 
