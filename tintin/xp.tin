@@ -1,15 +1,28 @@
-#alias comeback {#delay xpmore {%1;bx} 3}
-#action {(x) has arrived from the} {#undelay xpmore;bx}
+#alias fleeback {
+    flee;
+    #alias comeback {#delay xpmore {%%1;xx} %1}
+}
+#action {(x) has arrived from the} {
+    #undelay xpmore;
+    xx
+}
 #action {^You flee north.$} {comeback south}
 #action {^You flee south.$} {comeback north}
 #action {^You flee east.$} {comeback west}
 #action {^You flee west.$} {comeback east}
 #action {^You flee up.$} {comeback down}
 #action {^You flee down.$} {comeback up}
-#action {avoids your bash, you topple over and lose your balance.$} {flee}
-#action {^Your bash at %* sprawling.$} {#delay xpmore {flee} 6}
+
+#nop bash flee
+#action {avoids your bash, you topple over and lose your balance.$} {fleeback 3}
+#action {^Your bash at %* sprawling.$} {#delay xpmore {fleeback 3} 6}
+
+#nop shoot flee
+#action {^You* shoot %*(x)%*} {fleeback 0}
+#action {dodges your attempt to shoot} {fleeback 0}
+
 #action {^You receive your share of experience.} {#undelay xpmore;gac}
 #action {^You don't see any x here.$} {notify %0}
 #action {^Your victim has disappeared!$ {notify %0}}
 #action {(x) panics, and attempts to flee.} {}
-#action {(x) leaves %w.} {%1;bx}
+#action {(x) leaves %w.} {%1;xx}

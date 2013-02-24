@@ -18,12 +18,14 @@
 #action {^Maybe you should get on your feet first?$} stand
 
 #alias rep {info REPORT: HP: %z/%Z, Mana: %e/%E, Moves: %j/%J}
-#action {^REPORT: %+$} {#line gag;#echo emote reports '%1'}
+#action {^REPORT: %+$} {#line gag;emote reports '%1'}
 
 #alias {cp} {wield %1;crush %1;drawmyweapon}
 #action {^You have produced %* petals.$} {ph petals}
 #action {^You have produced %* leaves.$} {ph leaves}
 #action {^You have produced a sticky mass of stems, leaves and sap.$} {ph stems}
+
+#action {%* seems to be blinded!$} {#delay 90 {#echo {<019>%1 was blinded 90s ago.<099>}}}
 
 #alias xpon {#class xp read tintin/xp.tin}
 #alias xpoff {#class xp kill}
