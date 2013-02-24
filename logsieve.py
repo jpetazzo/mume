@@ -1,21 +1,52 @@
 #!/usr/bin/env python
 import fnmatch, re, string, sys, yaml
 
+
 ignore_lines = set()
 ignore_prefixes = set()
 ignore_suffixes = set()
 ignore_factors = set()
-ignore_globs = set()
+ignore_compiled = list()
+
+
+elements = dict(
+    mob = set(),
+    Mob = set(),
+    possessive = set(('his','her','its')),
+    object = set()
+    )
+
 
 data_mobs = yaml.load(open('data/mobs.yml'))
-ignore_lines |= set(mob.replace('|','')
-                    for mob in data_mobs)
+for k,v in data_mobs.items():
+    if '|' in k:
+        trophy = k.split('|')[0]
+        inroom = k.replace('|','')
+    else:
+        trophy = v and v.get('trophy')
+        inroom = k
+    ignore_lines.add(inroom)
+    if trophy:
+        elements['mob'].add(trophy.lower())
+        elements['Mob'].add(trophy)
+
 
 data_herbs = yaml.load(open('data/herbs.yml'))
 ignore_prefixes |= set(herb['description'].split('(')[0].strip() for herb in data_herbs)
 
+
 data_objects = yaml.load(open('data/objects.yml'))
-ignore_lines |= set(data_objects)
+for k,v in data_objects.items():
+    if '|' in k:
+        ininv = k.split('|')[0].lower()
+        inroom = k.replace('|','')
+    else:
+        ininv = v
+        inroom = k
+    ignore_lines.add(inroom)
+    if ininv:
+        elements['object'].add(v)
+
 
 def match_combat_line(line):
     # This is very crude for now.
@@ -64,12 +95,18 @@ def match_combat_line(line):
         return True
     return False
 
+
 for line in open('data/lines.txt'):
     line = line.strip()
     if not line:
         continue
-    if '*' in line[1:-1]:
-        ignore_globs.add(line)
+    if '*' in line[1:-1] or '<' in line:
+        # FIXME: we might have to call re.escape()!
+        regex = line.replace(r'*','.*')
+        for element in elements:
+            regex = regex.replace('<'+element+'>',
+                                  '(?P<'+element+'>.*)')
+        ignore_compiled.append(re.compile(regex))
         continue
     if line[0] == '*' and line[-1] == '*':
         ignore_factors.add(line[1:-1])
@@ -82,8 +119,6 @@ for line in open('data/lines.txt'):
         continue
     ignore_lines.add(line)
 
-ignore_regexes = set(re.escape(g).replace(r'\*','.*') for g in ignore_globs)
-ignore_compiled = set(re.compile(r) for r in ignore_regexes)
 
 for line in sys.stdin:
     if line[0] not in string.uppercase:
@@ -101,11 +136,16 @@ for line in sys.stdin:
         continue
     if any(factor in line for factor in ignore_factors):
         continue
-    #if any(fnmatch.fnmatch(line, glob) for glob in ignore_globs):
-    #    continue
-    #if any(re.match(regex, line) for regex in ignore_regexes):
-    #    continue
-    if any(regex.match(line) for regex in ignore_compiled):
+    match = None
+    for regex in ignore_compiled:
+        match = regex.match(line)
+        if match:
+            groups = match.groupdict()
+            for element in groups:
+                if groups[element] not in elements[element]:
+                    print '<{0}> {1}'.format(element, groups[element])
+            break
+    if match:
         continue
     if match_combat_line(line):
         continue
