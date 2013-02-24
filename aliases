@@ -24,6 +24,12 @@ alias ur uncover ruby
 
 alias plp put all.lembas backpack
 alias glp get all.lembas backpack
+alias psp put all.sack backpack
+alias gsp get sack backpack
+alias gkc get all.key all.corpse
+alias pkk put all.key keyring
+alias gkk get all.key keyring
+alias pas put all sack
 
 alias loot get all.& all.corpse
 alias ga get all
