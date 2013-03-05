@@ -29,3 +29,6 @@
 
 #alias xpon {#class xp read tintin/xp.tin}
 #alias xpoff {#class xp kill}
+
+
+#action {^Aldereon says 'Tell me, do you agree to this?'$} {say yes}
