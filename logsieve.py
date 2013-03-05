@@ -13,7 +13,11 @@ elements = dict(
     mob = set(),
     Mob = set(),
     possessive = set(('his','her','its')),
-    object = set()
+    object = set(),
+    color = set(),
+    Race = set(('Elf', 'Dwarf', 'Half-Elf', 'Orc')),
+    fromdir = set(('from the north', 'from the south', 'from the west',
+                   'from the east', 'from above', 'from below'))
     )
 
 
@@ -35,6 +39,12 @@ data_herbs = yaml.load(open('data/herbs.yml'))
 ignore_prefixes |= set(herb['description'].split('(')[0].strip() for herb in data_herbs)
 
 
+data_keys = yaml.load(open('data/keys.yml'))
+for data_key in data_keys:
+    ignore_lines.add(data_key.get('roomdesc'))
+    elements['object'].add(data_key.get('invdesc'))
+
+
 data_objects = yaml.load(open('data/objects.yml'))
 for k,v in data_objects.items():
     if '|' in k:
@@ -45,7 +55,7 @@ for k,v in data_objects.items():
         inroom = k
     ignore_lines.add(inroom)
     if ininv:
-        elements['object'].add(v)
+        elements['object'].add(ininv)
 
 
 def match_combat_line(line):
@@ -143,7 +153,7 @@ for line in sys.stdin:
             groups = match.groupdict()
             for element in groups:
                 if groups[element] not in elements[element]:
-                    print '<{0}> {1}'.format(element, groups[element])
+                    print '<{0}> {1!r}'.format(element, groups[element])
             break
     if match:
         continue

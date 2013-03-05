@@ -30,11 +30,11 @@
 [ ]a dirty stone key		floor/ceiling, 2h-axe Eregion	chest, some s/e/d	A dirty key of stone has been dropped here.
 [ ]an ebony key			1 of 2 doors up from knight in rdell	Elrond		A shiny ebony key has been left here.
 [ ]an engraved silver ring 	crypt, near WC			WC			An engraved silver ring lies here.
-[ ]an engraved stone key	irondoor to overseer under trapdoor, Overseer	A stone key with some strange runes lies here.
+[ ]an engraved stone key	irondoor, Overseer		Overseer?	A stone key with some strange runes lies here.
 [r]a Fornost city key		Fornost gates			guards			A large, precious-looking key lies here.
 [ ]a fragile stone key		stonedoor, Unqalome		random mob in zone	A fragile-looking stone key lies here.
 [ ]a glass key			flagstone, DK			DK			A glassy key with an ebon handle lies here.
-[ ]a granite key inlaid with wood chest, Eregion 2 statues	statue			A stone key, inlaid with wood, lies here.
+[ ]a granite key inlaid with wood	   chest, Eregion 2 statues	statue			A stone key, inlaid with wood, lies here.
 [ ]a great bone key		trapdoor, Balrog rings key	whirlpool		A great key, carved from bone, rests here.
 [ ]a green iron key		prisondoor, NOC vellum place	olog-hai		An iron key with a green surface has been left here.
 [ ]a green key			halldoor, Eregion		hunter			A green key lies here, barely visible on the ground.
@@ -73,7 +73,7 @@
 [ ]a small copper key		granite, Unqalome		pile of rocks		A small copper key lies here.
 [!]a small iron key		carpet/slab, to mda chest	Overseer		An iron key has been left here.
 [!]a small iron key		chest, Illusionist + x-door, trolls	wraith		A small iron key has been left here.
-[ ]a small key carved from ebony board + grating at Necro	Necro			A black key lies here.
+[ ]a small key carved from ebony	board + grating at Necro		Necro			A black key lies here.
 [!]a small silver key		AM quest item + AM chest	Malardil		A small key made of silver is lying here.	(con: It weighs half a pound.)
 [!]a small silver key 		blackdoor, Sage's treasury	Sage			A small silver key is glittering in the dirt.
 [ ]a small steel key		slab, Unqalome			fungus			A small steel key lies here.

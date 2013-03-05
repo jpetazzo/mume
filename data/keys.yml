@@ -1,0 +1,553 @@
+# Flags:
+# d = decays after use
+# D = decays with time
+# r = rentable
+# ! = another key has same name/description
+# 0 = info is incomplete
+-
+  invdesc: an ancient dwarven key
+  exit: flagstone
+  location: circlet chest
+  loads: packrat
+  roomdesc: An ancient key of dwarven manufacture lies here.
+  flags: d
+-
+  invdesc: an ancient key
+  exit: stoneslab
+  location: lww smugglers
+  loads: chief of smugglers
+  roomdesc: An old looking key lies here.
+-
+  invdesc: an ancient silver key
+  exit: book
+  location: OiE
+  loads: Elrond/Sage
+  roomdesc: An ancient silver key is lying here, giving off a faint glimmer.
+  flags: d
+-
+  invdesc: a bent bone key
+  exit: stonedoor
+  location: silver bracer
+  loads: lurg leader d crack
+  roomdesc: A slightly bent bone key lies here in the dust.
+-
+  invdesc: a big metal key
+  exit: oakendoor
+  location: Rohir tower
+  loads: guards
+  flags: 0
+-
+  invdesc: a big stonekey
+  exit: stonedoor
+  location: BBT
+  loads: BBT
+  roomdesc: A big, heavy stonekey has been left here.
+-
+  invdesc: a black and silver key
+  exit: slab
+  location: Old Wight
+  loads: wight-warrior
+  roomdesc: A black and silver key is lying here.
+-
+  invdesc: a black bonekey
+  exit: door
+  location: Nagrorh
+  loads: Nagrorh
+  roomdesc: An eerie black key made of bone lies on the floor.
+-
+  invdesc: a black key
+  exit: portcullis
+  location: LB fort
+  loads: guards
+  roomdesc: A black key has been left on the floor.
+-
+  invdesc: a black metal key
+  exit: towerdoor
+  location: ABR tower
+  loads: guards
+  roomdesc: A black key made of metal lies here.
+-
+  invdesc: a black stone key
+  exit:
+  location: panels at great wheels
+  loads: commanding orc, wgate
+  roomdesc: A black stone key, apparently to a dwarven lock, lies here.
+-
+  invdesc: a blood-stained key
+  exit: rack
+  location: OOC
+  loads: orc torturer
+  roomdesc: A metal key, stained brown by drained blood has been dropped here.
+-
+  invdesc: a bloody key
+  exit: door/gorydoor
+  location: Mezagor
+  loads: Mezagor
+  roomdesc: A small copper key, covered with blood, rests here.
+-
+  invdesc: a blue steel-key
+  exit: minedoor
+  location: Dunland mines
+  loads: liche
+  roomdesc: A blue steel-key of dwarven make has been left here.
+-
+  invdesc: a brass key
+  exit: metaldoor
+  location: bandit leader
+  loads: bandit leader
+  roomdesc: A brass key has been left here.
+-
+  invdesc: a bright steel key
+  exit:
+  location: grille behind panels (wheels)
+  loads: commanding orc, wgate
+  roomdesc: An untarnished steel key lies here.
+-
+  invdesc: a castle key
+  exit: irondoor
+  location: Malardils castle
+  loads: rogue/Malardil
+  roomdesc: A heavy iron key with a large handle has been left here.
+-
+  invdesc: a chained silver key
+  exit: joist
+  location: AM treasury
+  loads: AM
+  roomdesc: A small silver key with a fine silver chain has been left here.
+-
+  invdesc: a City Key
+  exit:
+  location: Tharbad gates
+  loads: guards
+  roomdesc: A big City Key is lying here.
+  flags: r
+-
+  invdesc: a copper key
+  exit: grate
+  location: pipeweed smugglers
+  loads: experienced smuggler
+  roomdesc: A copper key has been left on the ground.
+-
+  invdesc: a crude metal key
+  exit: metaldoor
+  location: Filthy
+  loads: large earth troll
+  roomdesc: A crudely wrought metal key has been carelessly left here.
+-
+  invdesc: a decayed ironkey
+  exit: sconce
+  location: BW treasury
+  loads: BW
+  roomdesc: A very battered ironkey has been dropped here.
+-
+  invdesc: a dirty key
+  exit: trapdoor
+  location: bandit leader
+  loads: thug at bandit leader
+  roomdesc: A dirty key lies on the ground.
+-
+  invdesc: a dirty stone key
+  exit: floor/ceiling
+  location: 2h-axe Eregion
+  loads: chest, some s/e/d
+  roomdesc: A dirty key of stone has been dropped here.
+-
+  invdesc: an ebony key
+  exit:
+  location: 1 of 2 doors up from knight in rdell
+  loads: Elrond
+  roomdesc: A shiny ebony key has been left here.
+-
+  invdesc: an engraved silver ring
+  exit: crypt
+  location: near WC
+  loads: WC
+  roomdesc: An engraved silver ring lies here.
+-
+  invdesc: an engraved stone key
+  exit: irondoor
+  location: Overseer
+  loads: Overseer?
+  roomdesc: A stone key with some strange runes lies here.
+-
+  invdesc: a Fornost city key
+  exit:
+  location: Fornost gates
+  loads: guards
+  roomdesc: A large, precious-looking key lies here.
+  flags: r
+-
+  invdesc: a fragile stone key
+  exit: stonedoor
+  location: Unqalome
+  loads: random mob in zone
+  roomdesc: A fragile-looking stone key lies here.
+-
+  invdesc: a glass key
+  exit: flagstone
+  location: DK
+  loads: DK
+  roomdesc: A glassy key with an ebon handle lies here.
+-
+  invdesc: a granite key inlaid with wood
+  exit: chest
+  location: Eregion 2 statues
+  loads: statue
+  roomdesc: A stone key, inlaid with wood, lies here.
+-
+  invdesc: a great bone key
+  exit: trapdoor
+  location: Balrog rings key
+  loads: whirlpool
+  roomdesc: A great key, carved from bone, rests here.
+-
+  invdesc: a green iron key
+  exit: prisondoor
+  location: NOC vellum place
+  loads: olog-hai
+  roomdesc: An iron key with a green surface has been left here.
+-
+  invdesc: a green key
+  exit: halldoor
+  location: Eregion
+  loads: hunter
+  roomdesc: A green key lies here, barely visible on the ground.
+-
+  invdesc: a heavy iron key
+  exit: door
+  location: Drain Pipe
+  loads: great orc
+  roomdesc: A large key of black iron is lying here.
+-
+  invdesc: a heavy steel key
+  exit: stonedoor/rockface
+  location: OOC
+  loads: Gumak
+  roomdesc: A rather heavy-looking steel key lies on the ground.
+-
+  invdesc: a huge iron key
+  exit: steeldoor/leaddoor
+  location: Shaghosh
+  loads: Shaghosh
+  roomdesc: A large iron key is lying here on the ground.
+-
+  invdesc: an icy key
+  exit: all doors
+  location: Balrog treasury
+  loads: Balrog
+  roomdesc: A slender key almost escapes your notice.
+  flags: D
+-
+  invdesc: an intricate steel key
+  exit:
+  location: Umuk's chest (bda)
+  loads: orc behind greydoor
+  roomdesc: A steel key with a complex set of notches has been left here.
+  flags: D
+-
+  invdesc: a jade-encrusted key
+  exit: archeddoor under hatch
+  location: Lorien
+  loads: in the quest medallion
+  roomdesc: A jade-encrusted key lies here.
+  flags: d
+-
+  invdesc: a Jail key
+  exit: jaildoor
+  location: Bree
+  loads: guard
+  roomdesc: A big iron key is lying here.
+  flags: r
+-
+  invdesc: a jewel-encrusted key
+  exit: jewelleddoor
+  location: Balrog rings key
+  loads: Bulag's treasury
+  roomdesc: A beautiful key, encrusted with jewels, lies here.
+-
+  invdesc: a key
+  exit: secret
+  location: smugglers south Bree
+  loads: Chief
+  roomdesc: A key is lying here.
+-
+  invdesc: a large key
+  exit: wall
+  location: Old Wight
+  loads: brigand on OER e Bree
+  roomdesc: A large steel key has been left here.
+-
+  invdesc: a large flint key
+  exit:
+  flags: 0
+-
+  invdesc: a metal and stone key
+  exit: cinderblock + tapestry
+  location: Eregion
+  loads: grey spider
+  roomdesc: An old looking key made of metal and stone has been left here.
+-
+  invdesc: a metal key
+  exit: Oakendoor
+  location: Necro
+  loads: Gahruuk/Necro
+  roomdesc: A small metal key has been dropped here.
+  flags: !
+-
+  invdesc: a metal key
+  exit: door
+  location: Tharbad chief
+  loads: Chief's 1.bodyguard
+  roomdesc: A small metal key has been dropped here.
+  flags: !
+-
+  invdesc: a mithril key
+  exit: mithrildoor
+  location: Balrog rings key
+  loads: Muranog's cabinet
+  roomdesc: A brilliant mithril key is here, shining brightly.
+-
+  invdesc: an old bronze key
+  exit: Wolfgate
+  location: NOC
+  loads: chieftain
+  roomdesc: A bronze key, covered with a green patina, lies here.
+-
+  invdesc: an old iron key
+  exit: rockdoor
+  location: GC
+  loads: wraith
+  roomdesc: An ancient key, wrought from iron, is barely seen here.
+-
+  invdesc: an old key
+  exit: chest
+  location: lord's treasury
+  loads: Wight-lord
+  roomdesc: A key has been left here.
+-
+  invdesc: an old ornate key
+  exit: sarcophagus
+  location: Dunland vellum
+  loads: stone statue
+  roomdesc: A small key cowered with dirt is lying here.
+-
+  invdesc: a polished copper key
+  exit: door + irondoor
+  location: DT
+  loads: guards
+  roomdesc: A polished copper key is here.
+-
+  invdesc: a rigid metal key
+  exit: trapdoor
+  location: GH Old Ruins
+  loads: bandit, Strange Shady
+  roomdesc: A metal key lies on the ground here.
+-
+  invdesc: a rusted iron key
+  exit: orcs dungeon
+  location: Dunland
+  loads: officer
+  flags: 0
+-
+  invdesc: a rusted key
+  exit: Cryptdoor
+  location: Old Wight
+  loads: Old Wight
+  roomdesc: A half broken rusted key has been left here.
+-
+  invdesc: a shining key
+  exit: archeddoors
+  location: Muranog's treasury
+  loads: Muranog
+  roomdesc: A key, shining like a star, lies on the ground.
+-
+  invdesc: a shop key
+  exit:
+  location: Tharbad shop key
+  loads: shopkeeper
+  roomdesc: A shop key is lying on the floor
+-
+  invdesc: a silvery key
+  exit: door
+  location: GC room
+  loads: GC
+  roomdesc: A key, made of perhaps tarnished silver, glints here.
+-
+  invdesc: a simple metal key
+  exit: cover
+  location: BM mines
+  loads: spiders
+  roomdesc: A key made of a light metal is lying here.
+-
+  invdesc: a skull key
+  exit: burialtrap
+  location: near Hillmen
+  loads: hillmen chief
+  roomdesc: A key shaped as a skull is lying here.
+-
+  invdesc: a slightly bent iron key
+  exit:
+  location: jade bracelet chest
+  loads: boil infested troll
+  roomdesc: A slightly bent iron key lies on the ground.
+-
+  invdesc: a slimy iron key
+  exit: vaultdoor
+  location: Icedoor
+  loads: 1 of 2 statues
+  roomdesc: A key made of iron lies on the ground.
+-
+  invdesc: a slimy metal key
+  exit:
+  location: 3 irondoors in Shaghosh area
+  loads: lurg leader at Shaghosh
+  roomdesc: A metal key covered with some green slime.
+-
+  invdesc: a small brass key
+  exit:
+  roomdesc: A small brass key lies here.
+  flags: 0
+-
+  invdesc: a small copper key
+  exit: granite
+  location: Unqalome
+  loads: pile of rocks
+  roomdesc: A small copper key lies here.
+-
+  invdesc: a small iron key
+  exit: carpet/slab
+  location: to mda chest
+  loads: Overseer
+  roomdesc: An iron key has been left here.
+  flags: !
+-
+  invdesc: a small iron key
+  exit: chest
+  location: Illusionist + x-door, trolls
+  loads: wraith
+  roomdesc: A small iron key has been left here.
+  flags: !
+-
+  invdesc: a small key carved from ebony
+  exit:
+  location: board + grating at Necro
+  loads: Necro
+  roomdesc: A black key lies here.
+-
+  invdesc: a small silver key
+  exit:
+  location: AM quest item + AM chest
+  loads: Malardil
+  roomdesc: A small key made of silver is lying here.
+  flags: !
+-
+  invdesc: a small silver key
+  exit: blackdoor
+  location: Sage's treasury
+  loads: Sage
+  roomdesc: A small silver key is glittering in the dirt.
+  flags: !
+-
+  invdesc: a small steel key
+  exit: slab
+  location: Unqalome
+  loads: fungus
+  roomdesc: A small steel key lies here.
+-
+  invdesc: a small stone key
+  exit: stonelatch
+  location: Bulag's treasury
+  loads: Bulag
+  roomdesc: A small stone key lies here.
+-
+  invdesc: a square stone key
+  exit: force
+  location: Amon Othar
+  loads: beast
+  roomdesc: A stone key with square ends lies here.
+-
+  invdesc: a stonekey
+  exit: pillars
+  location: mattock armoury
+  loads: Mezagor
+  roomdesc: An old dwarven key made of stone has been left here.
+-
+  invdesc: a tarnished metal key
+  exit:
+  location: doors in VT
+  loads: guards
+  roomdesc: A polished copper key is here.
+-
+  invdesc: a tinted brass key
+  exit: door
+  location: gilded shield place
+  loads: crow
+  roomdesc: A brass key tinted with green spots has been left here.
+-
+  invdesc: a tiny bronze key
+  exit: Marbledoor
+  location: outcast
+  loads: nearby chest
+  roomdesc: A small key made of bronze lies here.
+-
+  invdesc: a tiny silver key
+  exit:
+  location: 1 of 2 doors up from knight in rdell
+  loads: Cirdan
+  flags: 0
+-
+  invdesc: a tiny stonekey
+  exit: stonedoor+prisondoor
+  location: Barbaras castle
+  loads: prisonguard
+  roomdesc: You barely notice a tiny stonekey on the floor.
+-
+  invdesc: a twisted iron key
+  exit: irondoor
+  location: entrance to BW
+  loads: spirit-soldier at GC
+  roomdesc: An iron key, strangely wrought, lies here.
+  flags: rd
+-
+  invdesc: a small twisted root
+  exit: wall
+  location: Ferny
+  loads: Ferny
+  roomdesc: A small twisted root is sticking out of the ground here.
+-
+  invdesc: a very rusty key
+  exit: gate
+  location: nobleman east of tharbad
+  loads: nobleman
+  roomdesc: A very rusty key lies here, crumbling into dust.
+-
+  invdesc: a wooden key
+  exit: secret
+  location: treevillage
+  loads: woman-archer
+  roomdesc: A wooden key has been left here.
+  flags: r
+-
+  invdesc: a metal key
+  exit: Oakendoor
+  location: Necro / door, Tharbad chief
+  loads: Gahruuk/Necro
+  roomdesc: A small metal key has been dropped here.
+  flags: !
+-
+  invdesc: a small iron key
+  exit: carpet/slab
+  location: to mda chest at Overseer / cheest, Illusionist + x-door, trolls
+  loads: Overseer
+  flags: !
+-
+  invdesc: a small silver key
+  exit: AM quest item + AM chest
+  loads: Malardil
+  flags: !
+- 
+  invdesc: a small silver key
+  exit: blackdoor
+  location: Sage's treasury
+  loads: Sage?
+  flags: !
