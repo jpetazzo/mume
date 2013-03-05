@@ -18,11 +18,15 @@
 #action {^Your bash at %* sprawling.$} {#delay xpmore {fleeback 3} 6}
 
 #nop shoot flee
-#action {^You* shoot %*(x)%*} {fleeback 0}
-#action {dodges your attempt to shoot} {fleeback 0}
+#action {^You%* shoot %*(x)%*} {fleeback 4}
+#action {dodges your attempt to shoot} {fleeback 4}
+#action {Aye! You cannot concentrate any more...} {fleeback 4}
 
 #action {^You receive your share of experience.} {#undelay xpmore;gac}
+#action {^Shoot whom?$} {recover}
 #action {^You don't see any x here.$} {notify %0}
 #action {^Your victim has disappeared!$ {notify %0}}
 #action {(x) panics, and attempts to flee.} {}
 #action {(x) leaves %w.} {%1;xx}
+#action {^You have found %*(x)!$} {xx}
+#action {^You feel a hidden presence.$} {search quick}
