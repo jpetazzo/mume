@@ -42,7 +42,7 @@
 #sub {A small pile of pungent red powder lies here} {%0 [Paprika (pepper), 7/1000]}
 #sub {A patch of moss grows here on a wet, flat stone} {%0 [Phosporescent moss, 15/500, nosell]}
 #sub {Some orange-red blossoms grow amid grey-green foliage} {%0 [Poppy (Moon), 10/4000]}
-#sub {A bright red mushroom is growing here} {%0 [Red (agaric) mushroom, 20/250]}
+#sub {A bright red mushroom is growing here} {%0 [Agaric, 20/250]}
 #sub {A detached red rose is lying here} {%0 [Red rose, 2/50, nosell]}
 #sub {A woody evergreen plant grows here, with many stems reaching upward} {%0 [Rosemary, 365/225]}
 #sub {A waist-high evergreen shrub grows here, with thick, reaching branches} {%0 [Sage (Salvei), loads: 2/100]}
@@ -62,3 +62,4 @@
 #sub {A tall shrub with strong-smelling foliage is growing here.} {%0 [elderberries, ?]}
 #sub {A sprawling green bush of stinging nettle grows here.} {%0 [nettle, ?]}
 #sub {A tall silvery plant grows here, surrounded by mist.} {%0 [mistyplant, ?]}
+#sub {A swamp iris grows here.} {%0 [Iris, ?]}
