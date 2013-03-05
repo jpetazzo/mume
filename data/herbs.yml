@@ -1,10 +1,13 @@
-#Some comments
-#
-#1) As usual plants/bushes/shrubs doesn't have keywords, but leaves/flowers/
-#petals have it.
-#2) To crush plant/flower/etc type "wield <plant>" and "crush <plant>".
-#3) (35/900) means Weight 35, Cost 900
-#===============================================================================
+# Some explanation:
+# - plants, bushes, and shrubs do not have keywords (so e.g. "get athelas"
+#   won't work to pick the plant), but leaves, flowers, petals, etc. will
+#   have keywords.
+# - to crush a plant, you have to "wield plant" and "crush plant".
+# - (2/700) means "weight=2, cost=700". The weight is in tens of grams,
+#   so 45 weight units = 1 pound. The cost is in copper pennies.
+# - plants, flowers, leaves, petals... can be sold at herbalists; but berries
+#   and mushrooms generally cannot. They can be sold at some "general stores"
+#   (like, I think, the small shop just east of GH).
 -
   name: Athelas
   description: A small plant grows here, with long, pointed leaves and flowers at its top (35/900)
@@ -89,7 +92,7 @@
   name: Comfrey
   description: A sturdy plant grows to a height of almost a yard (200/3600)
   crushed: a bulbous root (17/3600)
-  loads: Midnight Forest nw from the Ford
+  loads: Midnight Forest nw from the Ford; a bit west of Mewlip caves (north of Midgewater Marshes)
 -
   name: Coriander
   description: A man's-waist high evergreen shrub grows here, with bright green branches (1000/1000)
@@ -110,6 +113,7 @@
 -
   name: Figwort (Turtlehead)
   description: A tall plant grows here, with grey-green leaves and grey flowers (250/1750)
+  inventory: a tall, grey-green plant
   crushed: some grey petals (1/1750)
   location: Midgewater Marshes, on road to Tbad near Tbad, some SE of Khuzur, Lothlorien
   herblore: Antidote
@@ -138,7 +142,7 @@
 -
   name: Gooseberry preserve
   description: __unknown_gooseberry__ (0/0)
-  Inventory: some sticky gooseberry preserve (50/10)
+  inventory: some sticky gooseberry preserve (50/10)
   location: clay jar near Harlond; same jar in MA area
 -
   name: Grapes
@@ -148,7 +152,6 @@
   name: Green mushroom
   description: A small, sickly green mushroom grows here (20/2000)
   location: secret with shadow in BM; secret behind goblin leader in goblin caves
-  NB: There were other load spots, but they all nuked during poisons change
   herblore: Psylonia poison
 -
   name: Hemlock
@@ -227,11 +230,11 @@
 -
   name: Poppy (Moon)
   description: Some orange-red blossoms grow amid grey-green foliage (10/4000)
-  Inventory: some orange-red flowers
+  inventory: some orange-red flowers
   location: w from dt in FOY area; Misties east of Moria
   herblore: Drake-slumber poison
 -
-  name: Red (agaric) mushroom
+  name: Agaric
   description: A bright red mushroom is growing here (20/250)
   location: common
   herblore: Belladonna poison, Drake-slumber poison, Psylonia poison
@@ -244,7 +247,7 @@
 -
   name: Rosemary
   description: A woody evergreen plant grows here, with many stems reaching upward (365/225)
-  Inventory: a woody, many-stemmed plant
+  inventory: a woody, many-stemmed plant
   crushed: several needlelike leaves (2/200)
   location: BM area; Shire; White sands near road to Fornost; little east of Wuda; some s from Tbad; some e from marshes near Bree
   herblore: Seeing, Shadow, Skillful-oil
@@ -265,7 +268,7 @@
 -
   name: Tarragon (Estragon)
   description: A small evergreen plant grows here, its woody stems reaching two feet (20/450)
-  Inventory: a woody, stemmed plant
+  inventory: a woody, stemmed plant
   crushed: a handful of narrow leaves (2/450)
   location: at Oak trees; some s from road to GH; Shire; e from entrance to Wyrdda; some se of NOC; n3e2n from northern entrace to tall orc
   herblore: Travelling, Orkish draught
@@ -327,4 +330,6 @@
 -
   name: mistyplant
   description: A tall silvery plant grows here, surrounded by mist.
-  
+-
+  name: Iris
+  description: A swamp iris grows here.

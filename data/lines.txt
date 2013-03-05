@@ -21,10 +21,13 @@ You have enough money *
 * stores your stuff in the safe, and helps you into your chamber.
 * stores your stuff in the safe, and helps you to your retirement home.
 A steward stores your stuff in the safe and helps you into your chamber.
+* helps * into <possessive> private chamber.
 * disappears into the void.
 * has returned.
 * has entered the game.
 You have been idle, and are pulled into a void.
+Auto-save.
+Automatic reboot. Come back in a little while.
 Reconnecting.
 Ok. Changed label *
 Exactly whom did you wish to give a label?
@@ -66,6 +69,8 @@ Arglebargle, glop-glyf!?!
 Ok.
 Nothing.
 None.
+Nobody here by that name.
+No one by that name around here.
 You can't do that.
 You do not see anything like that.
 You can't do that here.
@@ -75,8 +80,6 @@ You are too exhausted to ride.
 
 You feel confused and move along randomly...
 
-You blink and feel weaker under the cruel light of the sun.
-
 It is pitch black...
 You are in a forest.
 Something is here.
@@ -84,8 +87,16 @@ You are in a city.
 You are on a road.
 You hold something.
 You light something.
+You are on a mountain.
 You are on a hill.
+You are in a forest, following a trail.
 You are in a field, following a trail.
+You are on a hill, following a trail.
+You are in a swamp, following a trail.
+You just see a dense fog around you...
+You are in brush.
+You are in a swamp.
+You are on a mountain, following a trail.
 You are inside.
 Something.
 Someone is here.
@@ -96,6 +107,9 @@ You are in a flat area.
 You can't find anything.
 You cannot see much in this light.
 
+You barely discern the form of <mob>.
+You barely notice <object> on the floor.
+
 Real time is *
 Last reboot due to *
 Last reboot after an automatic reboot at *
@@ -104,28 +118,33 @@ The present Tan Istar, Lord of the Istari Council is *
 
 You cannot guess the time indoors.
 Daylight is shining outside.
+It is the middle of the day.
+It is the middle of the afternoon.
+The sky is dark outside.
 It must be the middle of the night.
 It should be the end of the night soon.
 The sun is already high in the sky.
-It is the middle of the day.
-It is the middle of the afternoon.
+The sun is near its zenith, it's noon.
 The sun is slowly disappearing in the west.
 You can see a New Moon in the eastern part of the sky.
 You can see a Quarter Moon in the eastern part of the sky.
 You can see a Three-Quarter Moon in the eastern part of the sky.
+You can see a Three-Quarter Moon in the southern part of the sky.
 
 You don't feel well outside.
 You feel so much better hiding in the shadows!
+You blink and feel weaker under the cruel light of the sun.
 The day has begun. You feel so weak under the cruel light!
 The night has begun. You feel stronger in the dark!
 
 You start watching the surroundings.
 You see * moving away * to the *
 You see * moving close to the *
-You see * approaching * to the 
+You see * approaching * to the *
 You stop watching the surroundings.
 
 A cold hard wind lashes at your clothes, making it difficult to move.
+The raging wind almost sweeps you off your feet, but you manage to stand your ground.
 
 The ascent ahead seems quite easy to climb, while falling down might bruise you slightly.
 If you still want to try, you must 'climb' there.
@@ -140,6 +159,7 @@ You swim and manage to keep your head above water.
 You successfully tread water.
 You fail swimming, and feel weaker.
 Stiffness slowly works its way through your muscles.
+Your limbs begin to feel the effect of the swimming.
 You are drowning!
 You are borne along by a strong current.
 You are swept away by the current.
@@ -193,11 +213,12 @@ You can feel the progress with *
 Soon * will be as good as new!
 You are becoming very tired of mending, and lose your concentration just long enough *
 You are beginning to get * into decent shape.
-You have successfully mended *
-* starts mending *
-* will soon have made * as good as new.
-* is really showing some progress with *
-* has finished mending *
+You have successfully mended <object>!
+* starts mending <object>.
+* will soon have made <object> as good as new.
+* is really showing some progress with <object>.
+* has finished mending <object>!
+It is starting to look difficult to mend.
 
 You cannot camp in the city.
 You cannot camp while riding.
@@ -210,8 +231,7 @@ A warm fire lights the place.
 You gather wood and prepare a pyre.
 You set fire to the corpses.
 You set fire to the corpse.
-* stares at the light...
-
+<Mob> stares at the light...
 
 It's too difficult to ride here.
 You cannot ride there.
@@ -249,6 +269,14 @@ Jumping high, you land on another flet in the branches of a neighbouring tree.
 The rapid slide down the smooth expanse of the elven rope leaves you with a pleasant vertigo.
 As you pass, the feeling of enchantment fades from around you and the colours pale.
 The rocky terrain makes travelling difficult.
+Above the branches and leaves of the trees, a flare of lightning crosses the sky, lighting the trees up for a brief moment.
+A storm sweeps across the sky above the trees, and shattering sounds of lightning are heard in the distance.
+Suddenly, the sky clears. The storm has blown away.
+After a flash of lightning, a loud thunder is heard.
+Lightning lights the sky, followed by a rolling thunder.
+Lightning lights the sky, followed by a rolling thunder <fromdir>.
+The passage up the hill makes you breathe harder.
+You climb up the steep hillside.
 The slope is rocky, and very difficult to climb.
 Going down the ladder takes you into a dark cellar.
 Your travel up the crag is more difficult than if you were to travel down it.
@@ -324,12 +352,32 @@ Ecthelion wipes his brow.
 
 The evil power begins to regress...
 Arda seems to wither as an evil power begins to grow...
+Suddenly, a dark and sombre mist invades the sky. Despair settles on you!
+The sky suddenly clears. An auspicious sign!
+You feel stronger, as your Master's strength begins to grow...
 Shrouds of dark clouds roll in above you, blotting out the skies.
 
 The light begins to decrease.
 The light slowly increases in the east.
+Long shadows form on the eastern flank of Weathertop as the sun disappears.
+From across the plains in the east, the sun begins its journey into the sky.
+The Moon slowly sets behind the western plains.
+The moon slowly sinks below the western horizon.
+The silvery light of the rising moon catches your eye.
+The silvery moon dips below the western horizon.
+The sun rises, bathing the eastern flank of Weathertop in light.
+The sun rises beyond the Weather Hills, casting their long shadows over the plains.
+The sun slowly disappears beyond the flat horizon of the plains.
+The sun slowly sinks in a red haze over the Midgewater Marshes to the west.
+The sun peeks its head over a hill in the South Downs as the day begins.
+The sun rises above the city in the east.
+The setting moon sheds its last rays of light upon the land.
+Silvery sheens play about the face of the moon as it rises above the skyline.
+The pale light of the moon appears as it rises in the east.
+As the sun climbs lazily over the mountains, their snowy peaks shine brightly.
 The moon rises above Fornost Erain.
 The shimmering silhouette of the moon becomes visible in the northern skies.
+The first rays of the sun light up Weathertop to the west.
 The sun rises slowly over the Blue Mountains, signalling a new day.
 The sun gradually sinks below the western horizon.
 The sun is very high, it must be noon soon.
@@ -339,6 +387,7 @@ The sun rises over the Weather Hills to the east.
 The day has begun.
 The night has begun.
 The rays of the morning sun paint the fields with gold.
+The rain starts falling down harder, clashing upon the roofs and the streets.
 A heavy rain is pouring down upon the hillsides.
 Drops of a soft rain are falling through the many branches of the trees.
 The moon disappears beyond the western horizon.
@@ -392,6 +441,7 @@ You see some frost on the ground now.
 Lightning strikes across the sky, branching out above the hills.
 Rain is falling from the sky, crashing down upon the branches and the ground.
 The sun sinks below the jagged peaks of Ered Luin.
+Clouds gather in the sky, encircling the peaks of the mountains.
 Rain starts falling from the clouds above, forming puddles in the streets.
 Through the tree-branches, clouds can be seen collecting in the sky.
 Rain is dripping off the roofs of the nearby buildings.
@@ -452,6 +502,7 @@ The sun sinks slowly below the tops of the golden trees on its way to the lands 
 There is a lot of snow on the ground.
 You don't see any more snow here.
 The deepening gloom announces another sunset outside.
+The sun rises slowly above Bree Hill.
 Light gradually filters in, proclaiming a new sunrise outside.
 As daylight grows, the light of a silver lamp seems to grow dim, like the light of a star after the sunrise.
 
@@ -493,9 +544,11 @@ You peer across the water, but cannot locate an unoccupied ferry.
 The ferry has arrived.
 A grey ship is moored here.
 
+A large flat rock lies here, its surface etched with markings.
 A sturdy bed made from solid oak lies here, covered in warm blankets.
 A large and finely decorated harp of white marble has been built here.
 A fine marble chessboard with ivory and ebony pieces is set here.
+A huge clock is standing here.
 A mailbox stands here stuffed full of messages.
 A sturdy target for arrows, made out of thatch, stands here.
 A large bulletin board, entitled *
@@ -520,6 +573,7 @@ The large Well of Oss* is here, full of sparkling clear water.
 A black pond of water is here.
 A pool with many big pieces of ice floating in it is here.
 The babbling of a small brook gently washes through the room.
+A crumbling fountain is in the middle of the place.
 A small white fountain is here.
 A well-crafted white fountain is here, water pouring forth from it.
 A large fountain, made from grey stone, pours water from its centre.
@@ -555,6 +609,7 @@ A nest is here.
 There is a huge, pyramidal beehive here.
 A simple wooden chest is here.
 A dark stone chest sits on the ground.
+Some small rocks have been piled into a mound here.
 A large pile of boulders is sitting here, probably debris from a rockslide.
 A large cabinet capable of storing goods is here.
 A wooden chest stands in the corner.
@@ -567,6 +622,7 @@ Deep inside the bush, *
 On the bookshelf, *
 On the table, *
 Scattered in and on the shrub, *
+Partly covered by the bush's green leaves, *
 On the peg, *
 Standing in the rack *
 In the rack *
@@ -586,7 +642,9 @@ You can't seem to escape the roots!
 
 Cast what which where?
 Impossible! You can't concentrate enough.
+Alas, not enough mana flows through you...
 Sorry, you can't do that, you don't have any idea about it!
+Who should the spell be cast upon?
 You start to concentrate...
 You feel a strange power surrounding you.
 The ground seems to absorb your spell!
@@ -604,6 +662,11 @@ Your victim is already blind.
 Nothing happens.
 You feel stronger.
 You feel weaker.
+You start glowing.
+The white aura around your body fades.
+An energy begins to flow within your legs as your body becomes lighter.
+Your legs feel heavier.
+Your perception of magical auras wears off.
 You are surrounded by a misty shroud.
 You feel yourself exposed.
 You begin to feel the light of Aman shine upon you.
@@ -612,11 +675,19 @@ The light of Aman fades away from you.
 A strange feeling runs through your body.
 Your scratches and bruises disappear.
 A magic mushroom suddenly appears.
-* magically creates a mushroom.
+<Mob> magically creates a mushroom.
 <Mob> trembles as the poison runs through <possessive> veins.
 You feel very cold, strange...
 Your body is purged.
 You seem to have a low fever.
+A mild tremor shakes the ground.
+A moderate tremor shakes the ground.
+<Mob> creates a noxious cloud around you!
+You can feel the broken bones within you heal and reshape themselves.
+You feel bad.
+You feel really bad.
+You feel terribly sick.
+<Object> glows blue.
 
 You failed. You exhausted yourself trying to change your shape.
 Your vision gets troubled a while...
@@ -627,6 +698,7 @@ You can only transform into a Horse or an Eagle.
 You must have been sent to Arda to free it from the sorrows that weigh upon it.
 You are a firm believer in the values of Right and Wrong.
 You are a well-meaning person, always glad to help your friends.
+You are a balanced individual with little concern for good or evil.
 You are totally corrupted by the Evilness of Morgoth!
 
 You have failed the Istari Quest.
@@ -653,6 +725,7 @@ ACK! *
 You are now a member of * group.
 You transfer group leadership to *
 Group disbanded.
+* disbands <possessive> group.
 * has been kicked out of the group!
 What group?!
 You will not follow anyone else now.
@@ -678,10 +751,12 @@ It is * (*, *).
 * can be wielded two-handed.
 * can be wielded either one- or two-handed.
 It is * while attacking and * while defending; its speed is *, and it inflicts * damage upon hitting.
+Its accuracy is *, its speed *, and it causes * damage.
 It weighs * ounce.
 It weighs * ounces.
 It weighs * pound.
 It weighs * pounds.
+It radiates a magical aura.
 You buy *
 You sell *
 You now have *
@@ -694,13 +769,14 @@ You have produced *
 You don't see *
 * drinks water from *
 * drinks some water.
-You fill * with some *
-* sells *
+You fill <object> with some *
+<Mob> sells *
+<Mob> buys *
+<Mob> shows <object> to *
 
-* is a*male Dwarf.
-* is a*male Elf.
-You are a male *
-You are a female *
+* is a*male <Race>.
+You are a male <Race>.
+You are a female <Race>.
 You have played *
 This ranks you as *
 Perception: *
@@ -716,6 +792,7 @@ Offensive Bonus: *
 OB: *
 Needed: *
 Your armour provides an average protection of *
+You are not wearing any armour.
 You are * years* old.
 You are * and weigh *.
 You can choose between *
@@ -723,13 +800,14 @@ You will be known as *
 Title now incognito.
 
 You see nothing special about *
-* is in an excellent condition.
-* has a few scratches.
-* has some small bruises.
-* has several bruises.
-* has some big nasty scratches.
-* is in very bad shape.
-* looks pretty hurt.
+<Mob> is in an excellent condition.
+<Mob> has a few scratches.
+<Mob> has some small bruises.
+<Mob> has several bruises.
+<Mob> has some big nasty scratches.
+<Mob> is in very bad shape.
+<Mob> looks pretty hurt.
+<Mob> is in awful condition.
 
 * is an Elf*
 * is a Dwarf.
@@ -766,7 +844,12 @@ You will not train in this skill anymore.
 You suddenly realise that your knowledge of * has totally faded away!
 You will try to improve your *
 You are going to neglect your *
+<Mob> mumbles to *self.
 
+For a successful backstab you need to be wielding a suitable weapon.
+Backstab whom?
+You begin to move silently to the back of your victim...
+Oops, your victim seems to have sensed a danger!
 * panics, and attempts to flee.
 * panics, but can't stop fighting to flee.
 You stop your fleeing attempts.
@@ -807,18 +890,30 @@ A metal-cased bolt breaks.
 * seems to have recovered his senses.
 * seems to have recovered her senses.
 * seems to have recovered its senses.
-* bleeds from open wounds.
-* is shaken with spasm as the venom enters * body!
+<Mob> bleeds from open wounds.
 * death cry as it collapses.
 * death cry as he collapses.
 * death cry as she collapses.
-You hear a death cry from *
-* disappears into nothing.
-* is mortally wounded and will die soon if not aided.
-* is incapacitated and will slowly die, if not aided.
-* is stunned and will probably die soon.
-* dies from lack of blood.
+You hear a death cry from <Mob>.
+<Mob> disappears into nothing.
+<Mob> is mortally wounded and will die soon if not aided.
+<Mob> is incapacitated and will slowly die, if not aided.
+<Mob> is stunned and will probably die soon.
+<Mob> dies from lack of blood.
 <Mob> is dead! R.I.P.
+A shadow slowly rises above the corpse of <mob>.
+<Mob> is shaken with spasm as the venom enters <possessive> body!
+With a sudden wave some of the polluted water is sprinkled on you.
+With a sudden wave you swallow some of the polluted water.
+Your body trembles as you fight the poison running through your veins.
+The venom enters your body!
+The venom reaches the vital organs!
+The venom runs into your veins!
+Your body turns numb as the poison speeds to your brain!
+Rest while fighting? Are you MAD?
+You feel sleepy.
+You feel better.
+A warm feeling runs through your body, you feel better.
 You need a pouch and a slingstone in it.
 You need a quiver and an arrow in it.
 You search the surroundings for your *
@@ -854,14 +949,11 @@ The wound is now bound up.
 * starts tending * wounds.
 * successfully binds * wound.
 
+As you finish reading it, <object> crumbles to dust.
 
 * has suddenly arrived.
-* has arrived from the west.
-* has arrived from the east.
-* has arrived from the north.
-* has arrived from the south.
-* has arrived from below.
-* has arrived from above.
+* has arrived <fromdir> riding <mob>.
+* has arrived <fromdir>.
 * leaves west.
 * leaves east.
 * leaves north.
@@ -897,10 +989,12 @@ You can't do that while someone is riding him.
 * catches * by surprise.
 You feel a hidden presence.
 You smell blood.
-You see * sneaking into a hiding place.
+You see <mob> sneaking into a hiding place.
 You have revealed *
 You have found *
+You discover that <mob> has <possessive> hands in your purse.
 
+You can only practice in a guild.
 You do not seem to be able to practice now.
 You need to be more experienced before practicing this skill further.
 You have to stand in order to practice anything.
@@ -910,7 +1004,7 @@ You are too inexperienced in this Art to practice in this Guild.
 * to reach the next level.
 * movement points.
 
-* has been left here.
+<Object> has been left here.
 You open a moneybag, carefully trying not to spill its contents.
 Absolutely nothing!
 * coins in a moneybag.
@@ -937,9 +1031,12 @@ You begin to try to pick the lock...
 The lock finally yields to your skill.
 You failed to pick the lock.
 You seem to be unable to pick this lock.
+You can't seem to spot any keyholes.
 But it's already open!
 It's already open!
 They're already open!
+The crack is filled with a bright light.
+The exit south blurs for a while.
 * unlocks the *
 * locks the *
 * tries to bash *
@@ -966,7 +1063,7 @@ You call for the * to be opened.
 You wait, but there is no hint of activity from the other side.
 * looks you over.
 * looks you and your group over.
-* calls for the * to be opened.
+<Mob> calls for the * to be opened.
 You call out, trying to gain passage to an unseen entrance.
 You have the uneasy impression that a pair of unseen eyes are scrutinising you.
 You hear a *click* in a lock.
@@ -991,12 +1088,7 @@ You find a hidden pressure plate and push it.
 * leaves south riding *
 * leaves up riding *
 * leaves down riding *
-* has arrived from the west riding *
-* has arrived from the east riding *
-* has arrived from the north riding *
-* has arrived from the south riding *
-* has arrived from above riding *
-* has arrived from below riding *
+* has arrived <fromdir> riding *
 * sessions in this skill. *
 
 * waves.
@@ -1006,6 +1098,7 @@ A fragrant-smelling bag contains nothing.
 You pick *
 You place * on a*
 You put * in a*
+You put * on your keyring.
 You get <object> from *
 You get <object>.
 You can't find a *
@@ -1015,7 +1108,8 @@ You can't take *
 You have no *
 That would be an interesting topological experiment.
 * won't fit in *
-You make * drop his belongings.
+You make <mob> drop <possessive> belongings.
+* makes <mob> drop <possessive> belongings.
 * is now empty.
 There is no room for more.
 It's full of a clear liquid.
@@ -1023,14 +1117,16 @@ You pour some * into *
 * pours some * into *
 * gets <object> from *
 * gets <object> from the corpse of <mob>.
-* puts * in a*
-<Mob> drops a*
+* puts <object> in a*
+<Mob> drops <object>.
 * holds a *
 * gets <object>.
 
 You light a* lantern.
 * lights a* lantern.
 * snuffs a* lantern.
+You dim the light of your ruby.
+You make your ruby shine brightly.
 Your light has gone out.
 Your light is becoming faint...
 The light of * is becoming faint...
@@ -1038,6 +1134,7 @@ The light of * has gone out.
 * completely fills a lantern with oil.
 You need oil to fill *
 You completely fill a lantern with oil.
+You completely fill something with oil.
 You completely fill a lantern with oil, emptying a dark coloured flask.
 You pour all your remaining oil into *
 There is enough oil for *
@@ -1045,6 +1142,7 @@ It's about half full of a black liquid.
 There is no oil left.
 It's more than half full of a black liquid.
 The lamp-lighter lights a street-lamp.
+An elven lamplighter lights a street-lamp.
 * snuffs a street-lamp.
 
 Wield what?
@@ -1064,6 +1162,7 @@ You wear * about your *
 You cover your arms with *
 You fasten * on your arm, becoming very impressive.
 You fasten * on your belt.
+You hang * across your back.
 You take * off the *
 You put * on your back.
 You put * over your shoulder.
@@ -1095,24 +1194,28 @@ It fits you well.
 * wears * about * body.
 * puts * around * wrist.
 * wears * about * waist.
-* puts * feet in *
+* puts <possessive> feet in <object>.
 * puts * finger with delicacy.
-* binds * on * arm.
-* puts * on * belt.
-* hangs * across * back.
-* puts * on * back.
-* puts * over * shoulder.
-* covers * arms with *
+* binds <object> on <possessive> arm.
+* puts <object> on <possessive> belt.
+* hangs <object> across <possessive> back.
+* puts <object> on <possessive> back.
+* puts <object> over <possessive> shoulder.
+* covers <possessive> arms with <object>.
 
 A half-decayed corpse of a goblin lies rotting on the ground.
 A rotten corpse is hanging here.
 
+A skull is here, spiked to the end of a pole.
+
 The corpse of *
 The butchered corpse of *
 You need a knife to do that.
-You start butchering the corpse of *
-You start butchering the remains of *
+You start butchering the corpse of <mob>.
+You start butchering the remains of <mob>.
 You stop butchering the corpse.
+* starts butchering the corpse of <mob>.
+* finishes butchering the corpse.
 You can't butcher that.
 You don't manage to produce anything.
 You produce *
@@ -1133,6 +1236,7 @@ The current time is *
 
 Narrate? Yes! Fine! Narrate we must, but WHAT?
 You agree with *
+You apologise to Arda for your very existence!
 You sink deep into your heart, trying to forgive yourself.
 You beckon for * to follow you.
 You flutter your eyelashes coquettishly at *
@@ -1163,22 +1267,31 @@ You tip your hat.
 You wave.
 You whistle appreciatively.
 You wiggle your bottom.
-* beckons for everyone to follow her.
-* beckons for everyone to follow him.
+* apologises to Arda for <possessive> very existence!
+* beckons for * to follow her.
+* beckons for * to follow him.
+* doesn't want * to follow him.
+* bows deeply.
 * bows before you.
 * throws back his head and cackles with insane glee!
 * shows his approval by clapping his hands together.
 * shows her approval by clapping her hands together.
 * chuckles politely.
+* comforts you.
 * curtseys to you.
 * dances around with *
+* loses control and drools all over *self.
 * gasps in astonishment.
 * giggles.
 * grins evilly, showing his teeth.
+* grins at you.
 * hugs *
+* falls down laughing.
+* licks you.
 * starts moaning.
 * nods solemnly.
 * pats <mob> on <possessive> head.
+<Mob> looks around him.
 * pokes * in the ribs.
 * ponders life, the universe, and everything.
 * spanks you on your butt. Is it your birthday?
@@ -1196,13 +1309,16 @@ You wiggle your bottom.
 * tips his hat.
 * tips her hat.
 * thinks till it hurts.
+* patiently twiddles <possessive> thumbs.
+* waves good-bye to you.
 * yawns.
 * yawns and stretches * limbs.
 
-* the Elf*, wielding *, is *ing here*.
-* the Dwarf*, wielding *, is *ing here*.
-* the Woman*, wielding *, is *ing here*.
-* the Man*, wielding *, is *ing here*.
+* the Elf*, wielding <object>, is *ing here*.
+* the Dwarf*, wielding <object>, is *ing here*.
+* the Woman*, wielding <object>, is *ing here*.
+* the Man*, wielding <object>, is *ing here*.
+<Mob>, wielding <object>, is *ing here*.
 
 Rumil the Master Bard of Lothl*rien is here smiling gently.
 Arwen Und*miel stands here in radiant beauty.
@@ -1241,34 +1357,60 @@ This letter should be delivered to *
 You bend close to the ground, seeking the path to Rivendell...
 At last Rivendell is within sight!
 
+You befriended the lonely giant and visited his home in the Hills of Faraway.
+You found the lost daughter of a Shire shopkeeper and brought her home safely.
+You have only been in *
+You have visited all major parts of the known world, but some not too thoroughly.
+You have visited all major parts of the known world except *
+You recovered the antique dagger sought by the Bree weaponsmith.
+You recovered Buttercup, the favourite cow of Beorning farmer Ocher.
+You went between the Grey Havens and Rivendell in *
+You went between Fornost and Tharbad in *
+
 You feel a slight tremor in your blade.
 
 News of a sudden attack on the Dark Tower reaches your ears.
 The loud booming of drums echoes through the tunnels.
 A single loud drum roll signals the end of the attack on the guardian.
+Loud drum rolls echo through the tunnels, signalling that the guardian of the well is being attacked!
 
-* eats *
-* is sitting here.
-* is resting here.
-* is standing here.
+<Mob> eats <object>.
+<Mob> is sitting here.
+<Mob> is resting here.
+<Mob> is standing here.
 * is sitting here, trying to fight *
 * is here, resting on *
 * is here *, riding *
 * is here, riding *
 * is here, fighting *
-* is lying here, stunned.
-* is lying here, incapacitated.
-* is lying here, mortally wounded.
-* is sleeping here.
-* is standing here looking for missiles.
-* is standing here picking a lock.
+
+<Mob> is lying here, stunned.
+<Mob> is lying here, incapacitated.
+<Mob> is lying here, mortally wounded.
+<Mob> is sleeping here.
+<Mob> is standing here looking for missiles.
+<Mob> is standing here picking a lock.
 * and * are here.
 <Mob> is here.
 
+<Mob> carefully examines the ground around him, looking for tracks...
+<Mob> examines the terrain intently.
 A mercenary is here, following his employer.
 A citizen mercenary taps you on the shoulder.
+A citizen mercenary taps * on <possessive> shoulder.
+A citizen mercenary leaves and goes to seek another employer.
 
 A guard steps in front of you.
+A Zaugurz uruk prevents you from going past him.
+The icy grasp of a shadow blocks your attempt!
+A hideous phantom explodes from the night, chilling your soul with a scream of horrible delight!
+A dreadful cackling comes from the shadows that twist and swirl around you from every direction.
+
+he cart quickly picks up speed, the wheels making a screeching noise against the iron rails.
+Twisting and turning, the cart makes its way further down, faster and faster into the mountain.
+Racing at an insane speed, the cart makes a sharp turn, barely staying on the rails.
+The cart crashes into a large cave, detached from the rails. You are hurled out of the cart and end up crashing into a rock wall. All of a sudden the world has come to a halt around you.
+An old, sturdy mine cart stands here on the end of a pair of iron rails.
 
 *.Exits/emulated:*
 
