@@ -500,7 +500,7 @@
   exit: stonedoor+prisondoor
   location: Barbaras castle
   loads: prisonguard
-  roomdesc: You barely notice a tiny stonekey on the floor.
+  roomdesc: You barely notice a tiny stone key on the floor.
 -
   invdesc: a twisted iron key
   exit: irondoor
