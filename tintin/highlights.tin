@@ -26,6 +26,7 @@
 
 #highlight {^You feel a hidden presence.$} {light red}
 #highlight {^You have found %*!$} {light red}
+#highlight {^You feel less protected.$} {light red}
 
 #highlight {^Orophin, %*$} {light blue}
 #highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
@@ -35,6 +36,9 @@
 #highlight {^A pair of tiny eyes gleam at you from the shadows.$} {light blue}
 #highlight {^An infusion of herbs gives out a nice scent.$} {light blue}
 #highlight {^The lonely giant sits on a stone and sings a mournful lay.$} {light blue}
+#highlight {^A tall and majestic oak tree grows here, surveying the lands about it.$} {light blue}
+#highlight {^A cowled sorcerer, in dark robes, gestures when he sees you.$} {light blue}
+
 
 #highlight {^A dot in the sky approaches quickly and seems to be some sort of very large bird!$} {red reverse b white}
 #highlight {^A loud, aggressive shriek echoes through the skies!$} {red reverse b white}
