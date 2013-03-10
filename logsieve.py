@@ -13,11 +13,15 @@ elements = dict(
     mob = set(),
     Mob = set(),
     possessive = set(('his','her','its')),
+    subject = set(('he','she','it')),
     object = set(),
-    color = set(),
+    color = set(('clear', 'violet', 'black')),
     Race = set(('Elf', 'Dwarf', 'Half-Elf', 'Orc')),
     fromdir = set(('from the north', 'from the south', 'from the west',
-                   'from the east', 'from above', 'from below'))
+                   'from the east', 'from above', 'from below')),
+    door = set(),
+    gauge = set(('full',)),
+    unknown = set()
     )
 
 
@@ -88,7 +92,8 @@ def match_combat_line(line):
         if ' fails to '+verb[0]+' ' in line:
             return True
     other_verbs = [
-        ' burns ', ' sinks its fangs into ', ' avoids being bashed by ',
+        ' burns ', ' cries \'Elbereth Gilthoniel\' and makes ',
+        ' sinks its fangs into ', ' avoids being bashed by ',
         ' sprawling with a powerful bash.', ' tries a kick at ',
         ' who deftly avoids the ', ' is corroded by a splash of acid.',
         ' howls in pain as the claws of ', ' with its poisonous fangs.',
