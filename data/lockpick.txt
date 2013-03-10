@@ -28,6 +28,9 @@ easy to steal his own picks after getting your picks upgrade or pouch ;) Like
 4) Dwarven Locksmith (dwarf only).
    Price - pure Truesilver: a piece of mithril (silvery metal), mithril key
    (Muranog cabinet) or shining mail piece. White chain doesn't fit!
+   How to obtain: go to BM underground city, to the dwarf who sells picks.
+   Give him a piece of mithril. He will thank you, and ask you to give him
+   your picks. Give him your picks, and wait until he gives them back to you.
    Description: The lockpicks are extremely well tempered.
 
 5) Kraksh the Orcish Scout Guildmaster (orc only).
