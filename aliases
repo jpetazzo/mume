@@ -8,10 +8,11 @@ alias xp examine backpack
 alias xm examine moneybag
 
 alias evg eat vegetable
+alias efr eat fruit
+alias emr eat mushroom
 alias dw drink water
 alias ds drink skin
-alias df drink flagon
-alias pw pour water skin
+alias pws pour water skin
 alias pwf pour water flagon
 
 alias gop get all.oil backpack
@@ -71,8 +72,11 @@ alias ls draw longsword
 
 alias gas get all all.shrub
 alias rr reveal root
+alias rn reveal necklace
+alias rc reveal chain
 alias wp wield plant
 alias cp crush plant
+alias sr seek rivendell
 
 alias sq search quick
 alias rq reveal quick
@@ -109,6 +113,12 @@ alias qd cast quick 'dispel evil'
 
 alias ksd knock sturdydoor
 alias oaw open archway
+alias otb open thornbushes
+alias ctb close thornbushes
+alias obu open bushes
+alias cbu close bushes
+alias ovg open vegetation
+alias cvg close vegetation
 
 alias ca change mood aggr
 alias cw change mood wimp
@@ -119,4 +129,9 @@ alias 20 change wimpy 20
 alias 30 change wimpy 30
 alias 40 change wimpy 40
 alias 50 change wimpy 50
+alias 60 change wimpy 60
+alias 70 change wimpy 70
+alias 80 change wimpy 80
+alias 90 change wimpy 90
+alias 100 change wimpy 100
 
