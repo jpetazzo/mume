@@ -70,6 +70,7 @@ Easy.
 You could do it with a needle!
 The next blow might be deadly.
 
+Olle Grylle Bolle Bylle?!?
 Arglebargle, glop-glyf!?!
 Ok.
 Nothing.
@@ -83,6 +84,8 @@ Sorry, but you cannot do that here!
 You cannot go that way...
 You see nothing special...
 You are too exhausted to ride.
+
+You can't do this sitting!
 
 You feel confused and move along randomly...
 
@@ -144,17 +147,19 @@ You blink and feel weaker under the cruel light of the sun.
 The day has begun. You feel so weak under the cruel light!
 The night has begun. You feel stronger in the dark!
 
-You stop watching the Fords of Isen and the surrounding plains.
 You start watching the surroundings.
 You see * moving away * to the *
 You see * moving close to the *
 You see * approaching * to the *
 You stop watching the surroundings.
+You stop watching the Fords of Isen and the surrounding plains.
+You stop watching Nan Curunír.
 
 A cold hard wind lashes at your clothes, making it difficult to move.
 The raging wind almost sweeps you off your feet, but you manage to stand your ground.
 
 The ascent ahead seems quite easy to climb, while falling down might bruise you slightly.
+The ascent ahead seems quite difficult to climb, while falling down might bruise you slightly.
 The ascent ahead seems impossible to climb, while falling down might be deadly.
 If you still want to try, you must 'climb' there.
 You carefully try to walk on the frozen water.
@@ -300,8 +305,10 @@ Climbing the ladder takes you up into the ruins.
 The steep hillside quickly drains your energy.
 Man-high thorny bushes shift behind you as you enter the small valley.
 Moving up the slope is really hard.
+Your mount changes pace slightly as the ground rises to south.
 You ease your mount down the steep hillside into the deep forest.
 Your mount finds travelling the high grass rather tiring.
+Step by step you make your way down an elegant flight of stairs.
 Moving down the slope is tiresome.
 You carefully climb up the tree, using its branches for support.
 Straight like an arrow, the white stair leads up the slope.
@@ -392,6 +399,7 @@ The moon appears in the sky, illuminating the landscape with its pale light.
 The moon rises above the Misty Mountains in the east.
 The moon slowly disappears into the hazy horizon.
 The moon slowly slides down below the plains in the west.
+The morning sun rises over the grass-filled lands.
 The red globe of the sun rises above the plains to the east.
 The silvery moonlight disappears, as the moon descends below the horizon.
 The shadows are fading as a bright yellow disc slowly rises over the eastern plains.
@@ -571,6 +579,7 @@ The crystal orb shines here providing a bright beacon for approaching ships.
 A finely crafted crystal lamp is hanging from a tree branch.
 There is an old street-lamp on the border of the street.
 A finely crafted crystal lamp is here.
+Some delicate brass lamps are attached to the walls here.
 A brass lantern has been set on the ground.
 A white-painted bench is here.
 
@@ -726,6 +735,7 @@ Your victim has disappeared!
 Your victim is already blind.
 Nothing happens.
 You feel stronger.
+The duration of the strength spell has been improved.
 You feel weaker.
 You have a righteous feeling!
 You feel less righteous.
@@ -744,6 +754,7 @@ A blue transparent wall slowly appears around you.
 You feel less protected.
 A strange feeling runs through your body.
 Your scratches and bruises disappear.
+You begin to see scars fade away and a feeling of health comes over you.
 A magic mushroom suddenly appears.
 <Mob> magically creates a mushroom.
 <Mob> trembles as the poison runs through <possessive> veins.
@@ -935,6 +946,7 @@ Who do you want to assist?
 Bash what or whom?
 Bash someone already bashed? Aren't we funny?
 You cannot bash someone you aren't fighting!
+You encounter nothing but air.
 You're already fighting!
 That really HURT!
 You are wracked with overwhelming PAIN!
@@ -1451,8 +1463,10 @@ You found the lost daughter of a Shire shopkeeper and brought her home safely.
 You have only been in *
 You have visited all major parts of the known world, but some not too thoroughly.
 You have visited all major parts of the known world except *
+You have visited all parts of the known world except *
 You recovered the antique dagger sought by the Bree weaponsmith.
 You recovered Buttercup, the favourite cow of Beorning farmer Ocher.
+You obtained a new wood axe for woodcutter Jeraton, so that he can make a living.
 You went between the Grey Havens and Rivendell in *
 You went between Fornost and Tharbad in *
 
@@ -1492,13 +1506,33 @@ A citizen mercenary leaves and goes to seek another employer.
 The sombre air extinguishes your light!
 Your light suddenly blazes back to life!
 
+You carefully insert the amethyst into the etched recess.
+The amethyst briefly glows a fiery red before fading back to normal.
+Two shimmering silvery lines begin to form the intricate outline of an arched doorway.
+The doors swing silently outward inch by inch until they lay back against the wall.
+No sooner have you opened the bronze doors than they begin swinging shut of their own accord.
+No sooner have you opened the silvery doors than they begin swinging shut of their own accord.
+The two bronze doors swing closed with a resounding thud.
+The two silvery doors swing closed with a resounding thud.
+You carefully detach the amethyst from the etched recess.
+
 A guard steps in front of you.
 A Zaugurz uruk prevents you from going past him.
 The icy grasp of a shadow blocks your attempt!
 A hideous phantom explodes from the night, chilling your soul with a scream of horrible delight!
 A dreadful cackling comes from the shadows that twist and swirl around you from every direction.
+Suddenly the angle of the shaft becomes too steep for you to remain in control and you are sent tumbling down recklessly.
 
-he cart quickly picks up speed, the wheels making a screeching noise against the iron rails.
+As you start to winch, you see the basket approach.
+You struggle with the rope.
+The basket comes to a stop, hitting the railing of the balcony.
+With a jerk, the basket starts gliding down the rope towards the platform.
+The basket is moving towards the platform below.
+The basket slowly comes to a stop just above the platform.
+The basket suddenly starts moving upwards towards the balcony.
+You hear a low whining in the rope above, the basket must be moving downwards.
+
+The cart quickly picks up speed, the wheels making a screeching noise against the iron rails.
 Twisting and turning, the cart makes its way further down, faster and faster into the mountain.
 Racing at an insane speed, the cart makes a sharp turn, barely staying on the rails.
 The cart crashes into a large cave, detached from the rails. You are hurled out of the cart and end up crashing into a rock wall. All of a sudden the world has come to a halt around you.

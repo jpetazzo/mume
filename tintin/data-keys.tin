@@ -1,5 +1,5 @@
 #sub {^A slender key almost escapes your notice.$} {%0 [D, all doors, Balrog treasury, Balrog]}
-#sub {^A metal key, stained brown by drained blood has been dropped here.$} {%0 [rack, OOC, orc torturer]}
+#sub {^A black key made of metal lies here.$} {%0 [towerdoor, ABR tower, guards]}
 #sub {^A large, precious-looking key lies here.$} {%0 [r, Fornost gates, guards]}
 #sub {^An eerie black key made of bone lies on the floor.$} {%0 [door, Nagrorh, Nagrorh]}
 #sub {^A small key made of silver is lying here.$} {%0 [AM quest item + AM chest, Malardil]}
@@ -9,23 +9,22 @@
 #sub {^A key is lying here.$} {%0 [secret, smugglers south Bree, Chief]}
 #sub {^A jade-encrusted key lies here.$} {%0 [d, archeddoor under hatch, Lorien, in the quest medallion]}
 #sub {^A black stone key, apparently to a dwarven lock, lies here.$} {%0 [panels at great wheels, commanding orc, wgate]}
+#sub {^You barely notice a tiny stone key on the floor.$} {%0 [stonedoor+prisondoor, Barbaras castle, prisonguard]}
 #sub {^A rather heavy-looking steel key lies on the ground.$} {%0 [stonedoor/rockface, OOC, Gumak]}
 #sub {^A metal key covered with some green slime.$} {%0 [3 irondoors in Shaghosh area, lurg leader at Shaghosh]}
 #sub {^An iron key with a green surface has been left here.$} {%0 [prisondoor, NOC vellum place, olog-hai]}
 #sub {^A great key, carved from bone, rests here.$} {%0 [trapdoor, Balrog rings key, whirlpool]}
 #sub {^A small iron key has been left here.$} {%0 [chest, Illusionist + x-door, trolls, wraith]}
 #sub {^A small silver key is glittering in the dirt.$} {%0 [blackdoor, Sage's treasury, Sage]}
-#sub {^A very battered ironkey has been dropped here.$} {%0 [sconce, BW treasury, BW]}
 #sub {^An engraved silver ring lies here.$} {%0 [crypt, near WC, WC]}
 #sub {^A stone key with square ends lies here.$} {%0 [force, Amon Othar, beast]}
 #sub {^A small brass key lies here.$} {%0 [0]}
-#sub {^You barely notice a tiny stonekey on the floor.$} {%0 [stonedoor+prisondoor, Barbaras castle, prisonguard]}
 #sub {^An ancient silver key is lying here, giving off a faint glimmer.$} {%0 [d, book, OiE, Elrond/Sage]}
 #sub {^A large iron key is lying here on the ground.$} {%0 [steeldoor/leaddoor, Shaghosh, Shaghosh]}
 #sub {^A stone key, inlaid with wood, lies here.$} {%0 [chest, Eregion 2 statues, statue]}
 #sub {^A small metal key has been dropped here.$} {%0 [Oakendoor, Necro, Gahruuk/Necro; door, Tharbad chief, Chief's 1.bodyguard; Oakendoor, Necro / door, Tharbad chief, Gahruuk/Necro]}
 #sub {^A green key lies here, barely visible on the ground.$} {%0 [halldoor, Eregion, hunter]}
-#sub {^A black key made of metal lies here.$} {%0 [towerdoor, ABR tower, guards]}
+#sub {^A very battered ironkey has been dropped here.$} {%0 [sconce, BW treasury, BW]}
 #sub {^A big, heavy stonekey has been left here.$} {%0 [stonedoor, BBT, BBT]}
 #sub {^A small stone key lies here.$} {%0 [stonelatch, Bulag's treasury, Bulag]}
 #sub {^A slightly bent iron key lies on the ground.$} {%0 [jade bracelet chest, boil infested troll]}
@@ -44,6 +43,7 @@
 #sub {^A black key lies here.$} {%0 [board + grating at Necro, Necro]}
 #sub {^A steel key with a complex set of notches has been left here.$} {%0 [D, Umuk's chest (bda), orc behind greydoor]}
 #sub {^A dirty key lies on the ground.$} {%0 [trapdoor, bandit leader, thug at bandit leader]}
+#sub {^A metal key, stained brown by drained blood, has been dropped here.$} {%0 [rack, OOC, orc torturer]}
 #sub {^A small silver key with a fine silver chain has been left here.$} {%0 [joist, AM treasury, AM]}
 #sub {^An old dwarven key made of stone has been left here.$} {%0 [pillars, mattock armoury, Mezagor]}
 #sub {^A bronze key, covered with a green patina, lies here.$} {%0 [Wolfgate, NOC, chieftain]}

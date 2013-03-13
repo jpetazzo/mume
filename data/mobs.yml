@@ -75,6 +75,7 @@ An ancient fungus smothers the boulders.:
   level: 5
 The mother wolf stands here, protecting her young cubs.:
   trophy: A mother wolf
+  level: 7
 A giant termite| is here, crushing skulls and bones.:
   level: 11
 A large elk gazes coldly at you, chewing on a small branch.:
@@ -619,7 +620,8 @@ A small boar with big yellow tusks looks eager to fight.:
   level: 6
 A wild dog| bares his yellow fangs at you.:
 The elongated shape of a stoat can be seen darting across the terrain.:
-A mother eagle flies high above looking for prey.:
+A mother eagle| flies high above looking for prey.:
+  level: 19
 A tall birch is here, watching over the landscape.:
 An angry bee is here, collecting nectar from all the flowers of the garden.:
 Rumil the Master Bard of Lothlórien is here smiling gently.:
@@ -981,3 +983,36 @@ The darkened figure of a once noble being lingers here.:
 A cowled sorcerer, in dark robes, gestures when he sees you.:
 A fierce-looking eel lurks in the darkness.:
 A filthy looking man stares back at you from the shadows.:
+Bill Ferny is watching you with suspicious eyes.:
+  level: 17?
+Big John is swiftly moving around, hiding in the shadows.:
+  trophy: Big John, the chief brigand
+An old wight is standing here, ready to fight.:
+  level: 17?
+Nagrorh the Abomination is looking at you with flaming red eyes.:
+  flags: sanc
+  level: 20
+  trophy: Nagrorh
+A frightful spectre comes to you, extending his unnatural arms.:
+A tall, thin ghost paces the room, looking about malevolently.:
+The ghostly form of a young woman stands here in despair.:
+Quickbeam the Ent is swaying gently and humming to himself.:
+A sleek silver ferret darts from place to place.:
+A young girl is smiling at life.:
+A young hinny is playing around.:
+A weak old man, with long hair and beard, clad in noble yet torn clothes.:
+A snowy-white egret stands here alertly.:
+A tall and haughty elm stands here.:
+A tall muscular farmer stands here, working hard.:
+A Rohir outrider roams about, seeking out invaders.:
+An old hobbit, wrinkled with age and a bit pudgy, leans on a walking-stick.:
+An imposing beech tree sways gently in the wind.:
+An Isengard guard quietly hums an old battle hymn.:
+An obsessed man searches the surroundings.:
+An ash tree with mottled bark stands here apparently guarding its surroundings.:
+A large extending poplar tree with dark branches grows here.:
+A hairy black spider wraps up a silken package with her hind legs.:
+A giant and ancient yew stands here quite eerily.:
+A dwarven statue stands poised before the silverydoor.:
+A Dunlending herdsman in ragged leather stands here, watching over his herd.:
+A mouse sniffs around, searching for a morsel of food.:
