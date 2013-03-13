@@ -77,7 +77,7 @@
   exit: rack
   location: OOC
   loads: orc torturer
-  roomdesc: A metal key, stained brown by drained blood has been dropped here.
+  roomdesc: A metal key, stained brown by drained blood, has been dropped here.
 -
   invdesc: a bloody key
   exit: door/gorydoor
