@@ -201,6 +201,15 @@ room with another person and give ranger the item. He won't give you the quest
 ("I will not speak of this in front of other people" - or smth similar). You
 have to show up alone and ask ranger herblore to finally get it and complete
 the quest.
+  Some people claim that you have about 1 MUME year (1 RL week) to complete
+the quest. You probably have longer than that. One of my chars kept the quest
+for 10 days. However, the requirements for the quests depend on your level.
+It means that if you gain a level, and don't have enough travel points, the
+ranger might tell you that he doesn't want to teach you his lore anymore.
+This happened to one of my characters: in a 10 minutes time span, the ranger
+didn't want to teach him anymore, just because I gained a level.
+  You can check the status of the quest (which objects are expected, and to
+see if the ranger still considers you as OK) with "ask ranger quest".
 
   Reward: Travelling herblore.
 
@@ -240,6 +249,7 @@ with blood.
 
 
 12) Ost-in-Edhil quest (anyone, any level)
+  Note: Elrond will give you the quest only if you are level 21+ it seems.
   Location: Eregion, s from Hollin at cliffs
   Quest: Both darkies and whities can solve this quest, thus I will write
 solutions for both sides. Whities get the quest from Elrond, darkies from the
