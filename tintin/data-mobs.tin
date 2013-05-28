@@ -1,13 +1,15 @@
 #sub {^A warrior of Goblin Gate stands menacingly before you.$} {%0 [11?] }
 #sub {^A giant slug is here, oozing around.$} {%0 [9?] }
+#sub {^A mountain goat is here, jumping from cliff to cliff.$} {%0 [4?] }
 #sub {^A great wolf with coal-black eyes stares intently at you, drooling saliva.$} {%0 [15] }
 #sub {^A hungry-looking giant lizard is slithering towards you.$} {%0 [12] }
 #sub {^A goat is here, grazing in the hills.$} {%0 [3] }
-#sub {^A mountain goat is here, jumping from cliff to cliff.$} {%0 [4?] }
 #sub {^A spirit floats towards you and howls with an evil laughter.$} {%0 [12] }
 #sub {^A black wolf pads restlessly, looking for its next prey.$} {%0 [7?] }
 #sub {^A brown bear is sleeping here.$} {%0 [12] }
+#sub {^A sturdy bandit bodyguard stands here, eager to hack you to pieces.$} {%0 [8-] }
 #sub {^A tree-snake lies wrapped around one of the tree branches.$} {%0 [6] }
+#sub {^A large elk is standing here, chewing grass and leaves.$} {%0 [8] }
 #sub {^A huge black fungus is here, exuding a foul stench.$} {%0 [10] }
 #sub {^An ancient spirit, dressed in the arms of a soldier, challenges you.$} {%0 [15] }
 #sub {^A fierce boar is here, making grunting noises.$} {%0 [8] }
@@ -16,9 +18,10 @@
 #sub {^A brown cow is here, contemplating a higher reality whilst chewing slowly.$} {%0 [4] }
 #sub {^A large ram guards his flock of sheep.$} {%0 [5] }
 #sub {^An ancient fungus smothers the boulders.$} {%0 [5] }
-#sub {^Some roots lie here waiting to ensnare weary travellers.$} {%0 [12] }
 #sub {^A large rough-looking man walks towards you, eyeing you critically.$} {%0 [14] }
+#sub {^A small, naked humanoid creature glares at you.$} {%0 [16] }
 #sub {^A huge, poisonous spider is here.$} {%0 [9?] }
+#sub {^Some roots lie here waiting to ensnare weary travellers.$} {%0 [12] }
 #sub {^A disgusting forest troll is searching for fresh meat here.$} {%0 [10?] }
 #sub {^A large sturgeon swims slowly along the bottom.$} {%0 [12?] }
 #sub {^A diamond-back rattlesnake is coiled here, ready to strike.$} {%0 [15] }
@@ -29,6 +32,7 @@
 #sub {^A bear is here, covered with coarse black fur.$} {%0 [13] }
 #sub {^A great dark-grey horse stamps restively.$} {%0 [10] }
 #sub {^The huge ice-demon looks at you once, growls, and lunges to attack.$} {%0 [19?] }
+#sub {^A war-weary wight-warrior is standing here.$} {%0 [16?] }
 #sub {^A mountain lioness pads quietly through the terrain.$} {%0 [12?] }
 #sub {^A mean looking robber is here, demanding money from you.$} {%0 [12] }
 #sub {^A crazed dwarf is here, drooling down his beard.$} {%0 [19] }
@@ -42,11 +46,9 @@
 #sub {^Some thick writhing vines whip all around you.$} {%0 [13?] }
 #sub {^A Shirriff stands here, keeping a watchful eye on things.$} {%0 [15] }
 #sub {^A large brown snake with black patches is coiled here.$} {%0 [9] }
-#sub {^A sturdy bandit bodyguard stands here, eager to hack you to pieces.$} {%0 [8-] }
 #sub {^An old, withered tree looms above the path.$} {%0 [16] }
 #sub {^A dark intangible shadow turns to face you.$} {%0 [16] }
 #sub {^A shade is here, shrouded in an inky blackness.$} {%0 [19] }
-#sub {^The chief of smugglers is here, planning his next move.$} {%0 [15?] }
 #sub {^A powerful ram stands here, poised and alert.$} {%0 [6] }
 #sub {^A menacing looking tree is here, just waiting for a lost wanderer.$} {%0 [20] }
 #sub {^A sad looking old farmer is standing here.$} {%0 [8?] }
@@ -56,6 +58,7 @@
 #sub {^A great male deer with reddish hair and twisted antlers stands here proudly.$} {%0 [5] }
 #sub {^An orc is hobbling around on rudimentary crutches.$} {%0 [5] }
 #sub {^A huge grizzly bear is here, roaming the wild.$} {%0 [15] }
+#sub {^The shadowy wight of a bodyguard stands here.$} {%0 [19] }
 #sub {^An experienced smuggler is here, conspiring with his cohorts.$} {%0 [11] }
 #sub {^A mother eagle flies high above looking for prey.$} {%0 [19] }
 #sub {^Bill Ferny is watching you with suspicious eyes.$} {%0 [17?] }
@@ -81,7 +84,9 @@
 #sub {^A snake with brown stripes is sliding along the water.$} {%0 [8?] }
 #sub {^A grey wolf is here, snarling aggressively.$} {%0 [6] }
 #sub {^The mother wolf stands here, protecting her young cubs.$} {%0 [7] }
+#sub {^A huge, poisonous tarantula extends her legs to you.$} {%0 [14?] }
 #sub {^The queen bat is here, emitting piercing squeaks.$} {%0 [9?] }
+#sub {^The chief of smugglers is here, planning his next move.$} {%0 [15?] }
 #sub {^A limping orc shuffles around here. He looks miserable.$} {%0 [9] }
 #sub {^A large and twisted beast lurks in the rotten pool.$} {%0 [18] }
 #sub {^A forest spider is here crawling around.$} {%0 [4] }
@@ -95,6 +100,7 @@
 #sub {^A malicious thug is here, threatening you.$} {%0 [10] }
 #sub {^A well-fed cow stands here chewing her cud listlessly.$} {%0 [4] }
 #sub {^A suspicious-looking hobbit smuggler is here.$} {%0 [5] }
+#sub {^A man walks stealthily here, enshrouded in a grey woollen cloak.$} {%0 [20?] }
 #sub {^A hardened ranger is walking around, looking for tracks.$} {%0 [19] }
 #sub {^A snaga is here, trying to sharpen a set of blood-encrusted needles.$} {%0 [7] }
 #sub {^A thug is here waiting for his prey.$} {%0 [12] }
