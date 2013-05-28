@@ -1,0 +1,2886 @@
+###########################################################
+enchant is +10 ob and +2 damage if done buy level 20+
+
+|------------------------------------------------------------
+|----------------------- WORN ON FINGER ---------------------
+|------------------------------------------------------------
+| ruby ring (OB: 5, Weight: 20)
+Object 'ring ruby rubyring', Item type: TREASURE
+key: 
+Item is: GLOW MAGIC 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 20, Value: 19200
+Can affect you as :
+    Affects: OB by 5
+
+| iron ring (DB: 5, Weight: 35)
+Object 'ring iron ironring', Item type: TREASURE
+key: 
+Item is: MAGIC
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 35, Value: 10750
+Can affect you as :
+    Affects: DB by 5
+
+| copper ring (Saving Spell: -1, Attack Spell: 1, Weight: 30)
+Object 'ring copper', Item type: TREASURE
+key: 
+Item is: MAGIC 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 30, Value: 7500
+Can affect you as :
+    Affects: Saving Spell by -1
+    Affects: Attack Spell by 1
+
+| small tin ring (Weight: 1)
+Object 'ring tin', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1, Value: 100
+
+|------------------------------------------------------------
+|-----------------------    ARROWS     ----------------------
+|------------------------------------------------------------
+| silver-tipped arrow (OB: 10, Damage: 8, Weight: 2) missile
+Object 'arrow missile', Item type: MISSILE
+key: 
+Item is: MAGIC 
+Type: NORMAL SILVER MISSILE, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 2, Value: 500
+OB: 10, Damage: 8
+
+| metal-cased bolt (OB: 5, Damage: 8,Effvs: METAL, Weight: 10) missile
+Object 'bolt cased metal-cased', Item type: MISSILE
+key: 
+Item is: NOBITS
+Type: NORMAL METAL MISSILE, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 10, Value: 100
+OB: 5, Damage: 8
+
+| bolt (OB: 5, Damage: 7, Eff: METAL, Weight: 8) missile
+Object 'bolt quarrel', Item type: MISSILE
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD MISSILE, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 8, Value: 50
+OB: 5, Damage: 7
+
+| ash arrow (OB: 5, Damage: 6, Weight: 5) missile
+Object 'arrow ash missile', Item type: MISSILE
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD MISSILE, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 5, Value: 90
+OB: 5, Damage: 6
+
+| blackened bolt (OB: 5, Damage: 5, POISON, Eff: HUMAN ELF DWARF, Ineff: TROLL ORC, Weight: 3) missile
+Object 'bolt quarrel poison', Item type: MISSILE
+key: 
+Item is: NOBITS
+Type: NORMAL POISON WOOD MISSILE, Efficient vs: HUMAN ELF DWARF, Inefficient vs: TROLL ORC
+Weight: 3, Value: 50
+OB: 5, Damage: 5
+
+
+| war arrow (OB: 0, Damage: 7, Weight: 10) missile
+Object 'arrow war missile', Item type: MISSILE
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD MISSILE, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 60
+OB: 0, Damage: 7
+
+| arrow (Weight: 6) missile
+Object 'arrow missile', Item type: MISSILE
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD MISSILE, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 6, Value: 35
+
+|------------------------------------------------------------
+|----------------------- MISC WEAPONS  ----------------------
+|------------------------------------------------------------
+| steel-shafted mattock (OB: 20, PB: -5, Damage: 9, Delay: 100%, Eff: SPELL STONE, Weight; 900)
+Object 'mattock hammer steel', Item type: WEAPON
+key:
+Item is: none
+Type: NORMAL METAL, Efficient vs: SPELL STONE, Inefficient vs: none
+Weight: 900, Value: 5000
+OB: 20, PB: -5, Damage: 9, Delay: 100%
+
+|------------------------------------------------------------
+|-----------------------      BOWS     ----------------------
+|------------------------------------------------------------
+| embellished longbow (OB: 35, Damage multiplier: *20 / 10, Weight: 170) fweapon
+Object 'longbow bow embellished alrehir fweapon', Item type: SHOOTING WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 170, Value: 5000
+OB: 35, Damage multiplier: *20 / 10
+
+| a crossbow (OB: 30, Damage multiplier: *20 / 10, Eff: METAL, Weight: 450) fweapon
+Object 'crossbow xbow bow fweapon', Item type: SHOOTING WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 450, Value: 3000
+OB: 30, Damage multiplier: *20 / 10
+
+| yew longbow (OB: 30, Damage multiplier: *17 / 10, Weight: 150) fweapon
+Object 'longbow bow yew fweapon', Item type: SHOOTING WEAPON
+key: 
+Item is: MAGIC ANTI-GOOD 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 150, Value: 3300
+OB: 30, Damage multiplier: *17 / 10
+
+| longbow (OB: 25, Damage multiplier: *15 / 10, Weight: 170) fweapon
+Object 'longbow bow fweapon', Item type: SHOOTING WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 170, Value: 1500
+OB: 25, Damage multiplier: *15 / 10
+
+| orcish shortbow (OB: 17, Damage multiplier: *13 / 10, Weight: 150) fweapon
+Object 'shortbow bow orcish fweapon', Item type: SHOOTING WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 150, Value: 900
+OB: 17, Damage multiplier: *13 / 10
+
+| shortbow () fweapon
+Object 'bow shortbow fweapon', Item type: SHOOTING WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 150, Value: 1000
+OB: 20, Damage multiplier: *10 / 10
+
+| a black horn shortbow (OB: 12, Damage multiplier: *15 / 10, Weight 150) fweapon
+Object 'shortbow bow horn fweapon', Item type: SHOOTING WEAPON'
+ogxanfowob'
+Item is: none'
+Type: NORMAL, Efficient vs: none, Inefficient vs: none'
+Weight: 150, Value: 300'
+OB: 12, Damage multiplier: *15 / 10'
+
+|------------------------------------------------------------
+|--------------------- WORN ABOUT BODY ----------------------
+|------------------------------------------------------------
+| fine grey cloak (DB: 10, Abs: 1%, Hit_Regen by -1, Weight: 250)
+Object 'cloak grey', Item type: ARMOUR
+key: 
+Item is: MAGIC 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 250, Value: 5000
+Absorbtion is 0%.
+Can affect you as :
+    Affects: DB by 10
+    Affects: Hit_Regen by -1
+
+| black, hooded cloak (DB: 10, Saving Spell by 1, Weight: 450)
+Object 'cloak black', Item type: WORN
+key: 
+Item is: MAGIC ANTI-GOOD 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 450, Value: 3500
+Can affect you as :
+    Affects: Saving Spell by 1
+    Affects: DB by 10
+
+| forrest green cloak (DB: 5, Move_Regen: 5, Weight: 100)
+Object 'cloak forest green', Item type: WORN
+key: 
+Item is: MAGIC BLESS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 1600
+Can affect you as :
+    Affects: DB by 5
+    Affects: Move_Regen by 5
+
+| russet cloak (DB: 5, Move_Regen by 2, Weight: 100)
+Object 'cloak russet', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 1600
+Can affect you as :
+    Affects: DB by 5
+    Affects: Move_Regen by 2
+
+| mottled cloak (DB: 7, ANTI-GOOD, Weight: 300)
+Object 'cloak mottled pelt', Item type: WORN
+key: 
+Item is: MAGIC ANTI-GOOD NOSELL 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 1600
+Can affect you as :
+    Affects: DB by 7
+
+| black cape (DB: 5, Saving Spell by -1, Weight: 125)
+Object 'cape black', Item type: WORN
+key: 
+Item is: MAGIC 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 125, Value: 1000
+Can affect you as :
+    Affects: DB by 5
+    Affects: Saving Spell by -1
+
+| sacred cloak (DB: 3, Saving Spell by -1, Weight: 50)
+Object 'cloak sacred', Item type: WORN
+key: 
+Item is: ANTI-EVIL 
+Type: NORMAL, Efficient vs: SPIRIT, Inefficient vs: NONE
+Weight: 50, Value: 2000
+Can affect you as :
+    Affects: Saving Spell by -1
+    Affects: DB by 3
+
+| dark-blue cloak (DB: 3, Weight: 50)
+Object 'cloak large cloth blue dark', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 200
+Can affect you as :
+    Affects: DB by 3
+
+| black warg fur (Abs: 10% up to 1, OB: 5, Weight: 350)
+Object 'fur', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 350, Value: 150
+Absorbtion is 10% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 5
+
+| cave-bear fur (OB:5, Abs:25% up to 2, Weight: 580)
+Object 'fur', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 580, Value: 2500
+Absorbtion is 25% up to a maximum of 2 hits.
+Can affect you as :
+    Affects: OB by 5
+
+| heavy wool coat (Eff: COLD, Ineff: WATER, Weight: 225)
+Object 'coat wool heavy', Item type: WORN
+leeogbubkaf
+Item is: none
+Type: NORMAL, Efficient vs: COLD, Inefficient vs: WATER
+Weight: 225, Value: 840
+
+|------------------------------------------------------------
+|-------------------- WORN AROUND BODY ----------------------
+|------------------------------------------------------------
+
+| surcoat embroidered (DB: 7, Weight: 300)
+Object 'surcoat embroidered', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 1600
+Can affect you as :
+    Affects: DB by 7
+
+| buttoned cassock (DB: 5, Weight: 215)
+Object 'cassock coat mantle', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: COLD WATER, Inefficient vs: NONE
+Weight: 215, Value: 1000
+Can affect you as :
+    Affects: DB by 5
+
+| cloak (DB: 3, Weight: 50)
+Object 'cloak large cloth blue dark', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 200
+Can affect you as :
+    Affects: DB by 3
+
+|------------------------------------------------------------
+|---------------------- WORN ON BODY (METAL) ----------------
+|------------------------------------------------------------
+| heavy chain mail hauberk (OB: -1, Mps: -3, Abs: 63% up to 10, Weight: 510)
+Object 'hauberk shirt heavy chain mail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 510, Value: 5000
+Absorbtion is 63% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: OB by -1
+    Affects: Move by -3
+
+| thin chain mail hauberk (Abs: 60% up to 8, Weight: 390, Move: -1, Weight: 390)
+Object 'hauberk shirt thin chain mail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 390, Value: 3000
+Absorbtion is 60% up to a maximum of 8 hits.
+Can affect you as :
+    Affects: Move by -1
+
+| fine chain mail shirt (Abs: 55% up to 14, Weight: 180)
+Object 'shirt chain fine', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 180, Value: 75000
+Absorbtion is 55% up to a maximum of 14 hits.
+
+| pair of chain mail sleeves (Abs: 60% up to 9, OB: -1, Move: -1, Weight: 300)
+Object 'sleeves mail chain', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 3000
+Absorbtion is 60% up to a maximum of 9 hits.
+Can affect you as :
+    Affects: OB by -1
+    Affects: Move by -1
+
+| pair of chain mail gloves (Abs: 60% up to 9, OB: -1, Weight: 160)
+Object 'gloves mail chain', Item type: ARMOUR
+key:
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 160, Value: 2400
+Absorbtion is 60% up to a maximum of 9 hits.
+Can affect you as :
+    Affects: OB by -1
+
+| pair of chain mail leggings (Abs: 60% up to 9, OB: -1, Move: -1, Weight: 360)
+Object 'leggings chain mail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 360, Value: 3000
+Absorbtion is 60% up to a maximum of 9 hits.
+Can affect you as :
+    Affects: DB by -1
+    Affects: Move by -1
+
+|------------------------------------------------------------
+|---------------------- WORN ON BODY ------------------------
+|------------------------------------------------------------
+| white robe (DB: 2, Saving Spell: -1, Weight: 80)
+Object 'robe white', Item type: WORN
+key: 
+Item is: MAGIC ANTI-EVIL ANTI-NEUTRAL 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 80, Value: 5000
+Can affect you as :
+    Affects: DB by 2
+    Affects: Saving Spell by -1
+
+| enruned robe (Saving Spell: -1, Weight: 175)
+Object 'robe enruned', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 175, Value: 1300
+Can affect you as :
+    Affects: Saving Spell by -1
+
+| fine tunic (DB: 2, Weight: 60)
+Object 'tunic fine', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 60, Value: 100
+Can affect you as :
+    Affects: DB by 2
+
+| plain shirt (DB: 2, Weight: 75)
+Object 'shirt plain', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 75, Value: 50
+Can affect you as :
+    Affects: DB by 2
+
+| embroidered blouse (DB: 2, Weight: 60)
+Object 'blouse embroidered', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 60, Value: 125
+Can affect you as :
+    Affects: DB by 2
+
+| plain blouse (DB: 2, Weight: 75) clothing
+Object 'blouse clothing plain', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 75, Value: 75
+Can affect you as :
+    Affects: DB by 2
+
+| Daedeltiri robes (DB: 2, Weight: 100)
+Object 'robe daedeltiri', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 40
+Can affect you as :
+    Affects: DB by 2
+
+| immaculate white tunic (DB: 2, Weight: 200)
+Object 'tunic white', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 200, Value: 200
+Can affect you as :
+    Affects: DB by 2
+
+| thick, soft leather jerkin (Abs: 30% up to 2, OB: 1, Weight: 260)
+Object 'jerkin leather soft thick', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 260, Value: 300
+Absorbtion is 30% up to a maximum of 2 hits.
+Can affect you as :
+    Affects: OB by 1
+
+| thin, soft leather jerkin (OB: 1, Abs: 5% up to 1, Weight: 180)
+Object 'jerkin leather soft thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 180, Value: 200
+Absorbtion is 5% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 1
+
+| soft leather jerkin (OB: 1, Abs: 15% up to 1, Weight: 230)
+Object 'jerkin leather soft', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 230, Value: 250
+Absorbtion is 15% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 1
+
+| fine plain dress (Weight: 50)
+Object 'dress clothing plain fine', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 50
+
+| black robe (Weight: 80)
+Object 'robe robes black', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 80, Value: 50
+
+|------------------------------------------------------------
+|------------------ WORN ON BODY (BREASTPLATE) --------------
+|------------------------------------------------------------
+| shining breastplate (Abs: 95 up to 17, OB: -1, Weight: 335)
+Object 'breastplate plate shining', Item type: ARMOUR
+key: 
+Item is: MAGIC BLESS 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 335, Value: 85000
+Absorbtion is 95% up to a maximum of 17 hits.
+Can affect you as :
+    Affects: OB by -1
+
+| thick metal breastplate (OB: -2, DB: -2, Abs: 93% up to 13, Weight: 770)
+Object 'breastplate plate metal thick', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 770, Value: 7000
+Absorbtion is 93% up to a maximum of 13 hits.
+Can affect you as :
+    Affects: OB by -2
+    Affects: DB by -2
+
+| metal breastplate (Abs: 90% up to 12, OB: -2, DB: -1, Weight: 700)
+Object 'breastplate plate metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 700, Value: 6500
+Absorbtion is 90% up to a maximum of 12 hits.
+Can affect you as :
+    Affects: OB by -2
+    Affects: DB by -1
+
+| thin metal breastplate (Abs: 90% up to 11, OB: -1, DB: -1, Weight: 700)
+Object 'breastplate plate metal thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 700, Value: 6000
+Absorbtion is 90% up to a maximum of 11 hits.
+Can affect you as :
+    Affects: OB by -1
+    Affects: DB by -1
+
+| thick, rigid leather breastplate (Abs: 82% up to 6, Weight: 400)
+Object 'breastplate plate leather rigid thick', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 400, Value: 900
+Absorbtion is 82% up to a maximum of 6 hits.
+
+| rigid leather breastplate (Abs: 79% up to 5, Weight: 360)
+Object 'breastplate plate leather rigid', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 360, Value: 700
+Absorbtion is 79% up to a maximum of 5 hits.
+
+|------------------------------------------------------------
+|-------------------- WORN AROUND NECK ----------------------
+|------------------------------------------------------------
+| red amulet (Eff: FIRE, Saving Spell: 1, Weight: 65)
+Object 'amulet red', Item type: TREASURE
+key: 
+Item is: INVISIBLE ANTI-EVIL 
+Type: NORMAL MAGIC, Efficient vs: FIRE, Inefficient vs: NONE
+Weight: 65, Value: 14000
+Can affect you as :
+    Affects: Saving Spell by 1
+
+| black amulet (Eff: LIGHT, Saving Spell: 1, Weight: , Weight: 100)
+Object 'amulet black', Item type: TREASURE
+key: 
+Item is: EVIL MAGIC ANTI-GOOD ANTI-NEUTRAL NOSELL 
+Type: NORMAL MAGIC, Efficient vs: LIGHT, Inefficient vs: NONE
+Weight: 100, Value: 12000
+Can affect you as :
+    Affects: Saving Spell by 1
+
+| spiked collar (Abs: 90% up to 1, Weight: 115)
+Object 'collar spiked', Item type: ARMOUR
+key:
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 115, Value: 125
+Absorbtion is 90% up to a maximum of 1 hits.
+
+
+| scarf (Weight: 35)
+Object 'scarf plain', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 35, Value: 20
+
+| necklace (Eff vs: MENTAL, ANTI-EVIL, Weight: 50)
+Object 'necklace charm chain', Item type: OTHER
+key: 
+Item is: MAGIC ANTI-EVIL 
+Type: NORMAL MAGIC, Efficient vs: MENTAL, Inefficient vs: NONE
+Weight: 50, Value: 6000
+
+| old length of iron chain (Eff: MENTAL, ANTI-GOOD ANTI-NEUTRAL, Weight: 50)
+Object 'chain', Item type: OTHER
+key:
+Item is: MAGIC ANTI-GOOD ANTI-NEUTRAL 
+Type: NORMAL MAGIC, Efficient vs: MENTAL, Inefficient vs: NONE
+Weight: 50, Value: 50
+
+|------------------------------------------------------------
+|-------------------- WORN AROUND HEAD ----------------------
+|------------------------------------------------------------
+| twisted crown (Attack Spell: 1, ANTI-GOOD ANTI-NEUTRAL, Weight: 15)
+Object 'crown twisted', Item type: OTHER
+key: 
+Item is: MAGIC ANTI-GOOD ANTI-NEUTRAL 
+Type: NORMAL DARKNESS, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 15, Value: 10000
+Can affect you as :
+    Affects: Attack Spell by 1
+
+| mithril circlet (Attack Spell: 1, Weight: 10)
+Object 'circlet headband mithril', Item type: OTHER
+key: 
+Item is: MAGIC ANTI-EVIL ANTI-NEUTRAL 
+Type: NORMAL SILVER, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 10000
+Can affect you as :
+    Affects: Attack Spell by 1
+
+| crown of bones (MAGIC CURSED ANTI-GOOD ANTI-NEUTRAL)
+Object 'crown bones bone', Item type: OTHER
+key: 
+Item is: MAGIC CURSED ANTI-GOOD ANTI-NEUTRAL 
+Type: NORMAL DARKNESS, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 15, Value: 10000
+
+|------------------------------------------------------------
+|--------------------   WORN ON HEAD   ----------------------
+|------------------------------------------------------------
+| dragonhelm (Abs: 100% up to 100, Weight: 400)
+Object 'dragonhelm helm'. Item type: ARMOUR
+Item is: MAGIC BLESS
+Type: NORMAL, Efficient vs: FIRE SPELL, Inefficient vs: NONE
+Weight: 400, Value: 40000
+Absorbtion is 100% up to a maximum of 100 hits.
+
+| strange black helmet (Abs: 100% up to 9, Eff: DARKNESS, Ineff: FIRE LIGHT, WIZLIGHT, Weight: 230)
+Object 'helmet black', Item type: ARMOUR
+key: 
+Item is: DARK MAGIC 
+Type: NORMAL MAGIC METAL, Efficient vs: DARKNESS, Inefficient vs: FIRE LIGHT
+Weight: 230, Value: 8000
+Absorbtion is 100% up to a maximum of 9 hits.
+Can affect you as :
+    Affects: SET WIZLIGHT
+
+| great helm (Abs: 95% up to 12, OB: -2, Weight: 330)
+Object
+key: 
+Item is: 
+Type:
+Weight:
+
+| spiked metal helmet (Abs: 85% up to 12, OB: -1)
+Object 'spiked metal helmet orkish', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 330, Value: 4500
+Absorbtion is 85% up to a maximum of 12 hits.
+Can affect you as :
+    Affects: DB by -1
+
+| full metal helmet (Abs: 85% up to 11, OB: -1, Weight: 300)
+Object 'helmet metal full', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 4500
+Absorbtion is 85% up to a maximum of 11 hits.
+Can affect you as :
+    Affects: OB by -1
+
+| basinet (Abs: 75% up to 8, OB: -1, Weight: 225)
+Object 'helmet basinet metal', Item type: ARMOUR
+key:
+Item is: none
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 225, Value: 4000
+Absorbtion is 75% up to a maximum of 8 hits.
+Can affect you as :
+    Affects: OB by -1
+
+| horned helmet (OB: 1, DB: -1, Abs: 60% up to 8, Weight: 220)
+Object 'helmet horned', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 220, Value: 2500
+Absorbtion is 60% up to a maximum of 8 hits.
+Can affect you as :
+    Affects: OB by 1
+    Affects: DB by -1
+
+| reinforced leather helm (Abs: 55% up to 4, Weight: 180)
+Object 'helm leather reinforced', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 180, Value: 400
+Absorbtion is 55% up to a maximum of 4 hits.
+
+| leather helmet (Abs: 45% up to 3, Weight: 130)
+Object 'helmet leather', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 130, Value: 180
+Absorbtion is 45% up to a maximum of 3 hits.
+
+| soft leather cap (Abs: 10% up to 1, OB: 1, Weight: 70)
+Object 'cap leather soft', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 70, Value: 130
+Absorbtion is 10% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 1
+
+|------------------------------------------------------------
+|------------------- WIPPING  WEAPONS ----- (wweapon) -------
+|------------------------------------------------------------
+| black many-tailed whip (OB: 30, PB: -15, Damage: 5, EVIL MAGIC ANTI-GOOD ANTI-NEUTRAL NOSELL, Eff: SPELL, Weight: 800) wweapon
+Object 'whip black', Item type: WEAPON
+Item is: EVIL MAGIC ANTI-GOOD ANTI-NEUTRAL NOSELL
+Type: NORMAL, Efficient vs: SPELL, inefficient vs: NONE
+Weight: 800, Value: 1000
+OB: 30, PB: -15, Damage: 5
+
+| wimp (OB: 15, PB: -10, Damage: 2, Weight: 300) wweapon
+Object 'whip wweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 500
+OB: 15, PB: -10, Damage: 2
+
+|------------------------------------------------------------
+|------------------- PIERCING WEAPONS ----- (pweapon) ------
+|------------------------------------------------------------
+| elven short sword with a runic inscription, sting (OB: 15, PB: 10, Damage: 8, Eff: ORC/TROLL/SPELL, Weight: 300) pweapon
+Object 'shortsword short Sting', Item type: WEAPON
+key: 
+Item is: MAGIC BLESS ANTI-EVIL NOSELL 
+Type: NORMAL MAGIC, Efficient vs: TROLL ORC SPELL, Inefficient vs: NONE
+Weight: 300, Value: 20000
+OB: 15, PB: 10, Damage: 8
+
+| slender dagger (OB: 20, Damage: 7, Effvs: SPELL, Weight: 150) pweapon
+Object 'dagger slender pweapon', Item type: WEAPON
+key: 
+Item is: MAGIC 
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 150, Value: 7000
+OB: 20, PB: 0, Damage: 7
+
+
+| black runed dagger (OB: 15, PB: 5, Damage: 8, Eff: SPELL, Saving Spell: -2, Weight: 150) pweapon
+Object 'dagger runed black pweapon', Item type: WEAPON
+key: 
+Item is: INVISIBLE MAGIC 
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 150, Value: 8500
+OB: 15, PB: 5, Damage: 8
+Can affect you as :
+    Affects: Saving Spell by -2
+
+| ceremonial dagger (OB: 10, PB: 10, Damage: 6, Effvs: SPIRIT, Ineffvs: METAL, Weight: 200) pweapon
+Object 'ceremonial dagger pweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-EVIL 
+Type: NORMAL METAL, Efficient vs: SPIRIT, Inefficient vs: METAL
+Weight: 200, Value: 6
+OB: 10, PB: 10, Damage: 6
+
+| sharp thorn (OB: 5, PB: 5, Damage: 5, Ineff: METAL, Weight: 200) pweapon
+Object 'thorn sharp pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: METAL
+Weight: 200, Value: 1500
+OB: 5, PB: 5, Damage: 5
+
+| double edged eket (OB: 5, PB: 5, Damage: 5, Weight: 100) pweapon
+Object 'eket dagger blade pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 2500
+OB: 5, PB: 5, Damage: 5
+
+| rapier (OB: 5, PB: 5, Damage: 4, Del: 100, Weight: 250) pweapon
+Object 'rapier sword pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 250, Value: 1500
+OB: 5, PB: 5, Damage: 4, Delay: 100%
+
+| long, wicked knife (OB: 10, Damage: 4, EVIL, Weight: 150) pweapon
+Object 'knife long pweapon', Item type: WEAPON
+key: 
+Item is: EVIL 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 150, Value: 1500
+OB: 10, PB: 0, Damage: 4
+
+| shiny dagger (OB: 5, Damage: 5, NOENCHANT, Weight: 100) pweapon
+Object 'dagger blade shiny pweapon', Item type: WEAPON
+key: 
+Item is: MAGIC 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 3000
+OB: 5, PB: 0, Damage: 5
+
+| shortsword (OB: 5, Damage: 5, Weight: 300) pweapon
+Object 'shortsword sword pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 1000
+OB: 5, PB: 0, Damage: 5
+
+| sacrificial knife (OB: 5, Damage: 5, Weight: 100) pweapon
+Object 'knife sacrificial pweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-GOOD ANTI-NEUTRAL 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 3000
+OB: 5, PB: 0, Damage: 5
+
+| brown thorn (OB: 5, Damage: 5, Ineff: METAL, Weight: 150) pweapon
+Object 'thorn sharp pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: METAL
+Weight: 150, Value: 900
+OB: 5, PB: 0, Damage: 5
+
+| gem-inlaid knife (OB: 5, PB: 0, Damage: 3, Delay: 100%, Value: 18000, Weight: 100) pweapon
+Object 'knife gemknife inlaid pweapon', Item type: WEAPON
+avlikidmy
+Item is: none
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 18000
+OB: 5, PB: 0, Damage: 3, Delay: 100%
+
+| dagger (OB: 5 Damage: 3, Weight: 150) pweapon
+Object 'dagger small pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: METAL
+Weight: 150, Value: 600
+OB: 5, PB: 0, Damage: 3
+
+| nasty orcish fang (Damage: 6, Weight: 250) pweapon
+Object 'fang pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 250, Value: 2000
+OB: 0, PB: 0, Damage: 6
+
+| stiletto (Damage: 3, Eff: METAL, Weight: 125) pweapon
+Object 'stiletto knife pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 125, Value: 500
+OB: 0, PB: 0, Damage: 3
+
+hunting knife (PB: -5, Damage: 3, Weight: 75) pweapon
+Object 'knife hunting pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 75, Value: 300
+OB: 0, PB: -5, Damage: 3
+
+| broad-bladed knife (PB: -5, Damage: 3, Weight: 50) pweapon
+Object 'knife broad', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 280
+OB: 0, PB: -5, Damage: 3
+
+| hunting knife (PB: -5, Damage: 3, Affects: Damage by 0, Weight: 75) pweapon
+Object 'knife hunting pweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 75, Value: 300
+OB: 0, PB: -5, Damage: 3
+Can affect you as :
+    Affects: Damage by 0
+
+| rib-bone of a skeleton (OB: -5, Damage: 3, Weight: 60) pweapon
+Object 'bone rib rib-bone', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 60, Value: 10
+OB: -5, PB: 0, Damage: 3
+
+| pitchfork (PB: -10, Damage: 5)
+|------------------------------------------------------------
+|-------------------- STABING  WEAPONS ---- (stweapon) ------
+|------------------------------------------------------------
+| elven hunting-spear (OB: 10, PB: 0, Damage: 7, Weight: 425) stweapon
+Object 'spear elven hunting-spear stweapon', Item type: WEAPON
+key: 
+Item is: ANTI-EVIL 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 500, Value: 2500
+OB: 10, PB: 0, Damage: 7
+
+| giant spear (OB: 5, PB: -5, Damage: 9, Affects: Damage by 2, Eff: RIDING, Weight: 900) stweapon
+Object 'spear giant stweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: RIDING, Inefficient vs: NONE
+Weight: 900, Value: 1000
+OB: 5, PB: -5, Damage: 9
+Can affect you as :
+    Affects: Damage by 2
+
+| longspear (OB: 10, PB: -5, Damage: 6, Weight: 425) stweapon
+Object 'spear longspear stweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 425, Value: 600
+OB: 10, PB: -5, Damage: 6
+
+| barbed fang (OB: 5, Damage: 8, Weight: 700) stweapon
+Object 'fang barbed steapon', Item type: WEAPON
+key: 
+Item is: EVIL 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 700, Value: 2500
+OB: 5, PB: 0, Damage: 8
+
+| steel-shafted spear (OB: 0, PB: 0, Damage: 8, Eff: RIDING) stweapon
+Object 'spear steel stweapon', Item type: WEAPON
+key: kafzigbobfra (Dif)
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: RIDING, Inefficient vs: NONE
+Weight: 600, Value: 2000
+OB: 0, PB: 0, Damage: 8
+
+| broad spear (OB: 5, PB: -5, Damage: 7, Weight: 625) stweapon
+Object 'spear broad stweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: RIDING, Inefficient vs: NONE
+Weight: 625, Value: 800
+OB: 5, PB: -5, Damage: 7
+
+| twisted spear (Damage: 6, Weight: 350) stweapon
+Object 'spear twisted stweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 350, Value: 750
+OB: 0, PB: 0, Damage: 6
+
+| short spear (Damage: 5, Weight: 350) stweapon
+Object 'spear shortspear stweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 350, Value: 400
+OB: 0, PB: 0, Damage: 5
+|------------------------------------------------------------
+|------------------- CRUSHING WEAPONS ----- (cweapon) -------
+|------------------------------------------------------------
+| the fine silvery morningstar (OB: 20, PB: 0, Damage: 12, Delay: 100%, Eff: TROLL METAL, Weight: 930) cweapon
+Object 'morningstar silvery fine cweapon', Item type: WEAPON
+kelimazyt
+Item is: MAGIC ANTI-EVIL ANTI-NEUTRAL
+Type: NORMAL SILVER, Efficient vs: TROLL METAL, Inefficient vs: DWARF
+Weight: 930, Value: 50000
+OB: 20, PB: 0, Damage: 12, Delay: 100%
+
+| huge black mace (OB: 20, PB: -5, Damage: 12, Eff: DWARF SPELL METAL, Weight: 975) cweapon
+Object 'mace black huge cweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-GOOD ANTI-NEUTRAL 
+Type: NORMAL METAL, Efficient vs: DWARF SPELL METAL, Inefficient vs: DARKNESS
+Weight: 975, Value: 1350
+OB: 20, PB: -5, Damage: 12
+
+| ornate, steel-shafted warhammer (OB: 20, PB: -5, Damage: 12, Eff: METAL, Weight: 930) cweapon
+Object 'warhammer ornate steel-shafted hammer steel shafted cweapon', Item type: WEAPON
+key:
+Item is: MAGIC 
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 930, Value: 1100
+OB: 20, PB: -5, Damage: 12
+
+| engraved warhammer (OB: 20, PB: -5, Damage: 11, Eff: SPELL METAL, Weight: 930) cweapon
+Object 'hammer warhammer bonecrusher cweapon', Item type: WEAPON
+key: 
+Item is: MAGIC 
+Type: NORMAL METAL, Efficient vs: SPELL METAL, Inefficient vs: WOOD
+Weight: 930, Value: 7050
+OB: 20, PB: -5, Damage: 11
+
+| cruelly-spiked mace (OB: 15, PB: -10, Damage: 10, NOENCHANT, Weight: 660) cweapon
+Object 'mace spiked cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 660, Value: 2400
+OB: 15, PB: -10, Damage: 10
+Can affect you as :
+    Affects: Damage by 0
+
+| iron-shod mace (OB: 10, PB: -5, Damage: 8, Eff: METAL, Weight: 760) cweapon
+Object 'mace iron cweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-EVIL 
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 760, Value: 3000
+OB: 10, PB: -5, Damage: 8
+
+| heavy morningstar (OB: 5, PB: -10, Damage: 10,Eff: METAL, Weight: 875) cweapon
+Object 'morningstar star heavy cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 875, Value: 3500
+OB: 5, PB: -10, Damage: 10
+
+| large warhammer (OB: 5, PB: -5, Damage: 9, Eff: METAL, Weight: 755) cweapon
+Object 'warhammer hammer large cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 755, Value: 3000
+OB: 5, PB: -5, Damage: 9
+
+| warhammer (OB: 5, PB: -5, Damage: 8, Eff: METAL, Weight: 450) cweapon
+Object 'warhammer hammer cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 450, Value: 1500
+OB: 5, PB: -5, Damage: 8
+
+| mace (OB: 5, Damage: 7, Weight: 650) cweapon
+Object 'mace cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 650, Value: 1500
+OB: 5, PB: 0, Damage: 7
+
+| maul (OB: 5, Damage: 6, Weight: 350) cweapon
+Object 'maul cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 350, Value: 1000
+OB: 5, PB: 0, Damage: 6
+
+| spiked war club (OB: 5, PB: -5, Damage: 7, Eff: METAL, Weight: 650) cweapon
+Object 'club spiked cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 650, Value: 500
+OB: 5, PB: -5, Damage: 7
+
+| gnarled wooden club (OB: 5, PB: -5, Damage: 5, Weight: 600) cweapon
+Object 'club gnarled cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 600, Value: 350
+OB: 5, PB: -5, Damage: 5
+
+| morningstar (Damage: 8, Weight: 700) cweapon
+Object 'morningstar star cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 700, Value: 2000
+OB: 0, PB: 0, Damage: 8
+
+| wooden club (PB: -5, Damage: 5, Weight: 450) cweapon
+Object 'club wooden cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 450, Value: 300
+OB: 0, PB: -5, Damage: 5
+
+| cudgel (OB: -5, Damage: 4, Weight: 350) cweapon
+Object 'cudgel club cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 350, Value: 200
+OB: -5, PB: 0, Damage: 4
+
+| hammer (OB: -5, PB: -15, Damage: 4, Weight: 90) cweapon
+Object 'hammer cweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 90, Value: 80
+OB: -5, PB: -15, Damage: 4
+
+|------------------------------------------------------------
+|-------------------- SMITING  WEAPONS ----- (tweapon) ------
+|------------------------------------------------------------
+| Axe of Durin (OB: 20, PB: -5, Damage: 18, Ineff: DWARF, Weight: 940) tweapon
+Object 'axe durin', Item type: WEAPON
+key: 
+Item is: MAGIC NOSELL
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: DWARF
+Weight: 940, Value: 40000
+OB: 20, PB: -5, Damage: 18
+
+| warsword (OB: 20, Damage: 17, Weight: 900) tweapon
+Object 'warsword sword war tweapon', Item type: WEAPON
+key: 
+Item is: HUM MAGIC 
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 900, Value: 10000
+OB: 20, PB: 0, Damage: 16
+
+| war mattock (OB: 6, PB: -16, Damage: 16, Eff vs: STONE, Weight: 1000) tweapon
+Object 'mattock war tweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-GOOD 
+Type: NORMAL METAL, Efficient vs: STONE, Inefficient vs: NONE
+Weight: 1000, Value: 16000
+OB: 6, PB: -16, Damage: 16
+
+| very large knotted tree-branch (OB: 10, PB: -10, Damage: 15, Weight: 1185) tweapon
+Object 'branch knotted large tweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 1185, Value: 2400
+OB: 10, PB: -10, Damage: 15
+Can affect you as :
+
+| two-handed sword (OB: 10, PB: -5, Damage: 12, Weight: 800) tweapon
+Object 'twohanded sword two tweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 800, Value: 5000
+OB: 10, PB: -5, Damage: 12
+
+| two-handed axe (OB: 5, PB: -10, Damage: 14, Weight: 900) tweapon
+Object 'axe twohanded two tweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: NONE
+Weight: 900, Value: 6000
+OB: 5, PB: -10, Damage: 14
+
+| poleaxe (OB: 5, PB: 0, Damage: 12, Weight: 900) tweapon
+Object 'poleaxe axe tweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: NONE
+Weight: 900, Value: 1750
+OB: 5, PB: 0, Damage: 12
+
+| very large wooden club (OB: 5, PB: -15, Damage: 13, Weight: 1100) tweapon
+Object 'club wooden large very tweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1100, Value: 600
+OB: 5, PB: -15, Damage: 13
+
+| halberd (OB: 5, PB: 5, Damage: 11, Weight: 800) tweapon
+Object 'halberd tweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 800, Value: 2500
+OB: 5, PB: 5, Damage: 11
+
+| heavy warhammer (OB: 5, PB: -5, Damage: 13, Eff: METAL, Weight: 900) tweapon
+Object 'warhammer hammer heavy tweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-EVIL 
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: NONE
+Weight: 900, Value: 5500
+OB: 5, PB: -5, Damage: 13
+
+| quarterstaff (PB: 15, Damage: 4, Weight: 600) tweapon
+Object 'staff quarterstaff tweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 600, Value: 750
+OB: 0, PB: 15, Damage: 4
+
+|------------------------------------------------------------
+|-------------------- SLASHING WEAPONS ----- (sweapon) ------
+|------------------------------------------------------------
+| black sword (OB: 20, Damage: 20, Eff: MAGIC/SPIRIT/LIGHT/SPELL/WOOD) sweapon [NOT IDENTIFIED]
+Object
+key: 
+Item is:
+Type:
+Weight: 
+
+| morgul blade (OB: 20, PB: 5, Damage: 13, HUM EVIL MAGIC ANTI-GOOD ANTI-NEUTRAL, Weight: 200) sweapon
+Object 'blade morgul', Item type: WEAPON
+key: 
+Item is: HUM EVIL MAGIC ANTI-GOOD ANTI-NEUTRAL NOSELL 
+Type: NORMAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 200, Value: 80000
+OB: 20, PB: 5, Damage: 13
+
+| slender Elven sword, Orcrist (OB: 20, PB: 10, Damage: 10, Eff vs: TROLL ORC SPELL, GLOW ANTI-EVIL, Weight: 250) sweapon
+Object 'sword Biter Orcrist', Item type: WEAPON
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL NOSELL 
+Type: NORMAL METAL, Efficient vs: TROLL ORC SPELL, Inefficient vs: NONE
+Weight: 250, Value: 30000
+OB: 20, PB: 10, Damage: 10
+
+| gleaming broadsword (OB: 15, PB: 15, Damage: 10, Eff: SPELL, Saving Spell: -1) sweapon
+Object 'broadsword gleaming sword sweapon', Item type: WEAPON
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL NOSELL 
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 500, Value: 8500
+OB: 15, PB: 15, Damage: 10
+Can affect you as :
+    Affects: Saving Spell by -1
+
+| Elf Hewer (OB: 20, PB: 0, Damage: 12, Eff vs: ELF SPELL, ANTI-GOOD, Weight: 550)
+Object 'scimitar elfhewer hewer sword sweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-GOOD 
+Type: NORMAL METAL, Efficient vs: ELF SPELL, Inefficient vs: NONE
+Weight: 550, Value: 10000
+OB: 20, PB: 0, Damage: 12
+
+| broad Elven sword, Glamdring, Beater (OB: 15, PB: 10, Dam: 11, Eff vs: TROLL ORC SPELL, Weight: 300) sweapon
+Object 'sword Beater Glamdring', Item type: WEAPON
+key: 
+Item is: HUM MAGIC BLESS ANTI-EVIL NOSELL 
+Type: NORMAL METAL, Efficient vs: TROLL ORC SPELL, Inefficient vs: NONE
+Weight: 300, Value: 30000
+OB: 15, PB: 10, Damage: 11
+
+| silvery broadsword (OB: 15, PB: 10, Damage: 9, Eff: ORC SPELL, Weight: 500)
+Object 'broadsword sword silvery Mithvegil', Item type: WEAPON
+key: 
+Item is: MAGIC BLESS ANTI-EVIL NOSELL 
+Type: NORMAL MAGIC SILVER, Efficient vs: ORC SPELL, Inefficient vs: NONE
+Weight: 500, Value: 50000
+OB: 15, PB: 10, Damage: 9
+
+| wightblade (OB: 15, PB: 5, Dam: 10, Eff: SPELL, Ineff: spirit) sweapon [NOT IDENTIFIED]
+Object
+key:
+Item is:
+Type:
+Weight: 
+
+| mighty dwarven axe (OB: 15, PB: -5, Damage: 12, Eff: SPELL WOOD, Weight: 950) sweapon
+Object 'axe mighty sweapon', Item type: WEAPON
+key: 
+Item is: MAGIC 
+Type: NORMAL MAGIC METAL, Efficient vs: SPELL WOOD, Inefficient vs: NONE
+Weight: 950, Value: 4500
+OB: 15, PB: -5, Damage: 12
+
+| axe of Balli (OB: 15, PB: -5, Damage: 11, Eff: SPIRIT SPELL WOOD, Weight: 750) sweapon
+Object 'axe Balli', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-EVIL ANTI-NEUTRAL 
+Type: NORMAL MAGIC, Efficient vs: SPIRIT SPELL WOOD, Inefficient vs: NONE
+Weight: 750, Value: 5000
+OB: 15, PB: -5, Damage: 11
+
+| dunadan blade (OB: 15, PB: 10, Damage: 9, Eff: SPELL, ANTI-EVIL ANTI-NEUTRAL, Weight: 765) sweapon
+Object 'blade sword dunadan sweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-EVIL ANTI-NEUTRAL 
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 765, Value: 6000
+OB: 15, PB: 10, Damage: 9
+
+| engraved broadsword (OB: 10, PB: 10, Damage: 10, Eff: SPELL, Weight: 700) sweapon
+Object 'broadsword sword engraved sweapon', Item type: WEAPON
+key: 
+Item is: MAGIC 
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 700, Value: 5000
+OB: 10, PB: 10, Damage: 10
+
+| jagged-edged scimitar (OB: 15, PB: -5, Damage: 9, NOENCH) sweapon
+Object 'scimitar jagged sword sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 760, Value: 2500
+OB: 15, PB: -5, Damage: 9
+Can affect you as :
+    Affects: Damage by 0
+
+| dark curved sword (OB: 10, PB: 10, Damage: 7, Eff: LIGHT SPELL, ANTI-GOOD, Weight: 200) sweapon
+Object 'darksword curved sword Angmacil sweapon', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-GOOD 
+Type: NORMAL METAL, Efficient vs: LIGHT SPELL, Inefficient vs: NONE
+Weight: 200, Value: 7000
+OB: 10, PB: 10, Damage: 7
+
+| fell blade (OB: 10, PB: 5, Damage: 10, Eff: SPELL, ANTI-GOOD, Weight: 500) sweapon
+Object 'blade sword fell', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-GOOD 
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: NONE
+Weight: 500, Value: 2060
+OB: 10, PB: 5, Damage: 10
+
+| longsword (OB: 10, PB: 5, Damage: 6, Weight: 410) sweapon
+Object 'longsword sword sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 410, Value: 2000
+OB: 10, PB: 5, Damage: 6
+
+| scimitar (OB: 10, Damage: 7, Weight: 550) sweapon
+Object 'scimitar sword sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 550, Value: 2000
+OB: 10, PB: 0, Damage: 7
+
+| broad scimitar (OB: 10, PB: -5, Damage: 8, Weight: 869) sweapon
+Object 'scimitar broad sweapon sword', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 869, Value: 3000
+OB: 10, PB: -5, Damage: 8
+
+| broadsword (OB: 5, PB: 5, Damage: 7, Weight: 500) sweapon
+Object 'broadsword sword sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 500, Value: 2500
+OB: 5, PB: 5, Damage: 7
+
+| sabre (OB: 5, PB: 5, Damage: 5, Weight: 350) sweapon
+Object 'sabre sword sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: METAL
+Weight: 350, Value: 1500
+OB: 5, PB: 5, Damage: 5
+
+| serrated scimitar (OB: 5, Damage: 9, Weight: 550) sweapon
+Object 'scimitar serrated sweapon sword', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 550, Value: 2500
+OB: 5, PB: 0, Damage: 8
+
+| bastard sword (OB: 5, Damage: 8, Weight: 650) sweapon
+Object 'sword bastard sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 650, Value: 3000
+OB: 5, PB: 0, Damage: 8
+
+| falchion (OB: 5, Damage: 8, Weight: 715) sweapon
+Object 'falchion sword sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 715, Value: 2500
+OB: 5, PB: 0, Damage: 8
+
+| battle axe (OB: 5, PB: -5, Damage: 9, Weight: 725) sweapon
+Object 'axe battle sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: NONE
+Weight: 725, Value: 3500
+OB: 5, PB: -5, Damage: 9
+
+| black waraxe (OB: 5, PB: -5, Damage: 8, Effvs: WOOD, Weight: 500) sweapon
+Object 'waraxe axe sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: NONE
+Weight: 500, Value: 2000
+OB: 5, PB: -5, Damage: 8
+
+| handaxe (OB: 5, PB: -5, Damage 6, Weight: 500) sweapon
+Object 'handaxe axe sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: NONE
+Weight: 500, Value: 1000
+OB: 5, PB: -5, Damage: 6
+
+| backsword (PB: 5, Damage: 6, Weight: 450) sweapon
+Object 'sword backsword back sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 450, Value: 1500
+OB: 0, PB: 5, Damage: 6
+
+| hatchet (OB: 5, PB: -5, Damage: 5, Eff: WOOD, Weight: 400) sweapon
+Object 'hatchet axe sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: NONE
+Weight: 400, Value: 400
+OB: 5, PB: -5, Damage: 5
+Can affect you as :
+    Affects: Damage by 0
+
+| cutlass (OB: 5, PB: -5, Damage: 5, Weight: 450) sweapon
+Object 'cutlass sword sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 450, Value: 1200
+OB: 5, PB: -5, Damage: 5
+
+| broken sword (Damage: 5, Affects: OB by 20, Damage by 1, Weight: 300) sweapon
+Object 'sword broken sweapon', Item type: WEAPON
+key: 
+Item is: MAGIC BLESS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 7500
+OB: 0, PB: 0, Damage: 5
+Can affect you as :
+    Affects: OB by 20
+    Affects: Damage by 1
+
+| woodsman's axe (OB: 0, PB: -10, Damage: 8, Delay: 100%, Weight: 600) sweapon
+Object 'axe woodsman sweapon', Item type: WEAPON
+key:
+Item is: none
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: none
+Weight: 600, Value: 750
+OB: 0, PB: -10, Damage: 8, Delay: 100%
+
+| dirk (OB: 0, PB: 0, Damage: 4, Weight: 250) sweapon
+Object 'dirk knife sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: METAL
+Weight: 250, Value: 800
+OB: 0, PB: 0, Damage: 4
+
+| butcher's cleaver (OB: -5, PB: -5, Damage: 5, Weight: 200) sweapon
+Object 'cleaver butcher sweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 200, Value: 500
+OB: -5, PB: -5, Damage: 5
+Can affect you as :
+    Affects: OB by 0
+|------------------------------------------------------------
+|-------------------- CHARGING WEAPONS ----- (chweapon) -----
+|------------------------------------------------------------
+| steel-tipped lance (OB: 7, PB: -3, Damage: 9, Eff vs: RIDING, Weight: 500) chweapon
+Object 'lance steel chweapon', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: RIDING, Inefficient vs: NONE
+Weight: 500, Value: 1200
+OB: 7, PB: -3, Damage: 9
+
+|------------------------------------------------------------
+|--------------------     SHIELDS      ----------------------
+|------------------------------------------------------------
+| shield of balli (PB: 35%, Eff: MISSILE, Weight: 1775)
+Object 'shield balli', Item type: ARMOUR
+key: 
+Item is: MAGIC ANTI-EVIL 
+Type: NORMAL, Efficient vs: MISSILE, Inefficient vs: NONE
+Weight: 1775, Value: 75000
+Absorbtion is 35%.
+
+| tower shield (PB: 35%, Weight:1775)
+Object 'shield tower large', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1775, Value: 14000
+Absorbtion is 35%.
+
+| smelly piece of worm hide (PB: 30%, Saving Spell by -1, Weight: 900)
+Object 'hide', Item type: ARMOUR
+key: 
+Item is: DARK MAGIC 
+Type: NORMAL, Efficient vs: ACID, Inefficient vs: NONE
+Weight: 900, Value: 14000
+Absorbtion is 30%.
+Can affect you as :
+    Affects: Saving Spell by -1
+
+| bejewelld shield (PB: 30%, Eff: ACID, Saving Spell: -1, Weight: 900)
+Object 'shield round bejewelled', Item type: ARMOUR
+key: 
+Item is: MAGIC 
+Type: NORMAL, Efficient vs: ACID, Inefficient vs: NONE
+Weight: 900, Value: 20000
+Absorbtion is 30%.
+Can affect you as :
+    Affects: Saving Spell by -1
+
+| large metal wall shield (PB: 30%, Weight: 1500)
+Object 'shield wall metal large', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1500, Value: 10000
+Absorbtion is 30%.
+
+| metal wall shield (PB: 27%, Weight: 1335)
+Object 'shield wall metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1335, Value: 9000
+Absorbtion is 27%.
+
+| gilted rounded shield (PB: 25% Weight: 775)
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 775, Value: 5000
+Object 'shield round gilted', Item type: ARMOUR
+Item is: NOBITS
+Absorbtion is 25%.
+
+| large wooden wall shield (PB: 25%, Weight: 1225) 
+Object 'shield wall wooden large', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1225, Value: 6000
+Absorbtion is 25%.
+
+| shield of Arthedain (PB: 24%, Weight: 730)
+Object 'shield Arthedain', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 730, Value: 6000
+Absorbtion is 24%.
+ 
+| wooden wall shield (PB: 23%, Weight:1115)
+Object 'shield wooden wall', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1115, Value: 5400
+Absorbtion is 23%.
+
+| shield of Cardolan (PB: 22%, Weight: 707)
+Object 'shield cardolan', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 707, Value: 7000
+Absorbtion is 22%.
+
+| large metal full shield (PB: 20%, Weight: 950)
+Object 'shield full metal large', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 950, Value: 7250
+Absorbtion is 20%.
+
+| dark shield (PB: 20, Weight: 950, HP: 6, ANTI-GOOD)
+Object 'shield blackshield dark', Item type: ARMOUR
+key: 
+Item is: MAGIC ANTI-GOOD 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 950, Value: 1000
+Absorbtion is 20%.
+Can affect you as :
+    Affects: Hit by 6
+
+| full metal shield (PB: 18%, Weight: 840)
+Object 'shield full metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 840, Value: 6750
+Absorbtion is 18%.
+
+| blackened shield (PB: 16%, Weight: 730)
+Object 'shield blackened burned', Item type: ARMOUR
+key:
+Item is: EVIL ANTI-GOOD ANTI-NEUTRAL 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 730, Value: 500
+Absorbtion is 16%.
+
+| large wooden full shield (PB: 16%, Weight: 730)
+Object 'shield full wooden large', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 730, Value: 4200
+Absorbtion is 16%.
+
+| Isengard shield (Abs: 15%, Weight: 622)
+Object 'shield metal isengard whitehand', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 622, Value: 2850
+Absorbtion is 15%.
+
+| black metal shield (PB: 15%, Weight: 675)
+Object 'shield black', Item type: ARMOUR
+key: 
+Item is: EVIL ANTI-GOOD ANTI-NEUTRAL 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 675, Value: 1350
+Absorbtion is 15%.
+
+| full wooden shield (PB: 14%, Weight: 620)
+Object 'shield full wooden', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 620, Value: 3600
+Absorbtion is 14%.
+
+| large metal shield (PB: 13%, Weight: 565)
+Object 'shield metal large', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 565, Value: 1600
+Absorbtion is 13%.
+
+| spiked shield (PB: 12%, Weight: 510)Object 'shield spiked', Item type: ARMOUR
+key:
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 510, Value: 1450
+Absorbtion is 12%.
+
+| metal shield (PB: 11%, Weight: 450)
+Object 'shield metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 450, Value: 1300
+Absorbtion is 11%.
+
+| shield of the crossed scimitars (PB: 11%, Weight: 470)
+Object 'shield metal orcish', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 470, Value: 1400
+Absorbtion is 11%.
+
+| large wooden shield (PB: 10%, Weight: 400)
+Object 'shield wooden large', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 400, Value: 1000
+Absorbtion is 10%.
+
+| small metal shield (PB: 9%, Weight: 350)
+Object 'shield metal small', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 350, Value: 1000
+Absorbtion is 9%.
+
+| wooden shield (PB: 8%)
+Object 'shield wooden', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 800
+Absorbtion is 8%.
+
+| small wooden shield (PB: 6%, Weight: 250)
+Object 'shield wooden small', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 250, Value: 600
+Absorbtion is 6%.
+
+| metal buckler (PB: 7, Weight: 350) buckler
+Object 'buckler metal shield metalbuckler', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 350, Value: 1200
+
+| wooden target shield (Weight: 225) buckler
+Object 'shield target wooden buckler', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 225, Value: 700
+
+| small wooden target shield (Weight: 175) buckler
+Object 'shield target wooden small buckler', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 175, Value: 400
+
+|------------------------------------------------------------
+|--------------------      BELTS       ----------------------
+|------------------------------------------------------------
+| a gleaming belt (Weight: 20, Affects: Move_Regen by 7)
+Object 'belt gleaming', Item type: BELT
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 20, Value: 9000
+Can affect you as :
+    Affects: Move_Regen by 7
+
+| broad silver belt (DB: 2, Weight: 25) belt
+Object 'belt silver', Item type: BELT
+key: 
+Item is: INVISIBLE 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 9000
+Can affect you as :
+    Affects: DB by 2
+
+| snakeskin belt (Weight: 25) belt
+Object 'belt snakeskin', Item type: BELT
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 250
+
+| plain leather belt (Weight: 25) belt
+Object 'belt plain leather', Item type: BELT
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 200
+
+| broad girdle () belt
+Object
+key: 
+Item is:
+Type:
+Weight: 
+|------------------------------------------------------------
+|--------------------   WORN ON HEAD   ----------------------
+|------------------------------------------------------------
+| hood (DB: 1, Weight: 20)
+Object 'hood black', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 20, Value: 50
+Can affect you as :
+    Affects: DB by 1
+
+| old plain hat (DB: 1, Weight: 25)
+Object 'hat old plain', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 80
+Can affect you as :
+    Affects: DB by 1
+
+| silk cap (DB: 1, Weight: 25)
+Object 'silk cap', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 450
+Can affect you as :
+    Affects: DB by 1
+
+| jester's cap (Weight: 50)
+Object 'liripipe cap jester', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 850
+
+|------------------------------------------------------------
+|----------------------  WORN ON HANDS (METAL) --------------
+|------------------------------------------------------------
+| thick pair of metal gauntlets (Abs: 93% up to 13, OB: -2, Weight: 240)
+Object 'gauntlets gloves metal thick', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 240, Value: 5000
+Absorbtion is 93% up to a maximum of 13 hits.
+Can affect you as :
+    Affects: OB by -2
+
+| pair of metal gauntlets (Abs: 90% up to 12, OB: -2, Weight: 220)
+Object 'gauntlets gloves metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 220, Value: 4400
+Absorbtion is 90% up to a maximum of 12 hits.
+Can affect you as :
+    Affects: OB by -2
+
+| thin pair of metal gauntlets (Abs: 88% up to 10, OB: -1, Weight: 190)
+Object 'gauntlets gloves metal thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 190, Value: 4000
+Absorbtion is 88% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: OB by -1
+
+| thick pair of chain mail gloves (OB: -1, Abs: 63% up to 10, Weight: 180)
+Object 'gloves mail chain thick', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 180, Value: 2800
+Absorbtion is 63% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: OB by -1
+
+|------------------------------------------------------------
+|----------------------  WORN ON HANDS ----------------------
+|------------------------------------------------------------
+| thin leather gloves (ABS: 5% up to 1, OB: 2, Weight: 50)
+Object 'gloves leather thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 100
+Absorbtion is 5% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 2
+
+| pair of soft leather gloves (OB: 1, Weight: 75)
+Object 'gloves leather soft', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 75, Value: 120
+Absorbtion is 15% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 1
+
+| pair of rigid leather gloves (ABS: 79% up to 5, Weight: 125, Weight:125)
+Object 'gloves leather rigid', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 125, Value: 300
+Absorbtion is 79% up to a maximum of 5 hits.
+
+|------------------------------------------------------------
+|--------------------   WORN ON ARMS (METAL) ----------------
+|------------------------------------------------------------
+| shining pair of vambrces (Abs: 95% up to 17, OB: -1, Weight: 240)
+Object 'vambraces shining', Item type: ARMOUR
+key: 
+Item is: MAGIC BLESS 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 240, Value: 60000
+Absorbtion is 95% up to a maximum of 17 hits.
+Can affect you as :
+    Affects: OB by -1
+
+| heavy pair of vambraces (Abs: 93% up to 13, OB: -3, Weight: 610)
+Object 'vambraces metal heavy', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 610, Value: 6000
+Absorbtion is 93% up to a maximum of 13 hits.
+Can affect you as :
+    Affects: OB by -3
+
+| pair of vambraces (Abs: 90% up to 12, OB: -3, Weight: 530)
+Object 'vambraces metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 530, Value: 5500
+Absorbtion is 90% up to a maximum of 12 hits.
+Can affect you as :
+    Affects: OB by -3
+
+| pair of plate vambraces (Abs: 90% up to 11, DB: -1, Weight: 450)
+Object 'vambraces plate metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 450, Value: 5000
+Absorbtion is 90% up to a maximum of 11 hits.
+Can affect you as :
+    Affects: DB by -1
+
+| pair of thin vambraces (Abs: 88% up to 10, OB: -2, Weight: 470)
+Object 'vambraces braces metal thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 470, Value: 5000
+Absorbtion is 88% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: OB by -2
+
+| fine pair of chain mail sleeves (Abs: 55% up to 14, Weight: 130)
+Object 'sleeves chain fine', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 130, Value: 60000
+Absorbtion is 55% up to a maximum of 14 hits.
+
+| thick pair of chain mail sleeves (Abs: 63% up to 10, OB: -1, Move: -1, Weight: 340)
+Object 'sleeves mail chain thick', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 340, Value: 3500
+Absorbtion is 63% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: OB by -1
+    Affects: Move by -1
+
+|------------------------------------------------------------
+|--------------------   WORN ON ARMS   ----------------------
+|------------------------------------------------------------
+| thin pair of soft leather sleeves (Abs: 5% up to 1, OB: 1, Weight: 145)
+Object 'sleeves leather soft thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 145, Value: 175
+Absorbtion is 5% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 1
+
+| plain pair of sleeves (OB: 1, Weight: 60)
+Object 'sleeves plain', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 60, Value: 80
+Can affect you as :
+    Affects: OB by 1
+
+| thick pair of rigid leather sleeves (Abs: 82% up to 6, Weight: 280)
+Object 'sleeves leather rigid thick', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 280, Value: 600
+Absorbtion is 82% up to a maximum of 6 hits.
+
+| thin pair of rigid leather sleeves (Abs: 77% up to 4, Weight: 210)
+Object 'sleeves leather rigid thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 210, Value: 350
+Absorbtion is 77% up to a maximum of 4 hits.
+
+| black arm wrapping (Eff vs: POISON, Weight: 10)
+Object 'wrapping silk', Item type: ARMOUR
+key: 
+Item is: MAGIC BLESS 
+Type: NORMAL, Efficient vs: POISON, Inefficient vs: NONE
+Weight: 10, Value: 4000
+Absorbtion is 1%.
+
+|------------------------------------------------------------
+|--------------------   WORN ON LEGS (METAL) ----------------
+|------------------------------------------------------------
+| shining pair of greaves (Abs: 95%, up to 17, DB: -1,Weight: 275)
+Object 'greaves shining', Item type: ARMOUR
+key: 
+Item is: MAGIC BLESS 
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 275, Value: 60000
+Absorbtion is 95% up to a maximum of 17 hits.
+Can affect you as :
+    Affects: DB by -1
+
+| heavy pair of greaves (Abs: 93% up to 13, DB: -3, Weight: 650)
+Object 'greaves metal heavy', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 650, Value: 6000
+Absorbtion is 93% up to a maximum of 13 hits.
+Can affect you as :
+    Affects: DB by -3
+
+| pair of greaves (Abs: 90% up to 12, DB: -3, Weight: 580)
+Object 'greaves metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 580, Value: 5500
+Absorbtion is 90% up to a maximum of 12 hits.
+Can affect you as :
+    Affects: DB by -3
+
+| pair of plate greaves (Abs: 90% up to 11, DB: -1, Weight: 475)
+Object 'greaves plate metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 475, Value: 5000
+Absorbtion is 90% up to a maximum of 11 hits.
+Can affect you as :
+    Affects: DB by -1
+
+| thin pair of greaves (Abs: 88% up to 10, DB: -2, Weight: 520)
+Object 'greaves metal thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 520, Value: 5000
+Absorbtion is 88% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: DB by -2
+
+| fine pair of chain mail leggings (Abs: 55% up to 14, Weight: 145)
+Object 'leggings pants chain fine', Item type: ARMOUR
+key:
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 145, Value: 60000
+Absorbtion is 55% up to a maximum of 14 hits.
+
+| pair of scale leggings (Abs: 73% up to 9, DB: -1, Weight: 375)
+Object 'leggings pants scale', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 375, Value: 3000
+Absorbtion is 73% up to a maximum of 9 hits.
+Can affect you as :
+    Affects: DB by -1
+
+| scale shirt (Abs: 73% up to 9, DB: -1, Weight: 450)
+Object 'shirt scale', Item type: ARMOUR
+key:
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 450, Value: 4500
+Absorbtion is 73% up to a maximum of 9 hits.
+Can affect you as :
+    Affects: Move by -1
+
+&gt; pair of scale sleeves (Abs: 73% up to 9, DB: -1, Weight: 325)
+Object 'sleeves scale', Item type: ARMOUR
+key:
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 325, Value: 3000
+Absorbtion is 73% up to a maximum of 9 hits.
+Can affect you as :
+    Affects: OB by -1
+
+| pair of white chain mail leggings (Abs: 65% up to 12, DB: -1, Move: -2, Weight: 385)
+Object 'leggings chain white pants', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 385, Value: 4000
+Absorbtion is 65% up to a maximum of 12 hits.
+Can affect you as :
+    Affects: DB by -1
+    Affects: Move by -2
+
+| heavy pair of chain mail leggings (DB: -1, Mps: -2, Abs: 63% up to 10, Weight: 400)
+Object 'leggings heavy chain mail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 400, Value: 3500
+Absorbtion is 63% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: DB by -1
+    Affects: Move by -2
+
+| ringmail hauberk (Abs: 60% up to 8, Move: -1, Weight: 390)
+Object 'hauberk mailshirt mail ringmail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 390, Value: 3000
+Absorbtion is 60% up to a maximum of 8 hits.
+Can affect you as :
+    Affects: Move by -1
+
+| pair of ringmail leggings (Abs: 60% up to 8, Move: -1, Weight: 300)
+Object 'leggings mail ringmail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 2600
+Absorbtion is 60% up to a maximum of 8 hits.
+Can affect you as :
+    Affects: Move by -1
+
+| ringmail coif (Abs: 60% up to 8, Move: -1, Weight: 190)
+Object 'coif ringmail mail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 190, Value: 2500
+Absorbtion is 60% up to a maximum of 8 hits.
+Can affect you as :
+    Affects: Move by -1
+
+| pair of ringmail sleeves (Abs: 60% up to 8, Move: -1, Weight: 240)
+Object 'sleeves mail ringmail', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 240, Value: 2600
+Absorbtion is 60% up to a maximum of 8 hits.
+Can affect you as :
+    Affects: Move by -1
+
+|------------------------------------------------------------
+|--------------------   WORN ON LEGS   ----------------------
+|------------------------------------------------------------
+| pants (DB: 2, Weight: 110)
+Object 'breeches trousers pants plain', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 110, Value: 40
+Can affect you as :
+    Affects: DB by 2
+
+| pair of trousers (DB: 2, Weight: 150)
+Object 'trousers plain', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 150, Value: 40
+Can affect you as :
+    Affects: DB by 2
+
+| pair of soft leather trousers (OB: 1, Abs: 15% up to 1, Weight: 180)
+Object 'trousers pants soft leather', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 180, Value: 175
+Absorbtion is 15% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: OB by 1
+
+| thick pair of soft leather trousers (Abs: 30% up to 2, Weight: 200)
+Object 'trousers pants thick soft leather', Item type: ARMOUR
+key:
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 200, Value: 200
+Absorbtion is 30% up to a maximum of 2 hits.
+
+|------------------------------------------------------------
+|--------------------   WORN ON FEET (METAL) ----------------
+|------------------------------------------------------------
+| thick pair of metal boots (Abs: 90% up to 12, DB: -2, Move: 2, Weight: 280)
+Object 'boots thick metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL METAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 280, Value: 5000
+Absorbtion is 90% up to a maximum of 12 hits.
+Can affect you as :
+    Affects: DB by -2
+    Affects: Move by 2
+
+| pair of iron-shod boots (Abs: 74% up to 10, Move: 6, Weight: 240)
+Object 'boots iron-shod shod metal', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 240, Value: 1800
+Absorbtion is 74% up to a maximum of 10 hits.
+Can affect you as :
+    Affects: Move by 6
+|------------------------------------------------------------
+|--------------------   WORN ON FEET   ----------------------
+|------------------------------------------------------------
+| soft pair of boots (Move: 25, NOTRACK, Weight: 50)
+Object 'boots soft', Item type: WORN
+key: 
+Item is: MAGIC 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 460
+Can affect you as :
+    Affects: Move by 25
+    Affects: SET NOTRACK
+
+| a pair of smooth, black boots (Move: 20, CONTAINER, Weight: 30)
+Object 'boots black', Item type: CONTAINER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 30, Value: 1000
+Can affect you as :
+    Affects: Move by 20
+
+| black pair of padded boots (Abs: 5% up to 1, Move: 20, Weight: 107)
+Object 'boots leather soft thin', Item type: ARMOUR
+key: 
+Item is: BLESS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 107, Value: 100
+Absorbtion is 5% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: Move by 20
+
+| thin pair of soft leather boots (Abs: 5% up to 1, Move: 20, Weight: 107)
+Object 'boots leather soft thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 107, Value: 100
+Absorbtion is 5% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: Move by 20
+
+| pair of soft leather boots (Abs: 15% up to 1, Move: 18, Weight: 113)
+Object 'boots leather soft', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 113, Value: 120
+Absorbtion is 15% up to a maximum of 1 hits.
+Can affect you as :
+    Affects: Move by 18
+
+| pair of newly crafted shoes (Move: 17, Weight: 75)
+Object 'shoes shoe new', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 75, Value: 85
+Can affect you as :
+    Affects: Move by 17
+
+| pair of high boots (Abs: 30% up to 3, Move: 14, Weight: 250)
+Object 'boots high', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 250, Value: 1000
+Absorbtion is 30% up to a maximum of 3 hits.
+Can affect you as :
+    Affects: Move by 14
+
+| thin pair of rigid leather boots (Abs: 77% up to 4, Move: 12, Weight: 135)
+Object 'boots leather rigid thin', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 135, Value: 200
+Absorbtion is 77% up to a maximum of 4 hits.
+Can affect you as :
+    Affects: Move by 12
+
+| pair of sandals (Move: 8, Weight: 90)
+Object 'sandal sandals shoes', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 90, Value: 25
+Can affect you as :
+    Affects: Move by 8
+
+| pair of heavy shoes (Move: 8, Abs: 20% up to 3, Weight: 250)
+Object 'shoes heavy', Item type: ARMOUR
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 250, Value: 1500
+Absorbtion is 20% up to a maximum of 3 hits.
+Can affect you as :
+    Affects: Move by 8
+
+| pair of snowshoes (Move: -5, DB: -5, Eff vs: COLD, Weight: 100)
+Object 'snowshoes shoes', Item type: WORN
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: COLD, Inefficient vs: NONE
+Weight: 100, Value: 450
+Can affect you as :
+    Affects: Move by -5
+    Affects: DB by -5
+|------------------------------------------------------------
+|----------------------   CONTAINERS  -----------------------
+|------------------------------------------------------------
+| sable pouch (Weight: 31, Eff vs: FIRE COLD SPELL, Weight: 31) container
+Object 'pouch sable', Item type: CONTAINER
+key: 
+Item is: MAGIC 
+Type: NORMAL, Efficient vs: FIRE COLD SPELL, Inefficient vs: NONE
+Weight: 31, Value: 8000
+
+| leather backpack (Weight: 110) container
+Object 'backpack pack', Item type: CONTAINER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 110, Value: 100
+
+| large sack (Weight: 50) container
+Object 'sack large largesack', Item type: CONTAINER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 25
+
+| leather saddle (Weight: 300, NOSUMMON) container
+Object 'saddle', Item type: CONTAINER
+key: 
+Item is: NOSUMMON 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 1000
+
+| saddlecloth (Weight: 300, NOSUMMON)
+Object 'saddlecloth', Item type: CONTAINER
+key: 
+Item is: MAGIC NOSUMMON 
+Type: NORMAL LR-SPELL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 1000
+
+| ornamented sheath (AUTOMEND, Weight: 50) container
+Object 'sheath', Item type: CONTAINER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 200
+
+| jewel-encrusted goblet (DRINK_CON, Weight: 7) container
+Object 'goblet jewelled', Item type: DRINK_CON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 7, Value: 42000
+
+| exquisite wine glass (Value: 6300, Weight: 10) container
+Object 'glass crystal exquisite', Item type: DRINK_CON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 6300
+
+| water skin (DRINK_CON , Weight: 165) container
+Object 'skin waterskin', Item type: DRINK_CON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 165, Value: 20
+
+| flask of orkish draught (Weight: 30) container
+Object 'flask draught', Item type: POTION
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 30, Value: 1500
+Level 1 spells of:
+
+| quiver (Weight: 187) container
+Object 'quiver', Item type: QUIVER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 187, Value: 200
+
+|------------------------------------------------------------
+|-----------------------    KEYS    -------------------------
+|------------------------------------------------------------
+| tiny bronze key (Weight: 10)
+Object 'key bronze tiny', Item type: KEY
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 1000
+
+| engraved stone key (for overseer, Weight: 400)
+Object 'key stone engraved', Item type: KEY
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 400, Value: 500
+
+|------------------------------------------------------------
+|-----------------------   SPECIAL  -------------------------
+|------------------------------------------------------------
+| blue scroll (Level 15 spells of: heal, Weight: 25)
+Object 'scroll blue bluescroll', Item type: SCROLL
+key: 
+Item is: MAGIC NOSELL 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 20000
+Level 15 spells of:
+heal
+
+| purple scroll (Level 17 spells of: cure blind, sanctuary, Weight: 10)
+Object 'scroll purple purplescroll', Item type: SCROLL
+key: 
+Item is: MAGIC NOSELL 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 20000
+Level 17 spells of:
+cure blind
+sanctuary
+
+| scroll which reads "ysafg" (Level 25 spells of: fear, Weight: 35)
+Object 'scroll ysafg', Item type: SCROLL
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 35, Value: 5000
+Level 25 spells of:
+fear
+
+| fragile parchment (Makes bolts and Lightning bounce, Weight: 10)
+Object 'parchment', Item type: OTHER
+key: 
+Item is: MAGIC 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 2700
+
+| small pouch (Stun powder, Weight: 121)
+Object 'pouch powder', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 121, Value: 8
+
+| black candle (Level 14 sleep, Can give: [Move: -3, Save spell by 1], Weight: 40)
+Object 'candle', Item type: STAFF
+key: 
+Item is: EVIL MAGIC 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 40, Value: 2000
+Has 1 charges, with 1 charges left.
+Level 14 spell of:
+sleep
+Can affect you as :
+    Affects: Move_Regen by -3
+    Affects: Saving Spell by 1
+
+| hunting horn (Weight: 35)
+Object 'horn hunting', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 35, Value: 1700
+
+| perfect oak branch (Weight: 300)
+Object 'branch oak', Item type: TRASH
+key: 
+Item is: NOBITS
+Type: NORMAL WOOD, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 250
+
+| oak wand (Damage: 3, Weight: 300)
+Object 'wand oak', Item type: WEAPON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 250
+OB: 0, PB: 0, Damage: 3
+
+| strange set of lock picks (Weight: 45)
+Object 'lockpicks set picks tools', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 45, Value: 1000
+
+| grotesque necklace (Weight: 55)
+Object 'necklace bone bones', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 55, Value: 650
+
+| herbal kit (Weight: 50)
+Object 'bag herbal kit', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 500
+
+| canoe (Weight: 1600)
+Object 'canoe', Item type: BOAT
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1600, Value: 1000
+
+| die (Weight: 5)
+Object 'die', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 5, Value: 750
+
+| stone (Weight: 25)
+Object 'stone whetstone', Item type: OTHER
+key: 
+Item is: NOSELL 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 2000
+
+| shiny flute (Weight: 50)
+Object 'flute instrument', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 1500
+
+| bloody scalp (Weight: 3)
+Object 'scalp', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 3, Value: 0
+
+| bloody pair of elf ears (Weight: 11)
+Object 'ears ear pair', Item type: TRASH
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 11, Value: 75
+
+| bar of iron (Weight: 200)
+Object 'bar iron', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 200, Value: 850
+
+| walking stick (Weight: 50)
+Object 'stick walking', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 2
+
+|------------------------------------------------------------
+|--------------------  LIGHT THINGIES  ----------------------
+|------------------------------------------------------------
+| an Istari wand (OB: 20, PB: 30, Damage: 9, BLESS ANTI-EVIL ANTI-NEUTRAL, Saving Spell by -3, Attack Spell by 2, Weight: 1200)
+Object 'wand istar', Item type: WEAPON
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL FOCUS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1200, Value: 5000
+OB: 20, PB: 30, Damage: 9
+Can affect you as :
+    Affects: Attack Spell by 2
+    Affects: Saving Spell by -3
+
+| a reinforced oak staff (OB: 20, PB: 30, Damage: 9, Saving Spell by -1, Weight: 1200)
+Object 'staff oak reinforced', Item type: WEAPON
+key: 
+Item is: GLOW INVISIBLE MAGIC BLESS ANTI-EVIL NOSELL FOCUS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 1200, Value: 5000
+OB: 20, PB: 30, Damage: 9
+Can affect you as :
+    Affects: Attack Spell by 0
+    Affects: Saving Spell by -1
+
+| a carved oak staff (OB: 5, PB: 15, Damage: 9, Saving Spell by -1, Weight: 500)
+Object 'staff oak carved', Item type: WEAPON
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL NOSELL FOCUS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 500, Value: 5000
+OB: 5, PB: 15, Damage: 9
+Can affect you as :
+    Affects: Attack Spell by 0
+    Affects: Saving Spell by -1
+
+| bejewelled oak staff (OB: 10, PB: 20, Damage: 9, Attack Spell by 2, Saving Spell by -1, Weight: 700)
+Object 'staff oak bejewelled', Item type: WEAPON
+key:
+Item is: GLOW MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL FOCUS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 700, Value: 5000
+OB: 10, PB: 20, Damage: 9
+Can affect you as :
+    Affects: Attack Spell by 2
+    Affects: Saving Spell by -1
+
+
+| bejewelled oak staff (OB: 10, PB: 20, Damage: 9, Attack Spell by 1, Saving Spell by -1, Weight: 800)
+Object 'staff oak bejewelled', Item type: WEAPON
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL NOSELL FOCUS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 800, Value: 5000
+OB: 10, PB: 20, Damage: 9
+Can affect you as :
+    Affects: Attack Spell by 1
+    Affects: Saving Spell by -1
+
+| oak staff (GLOW MAGIC BLESS ANTI-EVIL NOSELL FOCUS, Weight: 250) light
+Object 'staff oak', Item type: LIGHT
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL NOSELL FOCUS 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 250, Value: 5000
+
+| rough staff (OB: 5, PB: 15, Damage: 8, Affects: Saving Spell by -1, Weight: 500)
+Object 'staff rough', Item type: WEAPON
+key: 
+Item is: MAGIC ANTI-EVIL
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 500, Value: 2000
+OB: 5, PB: 15, Damage: 8
+Can affect you as :
+    Affects: Attack Spell by 0
+    Affects: Saving Spell by -1
+
+| small crystal phial (Saving Spell by -2, SET #PROTECT-EVIL, Weight: 10)
+Object 'phial', Item type: TREASURE
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL
+Type: NORMAL, Efficient vs: MENTAL, Inefficient vs: NONE
+Weight: 10, Value: 5000
+Can affect you as :
+    Affects: Saving Spell by -2
+    Affects: SET #PROTECT-EVIL
+
+| red ruby (GLOW MAGIC, Weight: 15) light
+Object 'ruby jewel gem red', Item type: LIGHT
+key: 
+Item is: GLOW MAGIC 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 15, Value: 100000
+
+| hooded brass lantern (Weight: 100) light
+Object 'lantern', Item type: LIGHT
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 75
+
+| torch (Weight: 35) light
+Object 'torch', Item type: LIGHT
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 35, Value: 10
+
+| dark coloured flask (Weight: 111)
+Object 'flask oil', Item type: DRINK_CON
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 111, Value: 8
+
+|------------------------------------------------------------
+|-----------------------  TREASURES  ------------------------
+|------------------------------------------------------------
+| fine silver bracelet (Value: 100000, Weight: 25)
+Object 'bracelet silver', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 25, Value: 100000
+
+| lustrous green emerald (Value: 75000, Weight: 10)
+Object 'emerald jewel', Item type: TREASURE
+key: 
+Item is: GLOW MAGIC 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 75000
+
+| corberyl (Value: 40000, Weight: 5)
+Object 'corberyl jewel', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 5, Value: 40000
+
+| beautiful diamond (Weight: 3)
+Object 'diamond jewel', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 3, Value: 40000
+
+| blue crystal ..It has a soft glowing aura! (Value: 30000, Weight: 50)
+Object 'crystal blue', Item type: TREASURE
+key: 
+Item is: GLOW 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 30000
+
+| pale blue stone (ANTI-EVIL ANTI-NEUTRAL, Weight: 50)
+Object 'stone pale blue bluestone', Item type: TREASURE
+key: 
+Item is: ANTI-EVIL ANTI-NEUTRAL 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 30000
+
+| golden harp (Value: 20000, Weight: 100) TREASURE
+Object 'harp golden', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 100, Value: 20000
+
+| topaz (Value: 18000, Weight: 5)
+Object 'topaz jewel', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 5, Value: 18000
+
+| lustrous opal (Value: 15000, Weight: 7)
+Object 'opal jewel', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 7, Value: 15000
+
+| green brooch (Weight: 15)
+Object 'brooch green', Item type: TREASURE
+key: 
+Item is: MAGIC BLESS ANTI-EVIL 
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 15, Value: 10000
+
+| silver cloakpin (Weight: 30)
+Object 'cloakpin pin', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL SILVER, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 30, Value: 8000
+
+| huge silvery bracer (Value: 4000, Weight: 300)
+Object 'bracer silvery huge fulcam', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 4000
+
+| bronze medallion (Value: 1250, Weight: 75) TREASURE
+Object 'medallion bronze', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 75, Value: 1250
+
+|------------------------------------------------------------
+|------------------------------------------------------------
+|------------------------------------------------------------
+| loaf of bread (Weight: 30) food
+Object 'bread loaf', Item type: FOOD
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 30, Value: 10
+|------------------------------------------------------------
+|------------------------------------------------------------
+|------------------------------------------------------------
+| chuck of strange metal (Weight: 300)
+Object 'chunk metal meteoric iron', Item type: OTHER
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 300, Value: 10000
+
+| sapphire (VaValue: 40000, Weight: 5 )
+Object 'sapphire star jewel', Item type: TREASURE
+key: 
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 5, Value: 40000
+
+| pale blue tone (Value: 30000, BLESS ANTI-EVIL ANTI-NEUTRAL, Weight: 50)
+Object 'stone pale blue bluestone', Item type: TREASURE
+key: 
+Item is: MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL 
+Type: NORMAL MAGIC, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 30000
+
+| phial (Saving Spell by -2, #PROTECT-EVIL, GLOW MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL)
+Object 'phial', Item type: TREASURE
+key: 
+Item is: GLOW MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL 
+Type: NORMAL, Efficient vs: MENTAL, Inefficient vs: NONE
+Weight: 10, Value: 5000
+Can affect you as :
+    Affects: Saving Spell by -2
+    Affects: SET #PROTECT-EVIL
+
+| sapphire ring (MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL, Weight: 50)
+Object 'sapphire ring', Item type: TREASURE
+key: 
+Item is: MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 50, Value: 400000
+Can affect you as :
+    Affects: OB by 5
+    Affects: Saving Spell by -2
+
+| vial of preserved blood (Weight: 10)
+Object 'vial red blood', Item type: OTHER
+key:
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 10, Value: 50
+
+| some short, black fur (Weight: 8)
+Object 'fur bat', Item type: TRASH
+key:
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 8, Value: 200
+
+| short, moist tail (Weight: 4)
+Object 'tail salamander', Item type: FOOD
+key:
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 4, Value: 150
+
+| handful of narrow leaves(Weight: 2)
+Object 'leaves narrow tarragon herb spice', Item type: PLANT
+key:
+Item is: NOBITS
+Type: NORMAL, Efficient vs: NONE, Inefficient vs: NONE
+Weight: 2, Value: 450
+

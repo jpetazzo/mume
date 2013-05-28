@@ -1,0 +1,243 @@
+| a mighty dwarven axe (1-handed OB: 15, PB: -5, Damage: 13.2, Delay: 110%, Eff: SPELL WOOD, Weight: 285)
+Object 'axe mighty sweapon', Item type: WEAPON
+Magical key: 'efvuljugvi'.
+Item is: MAGIC
+Type: NORMAL METAL, Efficient vs: SPELL WOOD, Inefficient vs: none
+Weight: 285, Value: 4500
+1-handed OB: 15, PB: -5, Damage: 13.2, Delay: 110%
+
+| a blackened dwarven axe (1-handed OB: 15, PB: -5, Damage: 12.1, Delay: 110%, Eff: SPIRIT SPELL WOOD, Weight: 270)
+Object 'axe blackened dwarven', Item type: WEAPON
+Magical key: 'flaozfubak'.
+Item is: MAGIC ANTI-EVIL ANTI-NEUTRAL
+Type: NORMAL METAL, Efficient vs: SPIRIT SPELL WOOD, Inefficient vs: none
+Weight: 270, Value: 5000
+1-handed OB: 15, PB: -5, Damage: 12.1, Delay: 110%
+
+| a battle axe (1-handed OB: 5, PB: 0, Damage: 9.0, Delay: 110%, Eff: WOOD, Weight: 240)
+Object 'axe battle sweapon', Item type: WEAPON
+Magical key: 'kelifeqsca'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: none
+Weight: 240, Value: 3500
+1-handed OB: 5, PB: 0, Damage: 9.0, Delay: 110%
+
+| a black waraxe (1-handed OB: 5, PB: 0, Damage: 8.0, Delay: 100%, Eff: WOOD, Weight: 150)
+Object 'waraxe axe sweapon', Item type: WEAPON
+Magical key: 'igfitheyob'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: WOOD, Inefficient vs: none
+Weight: 150, Value: 2000
+1-handed OB: 5, PB: 0, Damage: 8.0, Delay: 100%
+
+
+|------------------------- pweapon -------------------------|
+|------------------------- pweapon -------------------------|
+| ceremonial dagger
+-the same-
+
+| a barbed fang (1-handed OB: 5, PB: 0, Damage: 8.0, Delay: 100%, Weight: 210) pweapon
+Object 'fang barbed pweapon', Item type: WEAPON
+Magical key: 'omkoclior'.
+Item is: EVIL
+Type: NORMAL METAL, Efficient vs: RIDING, Inefficient vs: none
+Weight: 210, Value: 2500
+1-handed OB: 5, PB: 0, Damage: 8.0, Delay: 100%
+
+| a black runed dagger (1-handed OB: 15, PB: 5, Damage: 8.0, Delay: 100%, Eff: SPELL, Saving Spell by -2, Weight: 45) pweapon
+Object 'dagger runed black pweapon', Item type: WEAPON
+Magical key: 'jaycadnthoz'.
+Item is: MAGIC
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: none
+Weight: 45, Value: 8500
+1-handed OB: 15, PB: 5, Damage: 8.0, Delay: 100%
+Can affect you as :
+    Affects: Saving Spell by -2
+
+| a sharp thorn (1-handed OB: 5, PB: 5, Damage: 5.0, Delay: 100%, InEff: METAL, Weight: 60) pweapon
+Object 'thorn sharp pweapon', Item type: WEAPON
+Magical key: 'zigkafarmbli'.
+Item is: MAGIC
+Type: NORMAL WOOD, Efficient vs: none, Inefficient vs: METAL
+Weight: 60, Value: 1500
+1-handed OB: 5, PB: 5, Damage: 5.0, Delay: 100%
+Can affect you as :
+    Affects: OB by 10
+    Affects: Damage by 2
+
+| a double edged eket (1-handed OB: 5, PB: 5, Damage: 5.0, Delay: 100%, Weight: 30) pweapon
+Object 'eket dagger blade pweapon', Item type: WEAPON
+Magical key: 'xydhoyucpi'.
+Item is: MAGIC
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 30, Value: 2500
+1-handed OB: 5, PB: 5, Damage: 5.0, Delay: 100%
+Can affect you as :
+    Affects: OB by 10
+    Affects: Damage by 2
+
+| a rapier (1-handed OB: 5, PB: 5, Damage: 4.0, Delay: 100%, Weight: 75) pweapon
+Object 'rapier sword pweapon', Item type: WEAPON
+Magical key: 'ayefylgoxy'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 75, Value: 1500
+1-handed OB: 5, PB: 5, Damage: 4.0, Delay: 100%
+
+
+| a nasty orkish fang (1-handed OB: 0, PB: 0, Damage: 6.0, Delay: 100%, Weight: 75) pweapon
+Object 'fang pweapon', Item type: WEAPON
+Magical key: 'medwadimush'.
+Item is: MAGIC
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 75, Value: 2000
+1-handed OB: 0, PB: 0, Damage: 6.0, Delay: 100%
+
+|------------------------- tweapon -------------------------|
+|------------------------- tweapon -------------------------|
+
+| a reinforced oak staff (2-handed OB: 20, PB: 30, Damage: 9.0, Delay: 150%, Weight: 1200) 
+Object 'staff oak reinforced', Item type: WEAPON
+Magical key: 'oovioeom'.
+Item is: GLOW MAGIC BLESS ANTI-EVIL ANTI-NEUTRAL NOSELL FOCUS
+Type: NORMAL WOOD, Efficient vs: SPELL, Inefficient vs: none
+Weight: 1200, Value: 5000
+2-handed OB: 20, PB: 30, Damage: 9.0, Delay: 150%
+Can affect you as :
+    Affects: Attack Spell by 0
+    Affects: Saving Spell by -1
+
+| a great warsword (2-handed OB: 20, PB: 0, Damage: 18.0, Delay: 150%, Weight: 405) tweapon
+Object 'warsword sword war tweapon', Item type: WEAPON
+Magical key: 'epgymaeros'.
+Item is: MAGIC BLESS
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: none
+Weight: 405, Value: 10000
+2-handed OB: 20, PB: 0, Damage: 18.0, Delay: 150%
+
+| a two-handed sword (OB: 10, PB: -5, Damage: 12.3, Delay: 130%, Weight: 360) tweapon
+Object 'twohanded sword two tweapon', Item type: WEAPON
+Magical key: 'brerikyac'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 360, Value: 5000
+2-handed OB: 10, PB: -5, Damage: 12.3, Delay: 130%
+
+| a very large knotted tree-branch (OB: 10, PB: -10, Damage: 14.0, Delay: 150%, Eff: METAL, Weight: 540) tweapon
+Object 'branch knotted large tweapon', Item type: WEAPON
+Magical key: 'ififevkid'.
+Item is: none
+Type: NORMAL WOOD, Efficient vs: METAL, Inefficient vs: none
+Weight: 540, Value: 2400
+2-handed OB: 10, PB: -10, Damage: 14.0, Delay: 150%
+Can affect you as :
+    Affects: Damage by 0
+
+| a heavy warhammer (2-handed OB: 5, PB: -10, Damage: 13.0, Delay: 135%, Eff: METAL, Weight: 405) tweapon
+Object 'warhammer hammer heavy tweapon', Item type: WEAPON
+Magical key: 'skiteekhaaq'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: none
+Weight: 405, Value: 5500
+2-handed OB: 5, PB: -10, Damage: 13.0, Delay: 135%
+
+|------------------------- stweapon -------------------------|
+|------------------------- stweapon -------------------------|
+| a steel-tipped spear (1-handed OB: 10, PB: -5, Damage: 7.6, Delay: 100%, Eff: RIDING, Weight: 120) stweapon
+Object 'spear steel hunting stweapon', Item type: WEAPON
+Magical key: 'sipreoutyea'.
+Item is: MAGIC
+Type: NORMAL METAL, Efficient vs: RIDING, Inefficient vs: none
+Weight: 120, Value: 5500
+1-handed OB: 10, PB: -5, Damage: 7.6, Delay: 100%
+Can affect you as :
+    Affects: OB by 10
+    Affects: Damage by 2
+
+|------------------------- cweapon -------------------------|
+|------------------------- cweapon -------------------------|
+| an ornate, steel-shafted warhammer (1-handed OB: 20, PB: -5, Damage: 13.4, Delay: 120%, Eff: SPELL METAL, Weight: 270) cweapon
+Object 'warhammer ornate steel-shafted hammer steel shafted cweapon', Item type: WEAPON
+Magical key: 'fyligsiaz'.
+Item is: MAGIC
+Type: NORMAL METAL, Efficient vs: SPELL METAL, Inefficient vs: none
+Weight: 270, Value: 1100
+1-handed OB: 20, PB: -5, Damage: 13.4, Delay: 120%
+
+| an engraved warhammer (1-handed OB: 20, PB: -5, Damage: 12.3, Delay: 120%, Eff: SPELL METAL, Weight: 270) cweapon
+Object 'hammer warhammer bonecrusher cweapon', Item type: WEAPON
+Magical key: 'mueyevemy'.
+Item is: MAGIC
+Type: NORMAL METAL, Efficient vs: SPELL METAL, Inefficient vs: none
+Weight: 270, Value: 7050
+1-handed OB: 20, PB: -5, Damage: 12.3, Delay: 120%
+
+| a heavy morningstar (1-handed OB: 10, PB: -10, Damage: 10.0, Delay: 110%, Eff: METAL, Weight: 270) cweapon
+Object 'morningstar star heavy cweapon', Item type: WEAPON
+Magical key: 'cyegoirgna'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: METAL, Inefficient vs: none
+Weight: 270, Value: 3500
+1-handed OB: 10, PB: -10, Damage: 10.0, Delay: 110%
+
+|------------------------- sweapon -------------------------|
+|------------------------- sweapon -------------------------|
+| an engraved broadsword (1-handed OB: 10, PB: 10, Damage: 9.0, Delay: 90%, Weight: 195) sweapon
+Object 'broadsword sword engraved sweapon', Item type: WEAPON
+Magical key: 'itdyeeelez'.
+Item is: MAGIC
+Type: NORMAL SILVER, Efficient vs: SPELL, Inefficient vs: none
+Weight: 195, Value: 5000
+1-handed OB: 10, PB: 10, Damage: 9.0, Delay: 90%
+
+| a dark broadsword (OB: 10, PB: 10, Damage: 7.0, Delay: 85%, Weight: 150) sweapon
+Object 'broadsword dark sword sweapon', Item type: WEAPON
+Magical key: 'teeizoutthe'.
+Item is: MAGIC ANTI-GOOD
+Type: NORMAL METAL, Efficient vs: SPELL, Inefficient vs: none
+Weight: 150, Value: 7000
+1-handed OB: 10, PB: 10, Damage: 7.0, Delay: 85%
+
+| a broad scimitar (1-handed OB: 10, PB: -5, Damage: 9.0, Delay: 110%, Weight: 260) sweapon
+Object 'scimitar broad sweapon sword', Item type: WEAPON
+Magical key: 'dibsouitqua'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 260, Value: 3000
+1-handed OB: 10, PB: -5, Damage: 9.0, Delay: 110%
+
+| a longsword (1-handed OB: 10, PB: 0, Damage: 8.0, Delay: 110%, Weight: 210) sweapon
+Object 'longsword sword sweapon', Item type: WEAPON
+Magical key: 'bobjayaweid'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 210, Value: 2000
+1-handed OB: 10, PB: 0, Damage: 8.0, Delay: 110%
+
+| a scimitar (1-handed OB: 10, PB: 0, Damage: 7.0, Delay: 100%, Weight: 165) sweapon
+Object 'scimitar sword sweapon', Item type: WEAPON
+Magical key: 'upnuyinfla'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 165, Value: 2000
+1-handed OB: 10, PB: 0, Damage: 7.0, Delay: 100%
+
+| a broadsword (1-handed OB: 0, PB: 5, Damage: 7.0, Delay: 90%, Weight: 195) sweapon
+Object 'broadsword sword sweapon', Item type: WEAPON
+Magical key: 'pudsiexrye'.
+Item is: MAGIC ANTI-EVIL
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 195, Value: 2500
+1-handed OB: 0, PB: 5, Damage: 7.0, Delay: 90%
+Can affect you as :
+    Affects: OB by 10
+    Affects: Damage by 2
+
+| a sabre (1-handed OB: 10, PB: 0, Damage: 6.0, Delay: 90%, Weight: 105) sweapon
+Object 'sabre sword sweapon', Item type: WEAPON
+Magical key: 'peeuhudac'.
+Item is: none
+Type: NORMAL METAL, Efficient vs: none, Inefficient vs: none
+Weight: 105, Value: 1500
+1-handed OB: 10, PB: 0, Damage: 6.0, Delay: 90%
+
