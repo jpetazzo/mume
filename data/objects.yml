@@ -12,9 +12,12 @@ Greater parts of a broken weapon are lying on the ground.:
 Little parts of a broken weapon are lying on the ground.:
 
 # clothes and armours
+A thick, rigid leather breastplate is on the ground.:
+A pair of rigid leather sleeves are lying here.:
 A wide pair of snowshoes lies on the ground here.:
 A warm blanket covers the ground.:
 A studded leather belt has been left here.:
+A pair of chain mail sleeves| lies here.:
 A sturdy pair of chain mail sleeves| lies here.:
 A sturdy pair of hard leather pants| are lying here.:
 A sturdy pair of rigid leather gloves| are lying here.:
@@ -29,7 +32,7 @@ A cloak mottled in green and brown, and stinking to high heaven lies here.:
 A large wooden wall shield| rests on the ground.:
 A pair of soft leather pants are lying here.:
 A small metal shield is on the ground.:
-A soft leather jerkin is on the ground.:
+A soft leather jerkin| is on the ground.:
 A pair of high boots are on the ground.:
 A long strip of plain silk lies here.:
 A pair of soft leather sleeves is here.:
@@ -37,8 +40,13 @@ A black hood lies on the ground.:
 A fine, soft leather jerkin| is on the ground.:
 A pair of soft leather gloves| are lying here.:
 A plaid leather belt is lying here.:
+A large metal shield is on the ground.:
+A chain mail hauberk| is on the ground.:
+A round shield, with shining gilt, is on the ground.:
+  a gilded round shield
 A small metal target shield| is on the ground.:
 A pair of smooth boots lie on the ground.:
+  a pair of smooth, black boots
 A spiked collar, made from iron, lies here.:
 A sturdy pair of rigid leather boots are on the ground.:
 A sturdy, soft leather jerkin| is on the ground.:
@@ -90,12 +98,13 @@ A plain leather belt is lying here.:
 A large wooden full shield is on the ground.:
 
 # food, drinks...
+A fish is on the ground here, quite dead it seems.:
 Some curdled goats milk sits inside a cheese mould.:
 A small ironbound barrel made of fine oak rests here.:
 A small piece of raw goat meat is on the ground.:
 A piece of meat, still bloody, is lying here.:
 A tough strip of dried meat lies here.:
-A magic mushroom lies here.:
+A magic mushroom| lies here.:
 A beer mug is here.:
 A nice looking delicious pastry has been placed here.:
 An egg has been left here to spoil.:
@@ -142,6 +151,7 @@ A pan is here, ready for use.:
 A small flask has been left here on the ground.:
   a dark coloured flask
 A large torch lies here among the dust.:
+  a torch
 A copper penny lies on the ground.:
 A large bundle of pale yellow fur is here.:
 A greyish-black pelt lies here.:
@@ -150,6 +160,7 @@ A large steel keyring is lying here.:
 A short and sturdy stick lies here.:
 
 # weapons
+A long, single-edged sword lies on the ground.:
 A mace| is on the ground.:
 A morningstar| is on the ground.:
 A scimitar| has been left here.:
@@ -166,8 +177,6 @@ A wooden cudgel lies on the ground.:
 A butcher knife| is lying here.:
 A wooden longbow is lying here.:
 A hefty stone club is on the ground.:
-A thick, rigid leather breastplate is on the ground.:
-A pair of rigid leather sleeves are lying here.:
 A wooden club is on the ground.:
 A woodman's axe| lies here.:
 An arrow made from a grey wood lies here.:
@@ -215,7 +224,7 @@ A cup| has been set here.:
 A large arrow lies on the ground.:
   a war arrow
 A rusty pickaxe with a broken handle lies discarded here.:
-A silver wedding ring lies here.:
+A silver wedding ring| lies here.:
 Some cereals that look like wheat are lying here.:
 An infusion of herbs gives out a nice scent.:
 A spoon is placed here.:
@@ -254,7 +263,7 @@ A fishing rod has been left here.:
 A light and flowing skirt lies here.:
 An orkish shield, bearing the effigy of a red skull, has been left here.:
 A quiver lies on the ground.:
-A black wolf fur is here, lying on the ground.:
+A black wolf fur| is here, lying on the ground.:
 A soft pouch, made from leather, has been left here.:
 A sturdy leather backpack has been left here.:
 A scuffed and worn leather satchel has been left here.:
@@ -271,7 +280,6 @@ A circlet of golden flowers has been left here.:
 A falchion lies on the ground.:
 A fishing net has been left here.:
 A forest-green cloak lies here, concealing the ground beneath.:
-A long, single-edged sword lies on the ground.:
 A metal wall shield rests on the ground.:
 A small clay plaque with strange markings lies here.:
 A worn clay bowl is lying on the ground.:

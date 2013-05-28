@@ -34,7 +34,7 @@ A mean looking robber is here, demanding money from you.:
 A brown bear| is sleeping here.:
   level: 12
 A colourful butterfly is fluttering around here.:
-A robin is here, carrying small pieces of wood to its nest.:
+A robin| is here, carrying small pieces of wood to its nest.:
 A huge grizzly bear is here, roaming the wild.:
   trophy: A grizzly bear
   level: 15
@@ -55,6 +55,7 @@ Massive roots shift uneasily all around you.:
   keywords: massive
   warning: Do massive roots first!
 Some thick writhing vines whip all around you.:
+  trophy: A thick tangle of vines
   keywords: vines
   level: 13?
 A black wolf| pads restlessly, looking for its next prey.:
@@ -113,7 +114,7 @@ A boar cub| is playing here, and exploring the wide world.:
 A brown donkey| watches the surroundings, perhaps looking for a chance to graze.:
 A brown fox| is here, looking for some rabbits to chew up.:
   level: 2
-A large rabbit looks peacefully at you, ready to dart away.:
+A large rabbit| looks peacefully at you, ready to dart away.:
 A sturdy pack horse is standing here.:
 An elven guard is standing here at his post.:
 A Bounder is here, patrolling the Shire and watching for evil.:
@@ -291,11 +292,12 @@ An elven tailor is standing here, tidying his selection.:
 A dwarven gateguard watches over the entranceway.:
 A prospector is walking around slowly, looking for a new ore vein to mine.:
 A sharp-eyed hawk is here stalking some prey.:
-A sparrow is flapping around on the ground.:
+A sparrow| is flapping around on the ground.:
 A secretary is sitting at the desk.:
+A secretary is sitting here.:
 A dwarven cityguard is patrolling the streets.:
 An experienced dwarven captain stands here with an air of authority.:
-A mountain goat is here, jumping from cliff to cliff.:
+A mountain goat| is here, jumping from cliff to cliff.:
   level: 4?
 A goat is here, grazing in the hills.:
   level: 3
@@ -322,6 +324,7 @@ Gildor the blacksmith is here, busy forging a sword.:
   flags: shop
 A small termite| is running around making strange sounds.:
 A large elk| is standing here, chewing grass and leaves.:
+  level: 8
 A mouse is here nosing around, looking for a safe place to hide.:
 A large, loyal falcon is circling above.:
 A thin, crippled deer looks around timidly.:
@@ -434,6 +437,7 @@ A singing, happy drunk is staggering about here.:
 An elven librarian is here taking care of all the books.:
 A silvery fish quickly darts through the water.:
 A huge, poisonous tarantula extends her legs to you.:
+  level: 14?
 A newborn spider| is here.:
 A partridge attempts to hide in the undergrowth.:
 A black raven| flies in the sky searching for flesh to prey upon.:
@@ -534,7 +538,7 @@ A mass of wriggling vines drops on you from the trees.:
   trophy: A mass of vines
   level: 11+
 A black spider crawls here, a shiny red spot visible on its belly.:
-An elven scout stands here, blending in with the background.:
+An elven scout| stands here, blending in with the background.:
 A golden spider rests on a tree-branch.:
 An elven ropemaker is fiddling with some thread here.:
 A hungry warg| stands here, sniffing around for flesh.:
@@ -863,6 +867,7 @@ A quail stands motionless.:
 A dark iridescent dragonfly flies by.:
 A small, naked humanoid creature glares at you.:
   trophy: A brushman
+  level: 16
 An Elven steward stands here, watching over the household.:
 The enchanting will-of-the-wisp beckons you with a blurred light.:
 A tipsy thief is here, mad at you, because you disturbed his wine-testing.:
@@ -1016,3 +1021,24 @@ A giant and ancient yew stands here quite eerily.:
 A dwarven statue stands poised before the silverydoor.:
 A Dunlending herdsman in ragged leather stands here, watching over his herd.:
 A mouse sniffs around, searching for a morsel of food.:
+The shadowy wight of a bodyguard stands here.:
+  trophy: A wight bodyguard
+  level: 19
+A bent old shaman stands here, chanting and cursing.:
+  trophy: Mrak the orkish shaman
+A gorcrow is standing here.:
+A hen is standing here.:
+An orkish soldier is here, patrolling the area.:
+A warg-rider of the Ohurk-Uai is here, grunting at you.:
+  trophy: An orkish warg-rider
+An experienced explorer stands here, appraising his surroundings.:
+The spirit of a mighty warrior greets you with an evil laughter.:
+  trophy: An undead chieftain
+A man walks stealthily here, enshrouded in a grey woollen cloak.:
+  trophy: A grey-cloaked man
+  level: 20?
+A war-weary wight-warrior is standing here.:
+  trophy: A wight-warrior
+  level: 16?
+Farmer Green stands here, welcoming you into his home.:
+A small, muscled man sneaks by, measuring you with a quick glance.:

@@ -135,6 +135,7 @@ It must be the middle of the night.
 It should be the end of the night soon.
 The sun is already high in the sky.
 The sun is near its zenith, it's noon.
+According to the sun, it must be early in the afternoon.
 The sun is slowly disappearing in the west.
 You can see a New Moon in the eastern part of the sky.
 You can see a Quarter Moon in the eastern part of the sky.
@@ -157,6 +158,9 @@ You stop watching Nan Curunír.
 
 A cold hard wind lashes at your clothes, making it difficult to move.
 The raging wind almost sweeps you off your feet, but you manage to stand your ground.
+
+The cool wind howls menacingly around this bare platform.
+The strong winds push and pull at this platform, trying to throw it back and forth across the plains.
 
 The ascent ahead seems quite easy to climb, while falling down might bruise you slightly.
 The ascent ahead seems quite difficult to climb, while falling down might bruise you slightly.
@@ -199,6 +203,8 @@ You feel stealthy again.
 You stop sneaking.
 Ok, from now you'll try to swim.
 Ok, you'll try to move silently for a while.
+You attempt to hide yourself.
+You cannot see well enough to hide anything here!
 
 You sit down.
 You sit down and rest your tired bones.
@@ -217,8 +223,7 @@ You wake, and sit up on the bed.
 * wakes * up.
 * sits down and rests.
 * lies down and falls asleep.
-* clambers on her feet.
-* clambers on his feet.
+<Mob> clambers on <possessive> feet.
 * can't hear you.
 
 You start mending *
@@ -287,7 +292,7 @@ Above the branches and leaves of the trees, a flare of lightning crosses the sky
 A storm sweeps across the sky above the trees, and shattering sounds of lightning are heard in the distance.
 Suddenly, the sky clears. The storm has blown away.
 After a flash of lightning, a loud thunder is heard.
-After a flash of lightning, a loud thunder is heard from the north.
+After a flash of lightning, a loud thunder is heard <fromdir>.
 Lightning lights the sky, followed by a rolling thunder.
 Lightning lights the sky, followed by a rolling thunder <fromdir>.
 The passage up the hill makes you breathe harder.
@@ -307,6 +312,7 @@ Man-high thorny bushes shift behind you as you enter the small valley.
 Moving up the slope is really hard.
 Your mount changes pace slightly as the ground rises to south.
 You ease your mount down the steep hillside into the deep forest.
+You take your chances and jump into the river below.
 Your mount finds travelling the high grass rather tiring.
 Step by step you make your way down an elegant flight of stairs.
 Moving down the slope is tiresome.
@@ -367,6 +373,7 @@ You hear a loud horn, signalling the immediate departure of a ship.
 Gildor the blacksmith holds bits of scrap metal over an open flame to melt them down.
 When the metal is completely liquefied, Gildor the blacksmith pours it into a mould.
 The coach * rolls noisily *wards.
+The coach from Fornost rolls past you, heading towards Bree.
 The coach to * is here.
 You skilfully climb up the ladder.
 
@@ -401,8 +408,14 @@ The moon slowly disappears into the hazy horizon.
 The moon slowly slides down below the plains in the west.
 The morning sun rises over the grass-filled lands.
 The red globe of the sun rises above the plains to the east.
+The sky slowly changes from a light orange colour to a dark fiery red as the sun gradually sets in the west over the Gulf.
 The silvery moonlight disappears, as the moon descends below the horizon.
 The shadows are fading as a bright yellow disc slowly rises over the eastern plains.
+The sun disappears in the west and darkness comes over the land.
+The sun disappears as it passes behind a small mountain foothill to the west.
+The sun falls, and the land again becomes dark.
+The sun rises tiredly above the distant mountains in the east.
+The sun sinks low on the western horizon, slowly vanishing from sight.
 The sun peeks over the Misty Mountains in the east.
 The sun rises above the Misty Mountains, climbing slowly into the sky.
 The sun sinks slowly below the western horizon.
@@ -455,6 +468,7 @@ A light rain is falling upon the hillsides.
 The sun slowly rises over the rooftops in the east.
 The frost is leaving its hold of the ground.
 The ground is slightly frosty.
+The ground is frosty.
 Snow begins to fall softly upon the hills.
 A light snow begins to fall upon the ground.
 A rich, green glow filtering through the leaves signals the start of a new day.
@@ -566,6 +580,7 @@ The deepening gloom announces another sunset outside.
 The sun rises slowly above Bree Hill.
 Light gradually filters in, proclaiming a new sunrise outside.
 As daylight grows, the light of a silver lamp seems to grow dim, like the light of a star after the sunrise.
+There is some ice on the water.
 
 A cat stretches lazily, then starts to wash her face.
 
@@ -719,6 +734,7 @@ Alas, not enough mana flows through you...
 Sorry, you can't do that, you don't have any idea about it!
 Who should the spell be cast upon?
 You start to concentrate...
+Your spell doesn't seem to have any effect on <mob>.
 You feel a strange power surrounding you.
 The ground seems to absorb your spell!
 Aye! You cannot concentrate any more...
@@ -728,6 +744,7 @@ What should the spell be cast upon?
 <Mob> spell backfires, and <subject> squeals in surprise!
 You have a sudden lapse of memory... Your spell backfired! You feel drained.
 You mispronounced the magical words... Your spell backfired! You feel exhausted.
+You mispronounced the magical words... Your spell backfired!
 You were not able to keep your concentration while moving.
 You can't concentrate enough while resting.
 Your victim has disappeared!
@@ -775,6 +792,11 @@ You feel less energetic.
 You feel less focused.
 You failed. You are unable to cool down!
 Your heart feels lighter.
+<Mob> raises <possessive> voice and ancient powers make * twist in pain.
+An icy wind starts to blow in the room. You panic!
+
+The smoke makes you confused!
+You feel focused.
 
 You failed. You exhausted yourself trying to change your shape.
 Your vision gets troubled a while...
@@ -810,7 +832,9 @@ Exits/*
 ACK! *
 * is now a group member.
 You are now a member of * group.
+You are no longer a member of the group!
 You transfer group leadership to *
+<Mob> transfers group leadership to you.
 Group disbanded.
 * disbands <possessive> group.
 * has been kicked out of the group!
@@ -830,7 +854,8 @@ You stop scouting.
 Scouting *wards is too difficult.
 * quietly scouts *
 * stops scouting *
-You see some fog coming from the *
+You see some fog coming <fromdir>.
+You see some light <direction>.
 
 You eat the *
 It is * (*, *).
@@ -975,14 +1000,10 @@ A war arrow breaks.
 A bolt breaks.
 A metal-cased bolt breaks.
 * begins some strange incantations...
-* seems to have recovered his senses.
-* seems to have recovered her senses.
-* seems to have recovered its senses.
+<Mob> seems to have recovered <possessive> senses.
 <Mob> bleeds from open wounds.
-* death cry as it collapses.
-* death cry as he collapses.
-* death cry as she collapses.
-You hear a death cry from <Mob>.
+You hear * death cry as <subject> collapses.
+You hear a death cry <fromdir>.
 <Mob> disappears into nothing.
 <Mob> is mortally wounded and will die soon if not aided.
 <Mob> is incapacitated and will slowly die, if not aided.
@@ -1011,6 +1032,7 @@ You recover * and put * in your *
 You recovered no *
 * begins searching the surroundings.
 * stops searching.
+You feel more experienced.
 You receive your share of experience.
 Congratulations! This is the first time you've killed it!
 Good job!
@@ -1068,7 +1090,8 @@ As you finish reading it, <object> crumbles to dust.
 * and clambers on his feet.
 * reins, and start riding him.
 * mounts on *, and begins riding him.
-* dismounts from *, and stops riding him.
+* dismounts from <mob>, and stops riding <subject>.
+* dismounts from <mob> as <subject> falls to the ground.
 <Mob> stops resting, and clambers on <possessive> feet.
 * is forced to dismount too.
 *'s mount refuses to continue.
@@ -1076,11 +1099,11 @@ Lead what?
 What do you want to ride?
 Your mount refuses to follow your orders!
 You can't do that while someone is riding him.
-* reins, and starts riding him.
+* reins and starts riding him.
 * starts following you.
 * stops following you.
 * ridden by you.
-* makes a discreet gesture, pointing at a * hiding place.
+* makes a discreet gesture, pointing at <mob>'s hiding place.
 * tries to sneak behind *
 * catches * by surprise.
 You feel a hidden presence.
@@ -1219,8 +1242,9 @@ You pour some * into *
 * gets <object> from the corpse of <mob>.
 * puts <object> in a*
 <Mob> drops <object>.
-* holds a *
-* gets <object>.
+<Mob> holds <object>.
+<Mob> gets <object>.
+<Mob> hides <object>.
 
 You light a* lantern.
 * lights a* lantern.
@@ -1371,6 +1395,7 @@ You wiggle your bottom.
 * beckons for * to follow her.
 * beckons for * to follow him.
 * doesn't want * to follow him.
+<Mob> orders everyone to follow at once.
 * bows deeply.
 * bows before you.
 * throws back his head and cackles with insane glee!
@@ -1523,7 +1548,11 @@ A hideous phantom explodes from the night, chilling your soul with a scream of h
 A dreadful cackling comes from the shadows that twist and swirl around you from every direction.
 Suddenly the angle of the shaft becomes too steep for you to remain in control and you are sent tumbling down recklessly.
 
+A guestbook lies here, its pages yellow and fragile.
+The quill starts dancing in mid air, just above the guestbook to your right.
+The small bell on the wall tingles barely audibly a few times.
 As you start to winch, you see the basket approach.
+As <mob> starts to winch, you see the basket approach.
 You struggle with the rope.
 The basket comes to a stop, hitting the railing of the balcony.
 With a jerk, the basket starts gliding down the rope towards the platform.
@@ -1531,6 +1560,12 @@ The basket is moving towards the platform below.
 The basket slowly comes to a stop just above the platform.
 The basket suddenly starts moving upwards towards the balcony.
 You hear a low whining in the rope above, the basket must be moving downwards.
+The basket starts gliding down the rope towards the platform below.
+<Mob> enters the basket.
+<Object> quickly glides over the edge of the platform onto the floor below.
+
+Erestor looks in disgust at your cloak.
+Erestor utters some strange words, and a mottled cloak crumbles into dust.
 
 The cart quickly picks up speed, the wheels making a screeching noise against the iron rails.
 Twisting and turning, the cart makes its way further down, faster and faster into the mountain.
