@@ -1,0 +1,126 @@
+                   Sessions Knowledge Difficulty  Advice
+bash                 32/10     81%    Hard        You should be teaching me!
+cleaving weapons      0/ 9      0%    Normal      Learn it or not, your choice
+concussion weapons    0/ 7      0%    Normal      You could learn easily
+endurance             9/ 7     53%    Very hard   You should be teaching me!
+kick                  0/ 7      0%    Normal      Learn it or not, your choice
+parry                 2/11     27%    Normal      Learning more could help you
+rescue                0/ 8      0%    Easy        Learn it or not, your choice
+slashing weapons      0/ 7      0%    Normal      Learn it or not, your choice
+stabbing weapons      0/11      0%    Normal      Learn it or not, your choice
+two handed weapons   28/ 7     93%    Normal      You should be teaching me!
+
+                   Sessions Knowledge Difficulty  Advice
+blindness             0/18      0%    Hard        Takes some time to learn
+breath of briskness   0/18      0%    Hard        You are too inexperienced
+create food           0/12      0%    Normal      You could learn easily
+create water          0/12      0%    Normal      You could learn easily
+cure critic           0/ 8      0%    Normal      You are too inexperienced
+cure disease          0/ 9      0%    Easy        Takes some time to learn
+cure light            6/ 6     57%    Easy        You know as much as I do
+cure serious          0/ 8      0%    Normal      Takes some time to learn
+detect poison         0/ 8      0%    Easy        You could learn easily
+harm                  0/18      0%    Hard        Really too inexperienced
+heal                  0/ 7      0%    Hard        Really too inexperienced
+remove poison         0/ 3      0%    Normal      You are too inexperienced
+smother               0/ 9      0%    Easy        You could learn easily
+strength              0/ 3      0%    Hard        I can't teach you enough
+
+You are a male Dwarf.
+You are 51 years, 11 months and 10 days old.
+You have played 23 hours (real time). Session: 4 mins.
+This ranks you as Zid the Dwarf (level 17).
+You are four feet four and weigh twelve stone.
+Perception: vision 40, hearing 36, smell 8. Alertness: normal.
+You must have been sent to Arda to free it from the sorrows that weigh upon it.
+You are welcome in the Blue Mountains, Bree, Fornost, the Grey Havens, and Rivendell.
+Your equipment weighs one hundred sixteen pounds. Heavy, but we will manage...
+Your base abilities are: Str:16 Int:16 Wis:17 Dex:9 Con:16 Wil:18 Per:12.
+Offensive Bonus: 100%, Dodging Bonus: 10%, Parrying Bonus: 12%.
+Your armour provides an average protection of 90%.
+You have 227/227 hit, 114/114 mana, and 87/126 movement points.
+Your mood is aggressive. You will flee if your hit points go below 50.
+You have scored 2,210,237 experience points and you have 16,448 travel points.
+You are not known for any acts of war.
+You need 404,763 exp. points and 952 travel points to reach the next level.
+You have 12 gold coins, 16 silver pennies, and 71 copper pennies.
+You are speaking Westron.
+You will swim if necessary.
+You will try to climb even under unsafe conditions.
+You are subjected to the following temporary effects:
+- a deep wound at the body (bound up)
+- noquit
+- bless
+
+-----------------------------------------------------------------------------------------
+
+The Druid can teach you any of these spells:
+                   Sessions Knowledge Difficulty  Advice
+blindness            18/18     76%    Hard        You know as much as I do
+breath of briskness   0/18      0%    Hard        You are too inexperienced
+create food           0/12      0%    Normal      You could learn easily
+create water          0/12      0%    Normal      You could learn easily
+cure critic           0/ 8      0%    Normal      Takes some time to learn
+cure disease          0/ 9      0%    Easy        Takes some time to learn
+cure light            6/ 6     66%    Easy        You know as much as I do
+cure serious          0/ 8      0%    Normal      You could learn easily
+detect poison         0/ 8      0%    Easy        You could learn easily
+harm                  0/18      0%    Hard        Really too inexperienced
+heal                  0/ 7      0%    Hard        You are too inexperienced
+remove poison         0/ 3      0%    Normal      I can't teach you enough
+smother               0/ 9      0%    Easy        You could learn easily
+strength              0/ 3      0%    Hard        I can't teach you enough
+
+You are a male Dwarf.
+You are 51 years, 11 months and 10 days old.
+You have played 23 hours (real time). Session: 5 mins.
+This ranks you as Zid the Dwarf (level 17).
+You are four feet four and weigh twelve stone.
+Perception: vision 40, hearing 36, smell 8. Alertness: normal.
+You must have been sent to Arda to free it from the sorrows that weigh upon it.
+You are welcome in the Blue Mountains, Bree, Fornost, the Grey Havens, and Rivendell.
+Your equipment weighs one hundred sixteen pounds. Heavy, but we will manage...
+Your base abilities are: Str:16 Int:16 Wis:17 Dex:9 Con:16 Wil:18 Per:12.
+Offensive Bonus: 98%, Dodging Bonus: 10%, Parrying Bonus: 12%.
+Your armour provides an average protection of 90%.
+You have 221/221 hit, 114/114 mana, and 126/126 movement points.
+Your mood is aggressive. You will flee if your hit points go below 50.
+You have scored 2,210,237 experience points and you have 16,448 travel points.
+You are not known for any acts of war.
+You need 404,763 exp. points and 952 travel points to reach the next level.
+You have 12 gold coins, 16 silver pennies, and 71 copper pennies.
+You are speaking Westron.
+You will swim if necessary.
+You will try to climb even under unsafe conditions.
+You are subjected to the following temporary effects:
+- a deep wound at the body (bound up)
+- bless
+
+                   Sessions Knowledge Difficulty  Advice
+bash                 32/10     78%    Hard        You should be teaching me!
+cleaving weapons      0/ 9      0%    Normal      Learn it or not, your choice
+concussion weapons    0/ 7      0%    Normal      You could learn easily
+endurance             9/ 7     51%    Very hard   You should be teaching me!
+kick                  0/ 7      0%    Normal      Learn it or not, your choice
+parry                 2/11     26%    Normal      Learning more could help you
+rescue                0/ 8      0%    Easy        Learn it or not, your choice
+slashing weapons      0/ 7      0%    Normal      Learn it or not, your choice
+stabbing weapons      0/11      0%    Normal      Learn it or not, your choice
+two handed weapons   28/ 7     90%    Normal      You should be teaching me!
+
+229/229 hits, 114/114 mana, and 128/128 moves.
+
+
+Traveller quest : 
+- Aftereight : 32,578 TPS / 15 LVL
+- Zid : 42,387 TPS / 20 LVL
+- Zid fail: 43,890 TPS / 21 LVL
+Someone says 'and third... just before you go in, there's avalanche'
+Someone says 'so alias "open crease"'
+Someone says 'or pretype'
+Someone says 'have someone to shroud you in Rivendell'
+Someone says 'also, once you've triggered avalanche, don't go up the slope'
+Someone says 'you can go n into crease'
+Someone says 'or run d and s from crease'
+Someone says 'but don't go like d and up'
+Someone says 'that will instantly kill you'
