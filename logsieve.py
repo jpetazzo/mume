@@ -15,10 +15,12 @@ elements = dict(
     possessive = set(('his','her','its')),
     subject = set(('he','she','it')),
     object = set(),
+    Object = set(),
     color = set(('clear', 'violet', 'black')),
     Race = set(('Elf', 'Dwarf', 'Half-Elf', 'Orc')),
     fromdir = set(('from the north', 'from the south', 'from the west',
                    'from the east', 'from above', 'from below')),
+    direction = set(('north', 'south', 'west', 'east', 'up', 'down')),
     door = set(),
     gauge = set(('full',)),
     unknown = set()
@@ -62,6 +64,9 @@ for k,v in data_objects.items():
         elements['object'].add(ininv)
 
 
+elements['Object'] = set(o.capitalize() for o in elements['object'])
+
+
 def match_combat_line(line):
     # This is very crude for now.
     weapon_verbs = [
@@ -74,6 +79,7 @@ def match_combat_line(line):
         ['slash', 'slashes'],
         ['smite', 'smites'],
         ['stab', 'stabs'],
+        ['whip', 'whips'],
         ]
     for verb in weapon_verbs:
         # Regular "hit" line: ATTACKER VERBS TARGET's BODYPART
