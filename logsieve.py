@@ -97,6 +97,10 @@ def match_combat_line(line):
         # Fail: ATTACKER fails to VERB TARGET.
         if ' fails to '+verb[0]+' ' in line:
             return True
+        # You fail: You try to VERB TARGET, but PRONOUN parries successfully.
+        if (line.startswith('You try to '+verb[0])
+            and line.endswith('parries successfully.')):
+            return True
     other_verbs = [
         ' burns ', ' cries \'Elbereth Gilthoniel\' and makes ',
         ' sinks its fangs into ', ' avoids being bashed by ',

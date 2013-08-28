@@ -1069,6 +1069,7 @@ The wound is now bound up.
 As you finish reading it, <object> crumbles to dust.
 
 * has suddenly arrived.
+* has suddenly arrived riding <mob>.
 * has arrived <fromdir> riding <mob>.
 * has arrived <fromdir>.
 * leaves west.

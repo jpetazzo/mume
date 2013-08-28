@@ -27,6 +27,10 @@
 #highlight {^You feel a hidden presence.$} {light red}
 #highlight {^You have found %*!$} {light red}
 #highlight {^You feel less protected.$} {light red}
+#highlight {^Alas! There was no clear line of sight to %*!} {light red}
+#highlight {^Your mount refuses to follow your orders!} {light red}
+#highlight {^ACK! %* didn't follow you, you lost %*.} {light red}
+
 
 #highlight {^Orophin, %*$} {light blue}
 #highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
