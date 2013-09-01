@@ -394,6 +394,7 @@ The light slowly increases in the east.
 Long shadows form on the eastern flank of Weathertop as the sun disappears.
 From across the plains in the east, the sun begins its journey into the sky.
 The fields of Anduin reflect a pale, silvery glow from the rising moon.
+Slowly losing its definition, the moon sinks below the horizon.
 With a last glint of pale light the moon disappears below the western horizon.
 The cold light from the Moon begins to fade until at last it disappears.
 The moon rises above the eastern horizon.

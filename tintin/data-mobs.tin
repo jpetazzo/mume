@@ -4,8 +4,10 @@
 #sub {^A great wolf with coal-black eyes stares intently at you, drooling saliva.$} {%0 [15] }
 #sub {^A hungry-looking giant lizard is slithering towards you.$} {%0 [12] }
 #sub {^A goat is here, grazing in the hills.$} {%0 [3] }
+#sub {^A skeletal warrior is staring angrily at the surroundings.$} {%0 [15?] }
 #sub {^A spirit floats towards you and howls with an evil laughter.$} {%0 [12] }
 #sub {^A black wolf pads restlessly, looking for its next prey.$} {%0 [7?] }
+#sub {^A solid, but stunted, rowan tree has established itself here.$} {%0 [???] }
 #sub {^A brown bear is sleeping here.$} {%0 [12] }
 #sub {^A sturdy bandit bodyguard stands here, eager to hack you to pieces.$} {%0 [8-] }
 #sub {^A tree-snake lies wrapped around one of the tree branches.$} {%0 [6] }
@@ -92,6 +94,7 @@
 #sub {^A forest spider is here crawling around.$} {%0 [4] }
 #sub {^A grey wolf is here, salivating profusely.$} {%0 [8?] }
 #sub {^A tall stag is here, grazing peacefully.$} {%0 [5] }
+#sub {^The embodied shape of a linden tree stands shiftlessly here.$} {%0 [???] }
 #sub {^An intact skeleton of a man is walking around here.$} {%0 [<<11] }
 #sub {^A suspicious-looking man watches you carefully.$} {%0 [17?] }
 #sub {^A cold shroud of dark grey mist covers the ground.$} {%0 [15?] }

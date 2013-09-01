@@ -1,11 +1,12 @@
-#highlight ZBLAM {light red}
 
 #highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
 #highlight {^The night has begun.$} {red reverse b white}
 #highlight {^The sun rises in the east.$} {red reverse b white}
 #highlight {^The day has begun.$} {red reverse b white}
 
+
 #highlight {^You gain a level!$} {blue reverse b white}
+
 
 #nop highlight {R.I.P.} {bold yellow}
 #nop highlight {^%* has arrived from %*.$} {bold yellow}
@@ -19,10 +20,12 @@
 
 #highlight {^You flee %*} {black b yellow}
 
+
 #nop HIGHLIGHT {^You hit %*} {bold green}
 #nop HIGHLIGHT {%* hits you%*} {bold red}
 #nop HIGHLIGHT {%* crushes you%*} {bold red}
 #nop HIGHLIGHT {%* smites you%*} {bold red}
+
 
 #highlight {^You feel a hidden presence.$} {light red}
 #highlight {^You have found %*!$} {light red}
@@ -30,6 +33,8 @@
 #highlight {^Alas! There was no clear line of sight to %*!} {light red}
 #highlight {^Your mount refuses to follow your orders!} {light red}
 #highlight {^ACK! %* didn't follow you, you lost %*.} {light red}
+#highlight {^ZBLAM} {light red}
+#highlight {^You cannot ride there.$} {light red}
 
 
 #highlight {^Orophin, %*$} {light blue}

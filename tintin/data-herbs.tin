@@ -63,3 +63,4 @@
 #sub {A sprawling green bush of stinging nettle grows here.} {%0 [nettle, ?]}
 #sub {A tall silvery plant grows here, surrounded by mist.} {%0 [mistyplant, ?]}
 #sub {A swamp iris grows here.} {%0 [Iris, ?]}
+#sub {A bright orange bracket fungus grows on some decaying wood.} {%0 [__orangefungus_fangorn, ?]}
