@@ -1,4 +1,3 @@
-
 #highlight {^The sun sinks slowly below the western horizon.$} {red reverse b white}
 #highlight {^The night has begun.$} {red reverse b white}
 #highlight {^The sun rises in the east.$} {red reverse b white}
@@ -27,13 +26,18 @@
 #nop HIGHLIGHT {%* smites you%*} {bold red}
 
 
+#highlight {extremely hard} {bold}
+#highlight {shatters} {bold}
+#highlight {shatter} {bold}
+
+
 #highlight {^You feel a hidden presence.$} {light red}
 #highlight {^You have found %*!$} {light red}
 #highlight {^You feel less protected.$} {light red}
 #highlight {^Alas! There was no clear line of sight to %*!} {light red}
 #highlight {^Your mount refuses to follow your orders!} {light red}
 #highlight {^ACK! %* didn't follow you, you lost %*.} {light red}
-#highlight {^ZBLAM} {light red}
+#highlight {^ZBLAM! %*} {light red}
 #highlight {^You cannot ride there.$} {light red}
 
 
@@ -53,3 +57,11 @@
 #highlight {^A loud, aggressive shriek echoes through the skies!$} {red reverse b white}
 #highlight {^The bird turns out to be a black, leathery beast that flies in a circle high above!$} {red reverse b white}
 #highlight {^The fast-moving beast starts a dive at you, but then turns and flies upwards again.$} {red reverse b white}
+
+#highlight {^A great, dark spider looks maliciously at you and starts threading webs!} {red reverse b white}
+#highlight {^A great, dark spider quickly begins to weave a tight, sticky web around %* body!} {red reverse b white}
+#highlight {^A great, dark spider burdens your movement wrapping you layer after layer!} {red reverse b white}
+#highlight {^A great, dark spider continues wrapping Ebichette tighter and tighter, hindering her movement.} {red reverse b white}
+#highlight {^You stagger for your balance as a great, dark spider wraps the sticky cords faster and faster around you!} {red reverse b white}
+#highlight {^You can't escape the spider's sticky grasp!} {red reverse b white}
+

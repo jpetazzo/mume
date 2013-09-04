@@ -504,6 +504,10 @@ Rays of sunshine pierce the darkness as the sun begins its gradual ascent to the
 The moon disappears in the west.
 The last rays of the sun slowly recede to the west.
 Sunlight streaks across the landscape.
+The morning sun begins to shine upon the Vales of Anduin.
+The sun rises above the eastern horizon.
+The sun sets in a fiery red sky behind the peaks of Caras Galadhon in the west.
+Shadows on the ground lengthen, as the sun sinks below the western horizon.
 The sun sets over the Great Western Ocean.
 The moon begins to show above the Tower Hills.
 The moon gently fades away as it slides below the horizon.
@@ -590,6 +594,9 @@ You see some smoke <unknown>
 Some * noise can be heard <fromdir>.
 You hear some * noise <fromdir>.
 You hear the sounds of battle <unknown>
+You hear the long howl of a wolf <fromdir>.
+<Mob> turns <possessive> muzzle upwards and starts a long, wolfish howl!
+
 
 The crystal orb shines here providing a bright beacon for approaching ships.
 A finely crafted crystal lamp is hanging from a tree branch.
@@ -728,6 +735,10 @@ A tall and majestic oak tree grows here, surveying the lands about it.
 You are trapped by some roots.
 You can't seem to escape the roots!
 * is entangled by some roots.
+
+A great, dark spider looks maliciously at you and starts threading webs!
+A great, dark spider quickly begins to weave a tight, sticky web around <mob>'s body!
+A great, dark spider continues wrapping <mob> tighter and tighter, hindering <possessive> movement.
 
 Cast what which where?
 Impossible! You can't concentrate enough.
@@ -960,6 +971,7 @@ You are going to neglect your *
 <Mob> mumbles to *self.
 
 For a successful backstab you need to be wielding a suitable weapon.
+You can't backstab in deep water!
 Backstab whom?
 You begin to move silently to the back of your victim...
 Oops, your victim seems to have sensed a danger!
@@ -968,6 +980,9 @@ Oops, your victim seems to have sensed a danger!
 You stop your fleeing attempts.
 You try to flee, but cannot!
 You flee *
+<Mob> seems to avoid the fight.
+<Mob> escaped the fight.
+<Mob> tried to escape but failed.
 Who do you want to assist?
 Bash what or whom?
 Bash someone already bashed? Aren't we funny?
@@ -1019,6 +1034,7 @@ Your body trembles as you fight the poison running through your veins.
 The venom enters your body!
 The venom reaches the vital organs!
 The venom runs into your veins!
+The venom runs into <mob>'s veins!
 Your body turns numb as the poison speeds to your brain!
 Rest while fighting? Are you MAD?
 You feel sleepy.
@@ -1459,6 +1475,9 @@ Huor of Dor-l*min is standing here, ready to teach his arts.
 A D*nadan ranger is crouched over the fire, cooking a meal.
 A D*nadan stands here, dressed in the garb of a woodsman.
 
+With a sure hand, Rumil the Master Bard caresses his lute, producing a gentle tune.
+As the wind touches the instruments on the walls, their strings ring gently.
+
 Tie the rope to what?
 You wrap one end of the sturdy rope around the tree and tie a secure knot.
 You carefully toss the sturdy rope up towards the stump on the other side.
@@ -1525,6 +1544,8 @@ Loud drum rolls echo through the tunnels, signalling that the guardian of the we
 
 <Mob> carefully examines the ground around him, looking for tracks...
 <Mob> examines the terrain intently.
+Aha, you have found your victim!
+
 A mercenary is here, following his employer.
 A citizen mercenary taps you on the shoulder.
 A citizen mercenary taps * on <possessive> shoulder.
@@ -1574,6 +1595,9 @@ Twisting and turning, the cart makes its way further down, faster and faster int
 Racing at an insane speed, the cart makes a sharp turn, barely staying on the rails.
 The cart crashes into a large cave, detached from the rails. You are hurled out of the cart and end up crashing into a rock wall. All of a sudden the world has come to a halt around you.
 An old, sturdy mine cart stands here on the end of a pair of iron rails.
+
+You break off a large chunk of earth, and note with satisfaction the widening gap in the wall.
+You give a final, mighty thrust of the pickaxe and break down the last chunk of the wall, but the strain breaks your pickaxe as well.
 
 *.Exits/emulated:*
 

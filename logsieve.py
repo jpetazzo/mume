@@ -16,7 +16,7 @@ elements = dict(
     subject = set(('he','she','it')),
     object = set(),
     Object = set(),
-    color = set(('clear', 'violet', 'black')),
+    color = set(('clear', 'violet', 'black', 'yellow', 'purple')),
     Race = set(('Elf', 'Dwarf', 'Half-Elf', 'Orc')),
     fromdir = set(('from the north', 'from the south', 'from the west',
                    'from the east', 'from above', 'from below')),
@@ -25,6 +25,30 @@ elements = dict(
     gauge = set(('full',)),
     unknown = set()
     )
+
+
+def ignore(line):
+    line = line.strip()
+    if not line:
+        return
+    if '*' in line[1:-1] or '<' in line:
+        # FIXME: we might have to call re.escape()!
+        regex = line.replace(r'*','.*')
+        for element in elements:
+            regex = regex.replace('<'+element+'>',
+                                  '(?P<'+element+'>.*)')
+        ignore_compiled.append(re.compile(regex))
+        return
+    if line[0] == '*' and line[-1] == '*':
+        ignore_factors.add(line[1:-1])
+        return
+    if line[0] == '*':
+        ignore_suffixes.add(line[1:])
+        return
+    if line[-1] == '*':
+        ignore_prefixes.add(line[:-1])
+        return
+    ignore_lines.add(line)
 
 
 data_mobs = yaml.load(open('data/mobs.yml'))
@@ -59,7 +83,7 @@ for k,v in data_objects.items():
     else:
         ininv = v
         inroom = k
-    ignore_lines.add(inroom)
+    ignore(inroom)
     if ininv:
         elements['object'].add(ininv)
 
@@ -122,30 +146,14 @@ def match_combat_line(line):
 
 
 for line in open('data/lines.txt'):
-    line = line.strip()
-    if not line:
-        continue
-    if '*' in line[1:-1] or '<' in line:
-        # FIXME: we might have to call re.escape()!
-        regex = line.replace(r'*','.*')
-        for element in elements:
-            regex = regex.replace('<'+element+'>',
-                                  '(?P<'+element+'>.*)')
-        ignore_compiled.append(re.compile(regex))
-        continue
-    if line[0] == '*' and line[-1] == '*':
-        ignore_factors.add(line[1:-1])
-        continue
-    if line[0] == '*':
-        ignore_suffixes.add(line[1:])
-        continue
-    if line[-1] == '*':
-        ignore_prefixes.add(line[:-1])
-        continue
-    ignore_lines.add(line)
+    ignore(line)
 
 
-for line in sys.stdin:
+if sys.argv[1:]:
+    input = open(sys.argv[1])
+else:
+    input = sys.stdin
+for line in input:
     if line[0] not in string.uppercase:
         continue
     line = line.rstrip()

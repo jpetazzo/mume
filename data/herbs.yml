@@ -198,6 +198,7 @@
   name: Mauve petals
   description: Some dried mauve petals can be found here (1/987)
   location: on Big John's experienced smuggler, in sack; Shire, in the underwater hermit cave, in sack
+  inventory: some sweet-smelling dried mauve petals
   herblore: Clear-thoughts
 -
   name: Milkweed

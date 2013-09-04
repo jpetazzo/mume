@@ -35,6 +35,7 @@
 #sub {^A great dark-grey horse stamps restively.$} {%0 [10] }
 #sub {^The huge ice-demon looks at you once, growls, and lunges to attack.$} {%0 [19?] }
 #sub {^A war-weary wight-warrior is standing here.$} {%0 [16?] }
+#sub {^A giant form rustles among the trees.$} {%0 [20?] }
 #sub {^A mountain lioness pads quietly through the terrain.$} {%0 [12?] }
 #sub {^A mean looking robber is here, demanding money from you.$} {%0 [12] }
 #sub {^A crazed dwarf is here, drooling down his beard.$} {%0 [19] }

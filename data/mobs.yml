@@ -762,6 +762,7 @@ A fat yellow rodent scurries away, barking wildly.:
 A field lark| stands here, focused on finding food.:
 A giant form rustles among the trees.:
   trophy: A forest giant
+  level: 20?
 A great feline is stalking here, blending into the terrain.:
 A great male deer with reddish hair and twisted antlers stands here proudly.:
   trophy: A large red deer
@@ -995,6 +996,7 @@ Bill Ferny is watching you with suspicious eyes.:
 Big John is swiftly moving around, hiding in the shadows.:
   trophy: Big John, the chief brigand
 An old wight is standing here, ready to fight.:
+  trophy: The old wight
   level: 17?
 Nagrorh the Abomination is looking at you with flaming red eyes.:
   flags: sanc
@@ -1049,4 +1051,16 @@ The embodied shape of a linden tree stands shiftlessly here.:
 A solid, but stunted, rowan tree has established itself here.:
   level: ???
 Orophin, Lord of the Galadhrim, stands before you.:
-
+A small spirit floats around here, with despair in its eyes.:
+  trophy: A spirit slave
+Celebrindal, Lady of the Galadhrim, is before you.:
+A lovely elven maid is working as a seamstress here.:
+Maheel the elven Captain| is here, observing those he is responsible for.:
+Rehan the elven ranger| is here, ready for duty.:
+Sinor the elven ranger| is here, ready for duty.:
+A very muscular orc with a cruel and dominant gaze in her cold eyes is here.:
+  trophy: Lazrria the Orkish Commander
+A moderately-sized copperhead snake is here.:
+  trophy: A copperhead snake
+A swarm of hornets| is coming out of its nest.:
+A great, dark spider| advances toward you from the shadows.:

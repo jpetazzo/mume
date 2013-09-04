@@ -30,6 +30,7 @@ A sturdy pair of soft leather pants are lying here.:
 A cloak mottled in green and brown, and stinking to high heaven lies here.:
   a mottled cloak
 A large wooden wall shield| rests on the ground.:
+A large metal full shield| is on the ground.:
 A pair of soft leather pants are lying here.:
 A small metal shield is on the ground.:
 A soft leather jerkin| is on the ground.:
@@ -80,7 +81,6 @@ A pair of hard leather pants are lying here.:
   a pair of hard leather trousers
 A pair of well-crafted shoes lies here.:
 A pair of rigid leather boots| are on the ground.:
-A spotted pair of pants are on the ground.:
 A rigid leather breastplate is on the ground.:
 A leather helmet lies here.:
 A very old, tattered plain dress is lying on the ground.:
@@ -88,14 +88,15 @@ A reinforced leather helmet lies here.:
 A pair of rigid leather sleeves| lies here.:
 A black leather belt is lying here.:
 A black shirt is on the ground.:
-A plain pair of pants are on the ground.:
 A chequered shirt lies here.:
 A pair of soft leather boots are on the ground.:
 A <color> leather belt| is lying here.:
 A brown pair of sleeves lies here.:
-A black pair of pants are on the ground.:
 A plain leather belt is lying here.:
 A large wooden full shield is on the ground.:
+A brown shirt is on the ground.:
+A <color> pair of pants are on the ground.:
+
 
 # food, drinks...
 A fish is on the ground here, quite dead it seems.:
@@ -240,12 +241,15 @@ There is some pipe-weed here.:
   some pipe-weed
 
 A large jug made of clear glass rests here.:
+A pewter candlestick is standing here.:
 
 Several silver coins lie scattered about here.:
   some silver coins
 A large pile of copper coins has been placed here.:
 _coins:
   a pile of coins
+A valuable gold coin lies here.:
+A pile of coins is here.:
 
 A beer barrel has been left here.:
 A black metal shield has been left here.:
