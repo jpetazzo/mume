@@ -1050,7 +1050,7 @@ A man walks stealthily here, enshrouded in a grey woollen cloak.:
   level: 20?
 A war-weary wight-warrior is standing here.:
   trophy: A wight-warrior
-  level: 16?
+  level: 16
 Farmer Green stands here, welcoming you into his home.:
 A small, muscled man sneaks by, measuring you with a quick glance.:
 The embodied shape of a linden tree stands shiftlessly here.:
@@ -1074,3 +1074,5 @@ A great, dark spider| advances toward you from the shadows.:
 A large bush grows here, its great spiny branches waving in the wind.:
   trophy: A giant spine-bush
   level: 22?
+A dwarven surveyor is standing here.:
+

@@ -57,6 +57,7 @@
 #highlight {^The lonely giant sits on a stone and sings a mournful lay.$} {light blue}
 #highlight {^A tall and majestic oak tree grows here, surveying the lands about it.$} {light blue}
 #highlight {^A cowled sorcerer, in dark robes, gestures when he sees you.$} {light blue}
+#highlight {^A glint of metal in the mud catches your eye.$} {light blue}
 
 
 #highlight {^A dot in the sky approaches quickly and seems to be some sort of very large bird!$} {red reverse b white}
@@ -67,7 +68,9 @@
 #highlight {^A great, dark spider looks maliciously at you and starts threading webs!} {red reverse b white}
 #highlight {^A great, dark spider quickly begins to weave a tight, sticky web around %* body!} {red reverse b white}
 #highlight {^A great, dark spider burdens your movement wrapping you layer after layer!} {red reverse b white}
-#highlight {^A great, dark spider continues wrapping Ebichette tighter and tighter, hindering her movement.} {red reverse b white}
+#highlight {^A great, dark spider continues wrapping %* tighter and tighter, hindering %* movement.} {red reverse b white}
+#highlight {^%* staggers for %* balance as a great, dark spider wraps the sticky cords faster and faster around %*!$} {red reverse b white}
+#highlight {^%* struggles for air as a great, dark spider weaves the last thread of a silky cocoon around %* body.$} {red reverse b white}
 #highlight {^You stagger for your balance as a great, dark spider wraps the sticky cords faster and faster around you!} {red reverse b white}
 #highlight {^You can't escape the spider's sticky grasp!} {red reverse b white}
 

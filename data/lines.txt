@@ -182,6 +182,8 @@ Your limbs begin to feel the effect of the swimming.
 You are drowning!
 You are borne along by a strong current.
 You are swept away by the current.
+You are swept away by the powerful current of water.
+<Mob> is swept away by the powerful current of water.
 You reached the riverbank.
 Fresh air still fills your lungs, so being submerged is no problem.
 You failed swimming there.
@@ -396,13 +398,17 @@ Shrouds of dark clouds roll in above you, blotting out the skies.
 The light begins to decrease.
 The light slowly increases in the east.
 Long shadows form on the eastern flank of Weathertop as the sun disappears.
+The first shy rays of the sun peek over the Weather Hills to the east.
 From across the plains in the east, the sun begins its journey into the sky.
 The fields of Anduin reflect a pale, silvery glow from the rising moon.
+The moon rises over the mountains of Lhun.
+Slowly the moon fades away, and hides below the horizon.
 Slowly losing its definition, the moon sinks below the horizon.
 With a last glint of pale light the moon disappears below the western horizon.
 The cold light from the Moon begins to fade until at last it disappears.
 A bleak moon casts its pale light over the plains.
 The moon rises above the eastern horizon.
+As the moon sets in the west, its silvery light vanishes.
 The moon rises over the mountains of Lhûn.
 The moon silently rises high into the night sky.
 The moon disappears behind the Misty Mountains.
@@ -505,6 +511,7 @@ There is a thin film of ice on the water.
 The sun rises above the hills in the east, slowly lifting the heavy darkness.
 A deep gloom covers the grasslands as the last ray falls from the setting sun.
 Night sets in, as the sun sets behind the mountains.
+Darkness engulfs you as the sun sets in the west.
 The sun sets on Bree-land.
 As the sun sets, the last gleaming rays peek over the Blue Mountains.
 Rays of sunshine pierce the darkness as the sun begins its gradual ascent to the middle of the sky.
@@ -652,6 +659,8 @@ A sign made of polished brass is on the wall.
 A very old sign has been placed at the entrance of the eastern corridor.
 A large sign is posted upon the wall for you to read.
 A Warning Sign for new players is here.
+A small, wooden warning sign has been firmly placed here.
+A Large Sign is standing here.
 A traffic sign is here, giving directions.
 A sign reading, Building Permit Information, is here.
 A large WARNING SIGN is here.
@@ -663,6 +672,7 @@ You need to specify a subject for your report.
 A clear spring babbles as cool water trickles out of the ground.
 A small pool of red-stained water lies here.
 A shallow pond is here, tinted green with algae.
+A pool of darkish water has formed in a depression of the stone.
 The large Well of Ossë is here, full of sparkling clear water.
 The large Well of Oss* is here, full of sparkling clear water.
 A black pond of water is here.
@@ -694,6 +704,7 @@ A weapons rack stands against the wall.
 A sturdy peg for hanging armour from is on the wall.
 A wooden cupboard stands here.
 A small oaken table has been set here.
+A large, sturdy table made from oak is sitting here.
 A neat straw pallet is lying here.
 A filthy straw pallet is lying here.
 A great stone table has been set here.
@@ -702,6 +713,7 @@ A large yellow apple lies here.
 A stove stands against one wall here.
 A large, dusty alcove sits in a wall, smelling of soot.
 A large encrusted cedar chest is standing here.
+A sturdy, wooden chest sits here amidst the dust.
 A noticeable crack runs down one of the walls.
 A stone sarcophagus lies on the floor.
 A nest is here.
@@ -748,6 +760,14 @@ You can't seem to escape the roots!
 A great, dark spider looks maliciously at you and starts threading webs!
 A great, dark spider quickly begins to weave a tight, sticky web around <mob>'s body!
 A great, dark spider continues wrapping <mob> tighter and tighter, hindering <possessive> movement.
+<Mob> is brought back by a spider.
+<Mob> removes the last web on <pronoun>.
+<Mob> staggers for <possessive> balance as a great, dark spider wraps the sticky cords faster and faster around <pronoun>!
+<Mob> struggles for air as a great, dark spider weaves the last thread of a silky cocoon around <possessive> body.
+<Mob> struggles to remove some of the sticky, binding webs.
+<Mob> throws aside the slashed webs and shakily emerges from the cocoon.
+
+After some struggle you remove the last web on you.
 
 Cast what which where?
 Impossible! You can't concentrate enough.
@@ -1125,7 +1145,7 @@ As you finish reading it, <object> crumbles to dust.
 * and clambers on his feet.
 * reins, and start riding him.
 * mounts on *, and begins riding him.
-* dismounts from <mob>, and stops riding <subject>.
+* dismounts from <mob>, and stops riding <pronoun>.
 * dismounts from <mob> as <subject> falls to the ground.
 <Mob> stops resting, and clambers on <possessive> feet.
 * is forced to dismount too.
@@ -1193,6 +1213,7 @@ It's already open!
 They're already open!
 The crack is filled with a bright light.
 The exit south blurs for a while.
+It's already unlocked, it seems.
 <Mob> unlocks the <door>.
 <Mob> locks the <door>.
 The <door> is open.
@@ -1440,7 +1461,7 @@ You wiggle your bottom.
 <Mob> bows before you.
 <Mob> bows before *.
 <Mob> throws back his head and cackles with insane glee!
-<Mob> chuckles at <pronoun>. What did <pronoun> do?
+<Mob> chuckles at *. What did <pronoun> do?
 <Mob> chuckles politely.
 <Mob> shows his approval by clapping <possessive> hands together.
 <Mob> comforts you.
@@ -1648,3 +1669,12 @@ You give a final, mighty thrust of the pickaxe and break down the last chunk of 
 A black key made of metal lies here.
 A crude key made out of metal is discarded here.
 A small metal key has been dropped here.
+
+A glint of metal in the mud catches your eye.
+You found an old metallic key.
+As you turn the key in the lock, it breaks.
+
+
+
+# Combat
+A lightning bolt from * shatters <mob>.
