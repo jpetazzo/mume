@@ -14,6 +14,7 @@ elements = dict(
     Mob = set(),
     possessive = set(('his','her','its')),
     subject = set(('he','she','it')),
+    pronoun = set(('him', 'her', 'it')),
     object = set(),
     Object = set(),
     color = set(('clear', 'violet', 'black', 'yellow', 'purple')),
