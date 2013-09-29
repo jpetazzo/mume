@@ -23,6 +23,8 @@ elements = dict(
     direction = set(('north', 'south', 'west', 'east', 'up', 'down')),
     door = set(),
     gauge = set(('full',)),
+    key = set(),
+    liquid = set(('beer', 'water')),
     unknown = set()
     )
 
@@ -132,6 +134,7 @@ def match_combat_line(line):
         ' who deftly avoids the ', ' is corroded by a splash of acid.',
         ' howls in pain as the claws of ', ' with its poisonous fangs.',
         ' bites ', 'throws a glowing magical missile at ',
+        ' dodge a bash from ',
         ]
     for verb in other_verbs:
         if verb in line:
