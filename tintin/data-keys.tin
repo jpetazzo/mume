@@ -32,6 +32,7 @@
 #sub {^A wooden key has been left here.$} {%0 [r, secret, treevillage, woman-archer]}
 #sub {^An old looking key lies here.$} {%0 [stoneslab, lww smugglers, chief of smugglers]}
 #sub {^A black key has been left on the floor.$} {%0 [portcullis, LB fort, guards]}
+#sub {^A discarded pry-bar lies here.$} {%0 [tombstone, Amon Othar, crazed dwarf]}
 #sub {^A key made of a light metal is lying here.$} {%0 [cover, BM mines, spiders]}
 #sub {^An untarnished steel key lies here.$} {%0 [grille behind panels (wheels), commanding orc, wgate]}
 #sub {^A big iron key is lying here.$} {%0 [r, jaildoor, Bree, guard]}
@@ -112,6 +113,7 @@
 #sub {^an ancient dwarven key$} {%0 [d, flagstone, circlet chest, packrat]}
 #sub {^a big metal key$} {%0 [0, oakendoor, Rohir tower, guards]}
 #sub {^an ancient key$} {%0 [stoneslab, lww smugglers, chief of smugglers]}
+#sub {^a pry-bar$} {%0 [tombstone, Amon Othar, crazed dwarf]}
 #sub {^an old iron key$} {%0 [rockdoor, GC, wraith]}
 #sub {^a tarnished metal key$} {%0 [doors in VT, guards]}
 #sub {^a tiny stonekey$} {%0 [stonedoor+prisondoor, Barbaras castle, prisonguard]}

@@ -27,6 +27,7 @@
 #sub {^A disgusting forest troll is searching for fresh meat here.$} {%0 [10?] }
 #sub {^A large sturgeon swims slowly along the bottom.$} {%0 [12?] }
 #sub {^A diamond-back rattlesnake is coiled here, ready to strike.$} {%0 [15] }
+#sub {^A large predatory lion is on the prowl here, moving stealthily on soft paws.$} {%0 [22] }
 #sub {^The patch of weeds here shifts strangely in the breeze.$} {%0 [14] }
 #sub {^A huge, bulky queen bee is here.$} {%0 [13?] }
 #sub {^A brutish forest troll is hunting here, looking for some tasty flesh.$} {%0 [18] }
@@ -34,6 +35,7 @@
 #sub {^A bear is here, covered with coarse black fur.$} {%0 [13] }
 #sub {^A great dark-grey horse stamps restively.$} {%0 [10] }
 #sub {^The huge ice-demon looks at you once, growls, and lunges to attack.$} {%0 [19?] }
+#sub {^A large bush grows here, its great spiny branches waving in the wind.$} {%0 [22?] }
 #sub {^A war-weary wight-warrior is standing here.$} {%0 [16?] }
 #sub {^A giant form rustles among the trees.$} {%0 [20?] }
 #sub {^A mountain lioness pads quietly through the terrain.$} {%0 [12?] }
@@ -89,6 +91,7 @@
 #sub {^The mother wolf stands here, protecting her young cubs.$} {%0 [7] }
 #sub {^A huge, poisonous tarantula extends her legs to you.$} {%0 [14?] }
 #sub {^The queen bat is here, emitting piercing squeaks.$} {%0 [9?] }
+#sub {^A huge statue made of stone suddenly turns to life.$} {%0 [22?] }
 #sub {^The chief of smugglers is here, planning his next move.$} {%0 [15?] }
 #sub {^A limping orc shuffles around here. He looks miserable.$} {%0 [9] }
 #sub {^A large and twisted beast lurks in the rotten pool.$} {%0 [18] }
