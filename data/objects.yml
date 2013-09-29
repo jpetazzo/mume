@@ -5,53 +5,90 @@ A bulb of garlic with green stems is here.:
 A cluster of white star-shaped forget-me-nots flourish here in reminiscence.:
 A half-rotten corpse is hanging here.:
 
-
+###############################################################################
 # quest/special items, and useless junk
+###############################################################################
+
 A pair of huge palmate antlers is lying here.:
 Greater parts of a broken weapon are lying on the ground.:
 Little parts of a broken weapon are lying on the ground.:
 
+###############################################################################
 # clothes and armours
-A thick, rigid leather breastplate is on the ground.:
-A pair of rigid leather sleeves are lying here.:
-A wide pair of snowshoes lies on the ground here.:
-A warm blanket covers the ground.:
-A studded leather belt has been left here.:
-A pair of chain mail sleeves| lies here.:
-A sturdy pair of chain mail sleeves| lies here.:
-A sturdy pair of hard leather pants| are lying here.:
-A sturdy pair of rigid leather gloves| are lying here.:
-A sturdy pair of soft leather gloves| are lying here.:
-A sturdy pair of soft leather sleeves| lies here.:
+###############################################################################
+
+# on head
+
 A sturdy reinforced leather helmet| lies here.:
+A fine chain mail coif lies here.:
+A black hood lies on the ground.:
+
+# around body
+
+A warm blanket covers the ground.:
 A battered warg fur has been left here.:
-A soft woollen shirt lies here.:
-A sturdy pair of soft leather pants are lying here.:
 A cloak mottled in green and brown, and stinking to high heaven lies here.:
   a mottled cloak
-A large wooden wall shield| rests on the ground.:
-A large metal full shield| is on the ground.:
-A pair of soft leather pants are lying here.:
-A small metal shield is on the ground.:
+A fine pelt lies here, soft and smooth.:
+  a fine pelt
+
+# on body
+
+A brown shirt is on the ground.:
+A soft woollen shirt lies here.:
 A soft leather jerkin| is on the ground.:
-A pair of high boots are on the ground.:
-A long strip of plain silk lies here.:
-A pair of soft leather sleeves is here.:
-A black hood lies on the ground.:
-A fine, soft leather jerkin| is on the ground.:
-A pair of soft leather gloves| are lying here.:
-A plaid leather belt is lying here.:
-A large metal shield is on the ground.:
+A sturdy, soft leather jerkin| is on the ground.:
+A thick, rigid leather breastplate is on the ground.:
 A chain mail hauberk| is on the ground.:
-A round shield, with shining gilt, is on the ground.:
-  a gilded round shield
-A small metal target shield| is on the ground.:
+A fine chain mail hauberk is on the ground.:
+
+# sleeves
+
+A pair of soft leather sleeves is here.:
+A sturdy pair of soft leather sleeves| lies here.:
+A pair of rigid leather sleeves are lying here.:
+A pair of chain mail sleeves| lies here.:
+A sturdy pair of chain mail sleeves| lies here.:
+A fine pair of chain mail sleeves lies here.:
+
+# gloves
+
+A sturdy pair of rigid leather gloves| are lying here.:
+A sturdy pair of soft leather gloves| are lying here.:
+A fine pair of chain mail gloves are lying here.:
+
+# pants
+
+A <color> pair of pants are on the ground.:
+A pair of soft leather pants are lying here.:
+A sturdy pair of soft leather pants are lying here.:
+  a sturdy pair of soft leather trousers
+A sturdy pair of hard leather pants| are lying here.:
+A fine pair of chain mail leggings are lying here.:
+
+# boots
+
 A pair of smooth boots lie on the ground.:
   a pair of smooth, black boots
-A spiked collar, made from iron, lies here.:
-A sturdy pair of rigid leather boots are on the ground.:
-A sturdy, soft leather jerkin| is on the ground.:
+A pair of well-crafted shoes lies here.:
+A wide pair of snowshoes lies on the ground here.:
 A pair of heavy shoes is lying here.:
+A pair of high boots are on the ground.:
+A pair of rigid leather boots| are on the ground.:
+A sturdy pair of rigid leather boots| are on the ground.:
+
+# belts
+
+A long strip of plain silk lies here.:
+A studded leather belt has been left here.:
+A <color> leather belt| is lying here.:
+
+# unsorted
+
+A fine, soft leather jerkin| is on the ground.:
+A pair of soft leather gloves| are lying here.:
+A small metal target shield| is on the ground.:
+A spiked collar, made from iron, lies here.:
 A fine metal breastplate| is on the ground.:
 A simple metal buckler lies here.:
   a metal buckler
@@ -64,14 +101,11 @@ A black and silver surcoat lies here.:
 A fine pair of rigid leather boots are on the ground.:
 A faded and stained black shirt lies here.:
 On the ground is a foul orkish-looking metal helmet.:
-A green leather belt is lying here.:
 A small wooden shield| is on the ground.:
-There is a water skin lying on the ground.:
-  a water skin
 A large wooden shield| is on the ground.:
 A full metal shield| is on the ground.:
 A small wooden target shield| is on the ground.:
-A sturdy pair of soft leather boots are on the ground.:
+A sturdy pair of soft leather boots| are on the ground.:
 A grey hood lies on the ground.:
 A large piece of grey cloth is on the ground.:
 A tunic, made from the finest material, lies here.:
@@ -79,26 +113,34 @@ A plain shirt is on the ground.:
 A pair of soft, sequinned slippers lies here.:
 A pair of hard leather pants are lying here.:
   a pair of hard leather trousers
-A pair of well-crafted shoes lies here.:
-A pair of rigid leather boots| are on the ground.:
 A rigid leather breastplate is on the ground.:
 A leather helmet lies here.:
 A very old, tattered plain dress is lying on the ground.:
 A reinforced leather helmet lies here.:
 A pair of rigid leather sleeves| lies here.:
-A black leather belt is lying here.:
 A black shirt is on the ground.:
 A chequered shirt lies here.:
 A pair of soft leather boots are on the ground.:
-A <color> leather belt| is lying here.:
 A brown pair of sleeves lies here.:
-A plain leather belt is lying here.:
+
+###############################################################################
+# shields
+###############################################################################
+
+A large wooden wall shield| rests on the ground.:
+A large metal full shield| is on the ground.:
+A small metal shield is on the ground.:
 A large wooden full shield is on the ground.:
-A brown shirt is on the ground.:
-A <color> pair of pants are on the ground.:
+A large metal shield is on the ground.:
+A round shield, with shining gilt, is on the ground.:
+  a gilded round shield
 
-
+###############################################################################
 # food, drinks...
+###############################################################################
+
+There is a water skin lying on the ground.:
+  a water skin
 A fish is on the ground here, quite dead it seems.:
 Some curdled goats milk sits inside a cheese mould.:
 A small ironbound barrel made of fine oak rests here.:
@@ -153,7 +195,6 @@ A small flask has been left here on the ground.:
   a dark coloured flask
 A large torch lies here among the dust.:
   a torch
-A copper penny lies on the ground.:
 A large bundle of pale yellow fur is here.:
 A greyish-black pelt lies here.:
 A weapon sheath has been dropped on the ground here.:
@@ -250,6 +291,7 @@ _coins:
   a pile of coins
 A valuable gold coin lies here.:
 A pile of coins is here.:
+A copper penny lies on the ground.:
 
 A beer barrel has been left here.:
 A black metal shield has been left here.:

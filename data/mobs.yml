@@ -51,6 +51,7 @@ Some roots lie here waiting to ensnare weary travellers.:
   trophy: A clump of roots
   level: 12
 Massive roots shift uneasily all around you.:
+  trophy: A massive tangle of roots
   level: 16
   keywords: massive
   warning: Do massive roots first!
@@ -439,6 +440,7 @@ A singing, happy drunk is staggering about here.:
 An elven librarian is here taking care of all the books.:
 A silvery fish quickly darts through the water.:
 A huge, poisonous tarantula extends her legs to you.:
+  trophy: A huge tarantula
   level: 14?
 A newborn spider| is here.:
 A partridge attempts to hide in the undergrowth.:
@@ -585,6 +587,7 @@ A lonely goatherd stands here.:
 A goatherd's dog is here.:
 A huge statue made of stone suddenly turns to life.:
   trophy: A stone statue
+  level: 22?
 A guardian stone beast| is here, protecting the grave.:
   level: 20?
 An elven navigator is on look-out here.:
@@ -592,6 +595,8 @@ A small loyal dog is here.:
 A tall elven trapper is walking around here.:
 An old tanner is here, smoking his pipe in boredom.:
 A huge stag with a great span of antlers is warily browsing on the vegetation.:
+  trophy: The noble stag
+  flags: quest
 A disgusting forest troll is searching for fresh meat here.:
   trophy: An ugly forest troll
   level: 10?
@@ -635,6 +640,7 @@ A great wolf with a sable coat glares around with red eyes.:
 A lurg leader, with markings of the Durghash tribe, stands here.:
 A pair of tiny eyes gleam at you from the shadows.:
   warning: Packrat!
+  flag: quest
 A bulky cave troll is here, looking like a massive pile of stone.:
 A small bat| flies silently from shadow to shadow.:
 A dripping yellow fungus hangs here, clinging to the crevices and walls.:
@@ -918,6 +924,7 @@ Clint| the Dwarf is standing here.:
 A woman stands here carefully guarding her village.:
 A large predatory lion is on the prowl here, moving stealthily on soft paws.:
   trophy: A large, predatory brush-lion
+  level: 22
 A very strong, orkish patrol-leader is looking for enemies here.:
 A phantom terror looms here bathed in shadows of malice.:
   trophy: The Dugorwath
@@ -1064,3 +1071,6 @@ A moderately-sized copperhead snake is here.:
   trophy: A copperhead snake
 A swarm of hornets| is coming out of its nest.:
 A great, dark spider| advances toward you from the shadows.:
+A large bush grows here, its great spiny branches waving in the wind.:
+  trophy: A giant spine-bush
+  level: 22?

@@ -164,6 +164,7 @@ The strong winds push and pull at this platform, trying to throw it back and for
 
 The ascent ahead seems quite easy to climb, while falling down might bruise you slightly.
 The ascent ahead seems quite difficult to climb, while falling down might bruise you slightly.
+The ascent ahead seems extremely difficult to climb, while falling down might bruise you slightly.
 The ascent ahead seems impossible to climb, while falling down might be deadly.
 If you still want to try, you must 'climb' there.
 You carefully try to walk on the frozen water.
@@ -246,6 +247,7 @@ You start making your camp here.
 * finishes gathering the wood into a pile and sets it on fire.
 You finish gathering the wood into a pile and set it on fire.
 You put some wood in the fire.
+<Mob> puts some wood in the fire.
 A warm fire lights the place.
 You gather wood and prepare a pyre.
 You set fire to the corpses.
@@ -297,6 +299,8 @@ Lightning lights the sky, followed by a rolling thunder.
 Lightning lights the sky, followed by a rolling thunder <fromdir>.
 The passage up the hill makes you breathe harder.
 You climb up the steep hillside.
+The steep slope drains your energy.
+With a small effort you ascend the steep hillside.
 The slope is rocky, and very difficult to climb.
 Going down the ladder takes you into a dark cellar.
 Your travel up the crag is more difficult than if you were to travel down it.
@@ -397,6 +401,7 @@ The fields of Anduin reflect a pale, silvery glow from the rising moon.
 Slowly losing its definition, the moon sinks below the horizon.
 With a last glint of pale light the moon disappears below the western horizon.
 The cold light from the Moon begins to fade until at last it disappears.
+A bleak moon casts its pale light over the plains.
 The moon rises above the eastern horizon.
 The moon rises over the mountains of Lhûn.
 The moon silently rises high into the night sky.
@@ -412,10 +417,12 @@ The red globe of the sun rises above the plains to the east.
 The sky slowly changes from a light orange colour to a dark fiery red as the sun gradually sets in the west over the Gulf.
 The silvery moonlight disappears, as the moon descends below the horizon.
 The shadows are fading as a bright yellow disc slowly rises over the eastern plains.
+The sun disappears beyond the Chetwood to the west.
 The sun disappears in the west and darkness comes over the land.
 The sun disappears as it passes behind a small mountain foothill to the west.
 The sun falls, and the land again becomes dark.
 The sun rises tiredly above the distant mountains in the east.
+A green light starts to glow through the leaves.
 The sun sinks low on the western horizon, slowly vanishing from sight.
 The sun peeks over the Misty Mountains in the east.
 The sun rises above the Misty Mountains, climbing slowly into the sky.
@@ -594,6 +601,8 @@ You see some smoke <unknown>
 Some * noise can be heard <fromdir>.
 You hear some * noise <fromdir>.
 You hear the sounds of battle <unknown>
+You hear the clashing of arms very close to the <direction>.
+The noise of battle reaches you from very close to the <direction>.
 You hear the long howl of a wolf <fromdir>.
 <Mob> turns <possessive> muzzle upwards and starts a long, wolfish howl!
 
@@ -810,6 +819,8 @@ An icy wind starts to blow in the room. You panic!
 The smoke makes you confused!
 You feel focused.
 
+The dark aura around your * fades for a while.
+
 You failed. You exhausted yourself trying to change your shape.
 Your vision gets troubled a while...
 When you come back into reality, you find yourself like a new-born babe.
@@ -825,6 +836,9 @@ You are totally corrupted by the Evilness of Morgoth!
 You have failed the Istari Quest.
 
 You are not known for any acts of war.
+
+A few soldiers of the Dark Lord were boldly slain, latest kill being *.
+A few soldiers of the West were boldly slain, latest kill being *.
 
 You may complain, or surrender, at the mayor's office.
 A secretary looks at you piercingly, as if to discern your darkest secrets.
@@ -863,6 +877,7 @@ You are already riding.
 You stop riding *
 You quietly scout *
 You stop scouting.
+You see <mob> scouting <fromdir>!
 Scouting *wards is too difficult.
 * quietly scouts *
 * stops scouting *
@@ -891,7 +906,7 @@ You hold a *
 You start crushing *
 You have produced *
 You don't see *
-* drinks water from *
+* drinks <liquid> from *
 * drinks some water.
 You fill <object> with some *
 <Mob> sells *
@@ -909,6 +924,7 @@ Your equipment weighs *
 You have scored *
 Your mood is *
 Your base abilities are: *
+You are trying to maintain all other abilities as they are.
 You are speaking *
 Your default tongue is *
 Very well, you now speak *
@@ -1036,6 +1052,7 @@ The venom reaches the vital organs!
 The venom runs into your veins!
 The venom runs into <mob>'s veins!
 Your body turns numb as the poison speeds to your brain!
+<Mob>'s body turns numb as the poison speeds to <possessive> brain!
 Rest while fighting? Are you MAD?
 You feel sleepy.
 You feel better.
@@ -1129,6 +1146,7 @@ You smell blood.
 You see <mob> sneaking into a hiding place.
 You have revealed *
 You have found *
+<Mob> discovered <object>.
 You discover that <mob> has <possessive> hands in your purse.
 
 You can only practice in a guild.
@@ -1240,6 +1258,8 @@ You pick *
 You place * on a*
 You put * in a*
 You put * on your keyring.
+<Mob> puts <key> on <possessive> keyring.
+<Mob> removes <key> from <possessive> keyring.
 You get <object> from *
 You get <object>.
 You can't find a *
@@ -1409,21 +1429,25 @@ You tip your hat.
 You wave.
 You whistle appreciatively.
 You wiggle your bottom.
-* apologises to Arda for <possessive> very existence!
-* beckons for * to follow her.
-* beckons for * to follow him.
-* doesn't want * to follow him.
+<Mob> admonishes * sharply, shame on <pronoun>!
+<Mob> agrees.
+<Mob> apologises to Arda for <possessive> very existence!
+<Mob> babbles on and on about nothing at all.
+<Mob> beams a smile at *.
+<Mob> beckons for * to follow <pronoun>.
 <Mob> orders everyone to follow at once.
-* bows deeply.
-* bows before you.
-* throws back his head and cackles with insane glee!
-* shows his approval by clapping his hands together.
-* shows her approval by clapping her hands together.
-* chuckles politely.
-* comforts you.
+<Mob> bows deeply.
+<Mob> bows before you.
+<Mob> bows before *.
+<Mob> throws back his head and cackles with insane glee!
+<Mob> chuckles at <pronoun>. What did <pronoun> do?
+<Mob> chuckles politely.
+<Mob> shows his approval by clapping <possessive> hands together.
+<Mob> comforts you.
 * curtseys to you.
 * dances around with *
 * loses control and drools all over *self.
+<Mob> doesn't want * to follow <pronoun>.
 * gasps in astonishment.
 * giggles.
 * grins evilly, showing his teeth.
@@ -1431,6 +1455,7 @@ You wiggle your bottom.
 * hugs *
 * falls down laughing.
 * licks you.
+<Mob> licks his mouth and smiles.
 * starts moaning.
 * nods solemnly.
 * pats <mob> on <possessive> head.
@@ -1452,12 +1477,29 @@ You wiggle your bottom.
 * tickles you - hee hee hee.
 * tips his hat.
 * tips her hat.
+<Mob> politely tips his hat at *.
 * thinks till it hurts.
 * patiently twiddles <possessive> thumbs.
 * waves good-bye to you.
 * yawns.
 * yawns and stretches * limbs.
 <Mob> empties <possessive> lungs in a tremendous yodel.
+<Mob> cringes in terror!
+<Mob> drools all over <pronoun>self.
+<Mob> flexes <possessive> muscles.
+<Mob> flips head over heels.
+<Mob> glares at *.
+<Mob> grins evilly.
+<Mob> grovels in the dirt before Josie.
+<Mob> growls menacingly.
+<Mob> howls triumphantly.
+<Mob> is boggled by the concept.
+<Mob> jumps up and down cheering wildly.
+<Mob> lets everyone know how much he appreciates them.
+<Mob> looks around slowly as if looking for something hidden in the room.
+<Mob> nods to himself. Must need some reassurance...
+<Mob> points his finger at you accusing you of all sorts of things.
+
 
 * the Elf*, wielding <object>, is *ing here*.
 * the Dwarf*, wielding <object>, is *ing here*.
@@ -1586,6 +1628,8 @@ You hear a low whining in the rope above, the basket must be moving downwards.
 The basket starts gliding down the rope towards the platform below.
 <Mob> enters the basket.
 <Object> quickly glides over the edge of the platform onto the floor below.
+
+The dark aura around your banded ring returns. You feel sleepy...
 
 Erestor looks in disgust at your cloak.
 Erestor utters some strange words, and a mottled cloak crumbles into dust.

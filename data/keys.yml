@@ -337,6 +337,12 @@
   loads: guards
   roomdesc: A polished copper key is here.
 -
+  invdesc: a pry-bar
+  exit: tombstone
+  location: Amon Othar
+  loads: crazed dwarf
+  roomdesc: A discarded pry-bar lies here.
+-
   invdesc: a rigid metal key
   exit: trapdoor
   location: GH Old Ruins
