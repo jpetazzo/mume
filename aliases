@@ -61,6 +61,8 @@ alias le lock exit
 alias ue unlock exit
 alias ke knock exit
 
+alias pc pick chest
+
 alias tar label & x
 alias kx kill x
 alias sx shoot x
