@@ -10,6 +10,10 @@ ignore_compiled = list()
 
 
 elements = dict(
+    actor = set(),
+    Actor = set(),
+    target = set(),
+    Target = set(),
     mob = set(),
     Mob = set(),
     possessive = set(('his','her','its')),
@@ -54,6 +58,11 @@ def ignore(line):
     ignore_lines.add(line)
 
 
+def add_mob(trophy):
+    for set_name in ['Actor', 'Target', 'Mob']:
+        elements[set_name].add(trophy)
+        elements[set_name.lower()].add(trophy.lower())
+
 data_mobs = yaml.load(open('data/mobs.yml'))
 for k,v in data_mobs.items():
     if '|' in k:
@@ -64,8 +73,16 @@ for k,v in data_mobs.items():
         inroom = k
     ignore_lines.add(inroom)
     if trophy:
-        elements['mob'].add(trophy.lower())
-        elements['Mob'].add(trophy)
+        add_mob(trophy)
+
+def add_char(char):
+    for set_name in ['Actor', 'Target', 'Mob']:
+        elements[set_name].add(char)
+        elements[set_name.lower()].add(char)
+
+data_chars = open('data/chars.txt').read().strip().split()
+for char in data_chars:
+    add_char(char)
 
 
 data_herbs = yaml.load(open('data/herbs.yml'))

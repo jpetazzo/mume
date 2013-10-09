@@ -857,6 +857,7 @@ You have failed the Istari Quest.
 
 You are not known for any acts of war.
 
+The forces of the Dark Lord are matched by the armies of the West.
 A few soldiers of the Dark Lord were boldly slain, latest kill being *.
 A few soldiers of the West were boldly slain, latest kill being *.
 
@@ -1670,6 +1671,18 @@ A black key made of metal lies here.
 A crude key made out of metal is discarded here.
 A small metal key has been dropped here.
 
+# Amon Othar
+Try moving it in the opposite direction?
+You hear the sound of water pouring out through a small passage.
+There is already someone in there, you wouldn't fit.
+The rumbling noise ends.
+
+# Mystical Ring
+The ground begins to shake, and pieces of rock start falling off the western cliff.
+
+# BM spiders
+Water gushes down the chute into the cavern below.
+You fall with a splash into the water in the tunnel below.
 A glint of metal in the mud catches your eye.
 You found an old metallic key.
 As you turn the key in the lock, it breaks.
@@ -1678,3 +1691,5 @@ As you turn the key in the lock, it breaks.
 
 # Combat
 A lightning bolt from * shatters <mob>.
+<Actor> drains <target> who suddenly seems to be weaker.
+

@@ -36,7 +36,7 @@
 #sub {^A great dark-grey horse stamps restively.$} {%0 [10] }
 #sub {^The huge ice-demon looks at you once, growls, and lunges to attack.$} {%0 [19?] }
 #sub {^A large bush grows here, its great spiny branches waving in the wind.$} {%0 [22?] }
-#sub {^A war-weary wight-warrior is standing here.$} {%0 [16?] }
+#sub {^A war-weary wight-warrior is standing here.$} {%0 [16] }
 #sub {^A giant form rustles among the trees.$} {%0 [20?] }
 #sub {^A mountain lioness pads quietly through the terrain.$} {%0 [12?] }
 #sub {^A mean looking robber is here, demanding money from you.$} {%0 [12] }
@@ -58,7 +58,7 @@
 #sub {^A menacing looking tree is here, just waiting for a lost wanderer.$} {%0 [20] }
 #sub {^A sad looking old farmer is standing here.$} {%0 [8?] }
 #sub {^Nagrorh the Abomination is looking at you with flaming red eyes.$} {%0 [20] }
-#sub {^An old wight is standing here, ready to fight.$} {%0 [17?] }
+#sub {^An old wight is standing here, ready to fight.$} {%0 [17] }
 #sub {^A big cavebear is padding around here.$} {%0 [20?] }
 #sub {^A great male deer with reddish hair and twisted antlers stands here proudly.$} {%0 [5] }
 #sub {^An orc is hobbling around on rudimentary crutches.$} {%0 [5] }
