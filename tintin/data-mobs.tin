@@ -33,6 +33,7 @@
 #sub {^A brutish forest troll is hunting here, looking for some tasty flesh.$} {%0 [18] }
 #sub {^A spirit floats around, making strange magical gestures.$} {%0 [16] }
 #sub {^A bear is here, covered with coarse black fur.$} {%0 [13] }
+#sub {^A tall woman in riding leathers is here.$} {%0 [20] }
 #sub {^A great dark-grey horse stamps restively.$} {%0 [10] }
 #sub {^The huge ice-demon looks at you once, growls, and lunges to attack.$} {%0 [19?] }
 #sub {^A large bush grows here, its great spiny branches waving in the wind.$} {%0 [22?] }
@@ -42,6 +43,7 @@
 #sub {^A mean looking robber is here, demanding money from you.$} {%0 [12] }
 #sub {^A crazed dwarf is here, drooling down his beard.$} {%0 [19] }
 #sub {^A fierce wolverine is here, snarling at you.$} {%0 [8?] }
+#sub {^A tall birch is here, watching over the landscape.$} {%0 [19] }
 #sub {^A black raven flies in the sky searching for flesh to prey upon.$} {%0 [6?] }
 #sub {^A female orc stands glaring at you.$} {%0 [6?] }
 #sub {^A vicious little bandit advances towards you.$} {%0 [6] }
@@ -53,19 +55,19 @@
 #sub {^A large brown snake with black patches is coiled here.$} {%0 [9] }
 #sub {^An old, withered tree looms above the path.$} {%0 [16] }
 #sub {^A dark intangible shadow turns to face you.$} {%0 [16] }
+#sub {^A mother eagle flies high above, looking for prey.$} {%0 [19] }
 #sub {^A shade is here, shrouded in an inky blackness.$} {%0 [19] }
 #sub {^A powerful ram stands here, poised and alert.$} {%0 [6] }
 #sub {^A menacing looking tree is here, just waiting for a lost wanderer.$} {%0 [20] }
 #sub {^A sad looking old farmer is standing here.$} {%0 [8?] }
 #sub {^Nagrorh the Abomination is looking at you with flaming red eyes.$} {%0 [20] }
 #sub {^An old wight is standing here, ready to fight.$} {%0 [17] }
-#sub {^A big cavebear is padding around here.$} {%0 [20?] }
+#sub {^A big cavebear is padding around here.$} {%0 [21?] }
 #sub {^A great male deer with reddish hair and twisted antlers stands here proudly.$} {%0 [5] }
 #sub {^An orc is hobbling around on rudimentary crutches.$} {%0 [5] }
 #sub {^A huge grizzly bear is here, roaming the wild.$} {%0 [15] }
 #sub {^The shadowy wight of a bodyguard stands here.$} {%0 [19] }
 #sub {^An experienced smuggler is here, conspiring with his cohorts.$} {%0 [11] }
-#sub {^A mother eagle flies high above looking for prey.$} {%0 [19] }
 #sub {^Bill Ferny is watching you with suspicious eyes.$} {%0 [17?] }
 #sub {^A shadow suddenly leaves its place on the wall, trying to reach your neck.$} {%0 [14] }
 #sub {^A guardian stone beast is here, protecting the grave.$} {%0 [20?] }
@@ -82,6 +84,7 @@
 #sub {^A small boar with big yellow tusks looks eager to fight.$} {%0 [6] }
 #sub {^A large mother hawk is here looking for a prey to feed her young.$} {%0 [7] }
 #sub {^A mewlip is here, faintly wailing at you.$} {%0 [12?] }
+#sub {^A huge stone giant is here, glaring at you.$} {%0 [22?] }
 #sub {^A mass of wriggling vines drops on you from the trees.$} {%0 [11+] }
 #sub {^A pack horse is standing here.$} {%0 [6] }
 #sub {^A large elk gazes coldly at you, chewing on a small branch.$} {%0 [6] }
@@ -91,6 +94,7 @@
 #sub {^The mother wolf stands here, protecting her young cubs.$} {%0 [7] }
 #sub {^A huge, poisonous tarantula extends her legs to you.$} {%0 [14?] }
 #sub {^The queen bat is here, emitting piercing squeaks.$} {%0 [9?] }
+#sub {^A giant and ancient yew stands here quite eerily.$} {%0 [20?] }
 #sub {^A huge statue made of stone suddenly turns to life.$} {%0 [22?] }
 #sub {^The chief of smugglers is here, planning his next move.$} {%0 [15?] }
 #sub {^A limping orc shuffles around here. He looks miserable.$} {%0 [9] }

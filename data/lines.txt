@@ -292,6 +292,7 @@ Jumping high, you land on another flet in the branches of a neighbouring tree.
 The rapid slide down the smooth expanse of the elven rope leaves you with a pleasant vertigo.
 As you pass, the feeling of enchantment fades from around you and the colours pale.
 The rocky terrain makes travelling difficult.
+
 Above the branches and leaves of the trees, a flare of lightning crosses the sky, lighting the trees up for a brief moment.
 A storm sweeps across the sky above the trees, and shattering sounds of lightning are heard in the distance.
 Suddenly, the sky clears. The storm has blown away.
@@ -299,6 +300,8 @@ After a flash of lightning, a loud thunder is heard.
 After a flash of lightning, a loud thunder is heard <fromdir>.
 Lightning lights the sky, followed by a rolling thunder.
 Lightning lights the sky, followed by a rolling thunder <fromdir>.
+Puffy white clouds sail across the sky, reflecting in the shallow water.
+
 The passage up the hill makes you breathe harder.
 You climb up the steep hillside.
 The steep slope drains your energy.
@@ -366,6 +369,9 @@ A stray gust of wind spreads a ripple over the watery fields.
 A suppressed sigh rises from the damp moss as if the very ground expressed its thoughts.
 Faint voices can be heard from across the bridge.
 You ascend the stairs into the lower reaches of the great mallorn tree.
+With the sighing of leaves, a limb-lithe tree quivers.
+Vines dropping off the limbs of trees far above grasp at whatever is within reach.
+Weeping trailing beards of lichen stir in the currents of musty air.
 You climb the ladder.
 You swiftly move down the ladder.
 You walk across the narrow rope bridge between the flets.
@@ -609,6 +615,7 @@ Some * noise can be heard <fromdir>.
 You hear some * noise <fromdir>.
 You hear the sounds of battle <unknown>
 You hear the clashing of arms very close to the <direction>.
+You hear the clashing of arms very close below.
 The noise of battle reaches you from very close to the <direction>.
 You hear the long howl of a wolf <fromdir>.
 <Mob> turns <possessive> muzzle upwards and starts a long, wolfish howl!
@@ -857,6 +864,7 @@ You have failed the Istari Quest.
 
 You are not known for any acts of war.
 
+The forces of the Dark Lord prevail over the armies of the West.
 The forces of the Dark Lord are matched by the armies of the West.
 A few soldiers of the Dark Lord were boldly slain, latest kill being *.
 A few soldiers of the West were boldly slain, latest kill being *.
@@ -1219,6 +1227,8 @@ It's already unlocked, it seems.
 <Mob> locks the <door>.
 The <door> is open.
 The <door> is closed.
+The <door> are open.
+The <door> are closed.
 * tries to bash *
 * seems to be closed.
 * seem to be closed.
@@ -1235,6 +1245,7 @@ The <door> is closed.
 * opens a wooden chest.
 It is closed.
 It's already closed!
+The metaldoor slides open noiselessly.
 
 You knock on it.
 Soundlessly, the gates swing *
@@ -1690,6 +1701,7 @@ As you turn the key in the lock, it breaks.
 
 
 # Combat
-A lightning bolt from * shatters <mob>.
+A lightning bolt from <actor> shatters <mob>.
 <Actor> drains <target> who suddenly seems to be weaker.
+The earth trembles and shivers.
 

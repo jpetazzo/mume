@@ -607,6 +607,7 @@ A mountain ibex is jumping from rock to rock.:
 An ibex| is watching you from afar.:
 A demon wolf| lurks here, its dark form twisting and hiding its shape.:
 A tall woman in riding leathers is here.:
+  level: 20
 A dwarf is here, bearing a grim and competent demeanour.:
 A wizened dwarf is busy at work.:
 A sturdy old dwarf wonders if you want something.:
@@ -631,9 +632,10 @@ A small boar with big yellow tusks looks eager to fight.:
   level: 6
 A wild dog| bares his yellow fangs at you.:
 The elongated shape of a stoat can be seen darting across the terrain.:
-A mother eagle| flies high above looking for prey.:
+A mother eagle| flies high above, looking for prey.:
   level: 19
 A tall birch is here, watching over the landscape.:
+  level: 19
 An angry bee is here, collecting nectar from all the flowers of the garden.:
 Rumil the Master Bard of Lothlórien is here smiling gently.:
 A great wolf with a sable coat glares around with red eyes.:
@@ -719,6 +721,7 @@ A grey-skinned mountain troll stands here.:
 A heavily-scarred orc stands here, begrudging your presence.:
 A huge orc bodyguard looks at you suspiciously.:
 A huge stone giant is here, glaring at you.:
+  level: 22?
 A large cave troll is here, staying close to his mother.:
 A large sturgeon swims slowly along the bottom.:
   level: 12?
@@ -871,7 +874,7 @@ A dirty hobwill is standing here.:
 An elven slave| is standing here.:
 A big cavebear is padding around here.:
   trophy: A cavebear
-  level: 20?
+  level: 21?
 A quail stands motionless.:
 A dark iridescent dragonfly flies by.:
 A small, naked humanoid creature glares at you.:
@@ -1029,6 +1032,7 @@ An ash tree with mottled bark stands here apparently guarding its surroundings.:
 A large extending poplar tree with dark branches grows here.:
 A hairy black spider wraps up a silken package with her hind legs.:
 A giant and ancient yew stands here quite eerily.:
+  level: 20?
 A dwarven statue stands poised before the silverydoor.:
 A Dunlending herdsman in ragged leather stands here, watching over his herd.:
 A mouse sniffs around, searching for a morsel of food.:
