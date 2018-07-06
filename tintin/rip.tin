@@ -14,7 +14,7 @@
 	#line gag;
 	#math {xpcounter_lastgain} {%1 - $xpcounter_total};
 	#math {xpcounter_rate} {(%1 - $xpcounter_session) / %3};
-        #echo {$xpcounter_lastgain XP gained for $xpcounter_lastmob. Current rate: $xpcounter_rate XP/min. TNL: %2.};
+        #echo {$xpcounter_lastgain XP gained for $xpcounter_lastmob; current rate: $xpcounter_rate XP/min; TNL: %2.};
         #math {gains[$xpcounter_lastmob][exp]} {$gains[$mob][exp] + $xpcounter_lastgain};
         #math {gains[$xpcounter_lastmob][cnt]} {$gains[$mob][cnt] + 1};
 	#variable {xpcounter_total} {%1}
