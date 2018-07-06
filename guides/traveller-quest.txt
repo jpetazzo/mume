@@ -1,0 +1,20 @@
+It looks like the TP requirements for the traveller quest are about 2K per level.
+
+Here is a list of characters who got the quest given to them:
+- Aftereight : 32,578 TPS / 15 LVL
+- Zid : 42,387 TPS / 20 LVL
+
+And a list of characters who did not get the quest given:
+- Zid: 43,890 TPS / 21 LVL
+
+I was given the following advice about the ice demon area:
+
+Someone says 'and third... just before you go in, there's avalanche'
+Someone says 'so alias "open crease"'
+Someone says 'or pretype'
+Someone says 'have someone to shroud you in Rivendell'
+Someone says 'also, once you've triggered avalanche, don't go up the slope'
+Someone says 'you can go n into crease'
+Someone says 'or run d and s from crease'
+Someone says 'but don't go like d and up'
+Someone says 'that will instantly kill you'
