@@ -1,3 +1,4 @@
 #!/bin/sh
 export PATH=.:$PATH
-tt++ tintin/main.tin
+pidof mmapper || mmapper &
+tt++ -G tintin/main.tin
