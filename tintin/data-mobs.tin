@@ -32,6 +32,7 @@
 #sub {^A huge, bulky queen bee is here.$} {%0 [13?] }
 #sub {^A brutish forest troll is hunting here, looking for some tasty flesh.$} {%0 [18] }
 #sub {^A spirit floats around, making strange magical gestures.$} {%0 [16] }
+#sub {^A woolly sheep is grazing here.$} {%0 [3] }
 #sub {^A bear is here, covered with coarse black fur.$} {%0 [13] }
 #sub {^A tall woman in riding leathers is here.$} {%0 [20] }
 #sub {^A great dark-grey horse stamps restively.$} {%0 [10] }

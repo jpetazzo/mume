@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 import fnmatch, re, string, sys, yaml
 
 
@@ -10,10 +10,6 @@ ignore_compiled = list()
 
 
 elements = dict(
-    actor = set(),
-    Actor = set(),
-    target = set(),
-    Target = set(),
     mob = set(),
     Mob = set(),
     possessive = set(('his','her','its')),
@@ -30,6 +26,19 @@ elements = dict(
     gauge = set(('full',)),
     key = set(),
     liquid = set(('beer', 'water')),
+    damage = set((
+        'cleave', 'crush', 'hit', 'pierce', 'pound',
+        'shoot', 'slash', 'smite', 'stab', 'whip',
+        'cleaves', 'crushes', 'hits', 'pierces', 'pounds',
+        'shoots', 'slashes', 'smites', 'stabs', 'whips',
+        )),
+    bodypart = set((
+        'left hindleg', 'right hindleg', 'left hindfoot', 'right hindfoot',
+        'left wing', 'right wing',
+        'left forefoot', 'right forefoot', 'left foreleg', 'right foreleg',
+        'left hand', 'right hand', 'left arm', 'right arm',
+        'head', 'body',
+        )),
     unknown = set()
     )
 
@@ -40,8 +49,12 @@ def ignore(line):
         return
     if '*' in line[1:-1] or '<' in line:
         # FIXME: we might have to call re.escape()!
-        regex = line.replace(r'*','.*')
+        regex = line
+        regex = regex.replace('.', '\\.')
+        regex = regex.replace('*','.*')
         for element in elements:
+            # Skip some special elements that are matched individually
+            if element in ('damage', 'bodypart'): continue
             regex = regex.replace('<'+element+'>',
                                   '(?P<'+element+'>.*)')
         ignore_compiled.append(re.compile(regex))
@@ -59,9 +72,8 @@ def ignore(line):
 
 
 def add_mob(trophy):
-    for set_name in ['Actor', 'Target', 'Mob']:
-        elements[set_name].add(trophy)
-        elements[set_name.lower()].add(trophy.lower())
+    elements['Mob'].add(trophy)
+    elements['mob'].add(trophy.lower())
 
 data_mobs = yaml.load(open('data/mobs.yml'))
 for k,v in data_mobs.items():
@@ -76,9 +88,8 @@ for k,v in data_mobs.items():
         add_mob(trophy)
 
 def add_char(char):
-    for set_name in ['Actor', 'Target', 'Mob']:
-        elements[set_name].add(char)
-        elements[set_name.lower()].add(char)
+    elements['Mob'].add(char)
+    elements['mob'].add(char)
 
 data_chars = open('data/chars.txt').read().strip().split()
 for char in data_chars:
@@ -110,20 +121,10 @@ for k,v in data_objects.items():
 
 elements['Object'] = set(o.capitalize() for o in elements['object'])
 
-
 def match_combat_line(line):
+    return
     # This is very crude for now.
     weapon_verbs = [
-        ['cleave', 'cleaves'],
-        ['crush', 'crushes'],
-        ['hit', 'hits'],
-        ['pierce', 'pierces'],
-        ['pound', 'pounds'],
-        ['shoot', 'shoots'],
-        ['slash', 'slashes'],
-        ['smite', 'smites'],
-        ['stab', 'stabs'],
-        ['whip', 'whips'],
         ]
     for verb in weapon_verbs:
         # Regular "hit" line: ATTACKER VERBS TARGET's BODYPART
@@ -169,17 +170,32 @@ def match_combat_line(line):
 for line in open('data/lines.txt'):
     ignore(line)
 
+# These should be after everything else, because they can be a bit over-generic.
+# (For instance, "You recover two arrows and put them in your quiver" matches!)
+ignore("You( barely| lightly|) (?P<damage>[a-z]+) <mob>'s (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatter it| and tickle it|).")
+ignore("<Mob>( barely| lightly|) (?P<damage>[a-z]+) your (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatters it| and tickles it|).")
+ignore("<Mob> tries to (?P<damage>[a-z]+) you, but your parry is successful.")
+ignore("You swiftly dodge <mob>'s attempt to (?P<damage>[a-z]+) you.")
 
 if sys.argv[1:]:
     input = open(sys.argv[1])
 else:
     input = sys.stdin
 for line in input:
+    # Remove ANSI sequences.
+    if "\x1b[" in line:
+        line = re.sub('\x1b\\[[^m]*m', '', line)
+    # If a line starts with something else than an uppercase letter,
+    # ignore it. (This leads us to ignore inventory content, as well
+    # as room descriptions and multi-line messages.)
     if line[0] not in string.uppercase:
         continue
     line = line.rstrip()
+    # Also ignore lines that do not end with a punctuation message.
+    # (These are probably multi-line messages as well.)
     if line[-1] not in '.?!':
         continue
+    # Remove stuff between parenthesis. Notably, " (glowing)" mentions.
     if ' (' in line and ')' in line:
         line = re.sub(r' \([A-Za-z]+\)','',line)
     if line in ignore_lines:
@@ -200,7 +216,5 @@ for line in input:
                     print '<{0}> {1!r}'.format(element, groups[element])
             break
     if match:
-        continue
-    if match_combat_line(line):
         continue
     print line

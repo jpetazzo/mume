@@ -1,4 +1,6 @@
 Account&gt;*
+Wrong password.
+Bad pass phrase, try again.
 By what name do you wish to be known?*
 Alignment?
 Race?
@@ -162,10 +164,7 @@ The raging wind almost sweeps you off your feet, but you manage to stand your gr
 The cool wind howls menacingly around this bare platform.
 The strong winds push and pull at this platform, trying to throw it back and forth across the plains.
 
-The ascent ahead seems quite easy to climb, while falling down might bruise you slightly.
-The ascent ahead seems quite difficult to climb, while falling down might bruise you slightly.
-The ascent ahead seems extremely difficult to climb, while falling down might bruise you slightly.
-The ascent ahead seems impossible to climb, while falling down might be deadly.
+The *scent ahead seems * climb, while falling down might *.
 If you still want to try, you must 'climb' there.
 You carefully try to walk on the frozen water.
 You unsuccessfully try to break through the ice.
@@ -408,6 +407,7 @@ The first shy rays of the sun peek over the Weather Hills to the east.
 From across the plains in the east, the sun begins its journey into the sky.
 The fields of Anduin reflect a pale, silvery glow from the rising moon.
 The moon rises over the mountains of Lhun.
+The Gulf of Lhun blazes orange as the setting sun merges with the horizon.
 Slowly the moon fades away, and hides below the horizon.
 Slowly losing its definition, the moon sinks below the horizon.
 With a last glint of pale light the moon disappears below the western horizon.
@@ -435,6 +435,7 @@ The sun disappears as it passes behind a small mountain foothill to the west.
 The sun falls, and the land again becomes dark.
 The sun rises tiredly above the distant mountains in the east.
 A green light starts to glow through the leaves.
+The sun rises over the city wall.
 The sun sinks low on the western horizon, slowly vanishing from sight.
 The sun peeks over the Misty Mountains in the east.
 The sun rises above the Misty Mountains, climbing slowly into the sky.
@@ -499,6 +500,7 @@ The pale moon sinks gradually beyond the rugged silhouette of the horizon.
 The moon falls out of sight in the west.
 As Anar rises above the eastern horizon, the sky is lit by a fiery glow.
 The first golden rays break the darkness as the sun rises from behind the Tower Hills.
+Light flows across the Tower Hills as the sun rises.
 The pale moon rises slowly above the Anduin Vale.
 A flare of lightning branches out into several small streaks above the mountains.
 The long shadows slowly lengthen as the sun dips below the horizon.
@@ -671,6 +673,7 @@ A Large Sign is standing here.
 A traffic sign is here, giving directions.
 A sign reading, Building Permit Information, is here.
 A large WARNING SIGN is here.
+A wooden sign, attached to a strong pole, is standing here.
 No more unseen messages.
 
 Spam mode off.
@@ -741,7 +744,9 @@ A large bookshelf sits against the wall.
 A well-used clothes line is strung between two walls.
 A large beautiful rose bush is blooming here.
 Deep inside the bush, *
+On the bed, *
 On the bookshelf, *
+In the cabinet, *
 On the table, *
 On the line *
 Scattered in and on the shrub, *
@@ -1005,7 +1010,9 @@ The elven cook *
 An elven innkeeper *
 A dwarven gateguard *
 An experienced D*nadan officer *
+An ancient weaver pauses in her work and looks at you.
 Harry the Gatekeeper *
+
 The guild is closed. *
 You mentally recite the *
 You refresh your training in *
@@ -1178,6 +1185,8 @@ You have found *
 <Mob> discovered <object>.
 You discover that <mob> has <possessive> hands in your purse.
 
+<Mob> can teach you the skills below.
+<Mob> can teach you the spells below.
 You can only practice in a guild.
 You do not seem to be able to practice now.
 You need to be more experienced before practicing this skill further.
@@ -1206,17 +1215,20 @@ Absolutely nothing!
 * gold coins.
 
 It seems to be locked.
+It seems to be latched.
 They seem to be locked.
 You can't seem to spot any lock to pick.
 There is no need to pick it, the latch is visible.
 There does not seem to be any keyhole.
 Using your lockpicks, you try to pick the lock...
 You begin to try to pick the lock...
+You stop trying to pick the lock.
 <Mob> is already trying to pick the lock...
 The lock finally yields to your skill.
 You failed to pick the lock.
 You seem to be unable to pick this lock.
 You can't seem to spot any keyholes.
+You do not have the proper key to unlock the <door>.
 But it's already open!
 It's already open!
 They're already open!
@@ -1428,6 +1440,8 @@ The shadow of * is floating here.
 The current time is *
 * looks at the clock.
 
+<Mob> says '*'
+<Mob> says '*' in *.
 <Mob> issues the order '*'.
 Narrate? Yes! Fine! Narrate we must, but WHAT?
 You agree with *
@@ -1561,11 +1575,20 @@ The rope successfully catches the stump and seems secure.
 A rope is already tied to the tree, and it extends across the river.
 Your arms strain as you carefully move hand over hand across the rope.
 
+You begin opening your path through the bushes...
+You hurt yourself clearing the terrain.
+The path is clear!
+
+A peaceful aura surrounds you. You feel more relaxed, and all of your troubles are fading away.
+The calmness of this blessed place pleases you and makes you feel relaxed.
+As you leave the serene grove, you feel your worldly troubles weigh upon your shoulders again.
+
 A statue of a troll is posed in a moment of flight yet forever frozen in stone.
 
-You see <unknown> on the ground.
+You see * on the ground.
 On the ground, there are *
-There are <unknown> here.
+There are * here.
+
 Whom do you want to give something?
 <Mob> seems to have <possessive> hands full.
 * gives * to *
@@ -1579,6 +1602,7 @@ This letter should be delivered to *
 You bend close to the ground, seeking the path to Rivendell...
 At last Rivendell is within sight!
 
+You achieved something new!
 You befriended the lonely giant and visited his home in the Hills of Faraway.
 You found the lost daughter of a Shire shopkeeper and brought her home safely.
 You have only been in *
@@ -1698,10 +1722,8 @@ A glint of metal in the mud catches your eye.
 You found an old metallic key.
 As you turn the key in the lock, it breaks.
 
-
-
 # Combat
-A lightning bolt from <actor> shatters <mob>.
-<Actor> drains <target> who suddenly seems to be weaker.
 The earth trembles and shivers.
-
+Argh! You cannot concentrate any more...
+Your victim is shocked by your hit!
+You feel a sharp pain there!

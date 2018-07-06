@@ -14,6 +14,7 @@
 # - yell: this mob will yell if you attack him.
 # - call: this mob will call other mobs if you attack him.
 # - bash: this mob can bash.
+# - quest: this mob can give you a quest, or is part of a quest.
 # 
 # If the "in-room" description contains a "|", it is used as a separator to
 # indicate the trophy entry. Otherwise, the trophy description should be 
@@ -269,7 +270,8 @@ An Elven innkeeper stands ready to sign up his guests.:
   flags: rent
 The elven lieutenant is here looking for any sign of trouble.:
 An impressive elven knight stands watch here.:
-An elven hunter is here, ready to teach.:
+  trophy: An elven knight
+An elven hunter| is here, ready to teach.:
 An elven citizen is here enjoying the day.:
 A helpful elven citizen is cleaning up the area here.:
 Kevlar the elven armourer is here polishing items he has on display.:
@@ -295,15 +297,17 @@ A dwarven gateguard watches over the entranceway.:
 A prospector is walking around slowly, looking for a new ore vein to mine.:
 A sharp-eyed hawk is here stalking some prey.:
 A sparrow| is flapping around on the ground.:
-A secretary is sitting at the desk.:
-A secretary is sitting here.:
+A secretary| is sitting at the desk.:
+A secretary| is sitting here.:
 A dwarven cityguard is patrolling the streets.:
 An experienced dwarven captain stands here with an air of authority.:
 A mountain goat| is here, jumping from cliff to cliff.:
   level: 4?
-A goat is here, grazing in the hills.:
+A goat| is here, grazing in the hills.:
   level: 3
+A goat is here, grazing peacefully.:
 A young goat playfully charges and hops away.:
+  trophy: A kid
 A Dwarven stablehand checks on the horses.:
 Vubur the innkeeper is here, offering a room at his inn.:
 A dwarven cityguard stands here looking scornfully at foreigners.:
@@ -368,7 +372,7 @@ Huor of Dor-lómin is standing here, ready to teach his arts.:
   flags: guild
 A little boy| is here, running around.:
 Fardur the guide is here, leaning on his walking-stick.:
-A ranger stands quietly here, willing to teach his knowledge of woodcraft.:
+A ranger| stands quietly here, willing to teach his knowledge of woodcraft.:
   flags: guild
 A little dog| is here.:
 A wicked black witch glares at you with mad eyes.:
@@ -413,7 +417,7 @@ A badger| is here, exploring for food.:
 A swallow flies high above the ground.:
 The starving cow stands here looking for a patch of grass.:
   trophy: A starving cow
-Filatior the elven acolyte is here performing sacred ceremonies.:
+Filatior the elven acolyte| is here performing sacred ceremonies.:
 A diamond-back rattlesnake is coiled here, ready to strike.:
   trophy: A rattlesnake
   level: 15
@@ -422,6 +426,7 @@ A crazed dwarf| is here, drooling down his beard.:
 A fishmonger is standing here, loudly advertising today's catch.:
 An elven boat-fisher is here hard at work on his boat.:
 A fat carp swims here.:
+  trophy: A carp
 A grey wolf is here, salivating profusely.:
   trophy: A rabid, grey wolf
   level: 8?
@@ -445,7 +450,7 @@ A huge, poisonous tarantula extends her legs to you.:
 A newborn spider| is here.:
 A partridge attempts to hide in the undergrowth.:
 A black raven| flies in the sky searching for flesh to prey upon.:
-  level: 6?
+  level: 5
 A trout| swims here.:
 A salmon swims here.:
 A bass| swims here.:
@@ -475,7 +480,7 @@ A river otter splashes playfully here.:
   trophy: An otter
 The ruffian leader Scarred grins as he draws his sword.:
   trophy: Scarred
-Malindon the elven mage is here reading over some old texts.:
+Malindon the elven mage| is here reading over some old texts.:
   flags: guild
 A sturdy bandit bodyguard stands here, eager to hack you to pieces.:
   trophy: A bandit bodyguard
@@ -627,6 +632,7 @@ A water moccasin| slithers out of sight just below the surface of the water.:
   level: 8
 A black alder looms threateningly over its surroundings.:
 A field mouse noses about hungrily, searching for food.:
+  trophy: A field mouse
 A small boar with big yellow tusks looks eager to fight.:
   trophy: A tusky boar
   level: 6
@@ -785,7 +791,7 @@ A large hawk-like bird is here overlooking its territory.:
 A large leech| is moving close to you, searching for blood.:
 A large pike is lurking in the mud by the bottom.:
 A large, yellow crab is crawling around here.:
-A king crab is crawling around in the sand here.:
+A king crab| is crawling around in the sand here.:
 A limping orc shuffles around here. He looks miserable.:
   level: 9
   trophy: A crippled orc
@@ -840,7 +846,7 @@ A follower stands on vigilant guard here.:
 The brutally disfigured lieutenant of the lurg whips his charges.:
 A large bush grows here, its great spiny branches waving in the wind.:
 A dwarven peasant runs like crazy to keep his house clean.:
-A goose waddles around here.:
+A goose| waddles around here.:
 A hen is trying to pick some grains here.:
 An aloof hobbit is here, babbling wide-eyed about his adventures.:
 An elite elven guard is standing here, guarding the peace.:
@@ -1079,4 +1085,15 @@ A large bush grows here, its great spiny branches waving in the wind.:
   trophy: A giant spine-bush
   level: 22?
 A dwarven surveyor is standing here.:
-
+A wild bull| seems ready to charge you.:
+  level: 7?
+An elven shepherd of indeterminate age assesses you with an inquisitive look.:
+A woolly sheep is grazing here.:
+  level: 3
+  trophy: A sheep
+An exceptionally old elf is here, examining a piece of cloth.:
+  trophy: An ancient weaver
+  flags: quest
+An elven craftsman is here, performing intricate work.:
+Janice the guide is here, eager to guide visitors.:
+A Dunadan gateguard is standing here.:
