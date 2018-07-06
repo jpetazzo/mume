@@ -3,7 +3,6 @@
 #sub {^A mountain goat is here, jumping from cliff to cliff.$} {%0 [4?] }
 #sub {^A great wolf with coal-black eyes stares intently at you, drooling saliva.$} {%0 [15] }
 #sub {^A hungry-looking giant lizard is slithering towards you.$} {%0 [12] }
-#sub {^A goat is here, grazing in the hills.$} {%0 [3] }
 #sub {^A skeletal warrior is staring angrily at the surroundings.$} {%0 [15?] }
 #sub {^A spirit floats towards you and howls with an evil laughter.$} {%0 [12] }
 #sub {^A black wolf pads restlessly, looking for its next prey.$} {%0 [7?] }
@@ -24,6 +23,7 @@
 #sub {^A small, naked humanoid creature glares at you.$} {%0 [16] }
 #sub {^A huge, poisonous spider is here.$} {%0 [9?] }
 #sub {^Some roots lie here waiting to ensnare weary travellers.$} {%0 [12] }
+#sub {^A wild bull seems ready to charge you.$} {%0 [7?] }
 #sub {^A disgusting forest troll is searching for fresh meat here.$} {%0 [10?] }
 #sub {^A large sturgeon swims slowly along the bottom.$} {%0 [12?] }
 #sub {^A diamond-back rattlesnake is coiled here, ready to strike.$} {%0 [15] }
@@ -31,9 +31,9 @@
 #sub {^The patch of weeds here shifts strangely in the breeze.$} {%0 [14] }
 #sub {^A huge, bulky queen bee is here.$} {%0 [13?] }
 #sub {^A brutish forest troll is hunting here, looking for some tasty flesh.$} {%0 [18] }
+#sub {^A goat is here, grazing in the hills.$} {%0 [3] }
 #sub {^A spirit floats around, making strange magical gestures.$} {%0 [16] }
 #sub {^A woolly sheep is grazing here.$} {%0 [3] }
-#sub {^A bear is here, covered with coarse black fur.$} {%0 [13] }
 #sub {^A tall woman in riding leathers is here.$} {%0 [20] }
 #sub {^A great dark-grey horse stamps restively.$} {%0 [10] }
 #sub {^The huge ice-demon looks at you once, growls, and lunges to attack.$} {%0 [19?] }
@@ -45,7 +45,7 @@
 #sub {^A crazed dwarf is here, drooling down his beard.$} {%0 [19] }
 #sub {^A fierce wolverine is here, snarling at you.$} {%0 [8?] }
 #sub {^A tall birch is here, watching over the landscape.$} {%0 [19] }
-#sub {^A black raven flies in the sky searching for flesh to prey upon.$} {%0 [6?] }
+#sub {^A black raven flies in the sky searching for flesh to prey upon.$} {%0 [5] }
 #sub {^A female orc stands glaring at you.$} {%0 [6?] }
 #sub {^A vicious little bandit advances towards you.$} {%0 [6] }
 #sub {^A water moccasin slithers out of sight just below the surface of the water.$} {%0 [8] }
@@ -102,6 +102,7 @@
 #sub {^A large and twisted beast lurks in the rotten pool.$} {%0 [18] }
 #sub {^A forest spider is here crawling around.$} {%0 [4] }
 #sub {^A grey wolf is here, salivating profusely.$} {%0 [8?] }
+#sub {^A bear is here, covered with coarse black fur.$} {%0 [13] }
 #sub {^A tall stag is here, grazing peacefully.$} {%0 [5] }
 #sub {^The embodied shape of a linden tree stands shiftlessly here.$} {%0 [???] }
 #sub {^An intact skeleton of a man is walking around here.$} {%0 [<<11] }
