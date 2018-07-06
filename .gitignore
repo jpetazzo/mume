@@ -1,7 +1,6 @@
-login
+.login
 log
 logs/*.log
-chars/
 *~
 mmapper
 tt++
