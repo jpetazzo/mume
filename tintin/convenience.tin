@@ -2,18 +2,19 @@
 
 #action {^The tanner gives you a wolfskin wristband.$} {give fur tanner}
 
-#action { n:%w} {#tab %1}
-#action { s:%w} {#tab %1}
-#action { e:%w} {#tab %1}
-#action { w:%w} {#tab %1}
-#action { u:%w} {#tab %1}
-#action { d:%w} {#tab %1}
+#NOP this will add exits reported by MMapper to the tab-completion list.
+#action { n:{[a-z]+}} {#tab %1}
+#action { s:{[a-z]+}} {#tab %1}
+#action { e:{[a-z]+}} {#tab %1}
+#action { w:{[a-z]+}} {#tab %1}
+#action { u:{[a-z]+}} {#tab %1}
+#action { d:{[a-z]+}} {#tab %1}
 
 #action {^You go to sleep.$} {hp}
 #action {^You lie down on the bed and go to sleep.$} {hp}
 #action {^You wake, and sit up.$} {unhp; stand}
 #action {^You wake, and sit up on the bed.$} {unhp; stand}
-#action {^You are awakened by %S.$} stand
+#action {^You are awakened by %S.$} {unhp; stand}
 #action {^Nah... You feel too relaxed to do that.$} stand
 #action {^Maybe you should get on your feet first?$} stand
 
