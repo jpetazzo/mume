@@ -271,6 +271,7 @@ They aren't here.
 You don't have *
 You can't carry that.
 It is too heavy for you to move.
+You lack the strength to move the heavy portcullis.
 You are not holding that.
 You cannot hide *
 There is nothing like this here.
@@ -934,6 +935,8 @@ You buy *
 You sell *
 You now have *
 You drink the *
+Your stomach refuses to eat that!
+You can't drink from that!
 You drop the *
 You stop using *
 You hold a *
@@ -1023,6 +1026,7 @@ You are going to neglect your *
 <Mob> mumbles to *self.
 
 For a successful backstab you need to be wielding a suitable weapon.
+Perhaps you should learn the art of backstabbing...
 You can't backstab in deep water!
 Backstab whom?
 You begin to move silently to the back of your victim...
@@ -1056,6 +1060,7 @@ You will now try to protect *
 You fail the rescue.
 Heroically you come to * rescue!
 You are rescued by *, you are confused!
+Who do you want to rescue?
 * intercepts * blow.
 * heroically rescues *
 * nocks a missile in *
@@ -1343,6 +1348,7 @@ You need oil to fill *
 You completely fill a lantern with oil.
 You completely fill something with oil.
 You completely fill a lantern with oil, emptying a dark coloured flask.
+You completely fill a hooded brass lantern with oil, emptying a dark coloured flask.
 You pour all your remaining oil into *
 There is enough oil for *
 It's <gauge> of a <color> liquid.

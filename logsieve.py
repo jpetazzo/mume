@@ -18,7 +18,7 @@ elements = dict(
     object = set(),
     Object = set(),
     color = set(('clear', 'violet', 'black', 'yellow', 'purple')),
-    Race = set(('Elf', 'Dwarf', 'Half-Elf', 'Orc')),
+    Race = set(('Elf', 'Dwarf', 'Half-Elf', 'Orc', 'Silvan')),
     fromdir = set(('from the north', 'from the south', 'from the west',
                    'from the east', 'from above', 'from below')),
     direction = set(('north', 'south', 'west', 'east', 'up', 'down')),
@@ -36,8 +36,9 @@ elements = dict(
         'left hindleg', 'right hindleg', 'left hindfoot', 'right hindfoot',
         'left wing', 'right wing',
         'left forefoot', 'right forefoot', 'left foreleg', 'right foreleg',
+        'left leg', 'right leg', 'left foot', 'right foot',
         'left hand', 'right hand', 'left arm', 'right arm',
-        'head', 'body',
+        'head', 'body', 'tail',
         )),
     unknown = set()
     )
@@ -121,61 +122,19 @@ for k,v in data_objects.items():
 
 elements['Object'] = set(o.capitalize() for o in elements['object'])
 
-def match_combat_line(line):
-    return
-    # This is very crude for now.
-    weapon_verbs = [
-        ]
-    for verb in weapon_verbs:
-        # Regular "hit" line: ATTACKER VERBS TARGET's BODYPART
-        if ' '+verb[1]+' ' in line:
-            return True
-        # Dodge: TARGET swiftly dodges ATTACKER's attempt to VERB PRONOUN.
-        if 'attempt to '+verb[0]+' ' in line:
-            return True
-        # Parry: ATTACKER tires to VERB TARGET, but PRONOUN parries
-        if ' tries to '+verb[0]+' ' in line:
-            return True
-        # Approach: ATTACKER approaches TARGET, trying to VERB PRONOUN.
-        if ', trying to '+verb[0]+' ' in line:
-            return True
-        # Fail: ATTACKER fails to VERB TARGET.
-        if ' fails to '+verb[0]+' ' in line:
-            return True
-        # You fail: You try to VERB TARGET, but PRONOUN parries successfully.
-        if (line.startswith('You try to '+verb[0])
-            and line.endswith('parries successfully.')):
-            return True
-    other_verbs = [
-        ' burns ', ' cries \'Elbereth Gilthoniel\' and makes ',
-        ' sinks its fangs into ', ' avoids being bashed by ',
-        ' sprawling with a powerful bash.', ' tries a kick at ',
-        ' who deftly avoids the ', ' is corroded by a splash of acid.',
-        ' howls in pain as the claws of ', ' with its poisonous fangs.',
-        ' bites ', 'throws a glowing magical missile at ',
-        ' dodge a bash from ',
-        ]
-    for verb in other_verbs:
-        if verb in line:
-            return True
-    # Keep at bay failed: TARGET tries to keep ATTACKER at bay, but fails.
-    if ' tries to keep ' in line and ' at bay, but fails.' in line:
-        return True
-    # Bash to death: ATTACKER bashes TARGET to death.
-    if ' bashes ' in line and ' to death.' in line:
-        return True
-    return False
-
-
 for line in open('data/lines.txt'):
     ignore(line)
 
 # These should be after everything else, because they can be a bit over-generic.
 # (For instance, "You recover two arrows and put them in your quiver" matches!)
-ignore("You( barely| lightly|) (?P<damage>[a-z]+) <mob>'s (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatter it| and tickle it|).")
-ignore("<Mob>( barely| lightly|) (?P<damage>[a-z]+) your (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatters it| and tickles it|).")
+ignore("You( barely| lightly| strongly|) (?P<damage>[a-z]+) <mob>'s (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatter it| and tickle it|).")
+ignore("<Mob>( barely| lightly| strongly|) (?P<damage>[a-z]+) your (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatters it| and tickles it|).")
 ignore("<Mob> tries to (?P<damage>[a-z]+) you, but your parry is successful.")
 ignore("You swiftly dodge <mob>'s attempt to (?P<damage>[a-z]+) you.")
+ignore("Your attempt to (?P<damage>[a-z]+) <mob> fails.")
+ignore("<Mob> fails to hit you.")
+ignore("<Mob> sends you sprawling with a powerful bash.")
+ignore("<Mob> bites you!")
 
 if sys.argv[1:]:
     input = open(sys.argv[1])
@@ -212,8 +171,16 @@ for line in input:
         if match:
             groups = match.groupdict()
             for element in groups:
-                if groups[element] not in elements[element]:
-                    print '<{0}> {1!r}'.format(element, groups[element])
+                value = groups[element]
+                # The regexes parsing combat actions are imperfect.
+                # When there is a line like "A wolf lightly hits your arm",
+                # they can interpret the mob name to be "A wolf lightly".
+                # This works around the issue.
+                if element.lower() == 'mob':
+                    if value.split()[-1] in ['barely', 'lightly', 'strongly']:
+                        value = value.rsplit(None, 1)[0]
+                if value not in elements[element]:
+                    print '<{0}> {1!r}'.format(element, value)
             break
     if match:
         continue
