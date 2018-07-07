@@ -129,11 +129,14 @@ for line in open('data/lines.txt'):
 # (For instance, "You recover two arrows and put them in your quiver" matches!)
 ignore("You( barely| lightly| strongly|) (?P<damage>[a-z]+) <mob>'s (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatter it| and tickle it|).")
 ignore("<Mob>( barely| lightly| strongly|) (?P<damage>[a-z]+) your (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatters it| and tickles it|).")
+ignore("You try to (?P<damage>[a-z]+) <mob>, but <subject> parries successfully.")
 ignore("<Mob> tries to (?P<damage>[a-z]+) you, but your parry is successful.")
 ignore("You swiftly dodge <mob>'s attempt to (?P<damage>[a-z]+) you.")
+ignore("<Mob> swiftly dodges your attempt to (?P<damage>[a-z]+) <pronoun>.")
 ignore("Your attempt to (?P<damage>[a-z]+) <mob> fails.")
 ignore("<Mob> fails to hit you.")
 ignore("<Mob> sends you sprawling with a powerful bash.")
+ignore("You dodge a bash from <mob> who loses <possessive> balance.")
 ignore("<Mob> bites you!")
 
 if sys.argv[1:]:

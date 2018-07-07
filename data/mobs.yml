@@ -61,7 +61,7 @@ Some thick writhing vines whip all around you.:
   keywords: vines
   level: 13?
 A black wolf| pads restlessly, looking for its next prey.:
-  level: 7?
+  level: 6?
 A hungry-looking giant lizard is slithering towards you.:
   trophy: A giant lizard
   keywords: lizard
@@ -296,6 +296,7 @@ An elven tailor is standing here, tidying his selection.:
 A dwarven gateguard watches over the entranceway.:
 A prospector is walking around slowly, looking for a new ore vein to mine.:
 A sharp-eyed hawk is here stalking some prey.:
+  trophy: A hawk
 A sparrow| is flapping around on the ground.:
 A secretary| is sitting at the desk.:
 A secretary| is sitting here.:
@@ -326,7 +327,7 @@ A roe deer| is standing here, watching the terrain while chewing the vegetation.
 An elf is here walking around.:
 An elven farmer stands here partially hunched over.:
 An elven farmer is here surveying the land.:
-Gildor the blacksmith is here, busy forging a sword.:
+Gildor the blacksmith| is here, busy forging a sword.:
   flags: shop
 A small termite| is running around making strange sounds.:
 A large elk| is standing here, chewing grass and leaves.:
@@ -951,7 +952,8 @@ The misty shape of a man floats in the air.:
 A black merlin| waves its wings menacingly.:
 A brown striated fungus hangs here, clinging to a tree trunk.:
   trophy: A brown fungus
-A bull stands here, calmly looking around.:
+A bull| stands here, calmly looking around.:
+  level: 6?
 A doorwarden stands here ready to obey his master's wishes.:
 A fisherhobbit is cruising the River in his reed boat, looking for fish.:
 A huge millipede is writhing around here.:
@@ -1097,3 +1099,6 @@ An exceptionally old elf is here, examining a piece of cloth.:
 An elven craftsman is here, performing intricate work.:
 Janice the guide is here, eager to guide visitors.:
 A Dunadan gateguard is standing here.:
+Ruhnor the dwarven lumberjack is relaxing here after hard work in the woods.:
+An elven merchant is here doing his best to sell you something.:
+  flags: shop

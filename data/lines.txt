@@ -794,6 +794,7 @@ The ground seems to absorb your spell!
 Aye! You cannot concentrate any more...
 You muster all of your concentration...
 Your spell backfired! You feel drained.
+Your spell backfired! You feel your life draining away.
 What should the spell be cast upon?
 <Mob> spell backfires, and <subject> squeals in surprise!
 You have a sudden lapse of memory... Your spell backfired! You feel drained.
@@ -1075,6 +1076,7 @@ A metal-cased bolt breaks.
 * begins some strange incantations...
 <Mob> seems to have recovered <possessive> senses.
 <Mob> bleeds from open wounds.
+You bleed from open wounds.
 You hear * death cry as <subject> collapses.
 You hear a death cry <fromdir>.
 <Mob> disappears into nothing.
