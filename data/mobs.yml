@@ -193,8 +193,10 @@ An evil priest is here chanting and praying to some foul entity.:
   flags: sanc
 An elven lady is walking around here.:
 A coloured game bird is visible in the vegetation, watching you warily.:
+  trophy: A pheasant
 A blue dragonfly is circling around.:
 A ferocious warg| is here, snarling angrily.:
+  level: 8
 A lone hawk soars high above you.:
 A forest spider| is here crawling around.:
   level: 4
@@ -334,6 +336,7 @@ A large elk| is standing here, chewing grass and leaves.:
   level: 8
 A mouse is here nosing around, looking for a safe place to hide.:
 A large, loyal falcon is circling above.:
+  trophy: A falcon
 A thin, crippled deer looks around timidly.:
   trophy: A crippled deer
 A grizzly cub| is here, snarling loudly.:
@@ -354,6 +357,7 @@ A wealthy merchant is slowly strolling around here.:
 A woman is here, looking for someone to chat with.:
 An insolent scholar is here, pondering.:
 A swift lynx passes by.:
+  trophy: A lynx
 A Dúnadan soldier is here busily performing his duties.:
 An old man is walking around, cleaning up.:
 A man passes by, intent on his business.:
@@ -406,7 +410,7 @@ An armourer stands here.:
   flags: shop
 An elven beekeeper is standing here, peacefully watching his bees.:
 A huge, poisonous spider| is here.:
-  level: 9?
+  level: 8?
 A tiny spider| is here, eating a tiny bug.:
 A malicious thug is here, threatening you.:
   level: 10
@@ -432,6 +436,7 @@ A grey wolf is here, salivating profusely.:
   trophy: A rabid, grey wolf
   level: 8?
 A fierce wolverine is here, snarling at you.:
+  trophy: A wolverine
   level: 8?
 A huge, black wolf| is here, ready to devour.:
   level: 8-
@@ -453,7 +458,7 @@ A partridge attempts to hide in the undergrowth.:
 A black raven| flies in the sky searching for flesh to prey upon.:
   level: 5
 A trout| swims here.:
-A salmon swims here.:
+A salmon| swims here.:
 A bass| swims here.:
 The elven bartender is standing here, gossiping behind the bar.:
 A swift and agile forest cat moves silently through the vegetation.:
@@ -575,7 +580,7 @@ An experienced smuggler is here, conspiring with his cohorts.:
   level: 11
 Mrs. Brown is here, looking for her husband.:
 A cute little girl is here.:
-A white wolf is here.:
+A white wolf| is here.:
 A citizen-mercenary is here, waiting for a job.:
 A rather ragtag, dubious-looking man is standing here, trying to sell his wares.:
   flags: shop
@@ -599,6 +604,7 @@ A guardian stone beast| is here, protecting the grave.:
 An elven navigator is on look-out here.:
 A small loyal dog is here.:
 A tall elven trapper is walking around here.:
+  trophy: An elven trapper
 An old tanner is here, smoking his pipe in boredom.:
 A huge stag with a great span of antlers is warily browsing on the vegetation.:
   trophy: The noble stag
@@ -902,6 +908,7 @@ The hazy grey shadow of a long-dead man floats in the air.:
   trophy: Angrim's ghost
 One of the citizens of Tharbad looks at you from the corner of his eye.:
 A furious, old bull is stamping with his hoof.:
+  trophy: An old bull
 A man dressed in dark clothes eyes his surroundings warily.:
 An old, but powerful uruk of the Zaugurz tribe stands here.:
 The huge ice-demon looks at you once, growls, and lunges to attack.:
@@ -944,7 +951,7 @@ A scarred half-elven lady dressed in blue is here.:
   trophy: Uiniel half-elven
 The elven chief pensively gazes through the windows.:
 The village priest welcomes you to his simple temple.:
-A giant earth beetle is standing here.:
+A giant earth beetle| is standing here.:
 A lonely, sad-looking elf is sitting here in deep thoughts.:
 A tall and strong hunter is standing here.:
 Rengold the Bard of the Rohirric people stands here proudly.:
@@ -1102,3 +1109,4 @@ A Dunadan gateguard is standing here.:
 Ruhnor the dwarven lumberjack is relaxing here after hard work in the woods.:
 An elven merchant is here doing his best to sell you something.:
   flags: shop
+A large shark moves swiftly through the water.:

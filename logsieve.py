@@ -39,6 +39,7 @@ elements = dict(
         'left leg', 'right leg', 'left foot', 'right foot',
         'left hand', 'right hand', 'left arm', 'right arm',
         'head', 'body', 'tail',
+        'trunk', 'leaves', 'crown',
         )),
     unknown = set()
     )
@@ -138,6 +139,7 @@ ignore("<Mob> fails to hit you.")
 ignore("<Mob> sends you sprawling with a powerful bash.")
 ignore("You dodge a bash from <mob> who loses <possessive> balance.")
 ignore("<Mob> bites you!")
+ignore("You aim for a gap in <mob>'s armour!")
 
 if sys.argv[1:]:
     input = open(sys.argv[1])

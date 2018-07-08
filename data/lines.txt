@@ -912,6 +912,7 @@ Abandon what?
 You are already riding.
 You stop riding *
 You quietly scout *
+Scouting while riding?
 You stop scouting.
 You see <mob> scouting <fromdir>!
 Scouting *wards is too difficult.
@@ -933,6 +934,7 @@ It weighs * pound.
 It weighs * pounds.
 It radiates a magical aura.
 You buy *
+You cannot sell anything here.
 You sell *
 You now have *
 You drink the *
@@ -1306,6 +1308,9 @@ You find a hidden pressure plate and push it.
 A fragrant-smelling bag contains nothing.
 
 You put all your weight against the <door>, trying to open it.
+You put all your weight against the <door>, trying to open them.
+The <door> stops moving.
+The <door> stop moving.
 You pick *
 You place * on a*
 You put * in a*
@@ -1347,10 +1352,8 @@ The light of * is becoming faint...
 The light of * has gone out.
 * completely fills a lantern with oil.
 You need oil to fill *
-You completely fill a lantern with oil.
-You completely fill something with oil.
-You completely fill a lantern with oil, emptying a dark coloured flask.
-You completely fill a hooded brass lantern with oil, emptying a dark coloured flask.
+You completely fill * with oil.
+You completely fill * with oil, emptying a dark coloured flask.
 You pour all your remaining oil into *
 There is enough oil for *
 It's <gauge> of a <color> liquid.
@@ -1610,7 +1613,10 @@ This letter should be delivered to *
 You bend close to the ground, seeking the path to Rivendell...
 At last Rivendell is within sight!
 
+# Achievements
+
 You achieved something new!
+You brought the antlers of the noble stag to an elven trapper.
 You befriended the lonely giant and visited his home in the Hills of Faraway.
 You found the lost daughter of a Shire shopkeeper and brought her home safely.
 You have only been in *
@@ -1620,6 +1626,9 @@ You have visited all parts of the known world except *
 You recovered the antique dagger sought by the Bree weaponsmith.
 You recovered Buttercup, the favourite cow of Beorning farmer Ocher.
 You obtained a new wood axe for woodcutter Jeraton, so that he can make a living.
+You have done business with the old tanner of the Woody End.
+You have dealt with the worst robbers of Fornost and visited their secret hide-out.
+
 You went between the Grey Havens and Rivendell in *
 You went between Fornost and Tharbad in *
 
