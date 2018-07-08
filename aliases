@@ -6,6 +6,7 @@ change color tell bold green
 alias x examine
 alias xp examine backpack
 alias xm examine moneybag
+alias xs examine sack
 
 alias evg eat vegetable
 alias efr eat fruit
@@ -22,6 +23,10 @@ alias ll light lantern
 alias sl snuff lantern
 alias cr cover ruby
 alias ur uncover ruby
+
+alias gam give all m
+alias uma unsaddle m all
+alias gbm give boat m
 
 alias plp put all.lembas backpack
 alias glp get all.lembas backpack
