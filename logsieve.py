@@ -39,7 +39,7 @@ elements = dict(
         'left leg', 'right leg', 'left foot', 'right foot',
         'left hand', 'right hand', 'left arm', 'right arm',
         'head', 'body', 'tail',
-        'trunk', 'leaves', 'crown',
+        'trunk', 'leaves', 'crown', 'branch', 'root',
         )),
     unknown = set()
     )
@@ -55,10 +55,14 @@ def ignore(line):
         regex = regex.replace('.', '\\.')
         regex = regex.replace('*','.*')
         for element in elements:
-            # Skip some special elements that are matched individually
-            if element in ('damage', 'bodypart'): continue
-            regex = regex.replace('<'+element+'>',
-                                  '(?P<'+element+'>.*)')
+            # <foo> will match anything
+            # {foo} will match only the values declared in the elements dict
+            regex = regex.replace(
+                '<'+element+'>',
+                '(?P<'+element+'>.*)')
+            regex = regex.replace(
+                '{'+element+'}',
+                '(?P<'+element+'>'+'|'.join(elements[element]) +')')
         ignore_compiled.append(re.compile(regex))
         return
     if line[0] == '*' and line[-1] == '*':
@@ -74,8 +78,13 @@ def ignore(line):
 
 
 def add_mob(trophy):
-    elements['Mob'].add(trophy)
-    elements['mob'].add(trophy.lower())
+    first_word = trophy.split(' ')[0]
+    if first_word.lower() in ("a", "an", "the"):
+        elements['Mob'].add(trophy[0].upper()+trophy[1:])
+        elements['mob'].add(trophy[0].lower()+trophy[1:])
+    else:
+        elements['Mob'].add(trophy)
+        elements['mob'].add(trophy)
 
 data_mobs = yaml.load(open('data/mobs.yml'))
 for k,v in data_mobs.items():
@@ -128,18 +137,29 @@ for line in open('data/lines.txt'):
 
 # These should be after everything else, because they can be a bit over-generic.
 # (For instance, "You recover two arrows and put them in your quiver" matches!)
-ignore("You( barely| lightly| strongly|) (?P<damage>[a-z]+) <mob>'s (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatter it| and tickle it|).")
-ignore("<Mob>( barely| lightly| strongly|) (?P<damage>[a-z]+) your (?P<bodypart>left [a-z]+|right [a-z]+|[a-z]+)( hard| very hard| extremely hard|)( and shatters it| and tickles it|).")
-ignore("You try to (?P<damage>[a-z]+) <mob>, but <subject> parries successfully.")
-ignore("<Mob> tries to (?P<damage>[a-z]+) you, but your parry is successful.")
-ignore("You swiftly dodge <mob>'s attempt to (?P<damage>[a-z]+) you.")
-ignore("<Mob> swiftly dodges your attempt to (?P<damage>[a-z]+) <pronoun>.")
-ignore("Your attempt to (?P<damage>[a-z]+) <mob> fails.")
+ignore("<Mob> approaches <mob>, trying to {damage} <pronoun>.")
+ignore("You( barely| lightly| strongly|) {damage} <mob>'s? {bodypart}( hard| very hard| extremely hard|)( and shatter it| and tickle it|).")
+ignore("<Mob>( barely| lightly| strongly|) {damage} your {bodypart}( hard| very hard| extremely hard|)( and shatters it| and tickles it|).")
+ignore("<Mob>( barely| lightly| strongly|) {damage} <mob>'s? {bodypart}( hard| very hard| extremely hard|)( and shatters it| and tickles it|).")
+ignore("You try to {damage} <mob>, but <subject> parries successfully.")
+ignore("<Mob> tries to {damage} you, but your parry is successful.")
+ignore("<Mob> tries to {damage} <mob>, but <pronoun> parries successfully.")
+ignore("You swiftly dodge <mob>'s? attempt to {damage} you.")
+ignore("<Mob> swiftly dodges your attempt to {damage} <pronoun>.")
+ignore("<Mob> swiftly dodges <mob>'s? attempt to {damage} <pronoun>.")
+ignore("Your attempt to {damage} <mob> fails.")
 ignore("<Mob> fails to hit you.")
 ignore("<Mob> sends you sprawling with a powerful bash.")
+ignore("<Mob> sends <mob> sprawling with a powerful bash.")
 ignore("You dodge a bash from <mob> who loses <possessive> balance.")
+ignore("<Mob> avoids being bashed by <mob> who loses <possessive> balance.")
 ignore("<Mob> bites you!")
-ignore("You aim for a gap in <mob>'s armour!")
+ignore("<Mob> bites <mob>!")
+ignore("You aim for a gap in <mob>'s? armour!")
+ignore("You aim for a weakness in <mob>'s? hide!")
+ignore("You aim for a weakness in <mob>'s? scales!")
+ignore("<Mob> makes a strange sound, as you place *")
+ignore("<Mob> makes a strange sound but is suddenly very silent, as you place *")
 
 if sys.argv[1:]:
     input = open(sys.argv[1])

@@ -58,7 +58,7 @@
 #sub {A detached white rose is lying here} {%0 [White rose, 2/50, nosell]}
 #sub {A patch of star-shaped moss covers the ground.} {%0 [__starshapedmoss, ?]}
 #sub {A patch of orange mushrooms springs from the ground here.} {%0 [__orangemushroom, ?]}
-#sub {An erect shrub with green pinnate leaves is growing here.} {%0 [__erectshrub, ?]}
+#sub {An erect shrub with green pinnate leaves is growing here.} {%0 [Raspberries, ?]}
 #sub {A tall shrub with strong-smelling foliage is growing here.} {%0 [elderberries, ?]}
 #sub {A sprawling green bush of stinging nettle grows here.} {%0 [nettle, ?]}
 #sub {A tall silvery plant grows here, surrounded by mist.} {%0 [mistyplant, ?]}

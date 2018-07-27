@@ -70,6 +70,7 @@ The perfect match!
 Fairly easy.
 Easy.
 You could do it with a needle!
+Now where did that chicken go?
 The next blow might be deadly.
 
 Olle Grylle Bolle Bylle?!?
@@ -219,6 +220,8 @@ You are already awake...
 You stand up.
 You go to sleep.
 You lie down on the bed and go to sleep.
+You are already sound asleep.
+In your dreams, or what?
 You wake, and sit up on the bed.
 * sits down.
 * wakes up.
@@ -254,6 +257,8 @@ You gather wood and prepare a pyre.
 You set fire to the corpses.
 You set fire to the corpse.
 <Mob> stares at the light...
+You begin cooking <object>...
+You have finished cooking <object>.
 
 It's too difficult to ride here.
 You cannot ride there.
@@ -404,6 +409,7 @@ Shrouds of dark clouds roll in above you, blotting out the skies.
 The light begins to decrease.
 The light slowly increases in the east.
 Long shadows form on the eastern flank of Weathertop as the sun disappears.
+The last rays of the setting sun create long shadows over the plains.
 The first shy rays of the sun peek over the Weather Hills to the east.
 From across the plains in the east, the sun begins its journey into the sky.
 The fields of Anduin reflect a pale, silvery glow from the rising moon.
@@ -425,6 +431,7 @@ The moon appears in the sky, illuminating the landscape with its pale light.
 The moon rises above the Misty Mountains in the east.
 The moon slowly disappears into the hazy horizon.
 The moon slowly slides down below the plains in the west.
+Setting into the horizon, the moon finishes its journey across the sky.
 The morning sun rises over the grass-filled lands.
 The red globe of the sun rises above the plains to the east.
 The sky slowly changes from a light orange colour to a dark fiery red as the sun gradually sets in the west over the Gulf.
@@ -623,6 +630,11 @@ The noise of battle reaches you from very close to the <direction>.
 You hear the long howl of a wolf <fromdir>.
 <Mob> turns <possessive> muzzle upwards and starts a long, wolfish howl!
 
+# Fornost baths
+You pay the clerk.
+Welcome to our healing baths! Special price this week, only 1 gold.
+The pool is just north of here. Please stay as long as you wish.
+You feel refreshed from the bath.
 
 The crystal orb shines here providing a bright beacon for approaching ships.
 A finely crafted crystal lamp is hanging from a tree branch.
@@ -632,9 +644,17 @@ Some delicate brass lamps are attached to the walls here.
 A brass lantern has been set on the ground.
 A white-painted bench is here.
 
-You dismount, and coax your mount to follow you.
+# Ferries and ships
+
 The ferry is docked here, ready to be boarded.
 The ferry has arrived at the quay and you can now board.
+The ferry moves slowly out of the dock of Harlond.
+Whoosh! Whoosh! You hear the waves lap against the sides of the ferry.
+The ferry pulls slowly into the dock of Forlond.
+The ferry moves slowly out of the dock of Forlond.
+The ferry pulls slowly into the dock of Harlond.
+You count out the exact fare to give to Daegil.
+You dismount, and coax your mount to follow you.
 You board the ferry.
 * boards the ferry.
 * steps on board.
@@ -664,6 +684,7 @@ A huge clock is standing here.
 A mailbox stands here stuffed full of messages.
 A sturdy target for arrows, made out of thatch, stands here.
 A large bulletin board, entitled *
+A wooden sign stands next to the path here.
 A rather large, a bit rusty sign can be seen on the wall.
 A sign made of polished brass is on the wall.
 A very old sign has been placed at the entrance of the eastern corridor.
@@ -830,6 +851,7 @@ You begin to see scars fade away and a feeling of health comes over you.
 A magic mushroom suddenly appears.
 <Mob> magically creates a mushroom.
 <Mob> trembles as the poison runs through <possessive> veins.
+Your limbs are becoming cold and heavy, your eyelids close.
 You feel very cold, strange...
 Your body is purged.
 You seem to have a low fever.
@@ -1038,6 +1060,7 @@ Oops, your victim seems to have sensed a danger!
 * panics, but can't stop fighting to flee.
 You stop your fleeing attempts.
 You try to flee, but cannot!
+You are already attempting to flee!
 You flee *
 <Mob> seems to avoid the fight.
 <Mob> escaped the fight.
@@ -1072,6 +1095,7 @@ SNAP! Your string breaks! You bend a new one...
 You load a *bolt into your crossbow.
 An ash arrow breaks.
 An arrow breaks.
+Something breaks.
 A war arrow breaks.
 A bolt breaks.
 A metal-cased bolt breaks.
@@ -1100,6 +1124,8 @@ Your body turns numb as the poison speeds to your brain!
 <Mob>'s body turns numb as the poison speeds to <possessive> brain!
 Rest while fighting? Are you MAD?
 You feel sleepy.
+Dizziness and hallucinations overwhelm you.
+You feel very weak and hot.
 You feel better.
 A warm feeling runs through your body.
 A warm feeling runs through your body, you feel better.
@@ -1118,6 +1144,7 @@ Good job!
 Yes! You're beginning to get the idea.
 It begins to be automatic...
 It's really not interesting anymore!
+One more death... It seems to be a litany...
 You gain a level!
 
 You are incapacitated and will slowly die, if not aided.
@@ -1192,6 +1219,8 @@ You see <mob> sneaking into a hiding place.
 You have revealed *
 You have found *
 <Mob> discovered <object>.
+You dig up <object>.
+You didn't find a * hidden here.
 You discover that <mob> has <possessive> hands in your purse.
 
 <Mob> can teach you the skills below.
@@ -1266,9 +1295,11 @@ The <door> are closed.
 * opens a wooden chest.
 It is closed.
 It's already closed!
+They're already closed!
 The metaldoor slides open noiselessly.
 
 You knock on it.
+<Mob> knocks on the greatgates.
 Soundlessly, the gates swing *
 The gate magically opens for *
 You call for the * to be opened.
@@ -1371,6 +1402,7 @@ You *, prepared for battle.
 You *, ready to defend yourself.
 You *, prepared to cleave your enemies.
 You *, ready to fight evil.
+A weapon sheath is empty!
 You swiftly draw *
 You sheathe * into *
 You protect your head with *
@@ -1455,6 +1487,7 @@ The current time is *
 <Mob> says '*' in *.
 <Mob> issues the order '*'.
 Narrate? Yes! Fine! Narrate we must, but WHAT?
+You are too tired to narrate.
 You agree with *
 You apologise to Arda for your very existence!
 You sink deep into your heart, trying to forgive yourself.
@@ -1515,7 +1548,9 @@ You wiggle your bottom.
 * licks you.
 <Mob> licks his mouth and smiles.
 * starts moaning.
+<Mob> mutters something under <possessive> breath.
 * nods solemnly.
+You nod to yourself. Very reassuring.
 * pats <mob> on <possessive> head.
 <Mob> looks around him.
 * pokes * in the ribs.
@@ -1590,6 +1625,12 @@ You begin opening your path through the bushes...
 You hurt yourself clearing the terrain.
 The path is clear!
 
+A swift wind blows through the meadow out of the east.
+The wind swirls through the meadow out of the north.
+The bending road ascends a steep hillside.
+The climb into the Weather Hills is a moderate strain.
+With great effort you make your way through the forest to enter the field.
+
 A peaceful aura surrounds you. You feel more relaxed, and all of your troubles are fading away.
 The calmness of this blessed place pleases you and makes you feel relaxed.
 As you leave the serene grove, you feel your worldly troubles weigh upon your shoulders again.
@@ -1611,6 +1652,7 @@ Whom do you want to give something?
 This letter should be delivered to *
 
 You bend close to the ground, seeking the path to Rivendell...
+Half hidden by dirt and heather, a few scattered white stones lead you onward.
 At last Rivendell is within sight!
 
 # Achievements
@@ -1666,6 +1708,15 @@ A mercenary is here, following his employer.
 A citizen mercenary taps you on the shoulder.
 A citizen mercenary taps * on <possessive> shoulder.
 A citizen mercenary leaves and goes to seek another employer.
+
+# Vulture place south of Lorien
+You manage to regain your balance as your feet start sliding down the uneven rock.
+You find it hard to keep your balance on the bare rock and slide a few inches.
+As your feet slide down the rock, you lose your balance and fall.
+<Mob> appears to find it hard to keep <possessive> balance as he slides a few inches down the crag.
+<Mob>'s feet start sliding, but <pronoun> manages to regain <possessive> balance.
+<Mob> loses <possessive> balance and falls.
+<Mob> comes tumbling from the rocky crag.
 
 The sombre air extinguishes your light!
 Your light suddenly blazes back to life!
@@ -1739,8 +1790,29 @@ A glint of metal in the mud catches your eye.
 You found an old metallic key.
 As you turn the key in the lock, it breaks.
 
+The stairs are covered in debris and tough to ascend.
+The stairs are covered in debris and tough to descend.
+The climb down the bluff is slow and tiresome.
+
+As you enter Fangorn Forest, you notice a stale taste in the air.
+As you leave the Entwood, you take a deep breath of the fresh mountain air.
+Rocks tumble down the ridge as you ascend it.
+You enter a billowing green field of grasses.
+A giant boulder sits here among the swaying grasses.
+As you move towards the ridge, the lush grass is replaced by brown rocks.
+You enter a light forest.
+You climb up the hill into a dark glade of polished pines.
+The forest suddenly breaks into an open meadow.
+The forest darkens considerably.
+
 # Combat
 The earth trembles and shivers.
 Argh! You cannot concentrate any more...
 Your victim is shocked by your hit!
 You feel a sharp pain there!
+You avoid a deadly splash of acid.
+A splash of acid corrodes you.
+Ooops! You fumble... and hit yourself HARD!
+
+# Combat spells
+<Mob> staggers back as the lightning bolt sent by <mob> hits <pronoun>.

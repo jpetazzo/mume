@@ -59,7 +59,7 @@ Massive roots shift uneasily all around you.:
 Some thick writhing vines whip all around you.:
   trophy: A thick tangle of vines
   keywords: vines
-  level: 13?
+  level: 13
 A black wolf| pads restlessly, looking for its next prey.:
   level: 6?
 A hungry-looking giant lizard is slithering towards you.:
@@ -130,7 +130,7 @@ Galadriel the Lady of Lórien is standing here.:
 An elf, clad in the garments of a woodsman, moves stealthily among the trees.:
 A duck| is here, quacking happily.:
 A pigeon is strutting around here.:
-A Dunlending huntsman is here.:
+A Dunlending huntsman| is here.:
 A snake slithers towards you.:
   trophy: A slithering snake
 A domesticated pony, beast of burden to many, stands here.:
@@ -188,8 +188,8 @@ The garden snake slithers harmlessly here.:
 A vicious little bandit advances towards you.:
   trophy: A bandit
   level: 6
-An evil priest is here chanting and praying to some foul entity.:
-  level: 18?
+An evil priest| is here chanting and praying to some foul entity.:
+  level: 17?
   flags: sanc
 An elven lady is walking around here.:
 A coloured game bird is visible in the vegetation, watching you warily.:
@@ -382,6 +382,7 @@ A ranger| stands quietly here, willing to teach his knowledge of woodcraft.:
 A little dog| is here.:
 A wicked black witch glares at you with mad eyes.:
   trophy: The witch
+  level: 16
 A hardened ranger is walking around, looking for tracks.:
   level: 19
 A great, dark wolf stands here, sniffing the air.:
@@ -472,7 +473,7 @@ An old wise druid is standing here. He looks very clever and savant.:
 An old woman is here, stirring a large round pot.:
 A black crow| flies low to the ground here, looking for carrion to eat.:
 A giant slug| is here, oozing around.:
-  level: 9?
+  level: 8?
 A cockroach| is scuttling across the floor carrying some debris.:
 The gatekeeper stands here.:
 An opossum stands here, sniffing around the ground.:
@@ -491,6 +492,8 @@ Malindon the elven mage| is here reading over some old texts.:
 A sturdy bandit bodyguard stands here, eager to hack you to pieces.:
   trophy: A bandit bodyguard
   level: 8-
+A shady man looks commanding.:
+  trophy: A bandit leader
 A dwarf is here processing wool.:
 An apprentice scurries about the room.:
 A long-bearded weaver is busily making cloth.:
@@ -504,7 +507,7 @@ A female dwarf is here cutting a piece of leather.:
 A dwarven potter is here sculpting clay.:
 A large ram guards his flock of sheep.:
   level: 5
-A half wolf is here, loyally protecting his master.:
+A half wolf| is here, loyally protecting his master.:
 Ginnar the weaponsmith stands here pounding out a sword.:
 Althof the shopkeeper is here, examining his inventory.:
 Rekk the pipeweed trader is here, blowing smoke rings.:
@@ -535,6 +538,7 @@ A grey hare stands alert, looking and listening for predators.:
 Jack stands on guard here, collecting money.:
 The Mayor of Bree is standing here.:
 A huge warg| is here, moving in for the kill.:
+  level: 11
 A shopkeeper stands here, eager to sell you his wares.:
 A mole| is looking out of a mole-hill here.:
 A wealthy hobbit merchant stands behind the counter, greeting you.:
@@ -542,6 +546,7 @@ A lean and well-travelled hobbit stands here, while resting his legs.:
 A Stoor goes about his daily business.:
 A Stoor child is playing peacefully here.:
 A grey snake slides along the water.:
+  trophy: A watersnake
 A Dúnadan ranger is crouched over the fire, cooking a meal.:
 The Chief of the Stoor Village is here.:
 A dun-coloured grouse is sitting still in the heather.:
@@ -553,6 +558,7 @@ A mass of wriggling vines drops on you from the trees.:
   trophy: A mass of vines
   level: 11+
 A black spider crawls here, a shiny red spot visible on its belly.:
+  trophy: A black widow
 An elven scout| stands here, blending in with the background.:
 A golden spider rests on a tree-branch.:
 An elven ropemaker is fiddling with some thread here.:
@@ -582,6 +588,7 @@ Mrs. Brown is here, looking for her husband.:
 A cute little girl is here.:
 A white wolf| is here.:
 A citizen-mercenary is here, waiting for a job.:
+  trophy: A citizen mercenary
 A rather ragtag, dubious-looking man is standing here, trying to sell his wares.:
   flags: shop
 A mercenary-guard is on sentry here.:
@@ -592,6 +599,7 @@ Tundur the lamplighter is walking around here with a lantern in his hand.:
 An old tailor is sitting here, working with a piece of fabric.:
 A wise old hobbit is here smoking a simple pipe.:
 A big, nasty vulture is sitting here, protecting its nest.:
+  trophy: A vulture
 A steward of the Valar stands here, ready to assist you into a room.:
 A Dúnadan stands here, dressed in the garb of a woodsman.:
 A lonely goatherd stands here.:
@@ -624,7 +632,7 @@ A dwarf is here, bearing a grim and competent demeanour.:
 A wizened dwarf is busy at work.:
 A sturdy old dwarf wonders if you want something.:
 A young dwarf is here, attempting to look tough.:
-A Dunlending trapper is here searching for animals.:
+A Dunlending trapper| is here searching for animals.:
 A buzzing dumbledor is here, flying around you in close circles.:
 A lamp-lighter is here, holding a big lantern in his hand.:
 A heron is stalking the area, looking for fish.:
@@ -736,9 +744,9 @@ A huge orc bodyguard looks at you suspiciously.:
 A huge stone giant is here, glaring at you.:
   level: 22?
 A large cave troll is here, staying close to his mother.:
-A large sturgeon swims slowly along the bottom.:
-  level: 12?
-A pig is here, covered in mud.:
+A large sturgeon| swims slowly along the bottom.:
+  level: 11?
+A pig| is here, covered in mud.:
 Takhr the orkish warden is standing here, looking greedily at your stuff.:
   flags: rent
 Thrakghash of the Mordor Flame waits here, ready to teach his malevolent magic.:
@@ -839,6 +847,7 @@ A shadow| suddenly leaves its place on the wall, trying to reach your neck.:
 A solitary hermit is sitting here, meditating with a serene expression.:
 An old, deaf shopkeeper attends to his shop.:
 A retired fisherman works as bartender and cook here.:
+A fisherman is sitting here in a boat in the middle of the water.:
 Bura Grumm is here looking after the Castle.:
 Rubb Grumm is standing here, watching you carefully as you enter.:
 A sorcerer is waiting here to teach his art.:
@@ -846,11 +855,14 @@ A sorcerer is waiting here to teach his art.:
 A stooped orc is crouched here, sniffing the air and examining the ground.:
 A Rhudaurian guard is here, patrolling the Castle.:
 A lurg-leader with cat-like eyes wields a wicked spear.:
+  trophy: Khorg the Ohurk-gothai
 An orc of the Ohurk-uai stands here, cursing and grumbling.:
+  trophy: an Ohurk-uai soldier
 A haggard man dressed in tattered robes is here, willing to teach his art.:
 A disciple and follower of the priest stands here.:
 A follower stands on vigilant guard here.:
 The brutally disfigured lieutenant of the lurg whips his charges.:
+  trophy: Grachul the Ohurk-murg
 A large bush grows here, its great spiny branches waving in the wind.:
 A dwarven peasant runs like crazy to keep his house clean.:
 A goose| waddles around here.:
@@ -870,6 +882,7 @@ A black-haired farmhand is here.:
 A smiling innkeeper is here, ready to offer you a room.:
 A small black bird with red markings on its beak is here.:
 A smuggler| is here, angry at having been seen.:
+  level: 10
 A dwarf is here walking around.:
 A commanding Rohir officer presides here, watching for unwanted intruders.:
 A red-breasted mallard swims about, periodically upending to look for food.:
@@ -906,7 +919,13 @@ An ancient spirit, dressed in the arms of a soldier, challenges you.:
   level: 15
 The hazy grey shadow of a long-dead man floats in the air.:
   trophy: Angrim's ghost
+  level: 11
 One of the citizens of Tharbad looks at you from the corner of his eye.:
+A guard is here looking for someone to abuse.:
+A guard is here looking suspiciously at everyone passing.:
+A middle-aged woman, the illusionist looks defiantly at you.:
+A small intelligent looking mage is standing here.:
+  trophy: A mage
 A furious, old bull is stamping with his hoof.:
   trophy: An old bull
 A man dressed in dark clothes eyes his surroundings warily.:
@@ -920,7 +939,7 @@ An orkish officer of the Zaugurz tribe is standing here.:
   trophy: A Zaugurz officer
 A mewlip is here, faintly wailing at you.:
   trophy: A mewlip
-  level: 12?
+  level: 11
 A short burly man stands here, looking around for something.:
   trophy: A prison guard
 A weather-beaten man is moving around silently.:
@@ -1003,9 +1022,9 @@ A lonely man tries to hide in the grass.:
   trophy: The Dunlending outcast
 A relentless uruk of the Morgundul tribe is leading his soldiers here.:
 The ugly troll mother is roaming the cave, taking care of her loved ones.:
-A Dunlending Captain is here, overseeing his men.:
+A Dunlending Captain| is here, overseeing his men.:
 A swarthy Dunlending warrior is here, guarding his village against intruders.:
-A Dunlending hunter is here, stalking his prey.:
+A Dunlending hunter| is here, stalking his prey.:
 A Dunlending woman is here tending to her children.:
 A massive lion is here, baring its glistening fangs.:
 A Dunlending warrior stands here, guarding the gates.:
@@ -1016,6 +1035,7 @@ The darkened figure of a once noble being lingers here.:
 A cowled sorcerer, in dark robes, gestures when he sees you.:
 A fierce-looking eel lurks in the darkness.:
 A filthy looking man stares back at you from the shadows.:
+  trophy: The Outcast
 Bill Ferny is watching you with suspicious eyes.:
   level: 17?
 Big John is swiftly moving around, hiding in the shadows.:
@@ -1038,7 +1058,7 @@ A weak old man, with long hair and beard, clad in noble yet torn clothes.:
 A snowy-white egret stands here alertly.:
 A tall and haughty elm stands here.:
 A tall muscular farmer stands here, working hard.:
-A Rohir outrider roams about, seeking out invaders.:
+A Rohir outrider| roams about, seeking out invaders.:
 An old hobbit, wrinkled with age and a bit pudgy, leans on a walking-stick.:
 An imposing beech tree sways gently in the wind.:
 An Isengard guard quietly hums an old battle hymn.:
@@ -1110,3 +1130,20 @@ Ruhnor the dwarven lumberjack is relaxing here after hard work in the woods.:
 An elven merchant is here doing his best to sell you something.:
   flags: shop
 A large shark moves swiftly through the water.:
+A neglectful hobbit farmer| is wandering here, cursing at trespassers.:
+An assassin is here looking for fresh blood and shining coins.:
+John the Man is here, looking for some trees to chop down.:
+A patrolling ranger roams the land, searching for the signs of evil-doers.:
+A subterranean lizard| is here trying to blend with the surroundings.:
+  level: 14-
+A dark-haired warrior is here, trying to fulfil his murky tasks.:
+  level: 14-
+A slim elven ranger casts her gaze over the forest.:
+  level: 15?
+A rabid raccoon stands here, frothing at the mouth.:
+A very strong orkish patrol-leader is looking for enemies here.:
+A soldier of Rohan is here, guarding the tower.:
+A large black bat flitters near you.:
+A malevolent bat| hangs from the ceiling.:
+A bloodthirsty orc stands here, hell-bent on battle.:
+  trophy: A bloodthirsty orc
