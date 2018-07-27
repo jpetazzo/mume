@@ -4,7 +4,9 @@
 #alias sap {sell all.plant;sell all.root;sell all.leaves}
 #alias sall {saa;saw;sac;sap}
 
-#alias {craw} {get pan backpack; get salt backpack; cook raw; put pan backpack; put salt backpack; put meat backpack}
+#alias {craw} {get pan backpack; get salt backpack; cook raw}
+#action {You have finished cooking} {put meat backpack;cook raw}
+#action {You don't have the raw.} {put pan backpack; put salt backpack}
 
 #alias boots {remove boots;get boots backpack;wear boots;put boots backpack}
 #alias shoes {remove boots;get snowshoes backpack;wear snowshoes;put boots backpack}
