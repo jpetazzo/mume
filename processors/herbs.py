@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 import sys
 import yaml
 
@@ -11,15 +11,15 @@ def extractinfo(herb, field):
     herb['info'] = info.split(')')[0].strip()
 
 
-data = yaml.load(sys.stdin)
+data = yaml.safe_load(sys.stdin)
 for herb in data:
     if 'name' not in herb:
-        print >> sys.stderr, 'the following herb has no name:'
-        print >> sys.stderr, herb
+        print('the following herb has no name:', file=sys.stderr)
+        print(herb, file=sys.stderr)
         continue
     if 'description' not in herb:
-        print >> sys.stderr, 'the following herb has no description:'
-        print >> sys.stderr, herb
+        print('the following herb has no description:', file=sys.stderr)
+        print(herb, file=sys.stderr)
         continue
     herb['info'] = '?'
     extractinfo(herb, 'description')
@@ -27,4 +27,4 @@ for herb in data:
     if 'loads' in herb: herb['info'] = 'loads: '+herb['info']
     for f in ['description','name','info']:
         herb[f] = herb[f].strip()
-    print '#sub {%s} {%%0 [%s, %s]}'%(herb['description'], herb['name'], herb['info'])
+    print('#sub {%s} {%%0 [%s, %s]}'%(herb['description'], herb['name'], herb['info']))

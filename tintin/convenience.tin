@@ -1,3 +1,5 @@
+#nop;
+
 #alias ferry {#action {arrived in} {leave; #unaction {arrived in}};#action {arrived at} {board; #unaction {arrived at}}}
 
 #action {^The tanner gives you a wolfskin wristband.$} {give fur tanner}
@@ -27,10 +29,6 @@
 #action {^You have produced a sticky mass of stems, leaves and sap.$} {ph stems}
 
 #action {%* seems to be blinded!$} {#delay 90 {#echo {<019>%1 was blinded 90s ago.<099>}}}
-
-#alias xpon {#class xp read tintin/xp.tin}
-#alias xpoff {#class xp kill}
-
 
 #action {^Aldereon says 'Tell me, do you agree to this?'$} {say yes}
 

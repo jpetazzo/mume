@@ -1,0 +1,32 @@
+#nop;
+
+/*
+ * This relies on MMapper "_dirs" function.
+ * Type "path Prancing" to locate a room with that name.
+ * Then "path" will take you there one room at a time.
+ * It won't pre-spam, so if anything stops you, it should stop too.
+ */
+
+#alias {path} {
+  #if {"%1" == ""} {path_go};
+  #else {
+    #action {dirs: %%1 } {
+      #var {path_dirs} {%%1};
+      #unaction {dirs: %%%1 };
+    };
+    _dirs %0;
+  };
+}
+
+#alias {path_go} {
+  #regexp {$path_dirs} {^{[0-9]+}{[newsud]}%S} {
+    #if {&1 == 1} {#var {path_dirs} {&2&3}};
+    #else {#format {path_dirs} {%s%m%s%s} {&2} {&1-1} {&2} {&3}};
+  };
+  #regexp {$path_dirs} {^{[neswud]}%S} {
+    #var {path_dirs} {&2};
+    #action {^Exits:} {path_go};
+    #delay {path} {#unaction {^Exits:}} {1};
+    &1;
+  };
+}

@@ -1,14 +1,14 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 import sys
 import yaml
 
-data = yaml.load(sys.stdin)
+data = yaml.safe_load(sys.stdin)
 for inroom,mob in data.items():
     if mob is None:
         mob = {}
     if '|' in inroom and 'trophy' in mob:
-        print >> sys.stderr, 'Error: the following mob as "|inroom" + "trophy"; skipping.'
-        print >> sys.stderr, mob
+        print('Error: the following mob as "|inroom" + "trophy"; skipping.', file=sys.stderr)
+        print(mob, file=sys.stderr)
         continue
     if '|' in inroom:
         inroom = inroom.replace('|','')
@@ -21,4 +21,4 @@ for inroom,mob in data.items():
     else:
         label = None
     if label:
-        print '#sub {{^{inroom}$}} {{%0 {label} }}'.format(**locals())
+        print('#sub {{^{inroom}$}} {{%0 {label} }}'.format(**locals()))

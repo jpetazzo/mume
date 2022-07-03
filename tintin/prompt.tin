@@ -1,87 +1,37 @@
-#var {prompt_main} {}
-#var {prompt_twid} {<129>.<099>}
-#var {prompt_time} {??:?? ??}
-#var {prompt_fighter1} {}
-#var {prompt_fighter2} {}
-#var {prompt_fighters} {}
-#var {prompt_fighting} {false}
-#var {prompt_hp} {}
-#var {prompt_mana} {}
-#var {prompt_move} {}
+#nop;
 
-#var {re_terrain} {([^ ]+)}
-#var {re_movement} {( [CcSsRrW]+)?}
-#var {re_hp} {( HP:[A-Za-z]+)?}
-#var {re_mana} {( Mana:[A-Za-z]+)?}
-#var {re_move} {( Move:[A-Za-z]+)?}
-#var {re_mount} {( Mount:[A-Za-z]+)?}
-#var {re_fight} {( [^:]+:[A-Za-z]+)?}
-#var {re_all} {{$re_terrain$re_movement$re_hp$re_mana$re_move$re_mount$re_fight$re_fight>}}
+#split
+
+#var {prompt_main} {>}
+#var {prompt_twid} {}
+#var {prompt_time} {??:?? ??}
+
+#prompt {{^[^ ].*>$}} {@prompt_main{%0}} -1
+#prompt {{^[-|/\\]$}} {@prompt_twid{%0}} -1
+#prompt {^TIME:%+$} {@prompt_time{%1}} -1
+
+#function {prompt_main} {
+  #var {prompt_main} {%1};
+  #var {prompt_twid} {};
+  #return @prompt_full{}
+}
+
+#function {prompt_twid} {
+  #var {prompt_twid} {%1};
+  #return @prompt_full{}
+}
+
+#function {prompt_time} {
+  #var {prompt_time} {%1};
+  #return @prompt_full{}
+}
 
 #function {prompt_full} {
-    #var {prompt_left} {$prompt_time <139>$prompt_twid<099> <169>$prompt_main<099>};
-    #if {"$prompt_fighting" == "true"} {
-        #var {prompt_right} {}
-    } {
-        #var {prompt_right} {$prompt_fighters}
-    };
-    #format {prompt_w} {%C};
-    #format {prompt_left_w} {%L} {$prompt_left};
-    #format {prompt_right_w} {%L} {$prompt_right};
-    #math {prompt_middle_w} {$prompt_w - $prompt_left_w - $prompt_right_w};
-    #format {prompt_middle} {%${prompt_middle_w}s} {};
-    #return $prompt_left$prompt_middle$prompt_right
-}
-#function {prompt_main} {
-    #var {prompt_main} {%1};
-    #var {prompt_twid} {<129>.<099>};
-    #regexp {%1} {$re_all} {
-        #nop &1 = regex;
-        #nop &2 = terrain;
-        #nop &3 = movement;
-        #nop &4 = hp;
-        #nop &5 = mana;
-        #nop &6 = move;
-        #nop &7 = mount;
-        #nop &8 = fight1;
-        #nop &9 = fight2;
-	#if {"$prompt_hp" != "&4"} {#var prompt_hp {&4};notify &4};
-	#if {"$prompt_mana" != "&5"} {#var prompt_mana {&5};notify &5};
-	#if {"$prompt_move" != "&6"} {#var prompt_move {&6};notify &6};
-	#if {"$prompt_fighter1" != "&8"} {#var prompt_fighter1 {&8};notify &8};
-	#if {"$prompt_fighter2" != "&9"} {#var prompt_fighter2 {&9};notify &9};
-        #if {"$prompt_fighter1" != ""} {
-            #var prompt_fighting true;
-            #var prompt_fighters {<499>$prompt_fighter1<099> <499>$prompt_fighter2<099>}
-        } {
-            #var prompt_fighting false
-        }
-    };
-    #return @prompt_full{}
-}
-#function {prompt_twid} {
-    #var {prompt_twid} {%1};
-    #return @prompt_full{}
-}
-#function {prompt_time} {
-    #var {prompt_time} {%1};
-    #return @prompt_full{}
+  #format {result} {%-8s %-1s %s } {$prompt_time} {$prompt_twid} {$prompt_main}
 }
 
-#prompt {^>$} {@prompt_main{%0}}
-#prompt {^%.>$} {@prompt_main{%0}}
-#prompt {^%.%.>$} {@prompt_main{%0}}
-#prompt {^%.%.%.>$} {@prompt_main{%0}}
-#prompt {^%.%.%.%.>$} {@prompt_main{%0}}
-#prompt {^%. %+>$} {@prompt_main{%0}}
-#prompt {^%.%. %+>$} {@prompt_main{%0}}
-#prompt {^%.%.%. %+>$} {@prompt_main{%0}}
-#prompt {^%.%.%.%. %+>$} {@prompt_main{%0}}
-
-#prompt {^/$} {@prompt_twid{%0}}
-#prompt {^-$} {@prompt_twid{%0}}
-#prompt {^|$} {@prompt_twid{%0}}
-#prompt {^\\$} {@prompt_twid{\\\\}}
-
-#prompt {^TIME:%+$} {@prompt_time{%1}}
-
+/* Try to get rid of consecutive blank lines. */
+#action {{^$}} {
+  #buffer get prompt_lastline -1;
+  #if {"$prompt_lastline" == ""} {#line gag};
+}

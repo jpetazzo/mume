@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 import sys
 for line in sys.stdin:
     if ']' not in line: continue
@@ -14,14 +14,14 @@ for line in sys.stdin:
         exit_name, location = '?', use_and_location
     loads = line[2]
     roomdesc = line[3]
-    print '-'
-    print '  invdesc:', inventory
-    print '  exit:', exit_name
-    print '  location:', location
-    print '  loads:', loads
-    print '  roomdesc:', roomdesc
+    print('-')
+    print('  invdesc:', inventory)
+    print('  exit:', exit_name)
+    print('  location:', location)
+    print('  loads:', loads)
+    print('  roomdesc:', roomdesc)
     if flags:
-        print '  flags:', flags
+        print('  flags:', flags)
     #idesc = line[0].strip()
     #rdesc = line[-1].strip()
     #tdesc = line[1].strip()

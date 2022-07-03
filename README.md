@@ -19,7 +19,7 @@ your account after you log in.)
 
 After creating a character, you can:
 
-- set one bazillion useful aliases with `#read aliases` (it will take a minute to set them all)
+- set one bazillion useful aliases with `#textin aliases` (it will take a minute to set them all)
 - perhaps change the character set back to ASCII with `change charset ascii`
 - perhaps re-enable twiddleprompts with `change prompt twiddle`
 

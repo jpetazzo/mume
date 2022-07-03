@@ -1,0 +1,688 @@
+https://mume.ikald.us/api/items
+Retrieved 3-JUL-2022
+
++The Great Black Scimitar (ElfHewer) 175  20   0 14.7 110 13.4 Magic, Anti-good, Eff vs elf/spell 
++Axe of Durin             265  20   0 19.4 150 12.9 Magic, Nosell, Eff vs spell
++Huge, flaming sword      530  25 -10 18.4 150 12.3 Magic, Evil, Anti-good, Anti-neutral, Nosell, Eff vs cold/spell
++Great warsword           395  20   0 18.4 150 12.3 Magic, Eff vs spell
++Steel claymore           265  20   0 13.3 110 12.1 Magic, Eff vs spell
++Black runed sceptre      175  10  25 12.5 110 11.4 Magic, Eff vs metal/spell, Focus, Nosell, Mana regenetation +5, Saving Spell -20
++War mattock              400  20 -10 17   150 11.3 Magic, Eff vs metal/spell
+*Burnished hewing-spear   395  20   0 15   135 11.1 Magic, Eff vs spell/riding/spirit
++Heavy warhammer          390  15 -10 15   135 11.1 Eff vs metal
++Halberd                  350  15   5 14.5 130 11.1 Eff vs riding
++Two-handed sword         350  20  -5 14.5 130 11.1
++Steel-shafted mattock    265  20 -10 13   120 10.8 Magic, Eff vs metal/spell
++Two-handed axe           395  15 -10 16.3 150 10.8
++Poleaxe                  405  15   0 15.3 150 10.2
++Very large wooden club   485  15 -15 15   150 10.0 Eff vs metal/spirit
++Bastard sword            265  20   0 12.2 125  9.8
++Very large knotted branch540  10 -10 14   150  9.3 Eff vs metal/spirit, Non-enchantable
++Flail                    350  15   5 13   150  8.7 Eff vs metal
++Istari wand             1760  20  30  9   150  6.0 Magic, Glow, Bless, Anti-evil, Anti-neutral, Nosell, Eff vs spell
++Quarterstaff             265  10  10  6   100  6.0 Eff vs spirit/metal
++Metal-shod staff         970  15  25  8   150  5.3 Magic, Anti-good, Eff vs spirit/spell
++Shovel                   220  15 -10  8   150  5.3 Eff vs metal
++Carved oak staff (unchanted) 485   5  10  7   150  4.7 Magic, Nosell
++Carved oak staff (enchanted) 485   5  15  8   150  5.3 Magic, Saving Spell -10, Nosell
++Rough staff              485   5  15  8   150  5.3 Eff vs spirit, Anti-evil/good, Saving Spell -10	(enchanted)
++Black metal staff        220  10  25  5   100  5.0 Magic, Eff vs spell
++Rough staff              485   5  10  7   150  4.7 Eff vs spirit	(not enchanted)
++The Black Sword          132  40   0 20.4 100 20.4 Magic, Eff vs spirit/light/spell, Humming
++The Morgul blade         130  20   5 13.3 100 13.3 Magic, Evil, Eff vs spell, Anti-good, Anti-neutral, Nosell
++The Great Black Scimitar (ElfHewer)  175  20   0 14.7 120 12.3 Magic, Anti-good, Eff vs spell/elf
++The Broad Elven Blade (Beater, Glamdring, Foe-hammer) 132  15  10 11.2 100 11.2 Magic, Glow, Bless, Anti-evil, Nosell, Eff vs orc/troll/spell
++Dark curved sword (Angmacil) 132  10  15  9.2  85 10.8 Magic, Anti-good, Eff vs spell 
++Fell blade               130  15   0 11.2 105 10.6 Magic, Anti-good, Eff vs spell
++The Slender Elven Sword (Biter Orcrist) 120  20  10 10.2 100 10.2 Magic, Glow, Bless, Anti-evil, Nosell, Eff vs orc/troll/spell
++The Gleaming Broadsword  130  15  15  9.2  90 10.2 Magic, Bless, Anti-evil, Nosell, Eff vs spell, Saving Spell -10
++Steel claymore           265  20   0 13.3 130 10.2 Magic, Eff vs spell
++Broad scimitar           265  20  -5 11.2 110 10.2
++Falchion                 220  15   0 11.2 110 10.2
++Jagged-edged scimitar    220  15   0 10.2 100 10.2 Non-enchantable
++Engraved broadsword      195  10  10  9.2  90 10.2 Magic, Eff vs spirit/spell
++Broadsword               175  10   5  9.1  90 10.1
++Serrated scimitar        220  15   0 11.7 116 10.1
++Dunadan blade            220  15  10  9.7 100  9.7 Magic, Anti-evil, Anti-neutral, Eff vs spell
++Wightblade               220  20   5 10.2 110  9.3 Magic, Anti-good, Anti-neutral, Eff vs spell
++Longsword                220  20   0 10.2 110  9.3
++Beorning sword           130  20   0  9.2 100  9.2
++The Silvery Broadsword (Mithvegil) 130  15  10  8.3  90  9.2 Magic, Glow, Bless, Anti-evil, Nosell, Eff vs orc/spell
++Scimitar                 175  20   0  9.1 100  9.1
++Backsword                135  15   0  9.1 100  9.1
++Bastard sword            265  15   0 12.2 135  9.0
++Sabre                     90  20   0  8.1  90  9.0
+*Ashen blade              175  10   5  8.7 100	8.7 Magic, Anti-good, Eff vs spell, Attack Spell +5, Saving Spell -10
++Dark broadsword          130  10  10  7.1  85  8.3 Magic, Anti-good, Eff vs spell
++Sharp talon (claw)        90  10   0  8.1 100  8.1
++Cutlass                  165  15   0  7.1  90  7.9
++Broad-bladed knife        15  10  -5  5.1  70  7.3
++Sickle                    90  15  -5  6.1 100  6.1
++Axe of Durin             265  20   0 17.7 140 12.6 Magic, Nosell, Eff vs spell
++Mighty dwarven axe       265  15  -5 13.7 110 12.5 Magic, Eff vs spell
++Wicked Durbûk-hai axe    220  15  -5 10.8  90 12.0
++Darkened orkish axe      265  15  -5 14.1 120 11.8 Magic, Anti-good, Anti-neutral, Eff vs spell
++Blackened dwarven axe    265  15  -5 12.6 110 11.5 Magic, Anti-evil, Anti-neutral, Eff vs spirit/spell
++Double-headed axe        255  20  -5 11.4 110 10.4
++Brutal cleaver           220  10   0 12.5 120 10.4 non-enchantable
++Battle axe               220  15   0 11.4 110 10.4
++Black waraxe             130  15   0 10.3 100 10.3
++Woodsman axe             175  10  -5 10.3 100 10.3
++Handaxe                  130  15   0  8.2  90  9.1
++Hatchet                  130  15  -5  7.2  90  8.0
++Butcher's cleaver         45  -5  -5  5.2  80  6.5 Non-enchantable
++Hammer of Belegost       265  20   0 13.8 120 11.5 Magic, Eff vs metal
++Huge, black mace         265  20  -5 13.7 120 11.4 Magic, Anti-good, Anti-neutral, Eff vs dwarf/metal/spell
++The Fine Silvery Morningstar 265  20   0 12.5 110 11.4 Magic, Anti-evil, Anti-neutral, Eff vs troll/metal/spell
++Black runed sceptre      175  20   0 11.9 110 10.8 Magic, Eff vs metal/spell, Focus, Nosell, Mana regenetation +5, Saving Spell -20
++Ornate warhammer         265  20  -5 12.7 120 10.6 Magic, Eff vs metal/spell
++Heavy morningstar        265  20 -10 11.5 110 10.5 Eff vs metal
++Morningstar              220  15  -5 10.0 100 10.0 Eff vs metal
++Engraved warhammer (Bonecrusher) 265  20  -5 11.7 120  9.8 Magic, Eff vs metal/spell   
++Large warhammer          220  15  -5 10.7 110  9.7 Eff vs metal
++Warhammer                135  15  -5  9.6 100  9.6 Eff vs metal
++Spiked war club          175  15  -5  9.6 100  9.6 Eff vs metal
++Gnarled wooden club      310  15  -5  9.6 100  9.6 Eff vs metal/spirit
++Huge spiked club         351  15  -5 10.4 110  9.5 Eff vs metal, Non-enchantable
++Stone club               350  10  -5 10.4 110  9.5 Eff vs metal, Non-enchantable
++Steel-shafted mattock    265  20  -5 12.3 135  9.1 Magic, Eff vs metal/spell
++Iron-shod mace           220  20  -5  9.6 105  9.1 Eff vs metal
++Cruelly-spiked mace      175  15  -5  9   100  9.0 Eff vs metal, Non-enchantable
++Mace                     175  15   0  8.7 100  8.7 Eff vs metal
++Very heavy branch        350  20   0  9.5 120  7.9 Eff vs metal/spirit, Non-enchantable
++Maul                      90  15   0  7.7 100  7.7 Eff vs metal/spirit
++Wooden club              130  10   0  7.7 100  7.7 Eff vs metal/spirit
++Cudgel                    90   5   0  5.8 100  5.8 Eff vs metal/spirit
++Hammer                    27   5 -15  5.8 100  5.8 Eff vs metal
++Pry-bar                  175   5 -10  4.9 100  4.9 Eff vs metal, Nosell, key for Amon Othar tombstone
++Pick                      90   0  -5  4.8 100  4.8 Eff vs metal, Non-enchantable
++The Elven shortsword with a runic incription (Sting) 90  15  10  8   100  8.0 Glow, Magic, Bless, Anti-evil, Nosell, Eff vs orc/troll/spell 
++Nimble blade              25  15  -5  7    70 10.0 Magic
++Engraved silvery knife    36  10  10  8   100  8.0 Magic, Eff vs spell, Saving Spell -10
++Black runed dagger        45  15   5  8   100  8.0 Magic, Eff vs spell, Saving Spell -20
++Dirk                      90  15   0  6    70  8.6
++Elven dagger              45  10   0  8   100  8.0 Anti-neutral
++Nasty orcish fang         90  10   0  8   100  8.0
++Spider's fang             90  10   0  8   100  8.0 Magic, Anti-good
++Slender dagger            45  20   0  7   100  7.0 Magic, Eff vs spell
++Barbed fang               90  17   0  7   100  7.0 Evil magic, Eff vs spell
++Double edged eket         30  15   5  7   100  7.0
++Sharp thorn               45  15   5  7   100  7.0 Eff vs spirit
++Shortsword                90  15   0  7   100  7.0
++Brown thorn               45  15   0  7   100  7.0 Eff vs spirit
++Severed spider's fang     90  10   0  7   100  7.0 Enchanted
++Long, wicked knife        45  20   0  6   100  6.0 Evil
++Shiny dagger              30  15   0  6   100  6.0 Pre-enchanted (10 OB, 1 damage)
++Sacrificial knife         30  15   0  6   100  6.0 Pre-evil-enchanted (10 OB, 1 damage)
++Rapier                    90  15   5  6   100  6.0
++Ceremonial dagger         45  10  10  6   100  6.0 Magic, Anti-evil, Eff vs spirit/spell
++Horn                     130  10  -5  6   100  6.0
++Stiletto                  36  10   0  5   100  5.0
++Dagger                    45  15   0  5   100  5.0
++Gem-inlaid knife          30  15   0  5   100  5.0
++Small spade               90  10   0  5   100  5.0
++Butcher knife              6   5   0  3   100  3.0 Non-enchantable
++Hunting knife              6   0  -5  3   100  3.0 Non-enchantable
+*Narrow runed awlpike     250  20   0 12.5 105 11.9 Eff vs riding, Magic, Eff vs spell
++Blackened spear          265  20  -5 12.8 120 10.7 Eff vs riding, Magic, Eff vs spirit/spell
++Steel-shafted spear      175  10   0 11.7 115 10.2 Eff vs riding
++Steel-tipped spear       132  20  -5 11.3 115  9.8 Eff vs riding
++Giant spear              265  15  -5 12.3 125  9.8 Eff vs riding, Non-enchantable
++Elven hunting spear      130  15   0 10.6 110  9.6 Eff vs riding, Anti-evil
++Pike                     195  20  -5 10.6 115  9.2 Eff vs riding
++Broad spear              175  15  -5 10.6 115  9.2 Eff vs riding
++Short spear               90  10   0  9.3 103  9.0 Eff vs riding
++Twisted spear             90  10   0  9.3 103  9.0 Eff vs riding
++Longspear                130  20  -5  9.3 115  8.1 Eff vs riding
++Pitchfork                130  10 -10  8.1 110  7.3 Eff vs riding
++Orkish battle-standard   130  15   5  7.1 100  7.1 Eff vs riding, Evil, Anti-good, Nosell
++Steel-tipped lance       130  17  -3  7   100  7.0 Eff vs riding
++Lance                    220  10  -5  6   100  6.0 Eff vs riding
++Black many-tailed whip   220  30 -10  5    75  6.7 Magic, Evil, Anti-good, Anti-neutral, Eff vs spell, Nosell
++Scourge                   90  25 -10  5    80  6.3
++Whip                      90  25 -10  4    75  5.3
++Embellished longbow (Alrehir) 175  30           75      dmg*2.0     Magic, Eff vs spell
++Crossbow                 440  30          120      dmg*2.0 +2  Eff vs metal
++Elven longbow            132  30           70      dmg*1.9     Magic, Eff vs spell
++Yew longbow              130  30           75      dmg*1.7 +2
++Black horn shortbow      130  10           60      dmg*1.6 +2
++Longbow                  175  25           80      dmg*1.5 +2
++Light crossbow           265  20           90      dmg*1.5 +2
++Elven shortbow           130  10           62      dmg*1.4 +2
++Orcish shortbow          130  10           65      dmg*1.4 +2
++Shortbow                 130  10           60      dmg*1.1 +2
++Sling                     20   5           40      dmg*1.0 +2
++Metal-cased bolt          11  15     10            Eff vs metal
++Quarrel bolt               8  15      9            Eff vs metal
++Fletched arrow            11  12      9            Eff vs spirit
++War arrow                 11  10      9            Eff vs spirit
++Ash arrow                  5  15      8            Eff vs spirit
++Silver-tipped arrow        2  10      8            Magic, Eff vs spirit
+*Slender barbed arrow       2  10      8            Magic, Eff vs spirit /after Gergargg's ritual: Magic, Enchanted, Anti-good, Anti-neutral
++Arrow                      5  10      8            Eff vs spirit
++Blackened bolt             3  15      7            Eff vs spirit/dwarf/elf
++Slingstone                 5  10      5
++Round stone                3   5      4
++Dragonhelm                      395          100% 100  Magic, Bless, Eff vs fire/spell
++Silver morion			 265          92%  15	Magic, Bless (max 4 in game)
++Ancient, jewelled helmet        265          92%  14   Magic, Bless, Anti-evil, Anti-neutral, Nosell, Focus
++Winged metal helmet             310  -1      90%  13
++Large visored helmet            350          95%  12   Magic, Eff vs fire, Dwarves can use to bless/+2 str dwarves in gr
++Horse-crested helm              350  -2      95%  12
++Crown of bones                   14          90%  12   Magic, Anti-good, Anti-neutral, Dark nature (free rent for orcs)
++Great helm                      310  -1      90%  12
++Spiked metal helmet             310  -1      85%  12
++Full metal helmet               310  -2      85%  12
++White chain mail coif           265          65%  12
++Ancient metal helmet            175          85%  11   Magic
++Horse-tail helm                 315  -1      85%  11
++Metal helmet                    310  -2  -1  80%  11
++Fine chain mail coif            190          65%  10
++Blood-encrusted helm            350          75%  10
++Sturdy chain mail coif          180          60%   9
++Strange black helmet            220          100%  9  Eff vs darkness, Ineff vs fire/light, Wizlight
++S-rune helmet                   220          78%   9
++Chain mail coif                 180          55%   8
++Basinet                         220  -1      75%   8
++Horned helmet                   220   1  -1  60%   8
++Pot helm                        175          55%   7
++Fine reinforced leather helmet  130          80%   6
++Silver circlet                   65          45%   6
++Silvery crown                    65          100%  5  Magic, Bless, Anti-evil, Nosummon
++Sturdy reinforced leather helmet130          75%   5
++Fine leather helmet              90          50%   5
++Reinforced leather helmet       180          55%   4
++Sturdy leather helmet            90          45%   3
++Leather helmet                   90          40%   2
++Finely woven hood                90       2           Magic, Anti-evil
++Soft cloth cap                   15       1
++Plain hood                       20       1
++Feathered hat                    20       1
++Silk cap                         25       1
++Plain hat                        25       1
++Straw hat                        45       1
++Pointy hat                       90       1
++Raccoon fur hat                  90       1
++Grey wool hat                    22
++Leather collar                   30                  Magic, Nosummon
++Plain scarf                      35                  Eff vs cold
++Studded leather collar           45
++Spiked collar                   130
++Shining breastplate             310  -1      95%  17  Magic, Bless
++Shining chain mail shirt        175          55%  14
++Fine metal breastplate          705  -2      90%  13
++Sturdy metal breastplate        705  -2  -1  85%  12
++White chain mail jerkin         485      -1  65%  12
++Blood-encrusted breastplate     660  -1  -1  90%  11
++Metal breastplate               705  -3  -1  80%  11
++Fine chain mail hauberk         360  -1      65%  10
++Scale shirt                     440          73%   9
++Sturdy chain mail hauberk       350  -1      60%   9
++Chain mail hauberk              350  -1  -1  55%   8
++Fine rigid leather breastplate  320          80%   6
++Hardened leather breastplate    350          90%   5
++Sturdy rigid leather breastplate310          75%   5
++Rigid leather breastplate       310  -1      70%   4
++Fine soft leather jerkin        220          50%   4
++Sturdy soft leather jerkin      220          45%   3
++Soft leather jerkin             220          40%   2
++Grey tunic                       45       3           Magic, Anti-evil
+*Coarse dusky robe                77       2           Magic, +20 Attack Spell for Fear/Blindness 
++Fine plain dress                 45       2
++Soft plain dress                 45       2
++Embroidered blouse               45       2
++Fine tunic                       45       2
++White robe                       90       2           Magic, Anti-evil, Anti-neutral, Saving Spell -10
++Enruned robe                     90                   Magic, Saving Spell -10
++Black and red robe               90       2
++Plain blouse                     90       2
++Plain shirt                      90       2
++Chequered shirt                  90       2
++Guardsman's shirt                90       2
++Soft woollen shirt               90       2
++Red vest                         90       2
++Stained dark shirt               90       2
++Immaculate white tunic          130       2	       
++Wool tunic			 175	   2	       Eff vs cold
++Wolf fur vest                   175       1
++Goat skin jacket                130
++Thick wool vest                 175
++Old plain dress 	          45
++Black robe                       90
++Daedeltiri robes                 90
++Fine grey cloak                 175      10           Magic, HP regen -1
++Black hooded cloak              310      10           Magic, Anti-good, Saving Spell +10
++Roughly stitched cloak           90       7           Magic, Move regen +3 
++Embroidered surcoat             265       7
++Mottled cloak                   310       7           Magic, Anti-good, Nosell
++Finely woven cloak               45       6           Magic, Anti-evil, Move regen +5
++Forest green cloak               90       5           Magic, Move regen +5
++Ragged, blackened cloak          90       5           Magic, Move regen +5
++Russet cloak                     90       5           Magic, Move regen +5
++Black and silver surcoat        265       5           Magic, Anti-evil, Saving Spell -10
++Black cape                      135       5           Magic, Saving Spell -10
++Buttoned cassock                220       5           Eff vs cold/water
++Sacred cloak                     45       3           Magic, Anti-evil, Saving Spell -10, Eff vs spirit
++Dark-blue cloak                  45       3
++Guild-guard uniform              90       3
++Plain cloak                     130       3
++Fine lion pelt                  310       3           Eff vs cold
++Fine sable cloak                310       3
+ Guardsman's cloak               450       3           Nosell
++Huge black bear fur            1145   7               Eff vs fire/cold, Nosell
++Soot-black bear hide		 308   5
++Black warg fur                  350   5
++Cave-bear fur                   570   5               Eff vs cold
++Imposing, golden mantle         175   3               Magic, Move regen +5
++Scorched, grisly fur            310   3               Magic, Move regen +5
++Woollen traveller's cloak       395   3               Magic, Move regen +2
++Tawny bear fur                  840   3               Eff vs cold
++Majestic, golden fur            350   2               Move regen +2
++Brown bear fur                  925   2               Eff vs cold
++Warg fur                        310   1
++White wolf fur                  530   1
++Brown fur                        90
++Tattered blanket                130                   Eff vs cold
++Warm blanket                    130                   Eff vs cold
++Dirty apron                     130
++Heavy wool coat                 220                   Eff vs cold
++Soft, thick white fur           970
++Shining vambraces               220  -1      95%  17  Magic, Bless
++Shining chain mail sleeves      130          55%  14
++Fine metal vambraces            530  -2      90%  13
++Sturdy metal vambraces          530  -3      85%  12
++White chain mail sleeves        280  -1      65%  12
++Plate vambraces                 440      -1  90%  11
++Metal vambraces                 530  -4      80%  11
++Fine chain mail sleeves         230  -1      65%  10
++Scale sleeves                   310  -1      73%   9
++Sturdy chain mail sleeves       220  -1      60%   9
++Chainmail sleeves               220  -2      55%   8
++Fine rigid leather sleeves      220          80%   6
++Sturdy rigid leather sleeves    220  -2      75%   5
++Rigid leather sleeves           220  -1      70%   4
++Fine soft leather sleeves       175          50%   4
++Sturdy soft leather sleeves     175          45%   3
++Soft leather sleeves            175          40%   2
++Cotton sleeves                   45   1
++Plain sleeves                    45   1
++Black arm wrapping               10                   Magic, Eff vs poison
++Lobstered steel gauntlets       310          90%  15
++Fine metal gauntlets            220  -1      90%  13
++Sturdy metal gauntlets          220  -2      85%  12
++White chain mail gloves         130  -1      65%  12
++Metal gauntlets                 220  -3      80%  11
++Fine chain mail gloves          135          65%  10
++Sturdy chain mail gloves        130  -1      60%   9
++Chainmail gloves                130  -2      55%   8
++Fine rigid leather gloves        90   1      80%   6
++Sturdy rigid leather gloves      90          75%   5
++Supple pair of leather gloves    30   2      60%   5  +2 parry
++Rigid leather gloves             90          70%   4
++Fine soft leather gloves         45   3      50%   4
++Sturdy soft leather gloves       45   2      45%   3
++Soft leather gloves              45   1      40%   2
++Warm wool gloves                 35                   Eff vs cold
++Shining greaves                 265      -1  95%  17  Magic, Bless
++Shining chain mail leggings     130          55%  14
++Fine metal greaves              570      -2  90%  13
++Sturdy greaves                  570      -3  85%  12
++White chain mail leggings       380      -1  65%  12
++Plate greaves                   440      -1  90%  11
++Metal greaves                   570      -4  80%  11
++Fine chain mail leggings        270          65%  10
++Scale leggings                  350      -1  73%   9
++Sturdy chain mail leggings      265      -1  60%   9
++Chain mail leggings             265      -1  55%   8
+*Fine rigid leather trousers     220          80%   6
+*Sturdy leather trousers         220          75%   5
+*Rigid leather trousers          220          70%   4
++Fine soft leather trousers      175          50%   4
++Sturdy soft leather trousers    175          45%   3
++Soft leather riding skirt       265   1      50%   3
++Soft leather trousers           175          40%   2
++Plain flowing skirt              75       2
++Plain pants                      90       2
++Cotton pants                     90       2
++Plain trousers                  132       2
++Guardsman's pants                90
++Fine metal boots                265      -1  90%  13  Move cost  -3%
++Sturdy metal boots              265      -2  85%  12
++Metal boots                     265      -3  80%  11
++Pair of knee-high hunting boots  90          60%   7  Move cost -16%, Magic
++Fine rigid leather boots        175          80%   6  Move cost -12% 
++Sturdy rigid leather boots      180          75%   5  Move cost  -9%
++Rigid leather boots             175          70%   4  Move cost  -6%
++Fine soft leather boots          90          50%   4  Move cost -16%
++Black padded boots               25          50%   3  Move cost -16%
++Sturdy soft leather boots        90          45%   3  Move cost -12%
++High boots                      130          30%   3  Move cost -11%
++Heavy shoes                     265          20%   3  Move cost  -6%
++Soft leather boots               90          40%   2  Move cost  -9%
++Soft padded boots                45                   Move cost -20%, Magic, Notrack
++Smooth black boots               30                   Move cost -16%, Sheath
++Shoes                            90                   Move cost -14%
++Rabbit fur shoes                 90                   Move cost -12%
++Sandals                          90                   Move cost  -6%
++Snowshoes                        90      -5           Move cost  +4%, Eff vs cold
++Soft, sequinned slippers         45
+*Gleaming belt                    19       2           Magic, Move regen +3
+*Broad silver belt                25       3           Magic
+*Golden belt                      11                   Magic, Move regen +3, Saving Spell -10
++Belt of fell hide                39                   Magic, Move and HP regen +3
++Belt of pearls and crystals       6
++Plain silken sash                10
++Snakeskin belt                   25
++Plain leather belt               25
++Studded leather belt             90
++Broad girdle                     90
++Sapphire ring               11  Magic, Bless, Anti-evil, Anti-neutral, Nosell (OB +10 / DB +10 / OB +5, DB +5 / Saving Spell -10, Attack Spell +10)
+*Golden topaz ring            3  Magic, Nosell, Nosummon, Strength
+*Golden ruby ring             3  Magic, Nosell, Nosummon, +4 mana regeneration
+*Golden garnet ring           3  Magic, Nosell, Nosummon, Cure critical 
+*Golden emerald ring          3  Magic, Nosell, Nosummon, Remove poison
+*Golden opal ring             3  Magic, Nosell, Nosummon, Scout ring
++Ruby ring                    6  Magic, OB +5
+*Iron ring                    3  Magic, DB +5
++Copper ring                 10  Magic, Saving Spell -10, Attack Spell +10
++Banded ring                 20  Magic, Cursed, (OB +5, DB +5 / Saving Spell -10, Attack Spell +10 / OB +3, DB +3)
++Nenya, the Ring of Adamant  45  Magic, Invisible, Bless, Anti-evil, Nosummon, Nosell, Mana regen +5, Saving Spell -30 
++White ring                   6  Magic, Mana regeneration +3, Saving Spell -10
++Diamond ring                 6  Nosummon
++Icy ring                     6  Magic, Nosummon, Eff vs fire
+*Golden quartzite ring        3  Magic, Enchanted, Anti-evil, Nosell, Bless if used
++Strange golden ring         10  Magic, Nosell, Norent, Avoids your burning in Balrog's room
++Wooden ring                  3  Magic, Cursed, Randomly teleports you around
+*Silver wedding ring          1  Treasure, Nosummon
+*Engagement ring              1  Treasure, Magic
+*Gold ring                    3  Treasure
+*Silver ring                  1  Treasure
+*Small tin ring               1  Eff vs disease
++Ring (Arda)                  2  Magic, Nosummon
++Plain ring                   1  Nosummon
++Unfinished band of gold      6  Treasure, for forgeing rings
++Azure ring                  10  Quest item
++Beryl ring (elfstone)        3  Anti-evil, Nosell, Anti-summon
+*Root ring                    1  Magic, Nosummon, Eff vs earthquake, Can nourish tree and encourage it to grow
++Bright red amulet           45  Magic, Anti-evil, Eff vs fire, Saving Spell +10
++Black amulet                88  Magic, Evil, Anti-good, Anti-neutral, Eff vs light, Saving Spell +10, Nosell
+*Mithril circlet             10  Magic, Anti-evil, Anti-neutral, Attack Spell +10
++Twisted crown               15  Magic, Anti-good, Anti-neutral, Attack Spell +10
+*Necklace                     1  Magic, Bless, Anti-evil, Eff vs mental
++Old length of iron chain    45  Magic, Anti-good, Anti-neutral, Eff vs mental
++Star charm                  45  Magic, Evil, Anti-good, Anti-neutral, Eff vs lightning, Saving Spell +10, Nosell
++Small crystal phial         11  Magic, Glow, Bless, Anti-evil, Anti-neutral, Spellsave -20, Nosell
+*Pale blue stone             45  Magic, Enchanted, Bless, Anti-evil, Anti-neutFral, Nosell, Gives x amount HP/Mana/MP if used
++Shard of black ice          20  Magic, Evil, Mana regen -12 and HP regen -8, Nosell
++Opaque amulet               88  Magic, Enchanted, Gives 'detect magic' if used
++Lambent amulet              88  Magic, Enchanted, Gives 'detect magic' if used
+*Smoky obsidian amulet       11  Magic, Enchanted, Anti-good, Decreases the cast time and mana cost of the darkness spell.
+*Huge iron collar           135  Magic, Cursed, Nosummon, small damage in every tick
+*Lightning-shaped pendant    14  Decreases the mana cost of control weather
++Azure scroll		     25  Magic, Level 10 heal, Nosell	
++Black scroll                20  Magic, Level 20 heal, strength and energy drain
++Blue scroll                 25  Magic, Level 20 heal, bless, Nosell
+*Purple scroll               10  Magic, Level 20 cure blindness, sanctuary, and poison, Nosell
++Obsidian eye                45  Magic, Level 24 blindness, 3 charges, Nosell, Norent
++Vellum scroll               45  Bless, Level 25 protection from evil, bless, and breath of briskness
++Scroll which reads "ysafg"  35  Magic, Level 25 fear
++Deep ebony/Ivory/Clear ivory/Ebony/    25  Magic, Level 20 #spell#, #spell#, #spell#, Nosell
+Rune "E"                     Heal
+Rune "I"                     Magic blast
+Rune "M"                     Blindness
+Rune "N"                     Call lightning
+Rune "O"                     Breath of briskness
+Rune "Q"                     Silence
+Rune "Y"                     Sanctuary
++Twisted rock fragment       90  Magic, Level ?? break door, Nosell
++Black candle                40  Evil magic, Level 14 sleep, 1 charge, Move regen -3, Saving Spell +10
++Small pouch                 45  All in room expect yourself paralyze for 3-4 secs
++Fragile parchment           10  Magic, Turns back damage from both lightnings
++Deep black orb             660  Magic, Evil, Anti-good, Eff v light
++Palantir of Amon Sûl      4840  Magic, Bless, Nosell
++Softly glowing green cup    20  Magic, Nosell (+10 mana, +10 mana regen (2h) > +5 mana, +5 mana regen (2h) > mana -5, mana regen -3 (6h))
++Pale orb                    90  Magic, Nosell, Part of 'watch room' kit
++Small marcasite pendant     45  Magic, Nosell, Part of 'watch room' kit
++Archaic copper wristband    45  Magic, Anti-evil, Anti-neutral, +10 mana (+5 mana with shining mail, +0 mana shining plate)
++Tarnished copper wristband  45  Magic, Anti-good, Anti-neutral, +10 mana (+5 mana with shining mail, +0 mana shining plate)
+*Wide silvery wristband      11  Magic, +2 move regen, -1 mana regen, -10 spell save
+*Slim silvery wristband      11  Magic, +1 mana regen, -1 move regen, -10 spell save
++Archer's wrist guard        11  Magic, +5 missile_ob, -1pb
++Black-thorned wristband     11  Magic, +2ob, -1 HP regen (breaks apart after 5th wear)
++Black metal wristband       25  Magic, Bless, +2ob/-3db if aggressive, -2ob/+2db if wimpy
+*Silvery wristband	     10  Magic, Saving spell -10, Move regen -1, Eff vs spell
++Wolfskin wristband           6
++Red ruby                    14  Bless, Glow
++Crude torch                 19  Light, Nosell
++Torch                       35  Light
++Lantern                     90  Light
++Hooded brass lantern       130  Light
++Candlestick                265  Light
++Sable pouch                 25  Container; Magic, Eff vs fire/cold, Closeable
++Large leather pouch         39  Container; Closeable
++Belt pouch		     39  Container; Closeable
++Large sack                  45  Container; Closeable
++Silvan satchel              88  Container; Closeable
++Saddlebag                  130  Container; Closeable
++Leather backpack           175  Container; Closeable
++Leather satchel            220  Container;
++Clay jar                   530  Container; Closeable
++Small jewel-box             45  Container; Closeable
++Inscribed wooden box        45  Container; Closeable
++Wooden box                 220  Container; Closeable
++Rickety wooden chest      2420  Container; Closeable
++Simple chest              3170  Container; Closeable
++Leather saddle             310  Container for mounts; Magic, Nosummon
++Saddlecloth                310  Container for mounts; Magic, Nosummon
++Moneybag                    20  Container; Money
++Keyring                     30  Container; Keys
++Leather pouch               45  Container; Slingstone quiver
++Laced quiver               130  Container; Arrows quiver, Magic, Eff vs fire
++Bolt-case                  130  Container; Crossbow bolt quiver
++Quiver                     175  Container; Arrows quiver
++Rough, large quiver        395  Container; Arrows quiver		
++Silver goblet                1  Drink container; 6    water
++Exquisite wine glass        10  Drink container; 38   water
++Golden cup                   6  Drink container; 45   water
++Cup                         10  Drink container; 50   water
++Jewel-encrusted goblet       6  Drink container; 85   water
++Small bottle                14  Drink container; 90   water
++Wine glass                  45  Drink container; 90   water
++Large glass jug              1  Drink container; 130  water
++Flagon                      10  Drink container; 130  water
++Dark coloured flask         10  Drink container; 130  water
++Aged silver flask          130  Drink container; 175  water
++Bottle                     130  Drink container; 175  water
++Beer mug                    90  Drink container; 180  water
++Water skin                  45  Drink container; 220  water
++Fine bottle                130  Drink container; 260  water
++Smelly bladder              90  Drink container; 265  water
++Pint                       130  Drink container; 265  water
++Worn clay bowl             130  Drink container; 305  water
++Large skin                  90  Drink container; 310  water
++Dented pail                265  Drink container; 440  water
++Small barrel               350  Drink container; 1145 water
++Barrel                    1935  Drink container; 3385 water
+*Porcelain vase              45	 Drink container
++Ornamented sheath           45  Sheath, automending, for one blade only
++Black sheath                45  Sheath (for Morgul blade only)
++Weapon sheath               45  Sheath (for blades)
++Weapon harness              45  Sheath (for crushing/2H weapons)
++Sturdy weapon harness       90  Sheath (for crushing/2H weapons)
++Ornate scabbard            130  Sheath (for blades)
++Leather baldric            130  Sheath (for slashing/stabbing)
++Narrow grey boat          1145  Boat
++Brightly painted skiff    1275  Boat
++Canoe                     1540  Boat
++Light boat of reeds       1540  Boat
++Raft                      3700  Boat
++Small elven bag             33  Magic, Nosell, Provides unlimited food and water
++Delicious bannock           25  Food
++Lembas wafer                35  Food; Magic, Bless, Anti-evil, Anti-neutral
++White bread                 35  Food
++Magic mushroom              35  Food; Magic, Decays in time
++Sack of flour               90  Food
++Egg                          6  Food
++Chunk of salt               90  Spice
++Sack of pepper             175  Spice
++Blue crystal                45  Treasure; main component for foci items
++Corberyl                     6  Treasure; [major] for embedding (+10 attack spell) - a shining gemstone embedded near its top shimmers with many colours.
++Lustrous opal                6  Treasure; [major] for embedding (+10 attack spell) - a lustrous fire opal has been inlaid in it.
++Tiger's eye	              5  Treasure; [major] for embedding (hit/mana regen. E,HE: +2/+1; M,D: +1/+2; H +0/+3) - a small gem, twinkling in shades of gold, red, and brown is embedded near the staff's tip.
++Chunk of honey-coloured amber5  Treasure; [major] for embedding (negates single target spell damage) - a piece of honey-coloured amber has been embedded into the staff something indistinguishable barely visible deep inside it.
+*Rubellite                   11  Treasure; [major] for embedding (+11 max mana) - a small oval-shaped gem glittering in shades of pink is inlaid in it.
+*Polished agate                  Treasure; [major] for embedding (+3 OB, +4 DB)
++Chunk of metal             175  Treasure; [minor] for embedding (+5 parry) - an orb of black metal surrounds its tip.
++Huge silvery bracer        175  Treasure; [minor] for embedding (+5 parry) - silvery bands encircle it from top to bottom.
++Bar of iron                310  Treasure; [minor] for embedding (+5 parry) - its foot is shod with iron.
++Star sapphire                5  Treasure; [minor] for embedding (-10 spell save) - a six-rayed star shines from the middle of a blue stone set in the staff.
++Small, green stone (beryl)  20  Treasure; [minor] for embedding (create food) - a small beryl has been embedded into the staff.
++Polished white quartzite     3  Treasure; [minor] for embedding (group bless) - a polished white stone has been set in the staff, surrounded by arcane runes.
++Onyx                         5  Treasure; [minor] for embedding (mana drain) - a black, glossy gemstone with streaks of grey and white has been embedded in it.
+*Citrine                         Treasure; [minor] for embedding (lowers mana-cost for locating-spells)
+*Pitch black spinel           2  Treasure; [minor] for embedding (group-shroud) - a pitch-black gemstone with a mirror finish has been affixed to the oak.
++Topaz                        6  Treasure; for making pale blue stone
++Brilliant adamant           11  Treasure; for making crystal phial, for staff (-10 spell save)
++Piece of silvery metal      33  Treasure; lockpicks upgrade in BM
++Large garnet                11  Treasure
+*Pitch-black spinel           2  Treasure
++Amethyst                     6  Treasure
++Lustrous green emerald      10  Treasure; Magic
++Faintly glowing stone       11  Treasure; Magic
++Beautiful diamond            3  Treasure
++Gleaming stone               5  Treasure; for making lambent amulet
+*Jade amulet                 20  Treasure 
++Emerald pendant             14  Treasure
++Plain bracelet              20  Treasure; Nosummon
++Fine silver bracelet        25  Treasure
++Golden elven bracelet       25  Treasure
++Silvery elven bracelet      25  Treasure; Magic, Eff vs mental, Nosell
++Small bracelet              25  Treasure
++Jade bracelet               19  Treasure
++Silver bracer               11  Treasure
++Silver cloakpin             30  Treasure
++Sun-emblazoned cloakpin     14  Treasure
++Enamelled cloakpin           8  Treasure
++Plain pendant               14  Treasure; Nosummon
++Small silver pendant        14  Treasure; Nosell
+*Golden necklace             14  Treasure
++Grotesque necklace          45  Treasure
++Necklace of bones           45  Treasure
++Bar of gold                130  Treasure
++Nugget of gold              14  Treasure
++Silver nugget               33  Treasure
++Bronze medallion            90  Treasure
++Iron ore fragment          135
+*Green brooch                14  Treasure; Enchanted, Bless, Anti-evil 
++Mallorn-leaf brooch          6  Treasure; Anti-evil
++Sword-shaped brooch         11  Treasure
++Iron brooch                 15  Treasure
++Silver-leaf brooch           5  Treasure; Magic, Bless, Anti-evil, Nosell
++Long and scaly snakeskin    40  Treasure; tanner makes snakeskin belt from it
+ Small daisy-chain           30  Treasure
++Glittering spearhead        44  Treasure; Magic, Bless, for making blackened spear
++Silver crown                22  Treasure
+*Large, shimmering pearl (Nimphelos) 5 Treasure; Magic, Glow, Enchanted, Nosell (mass thirst)
++Perfect oak branch         750  For making staff
++String of dwarven bones     45  Nosell; Quest item for HoB and BM citizenship
++Circlet of golden flowers   30  Nosell
++The Huge Shovel            485  Trolls can dig tunnels with it to ground
+*Chuck of putrid flesh       xx  Trolss can eat. Gives 1 tick frenzy (+4 str) after that 3 tick fatigue (-5 str) 
++Stone                       30  Nosell; whetstone
++Set of lockpicks            45  (same stats for strange set)
++Tharbad gate key           265  Rentable key
+*Herbal kit                  45  For mixing herblores
+*Enhanced herbal kit         45  For mixing herblores, upgraded
+*Crude-looking bag          175  For mixing herblores
++Pan                         20  For cooking meat/bannocks/etc
++Fine elven rope            135  Helps with climbing, Anti-evil
++Long rope with a hook tied 310  Helps with climbing
++Sturdy rope                310  Helps with climbing
++Crude orkish horn           90  Orcs get +10-15ob when used
++Rough wooden horn          220  Ineff vs fire, Nosell, Roots will let loose if used
++Golden harp                 90  Instrument
++Hunting horn                35  Instrument
++War horn                    35  Instrument
++Lute                        90  Instrument
++Shiny flute                 45  Instrument
++Flute of bone               45  Instrument; Evil
++Pair of orkish war-drums   175  Instrument
++Set of reed pipes            6  Instrument
++Infusion                    19  It purges all other potion effects and cures flu and amibia. (+12 mana, +6 mana rege (1h) > +6 mana, +3 mana regen (1h))
+*Small green bottle          20  It purges all other potion effects and cures flu, plague, amibia, and poison. (-2 wil, -10 mana regen (2h) > -1 wil, -5 mana rege (4h))
++Wooden pipe                  6  Increases mana regen 1.5x for some hours, if smoke it once per day.
++Some pipe-weed               1
++Flask of miruvor            10  2x mana, hp and mp regen for some ticks
++Flask of orkish draught     30  15 hps -> 30 moves, Increases move-regen, poison non-orcs
++Small metal flask           30  Zaugurz-draught, poison non-orcs
++Scorched leather flask      30  Durbuk-draught, -20hp and vomits non-darkie
++Splintered piece of        440  Magic
+a broken shield
++Walking stick               45
++Stout oaken stick           45  Move cost -4%
++Ornate parchment             1
++Brown leather scroll       175  South Ingrove area map
++Riding whip                 30
++Dwarven beard-comb          25
++Cross-pein hammer           25  Magic, Nosell, Can mend equipment (needs fire and use hammer xxx)
+ Bloody pair of elf ears     11
++Silvery-green leaf          11  Map of Caras Galadhon
++Spoon                       14
++Quill pen                   11  To write notes
++Piece of paper               1  To write notes
++Die                          5
++Wooden top                   5
++Crude bone fetish           30  Nosell, Can be ripped
++Vile fetish                 33  Anti-good, Anti-neutral, Nosell, Can be ripped
++Herbal                      45  Book, Nosell, Quest item
++Black journal              265  Book, Nosell
++Grey leather-bound book     45  Book, Nosell  
++Bloody piece of chitin    1320  Nosell
++Strange white skull        620  Cursed, Nosell
++Pair of tongs               90
++Alchemical supplies       1935
++Metal file                  39
++Shepherd's crook            90
++Fishing net                 19  For fishing
++Scalp                        3
+*Vial of preserved blood     11  Ingridient
+*Enormous drake bone       4665  Nosell, key to Dragon's Hoard  
++Ancient dwarven shield      1715  35  Magic, Anti-evil
++Defiled dwarven shield      1715  35  Evil magic, Anti-good, Anti-neutral, Eff vs light
++Tower shield                1715  35  Magic
++Smelly piece of worm hide    880  30  Magic, Saving Spell -10
++Bejewelled shield            880  30  Magic, Saving Spell -10
++Large metal wall shield     1450  30
++Metal wall shield           1275  27
++Sun-emblazoned shield       1275  27
+*Leaf-embossed shield         440  25  Magic
++Gilded round shield          750  25
++Large wooden wall shield    1190  25
++Zaugurz shield              1275  25
++Shield of Arthedain          705  24
++Wooden wall shield          1100  23
++Shield of Cardolan           705  22
++Dark shield                  925  21  Magic, Anti-good
++Large metal full shield      925  20
++Reinforced oaken shield      570  20
++Full metal shield            835  18
++Large wooden full shield     705  16
++Blackened shield             705  16  Evil, Anti-good, Anti-neutral
++Isengard shield              620  15
++Round shield of the Mark     620  15
++Black metal shield           660  15  Evil, Anti-good, Anti-neutral
++Full wooden shield           616  14
++Large metal shield           530  13
++Spiked shield                485  12
++Metal shield                 450  11
++Red-skull shield             440  11
++Large wooden shield          395  10
++Small metal shield           350  9
++Wooden shield                310  8
++Small wooden shield          265  6
++The Black Buckler            265  15  Magic, Nosell, Eff vs spell, Saving Spell -10, DB +5
++Metal buckler                350  7
++Wooden target shield         220  5
++Small metal target shield    175  4
+*Spiked horsehide buckler     395  3   OB +3
++Small wooden target shield   175  3

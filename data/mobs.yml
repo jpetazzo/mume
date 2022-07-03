@@ -24,6 +24,7 @@
 #   trophy: A stone troll
 # A stone troll| is here, dreaming about hobbit meat.:
 A giant rat| patters against you, squeaking maliciously.:
+  flags: quest
 A thief| lurks here, looking for a stranger to rob.:
 A thief| is here looking for some stranger to rob.:
 A brigand, looking at your nice purse, is sneaking here.:
@@ -61,7 +62,7 @@ Some thick writhing vines whip all around you.:
   keywords: vines
   level: 13
 A black wolf| pads restlessly, looking for its next prey.:
-  level: 6?
+  level: 6
 A hungry-looking giant lizard is slithering towards you.:
   trophy: A giant lizard
   keywords: lizard
@@ -133,6 +134,7 @@ A pigeon is strutting around here.:
 A Dunlending huntsman| is here.:
 A snake slithers towards you.:
   trophy: A slithering snake
+  level: 2
 A domesticated pony, beast of burden to many, stands here.:
   trophy: A pony
 A restless rabbit bounces around.:
@@ -316,6 +318,7 @@ Vubur the innkeeper is here, offering a room at his inn.:
 A dwarven cityguard stands here looking scornfully at foreigners.:
 A woodpecker| is here, tapping on a tree.:
 A large marmot is here, scurrying in between the rocks.:
+  level: 2
 A rumpled-looking dwarf walks around here.:
 Frár the baker is here, tending to his ovens.:
 A dwarven soldier is here, watching for trouble.:
@@ -617,6 +620,7 @@ An old tanner is here, smoking his pipe in boredom.:
 A huge stag with a great span of antlers is warily browsing on the vegetation.:
   trophy: The noble stag
   flags: quest
+  level: 8?
 A disgusting forest troll is searching for fresh meat here.:
   trophy: An ugly forest troll
   level: 10?
@@ -804,6 +808,7 @@ A large, dangerous-looking green snake is coiled up here.:
 A large dark fly is buzzing around here.:
 A large hawk-like bird is here overlooking its territory.:
 A large leech| is moving close to you, searching for blood.:
+  level: 2
 A large pike is lurking in the mud by the bottom.:
 A large, yellow crab is crawling around here.:
 A king crab| is crawling around in the sand here.:
@@ -835,6 +840,7 @@ A tall brown-skinned orc, with wide arms, examines you harshly.:
   trophy: A brown-skinned orc
 A small rat runs about, oblivious to your presence.:
   trophy: A young rat
+  level: 1
 A suspicious-looking hobbit smuggler is here.:
   trophy: A hobbit smuggler
   level: 5
@@ -952,6 +958,7 @@ A young filly| is just learning to walk:
 A wild mare| is watching you warily.:
 The small fierce-looking bat is hanging from the ceiling, obviously sleeping.:
   trophy: A small bat
+  level: 1
 A burly giant is here, covered with thick fur and snow.:
 A shepherd is standing here.:
 A loyal shepherd's dog is standing here.:
@@ -979,7 +986,7 @@ A black merlin| waves its wings menacingly.:
 A brown striated fungus hangs here, clinging to a tree trunk.:
   trophy: A brown fungus
 A bull| stands here, calmly looking around.:
-  level: 6?
+  level: 6
 A doorwarden stands here ready to obey his master's wishes.:
 A fisherhobbit is cruising the River in his reed boat, looking for fish.:
 A huge millipede is writhing around here.:
@@ -1144,6 +1151,18 @@ A rabid raccoon stands here, frothing at the mouth.:
 A very strong orkish patrol-leader is looking for enemies here.:
 A soldier of Rohan is here, guarding the tower.:
 A large black bat flitters near you.:
+  trophy: A black-furred bat
 A malevolent bat| hangs from the ceiling.:
 A bloodthirsty orc stands here, hell-bent on battle.:
   trophy: A bloodthirsty orc
+A swarthy, little bandit advances forward.:
+  trophy: A swarthy bandit
+  level: 6?
+An old, one-eyed black wolf is here, foraging for prey.:
+  trophy: A one-eyed old wolf
+  level: 6?
+An elk cow gazes coldly at you, chewing on a small branch.:
+  trophy: An elk cow
+  level: 5?
+The ruffian leader Scarred grins as he draws his sword.:
+  trophy: Scarred

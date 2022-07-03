@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 import sys, yaml
 
 roomdescs = {}
@@ -19,7 +19,7 @@ def makedesc(data):
                 o.append(str(data[k]))
     return ', '.join(o)
 
-for data in yaml.load(sys.stdin):
+for data in yaml.safe_load(sys.stdin):
     add(roomdescs, data, 'roomdesc')
     add(invdescs, data, 'invdesc')
 
@@ -29,7 +29,7 @@ def makesubs(h):
             desc = makedesc(v[0])
         if len(v)>1:
             desc = '; '.join(makedesc(d) for d in v)
-        print '#sub {^%s$} {%%0 [%s]}'%(k,desc)
+        print('#sub {^%s$} {%%0 [%s]}'%(k,desc))
 
 makesubs(roomdescs)
 makesubs(invdescs)

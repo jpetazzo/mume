@@ -1,6 +1,4 @@
-#alias {xinfo} {info %.mood %(%Y%) alert %(%R%) OB %(%O%) DB %(%D%) PB %(%k%) abs %(%A%) Wimpy %(%y%) %.%(%g%) gold, level %(%l%), %(%X%) xp / %(%%T%) tp needed %.%F %C %.HP %(%z%)/%Z Mana %(%e%)/%E Move %(%j%)/%J %.%f}
-#alias xi xinfo
-
+#nop;
 
 #nop Alt+Arrows
 
@@ -21,6 +19,14 @@
 #macro {\e\e[5$} {#echo {shift Up};shift up}
 #macro {\e\e[6$} {#echo {shift Down};shift down}
 
+#nop Also Alt+Arrows on some terminals?
+
+#macro {\e[1;3A} {#echo North;north}
+#macro {\e[1;3B} {#echo South;south}
+#macro {\e[1;3D} {#echo West;west}
+#macro {\e[1;3C} {#echo East;east}
+#macro {\e[5;3~} {#echo Up;up}
+#macro {\e[6;3~} {#echo Down;down}
 
 #nop UIOJKL (when arrows are not available)
 
@@ -31,7 +37,6 @@
 #macro {\eu} {#echo Up;up}
 #macro {\eo} {#echo Down;down}
 
-
 #nop Shift+UIOJKL (when arrows are not available)
 
 #macro {\eI} {#echo {shift North};shift north}
@@ -41,21 +46,26 @@
 #macro {\eU} {#echo {shift Up};shift up}
 #macro {\eO} {#echo {shift Down};shift down}
 
-
 #nop Combat
 
 #macro {\ea} {#echo assist;assist}
 #macro {\eb} {#echo BA(sh/ckstab);ba}
 #macro {\eB} {#echo {BA(sh/ckstab) x};ba x}
+#nop   {\ec} {available}
+#nop   {\ed} (used by ???)
 #macro {\ee} {#echo {open exit};open exit}
 #macro {\ef} {#echo flee;flee}
+#nop   {\eg} {available}
+#nop   {\eh} {available}
 #nop   {\ei} (used by alternate movement)
 #nop   {\ej} (used by alternate movement)
 #nop   {\ek} (used by alternate movement)
 #nop   {\el} (used by alternate movement)
 #macro {\em} {#echo lead;lead}
 #macro {\eM} {#echo ride;ride}
+#nop   {\en} {available}
 #nop   {\eo} (used by alternate movement)
+#nop   {\ep} {available}
 #macro {\eq} {#echo recover;recover}
 #macro {\eQ} {#echo {get all.arrow};get all.arrow;#echo {get all.arrow all.corpse};get all.arrow all.corpse;#echo {put all.arrow quiver};put all.arrow quiver}
 #macro {\er} {#echo rescue;rescue}
@@ -63,6 +73,8 @@
 #macro {\eS} {#echo {shoot x};shoot x}
 #macro {\et} {#echo {label x};label x}
 #nop   {\eu} (used by alternate movement)
-#macro {\ex} {#echo {kill x};kill x}
+#nop   {\ev} {available}
 #macro {\ew} {#echo wake;wake}
+#macro {\ex} {#echo {kill x};kill x}
+#nop   {\ey} {available}
 #macro {\ez} {#echo sleep;sleep}

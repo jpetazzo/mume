@@ -1,7 +1,32 @@
-#alias saa {sell all.leather;sell all.chain;sell all.metal;sell all.shield}
-#alias saw {sell all.pweapon;sell all.sweapon;sell all.cweapon;sell all.stweapon;sell all.tweapon;sell all.clweapon}
-#alias sac {sell all.pants;sell all.sleeves;sell all.shirt;sell all.hood}
-#alias sap {sell all.plant;sell all.root;sell all.leaves}
+#alias saa {
+  sell all.leather;
+  sell all.chain;
+  sell all.metal;
+  sell all.shield;
+}
+
+#alias saw {
+  sell all.cweapon;
+  sell all.clweapon;
+  sell all.pweapon;
+  sell all.sweapon;
+  sell all.stweapon;
+  sell all.tweapon;
+}
+
+#alias sac {
+  sell all.pants;
+  sell all.sleeves;
+  sell all.shirt;
+  sell all.hood;
+}
+
+#alias sap {
+  sell all.plant;
+  sell all.root;
+  sell all.leaves;
+}
+
 #alias sall {saa;saw;sac;sap}
 
 #alias {craw} {get pan backpack; get salt backpack; cook raw}

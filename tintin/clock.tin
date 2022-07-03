@@ -1,9 +1,11 @@
-#nop - This maintains an internal clock shown in the prompt.
+#nop;
 
-#nop - When we encounter a clock, automatically look at it.
-#action {^A huge clock is standing here.$} {look clock}
+/* This maintains an internal clock that can be shown in the prompt. */
 
-#nop - When we read the time from a clock, store it internally.
+/* When we encounter a clock, automatically look at it. */
+#action {{^A huge clock is standing here.$}} {look clock}
+
+/* When we read the time from a clock, store it internally. */
 #action {^The current time is %d:%d%D.$} {setmumetime %1 %2 %3}
 
 #variable {hour} {1}
@@ -22,21 +24,22 @@
 
 #ticker {second}
 {
-	#if {${minute} == 59}
-	{
-		#if {${hour} == 11}
-		{
-			#regex ${ampm} {am}
-			{ #variable {ampm} {pm} }
-			{ #variable {ampm} {am} }
-			#format {hour} {%m} {12}
-		} {
-			#if {${hour} == 12}
-			{ #format {hour} {%m} {1} }
-			{ #format {hour} {%m} {${hour} + 1} }
-		}
-		#format {minute} {%m} {0}
-	} { #format {minute} {%m} {${minute} + 1} }
+	#format {minute} {%m} {$minute+1};
+	#if {$minute > 59} {
+		#var minute 0;
+		#format {hour} {%m} {$hour+1};
+		#if {$hour > 12} {
+		  #var hour 1;
+		};
+		#if {$hour == 12} {
+      #if {$ampm == am} {#var ampm pm};
+      #else {#var ampm am};
+		};
+	};
 	#format {time} {%02d:%02d %s} {$hour} {$minute} {$ampm};
-	#if {$timeok} {#showme TIME:$time} {#nop}
+	#if {$timeok} {#showme TIME:$time}
 } 1
+
+#action {^The ferry has arrived at the quay and you can now board.} {#showme $time}
+#action {^The ferry moves slowly out of the dock} {#showme $time}
+#action {^The ferry pulls slowly into the dock} {#showme $time}

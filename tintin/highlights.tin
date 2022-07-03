@@ -3,33 +3,7 @@
 #highlight {^The sun rises in the east.$} {red reverse b white}
 #highlight {^The day has begun.$} {red reverse b white}
 
-
 #highlight {^You gain a level!$} {blue reverse b white}
-
-
-#nop highlight {R.I.P.} {bold yellow}
-#nop highlight {^%* has arrived from %*.$} {bold yellow}
-#nop highlight {^A%? %w has arrived from %*.$} {bold yellow}
-#nop highlight {^A%? %w %w has arrived from %*.$} {bold yellow}
-#nop highlight {^A%? %w %w %w has arrived from %*.$} {bold yellow}
-#nop highlight {^%* leaves %w.$} {bold magenta}
-#nop highlight {^A%? %w leaves %w.$} {bold magenta}
-#nop highlight {^A%? %w %w leaves %w.$} {bold magenta}
-#nop highlight {^A%? %w %w %w leaves %w.$} {bold magenta}
-
-#highlight {^You flee %*} {black b yellow}
-
-
-#nop HIGHLIGHT {^You hit %*} {bold green}
-#nop HIGHLIGHT {%* hits you%*} {bold red}
-#nop HIGHLIGHT {%* crushes you%*} {bold red}
-#nop HIGHLIGHT {%* smites you%*} {bold red}
-
-
-#highlight {extremely hard} {bold}
-#highlight {shatters} {bold}
-#highlight {shatter} {bold}
-
 
 #highlight {^You begin to feel hungry.$} {light red}
 #highlight {^You are hungry.$} {light red}
@@ -46,7 +20,6 @@
 #highlight {^You feel less protected.$} {red reverse b white}
 #highlight {^The dark aura around your banded ring returns. %*$} {red reverse b white}
 
-
 #highlight {^Orophin, %*$} {light blue}
 #highlight {^Rumil the Master Bard of Lothl%.rien} {light blue}
 #highlight {^Celebrindal, Lady of the Galadhrim, is before you%*$} {light blue}
@@ -58,7 +31,6 @@
 #highlight {^A tall and majestic oak tree grows here, surveying the lands about it.$} {light blue}
 #highlight {^A cowled sorcerer, in dark robes, gestures when he sees you.$} {light blue}
 #highlight {^A glint of metal in the mud catches your eye.$} {light blue}
-
 
 #highlight {^A dot in the sky approaches quickly and seems to be some sort of very large bird!$} {red reverse b white}
 #highlight {^A loud, aggressive shriek echoes through the skies!$} {red reverse b white}
@@ -73,4 +45,3 @@
 #highlight {^%* struggles for air as a great, dark spider weaves the last thread of a silky cocoon around %* body.$} {red reverse b white}
 #highlight {^You stagger for your balance as a great, dark spider wraps the sticky cords faster and faster around you!} {red reverse b white}
 #highlight {^You can't escape the spider's sticky grasp!} {red reverse b white}
-

@@ -340,4 +340,19 @@
 -
   name: __purplepetals_luhn
   description: A short plant, with lance-shaped leaves, waves its purple petals in the breeze.
+-
+  name: Ragwort
+  description: A long-stemmed plant that branches into many bright yellow flowers grows here.
+  inventory: a many-branched stem of bright yellow flowers
+  location: Marshy area south east of Tower Hills
+-
+  name: Hawkweed
+  description: A long-stemmed plant tipped with bright orange flowers is growing here.
+  inventory: a cluster of bright orange flowers
+  location: Hills south of Tower Hills
+-
+  name: Wood anemone
+  description: A very short plant with bright white flowers is growing here.
+  inventory: a bright white flower
+  location: Forest south east of Tower Hills
 

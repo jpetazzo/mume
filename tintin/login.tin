@@ -1,0 +1,7 @@
+#NOP
+
+#action {^By what name do you wish to be known\?}
+{
+  #echo {[TINTIN will auto-log you in one second using the information in file ".login".]};
+  #delay {1} {#textin .login};
+}

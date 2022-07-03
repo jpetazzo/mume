@@ -1,0 +1,30 @@
+#nop;
+
+#alias  {xpcounter_init} {info XPCOUNTER INIT, XP = %x, TNL = %X}
+#action {^Never forget! Try to role-play...$} {xpcounter_init}
+#action {^Reconnecting.$} {xpcounter_init}
+#action {^XPCOUNTER INIT, XP = %d, TNL = %d} {
+  #line gag;
+  #variable xpcounter_total %1;
+  #variable xpcounter_session %1;
+}
+
+#action {^With the task complete, you feel more accomplished.$} {xpcounter_update {A quest}}
+#action {^%1 is dead! R.I.P.$} {xpcounter_update {%1}}
+#action {^%1 disappears into nothing.$} {xpcounter_update {%1}}
+
+#alias {xpcounter_update} {
+  #variable xpcounter_lastmob {%1};
+  info XPCOUNTER UPDATE, XP = %x, TNL = %X, SESSION = %L;
+}
+
+#action {^XPCOUNTER UPDATE, XP = %d, TNL = %d, SESSION = %d} {
+  #line gag;
+  #math {xpcounter_lastgain} {%1 - $xpcounter_total};
+  #math {xpcounter_rate} {(%1 - $xpcounter_session) / %3};
+  #echo {$xpcounter_lastmob was worth $xpcounter_lastgain XP.};
+  #echo {Current rate: $xpcounter_rate XP/min; TNL: %2.};
+  #variable {xpcounter_total} {%1};
+}
+
+#action {^The perfect match!$} {#line gag;info The perfect match! [%l]}
