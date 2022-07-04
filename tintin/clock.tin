@@ -2,44 +2,40 @@
 
 /* This maintains an internal clock that can be shown in the prompt. */
 
+#variable {clock_hour} {1}
+#variable {clock_minute} {0}
+#variable {clock_ampm} {am}
+#variable {clock_ok} {0}
+
 /* When we encounter a clock, automatically look at it. */
 #action {{^A huge clock is standing here.$}} {look clock}
 
 /* When we read the time from a clock, store it internally. */
-#action {^The current time is %d:%d%D.$} {setmumetime %1 %2 %3}
-
-#variable {hour} {1}
-#variable {minute} {0}
-#variable {ampm} {am}
-#variable {timeok} {0}
-
-#alias {setmumetime}
-{
-	#nop showme {Old time: ${hour}:${minute} ${ampm}};
-	#variable {hour} {%1};
-	#variable {minute} {%2};
-	#variable {ampm} {%3};
-	#variable {timeok} {1}
+#action {^The current time is %d:%d %D.$} {
+	#variable {clock_hour} {%1};
+	#variable {clock_minute} {%2};
+	#variable {clock_ampm} {%3};
+	#variable {clock_ok} {1}
 }
 
-#ticker {second}
+#ticker {clock}
 {
-	#format {minute} {%m} {$minute+1};
-	#if {$minute > 59} {
-		#var minute 0;
-		#format {hour} {%m} {$hour+1};
-		#if {$hour > 12} {
-		  #var hour 1;
+	#format {clock_minute} {%m} {$clock_minute+1};
+	#if {$clock_minute > 59} {
+		#var clock_minute 0;
+		#format {clock_hour} {%m} {$clock_hour+1};
+		#if {$clock_hour > 12} {
+		  #var clock_hour 1;
 		};
-		#if {$hour == 12} {
-      #if {$ampm == am} {#var ampm pm};
-      #else {#var ampm am};
+		#if {$clock_hour == 12} {
+      #if {"$clock_ampm" == "am"} {#var clock_ampm pm};
+      #else {#var clock_ampm am};
 		};
 	};
-	#format {time} {%02d:%02d %s} {$hour} {$minute} {$ampm};
-	#if {$timeok} {#showme TIME:$time}
+	#format {clock_time} {%02d:%02d %s} {$clock_hour} {$clock_minute} {$clock_ampm};
+	#if {$clock_ok} {#show {$clock_time} {1} {4}}
 } 1
 
-#action {^The ferry has arrived at the quay and you can now board.} {#showme $time}
-#action {^The ferry moves slowly out of the dock} {#showme $time}
-#action {^The ferry pulls slowly into the dock} {#showme $time}
+#action {^The ferry has arrived at the quay and you can now board.} {#showme $clock_time}
+#action {^The ferry moves slowly out of the dock} {#showme $clock_time}
+#action {^The ferry pulls slowly into the dock} {#showme $clock_time}

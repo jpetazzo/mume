@@ -129,6 +129,7 @@
 #sub {^The embodied shape of a linden tree stands shiftlessly here.$} {%0 [???] }
 #sub {^A solid, but stunted, rowan tree has established itself here.$} {%0 [???] }
 #sub {^A wild bull seems ready to charge you.$} {%0 [7?] }
+#sub {^Janice the guide is here, eager to guide visitors.$} {%0 [7] }
 #sub {^A subterranean lizard is here trying to blend with the surroundings.$} {%0 [14-] }
 #sub {^A dark-haired warrior is here, trying to fulfil his murky tasks.$} {%0 [14-] }
 #sub {^A slim elven ranger casts her gaze over the forest.$} {%0 [15?] }

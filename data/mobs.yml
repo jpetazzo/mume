@@ -25,6 +25,7 @@
 # A stone troll| is here, dreaming about hobbit meat.:
 A giant rat| patters against you, squeaking maliciously.:
   flags: quest
+  level: 4?
 A thief| lurks here, looking for a stranger to rob.:
 A thief| is here looking for some stranger to rob.:
 A brigand, looking at your nice purse, is sneaking here.:
@@ -196,6 +197,7 @@ An evil priest| is here chanting and praying to some foul entity.:
 An elven lady is walking around here.:
 A coloured game bird is visible in the vegetation, watching you warily.:
   trophy: A pheasant
+  level: 1
 A blue dragonfly is circling around.:
 A ferocious warg| is here, snarling angrily.:
   level: 8
@@ -652,6 +654,7 @@ A water moccasin| slithers out of sight just below the surface of the water.:
 A black alder looms threateningly over its surroundings.:
 A field mouse noses about hungrily, searching for food.:
   trophy: A field mouse
+  level: 1
 A small boar with big yellow tusks looks eager to fight.:
   trophy: A tusky boar
   level: 6
@@ -1166,3 +1169,5 @@ An elk cow gazes coldly at you, chewing on a small branch.:
   level: 5?
 The ruffian leader Scarred grins as he draws his sword.:
   trophy: Scarred
+Janice the guide is here, eager to guide visitors.:
+  level: 7

@@ -1,0 +1,32 @@
+#nop;
+
+#var {timers} {}
+#ticker {timers_line} {
+  #var {timers_line} {};
+  #format {timers_now} {%T};
+  #foreach {*timers[]} {timers_name} {
+    #if {$timers[$timers_name][stop] > 0} #var {timers_value} {DOWN};
+    #else #format {timers_value} {%m} {$timers_now - $timers[$timers_name][start]};
+    #var {timers_line} {$timers_line──$timers_name:$timers_value──};
+  };
+  #show {$timers_line} {1} {13};
+} {1}
+
+#alias {timers_start} {
+  #format {timers[%1][start]} {%T};
+  #format {timers[%1][stop]} {};
+}
+
+#alias {timers_stop} {
+  #format {timers[%1][stop]} {%T};
+  #format {timers[%1][duration]} {%m} {$timers[%1][stop] - $timers[%1][start]};
+  #echo {%1 lasted $timers[%1][duration] seconds.};
+}
+
+#action {^A blue transparent wall slowly appears around you.$} {timers_start Armour}
+#action {^Your magic armour is revitalised.$} {timers_start Armour}
+#action {^You feel less protected.$} {timers_stop Armour}
+
+#action {^You begin to feel the light of Aman shine upon you.$} {timers_start Bless}
+#action {^You feel a renewed light shine upon you.$} {timers_start Bless}
+#action {^The light of Aman fades away from you.$} {timers_stop Bless}

@@ -22,9 +22,10 @@
 }
 
 #alias sap {
+  sell all.flowers;
+  sell all.leaves;
   sell all.plant;
   sell all.root;
-  sell all.leaves;
 }
 
 #alias sall {saa;saw;sac;sap}

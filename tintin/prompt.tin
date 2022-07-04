@@ -1,14 +1,12 @@
 #nop;
 
-#split
+#split 1 1
 
 #var {prompt_main} {>}
 #var {prompt_twid} {}
-#var {prompt_time} {??:?? ??}
 
 #prompt {{^[^ ].*>$}} {@prompt_main{%0}} -1
 #prompt {{^[-|/\\]$}} {@prompt_twid{%0}} -1
-#prompt {^TIME:%+$} {@prompt_time{%1}} -1
 
 #function {prompt_main} {
   #var {prompt_main} {%1};
@@ -17,17 +15,16 @@
 }
 
 #function {prompt_twid} {
-  #var {prompt_twid} {%1};
+  #format {prompt_twid} {%-2s} {%1};
   #return @prompt_full{}
 }
 
-#function {prompt_time} {
-  #var {prompt_time} {%1};
-  #return @prompt_full{}
-}
-
+/* 
+ * The ANSI escape sequence "\e[2K" clears the line.
+ * This is useful when the prompt is redrawn and replaced by a shorter prompt.
+ */
 #function {prompt_full} {
-  #format {result} {%-8s %-1s %s } {$prompt_time} {$prompt_twid} {$prompt_main}
+  #return {\e[2K$prompt_twid$prompt_main }
 }
 
 /* Try to get rid of consecutive blank lines. */

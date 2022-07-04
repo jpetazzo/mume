@@ -7,6 +7,7 @@
 #read tintin/months.tin
 #read tintin/path.tin
 #read tintin/prompt.tin
+#read tintin/timers.tin
 #read tintin/xpcounter.tin
 
 #read tintin/data-keys.tin

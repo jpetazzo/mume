@@ -4,7 +4,7 @@
 
 #action {^The tanner gives you a wolfskin wristband.$} {give fur tanner}
 
-#NOP this will add exits reported by MMapper to the tab-completion list.
+/* this will add exits reported by MMapper to the tab-completion list. */
 #action { n:{[a-z]+}} {#tab %1}
 #action { s:{[a-z]+}} {#tab %1}
 #action { e:{[a-z]+}} {#tab %1}
